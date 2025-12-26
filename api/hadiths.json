@@ -1,0 +1,442 @@
+{
+  "collection": {
+    "name": "Nawawi's Forty Hadith",
+    "compiler": "Imam al-Nawawi (Abū Zakariyyā Yaḥyā bin Sharaf al-Nawawī)",
+    "website": "Nawawis40Hadith.Com",
+    "copyright": "© 1999-2025 Salaf.Com",
+    "total_hadiths": 42
+  },
+  "hadiths": [
+    {
+      "hadith_number": 1,
+      "title": "Actions Are By Intention",
+      "narrator": "ʿUmar bin al-Khaṭṭāb",
+      "source": "al-Bukhārī, Muslim",
+      "arabic_text": "عن أميرِ المؤمنينَ [أبي حفصٍ عمرَ بنِ الخطَّابِ] رَضِي اللهُ عَنْهُ قالَ: سَمِعْتُ رسولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يقولُ: \"إِنَّمَا الأَعْمَالُ بالنِّيَّاتِ وإِنَّمَا لِكُلِّ امْرِئٍ ما نَوَى، فَمَنْ كَانَتْ هِجْرَتُهُ إِلَى اللهِ وَرَسُولِهِ فَهِجْرَتُهُ إِلَى اللهِ وَرَسُولِهِ، وَمَنْ كَانَتْ هِجْرَتُهُ لِدُنْيَا يُصِيبُهَا أَو امْرَأَةٍ يَنْكِحُهَا فَهِجْرَتُهُ إِلَى مَا هَاجَرَ إِلَيْهِ\".",
+      "english_translation": "From the Chief of the Believers, Abī Hafṣ ʿUmar bin al-Khaṭṭāb (raḍiyallāhu anhu) who said: I heard the Messenger of Allaah (ṣallallāhu ʿalayhi wasallam) saying: 'Verily actions are based upon the intentions (behind them) and every man shall have (in accordance) with what he intended. Thus, he whose migration was (for the sake of) Allāh and His Messenger, then his migration was indeed for Allāh and His Messenger. And he whose migration was to attain a portion of the world or to take some woman in marriage, then his migration was for that for which he migrated.'",
+      "description": "This is one of the ḥadīths upon which the whole of Islām revolves. Imām Aḥmad and Imām al-Shāfiʿī said: 'One third of all knowledge enters into the ḥadīth, Actions are but by intentions.' The hadith emphasizes that actions are judged according to intentions, and every person will have what they intended.",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_01.mp3"
+    },
+    {
+      "hadith_number": 2,
+      "title": "The Levels of the Religion",
+      "narrator": "ʿUmar bin al-Khaṭṭāb",
+      "source": "Muslim",
+      "arabic_text": "عن [عُمرَ] رَضِي اللهُ عَنْهُ أيضاً قالَ: (بَينَما نَحْنُ جُلُوسٌ عِنْدَ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ ذاتَ يَوْمٍ إذْ طلَعَ عَلَيْنا رَجُلٌ شَديدُ بَيَاضِ الثِّيابِ، شَديدُ سَوادِ الشَّعْرِ، لا يُرَى عَلَيْهِ أَثَرُ السَّفَرِ، وَلا يَعْرِفُهُ مِنَّا أَحَدٌ، حتَّى جَلَسَ إلى النَّبيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فَأَسْنَدَ رُكْبَتَيْهِ إِلى رُكْبَتَيْهِ، وَوَضَعَ كَفَّيْهِ على فَخِذَيْهِ؛ قالَ: يا محمَّدُ، أَخْبِرْنِي عَنِ الإسْلامِ. فَقالَ messenger of Allah said, 'Islām is to bear witness that none has the right to be worshipped but Allāh and Muḥammad is the Messenger of Allāh, to establish the prayer, to pay the zakāh, to fast in Ramaḍān and to make pilgrimage to the House if you are able to do so.' He said, 'You have spoken truthfully.' He said, 'Then inform me about īmān.' He said, 'Īmān is to believe in Allāh, His Angels, His Books, His Messengers, the Last Day, and to believe in the Divine Decree.' He said, 'You have spoken truthfully.' He said, 'Then tell me about īḥsān.' He said, 'It is to worship Allāh as if you can see Him, and even though you cannot see Him, He most certainly sees you.' He said, 'Then inform me of the Hour.' He said, 'The one being questioned about it is no more knowledgeable of it than the questioner.' He said, 'Then inform me of its signs.' He said, 'That the slave-girl will give birth to her own mistress and that you will see the barefooted, naked, destitute herdsmen competing in constructing lofty buildings.' Then the man left and I stayed for a while. Then he said, 'O ʿUmar, do you know who the questioner was?' I said, 'Allāh and His Messenger know best.' He said, 'That was Jibrīl, he came to teach you your religion.'",
+      "english_translation": "From ʿUmar (raḍiyallāhu anhu) who said: 'Whilst we were sitting with the Messenger of Allāh one day, there came upon us a man whose clothes were intensely white and whose hair was intensely black. No sign of journey was visible on him and none of us knew him. He came and sat down by the Prophet, placing his knees by his knees and placed his hands on his thighs. He said, O Muḥammad, inform me about Islām.' The Messenger of Allāh said, 'Islām is to bear witness that none has the right to be worshipped but Allāh and Muḥammad is the Messenger of Allāh, to establish the prayer, to pay the zakāh, to fast in Ramaḍān and to make pilgrimage to the House if you are able to do so.' He said, 'You have spoken truthfully.' He said, 'Then inform me about īmān.' He said, 'Īmān is to believe in Allāh, His Angels, His Books, His Messengers, the Last Day, and to believe in the Divine Decree.' He said, 'You have spoken truthfully.' He said, 'Then tell me about īḥsān.' He said, 'It is to worship Allāh as if you can see Him, and even though you cannot see Him, He most certainly sees you.' He said, 'Then inform me of the Hour.' He said, 'The one being questioned about it is no more knowledgeable of it than the questioner.' He said, 'Then inform me of its signs.' He said, 'That the slave-girl will give birth to her own mistress and that you will see the barefooted, naked, destitute herdsmen competing in constructing lofty buildings.' Then the man left and I stayed for a while. Then he said, 'O ʿUmar, do you know who the questioner was?' I said, 'Allāh and His Messenger know best.' He said, 'That was Jibrīl, he came to teach you your religion.'",
+      "description": "This mighty ḥadīth is also called 'the Mother of the Sunnah'. It contains an explanation of the pillars of Islām, the pillars of Īmān, īḥsān, and some signs of the Hour. The religion has levels: Islām (outward submission), Īmān (inward faith), and Īḥsān (excellence in worship).",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_02.mp3"
+    },
+    {
+      "hadith_number": 3,
+      "title": "The Five Pillars of Islām",
+      "narrator": "ʿAbd Allāh bin ʿUmar",
+      "source": "al-Bukhārī, Muslim",
+      "arabic_text": "عنْ [أبي عبدِ الرَّحْمَنِ عبدِ اللهِ بنِ عُمرَ بنِ الخطَّابِ] رَضِي اللهُ عَنْهُما قالَ: (سَمِعْتُ رسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَقُولُ:\" بُنِيَ الإِسْلاَمُ عَلَى خَمْسٍ: شَهَادَةِ أَنْ لاَ إِلَهَ إِلاَّ اللهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللهِ، وَإِقامِ الصَّلاَةِ، وإِيتَاءِ الزَّكَاةِ، وَحَجِّ البَيْتِ، وَصَوْمِ رَمَضَانَ\").",
+      "english_translation": "From Abū ʿAbd al-Raḥmān ʿAbd Allāh bin ʿUmar bin al-Khaṭṭāb (raḍiyallāhu anhumā) who said: I heard the Messenger of Allāh (ṣallallāhu ʿalayhi wasallam) saying, 'Islām is built upon five (pillars): The testimony that none has the right to be worshipped (in truth) but Allāh and that Muḥammad is the Messenger of Allāh, establishing the (daily) prayer(s), giving the zakāh, pilgrimage to the house and fasting in Ramaḍān.'",
+      "description": "This Hadith outlines the five fundamental pillars of Islam, which are the foundation of the religion. It was narrated by Ibn ʿUmar and recorded by both al-Bukhārī and Muslim.",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_03.mp3"
+    },
+    {
+      "hadith_number": 4,
+      "title": "The Stages of Creation",
+      "narrator": "ʿAbd Allāh bin Masʿūd",
+      "source": "al-Bukhārī, Muslim",
+      "arabic_text": "عنْ [أبي عبدِ الرَّحْمنِ عبدِ اللهِ بنِ مسعودٍ] رَضِي اللهُ عَنْهُ قالَ: (حدَّثنا رسولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، وهو الصَّادِقُ المصْدُوقُ: \"إِنَّ أَحَدَكُمْ يُجْمَعُ خَلْقُهُ فِي بَطْنِ أُمِّهِ أَرْبَعِينَ يَوْمًا نُطْفَةً، ثُمَّ يَكُونُ عَلَقَةً مِثْلَ ذلِكَ، ثُمَّ يَكُونُ مُضْغَةً مِثْلَ ذلِكَ، ثمَّ يُرْسَلُ إلَيْهِ الْمَلَكُ فَيَنْفُخُ فيهِ الرُّوحَ، وَيُؤمَرُ بأرْبَعِ كَلِمَاتٍ: بِكَتْبِ رِزْقِهِ وَأَجَلِهِ وَعَمَلِهِ وَشَقِيٌّ أوْ سَعِيدٌ. فَوَاللهِ الَّذِي لاَ إِلَهَ غَيْرُهُ، إِنَّ أَحَدَكُمْ لَيَعْمَلُ بِعَمَلِ أَهْلِ الْجَنَّةِ حَتَّى مَا يَكُونَ بَيْنَهُ وَبَيْنَهَا إِلاَّ ذِرَاعٌ، فَيَسْبِقُ عَلَيْهِ الْكِتَابُ، فَيَعْمَلَ بِعَمَلِ أَهْلِ النَّارِ فيَدْخُلَهَا، وَإِنَّ أَحَدَكُمْ لَيَعْمَلُ بِعَمَلِ أهْلِ النَّارِ حَتَّى مَا يَكُونَ بَيْنَهُ وَبَيْنَهَا إِلاَّ ذِرَاعٌ، فيَسْبِقُ عَلَيْهِ الْكِتَابُ، فَيَعْمَلَ بِعَمَلِ أَهْلِ الْجَنَّةِ فَيَدْخُلَهَا\").",
+      "english_translation": "From Abū ʿAbd al-Raḥmān, ʿAbd Allāh bin Masʿūd (raḍiyallāhu ʿanhu) who said: The Messenger of Allāh (ṣallallāhu alayhi wasallam) narrated to us, and he is the truthful, the believed, 'Verily, the creation of one of you is brought together in his mother's womb over forty days as a nuṭfah, then he is an ʿalaqah for a like period. Then he is a muḍghah for a like period. Then an angel is sent to it and it breathes the spirit into it and is commanded with four words: the writing of its sustenance, its lifespan, its deeds, and whether happy or wretched (in the Hereafter). By Allāh besides whom there is none worthy of worship, one of you works the deeds of the people of Paradise until there does not remain between him and it but an arm's length and then (what is written in) the Book overtakes him and he does the deeds of the people of the Fire and thus enters it.'",
+      "description": "This Hadith describes the stages of human development in the womb and emphasizes the divine decree of a person's sustenance, lifespan, deeds, and ultimate destiny. It highlights that one's final destination depends on what has been written in the Book of Decrees.",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_04.mp3"
+    },
+    {
+      "hadith_number": 5,
+      "title": "Censure of Innovation",
+      "narrator": "ʿĀʾishah",
+      "source": "al-Bukhārī, Muslim",
+      "arabic_text": "عَنْ أمِّ المُؤمِنينَ [أمِّ عبْدِ اللهِ عائشةَ] رَضِي اللهُ عَنْهَا قالَتْ: (قالَ messenger of Allah صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: \"مَنْ أَحْدَثَ فِي أَمْرِنَا هَذَا مَا لَيْسَ مِنْهُ فَهُوَ رَدٌّ\". رواه البخاريُّ ومسلمٌ. وفي روايةٍ لمسلمٍ: \"مَنْ عَمِلَ عَمَلاً لَيْسَ عَلَيهِ أَمْرُنَا فَهُوَ رَدٌّ\").",
+      "english_translation": "From the Mother of the Believers, Umm ʿAbd Allāh ʿĀʾishah (raḍiyallāhu ʿanhā) who said: The Messenger of Allāh (ṣallallāhu alayhi wasallam) said, 'Whoever introduces something into this affair of ours that is not from it will have it rejected.' And in the narration of Muslim, 'Whoever does an action that is not from our affair will have it rejected.'",
+      "description": "This Hadith emphasizes the rejection of any new practice or action introduced into the religion of Islam that is not originally part of it. It highlights that actions not conforming to the teachings of Islam will be deemed invalid.",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_05.mp3"
+    },
+    {
+      "hadith_number": 6,
+      "title": "The Doubtful Matters",
+      "narrator": "al-Nuʿmān bin Bashīr",
+      "source": "al-Bukhārī, Muslim",
+      "arabic_text": "عن [أبي عبدِ اللهِ النُّعمانِ بنِ بَشيرٍ] رَضِي اللهُ عَنْهُما قالَ: (سَمِعْتُ messenger of Allah صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يقولُ: \"إنَّ الحَلاَلَ بَيِّنٌ وَإِنَّ الْحَرَامَ بَيِّنٌ، وَبَيْنَهُما أُمُورٌ مُشْتَبِهَاتٌ لاَ يَعْلَمُهُنَّ كَثِيرٌ مِنَ النَّاسِ، فَمَنِ اتَّقَى الشُّبُهَاتِ فَقَدِ اسْتَبْرَأَ لِدِينِهِ وعِرْضِهِ، ومَنْ وَقَعَ فِي الشُّبُهَاتِ وَقَعَ فِي الْحَرَامِ، كَالرَّاعِي يَرْعَى حَوْلَ الْحِمَى يُوشِكُ أَنْ يَرْتَعَ فِيهِ، أَلاَ وَإِنَّ لِكُلِّ مَلِكٍ حِمًى، أَلاَ وإِنَّ حِمَى اللهِ مَحَارِمُـهُ، أَلاَ وَإِنَّ فِي الْجَسَدِ مُضْغَةً إِذَا صَلَحَتْ صَلَحَ الْجَسَدُ كُلُّهُ، وَإِذَا فَسَدَتْ فَسَدَ الْجَسَدُ كُلُّهُ، أَلاَ وهِيَ الْقَلْبُ\").",
+      "english_translation": "From Abū ʿAbd Allāh al-Nuʿmān bin Bashīr (raḍiyallāhu ʿanhumā) who said: I heard the Messenger of Allāh (ṣallallāhu alayhi wasallam) saying, 'That which is lawful is clear and that which is unlawful is clear and between the two are ambiguous matters which many people do not know of. So whoever took caution regarding the ambiguous matters has absolved himself regarding his religion and his honour. And whoever fell into the doubtful matters has fallen into the unlawful, just like the shepherd who grazes his flock around the sanctuary (of a king), all but grazing therein. Indeed, every king has a sanctuary (that cannot be violated) and indeed the sanctuary of Allāh is his prohibitions. Indeed, there is a morsel of flesh in the body which if it is sound the whole body is sound and which if it is corrupt the whole body is corrupt. Indeed, it is the heart.'",
+      "description": "This Hadith discusses the importance of avoiding doubtful matters and clarifies that lawful and unlawful matters are clear, but between them are ambiguous issues. It emphasizes that whoever avoids doubtful matters has protected their religion and honor, and uses the analogy of the heart being the core of a person's spiritual well-being.",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_06.mp3"
+    },
+    {
+      "hadith_number": 7,
+      "title": "Sincerity of Purpose",
+      "narrator": "Tamīm al-Dārī",
+      "source": "Muslim",
+      "arabic_text": "عن [أبي رُقَيَّةَ تَميمِ بنِ أوْسٍ الدَّاريِّ] رَضِي اللهُ عَنْهُ أنَّ النَّبيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قالَ: \"الدِّينُ النَّصِيحَةُ\". قُلْنَا: لِمَنْ؟ قالَ: \"للهِ وَلِكِتَابِهِ وَلِرَسُولِهِ وَلأَِئِمَّةِ الْمُسْلِمِينَ وَعَامَّتِهِمْ\".",
+      "english_translation": "From Abū Ruqayyah Tamīm bin Aws al-Dārī (raḍiyallāhu ʿanhum) who said that the Prophet (ṣallallāhu ʿalayhi wasallam) said, 'The religion is sincerity of purpose.' We said, 'To whom?' He said, 'To Allāh, His Book, His Messenger, the leaders of the Muslims and their general folk.'",
+      "description": "This Hadith emphasizes the central role of 'Nasiha' (sincerity or sincere advice) in Islam, specifying its recipients: Allah, His Book, His Messenger, the Muslim leaders, and the general Muslim populace.",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_07.mp3"
+    },
+    {
+      "hadith_number": 8,
+      "title": "The Inviolability of a Muslim",
+      "narrator": "ʿAbd Allāh bin ʿUmar",
+      "source": "al-Bukhārī, Muslim",
+      "arabic_text": "عن [ابنِ عُمَرَ] رَضِي اللهُ عَنْهُما أنَّ messenger of Allah صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قالَ: \"أُمِرْتُ أَنْ أُقَاتِلَ النَّاسَ حَتَّى يَشْهَدُوا أَنْ لاَ إِلَهَ إِلاَّ اللهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللهِ، وَيُقِيمُوا الصَّلاَةَ، وَيُؤْتُوا الزَّكَاةَ، فَإِذَا فَعَلُوا ذَلِكَ عَصَمُوا مِنِّي دِمَاءَهُمْ وَأَمْوَالَهُمْ إِلاَّ بِحَقِّ الإِسْلامِ، وَحِسَابُهُمْ عَلَى اللهِ تَعَالَى\".",
+      "english_translation": "From Ibn ʿUmar (raḍiyallāhu ʿanhumā) who said that the Messenger of Allāh (ṣallallāhu ʿalayhi wasallam) said, 'I have been ordered to fight the people until they testify that none has the right to be worshipped (in truth) but Allāh and that Muḥammad is the Messenger of Allāh, and (until) they establish the prayer and give the zakāh. So if they do that, their blood and wealth is safeguarded from me, unless it pertains to a right of Islām, and their reckoning is with Allāh.'",
+      "description": "This Hadith discusses the fundamental conditions for the protection of a person's life and wealth in Islam, namely bearing witness to the Oneness of God and the prophethood of Muhammad, establishing prayer, and giving zakah (charity).",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_08.mp3"
+    },
+    {
+      "hadith_number": 9,
+      "title": "Too Much Questioning",
+      "narrator": "Abū Hurayrah",
+      "source": "al-Bukhārī, Muslim",
+      "arabic_text": "عَن [أبي هُريرةَ عَبدِ الرَّحْمَنِ بنِ صَخْرٍ] رَضِي اللهُ عَنْهُ قالَ: (سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يقولُ: \"مَا نَهَيْتُكُمْ عَنْهُ فَاجْتَنِبُوهُ، وَمَا أَمَرْتُكُمْ بِهِ فَأْتُوا مِنْهُ مَا اسْتَطَعْتُمْ، فَإِنَّمَا أَهْلَكَ الَّذِينَ مِنْ قَبْلِكُمْ كَثْرَةُ مَسَائِلِهِمْ وَاخْتِلاَفُهُمْ عَلَى أَنْبِيَائِهِمْ\").",
+      "english_translation": "From Abū Hurayrah ʿAbd al-Raḥmān bin Ṣakhr (raḍiyallāhu ʿanhu) who said: I heard the Messenger of Allāh (ṣallallāhu ʿalayhi wasallam) saying, 'What I have forbidden you from then avoid it all, and whatever I have ordered you with then act upon as much of it as you are able, for verily, that which destroyed those who came before you was their abundant questioning and differing with their Prophets.'",
+      "description": "This Hadith warns against excessive questioning and differing with prophets, drawing a lesson from the mistakes of previous nations. It emphasizes avoiding prohibitions entirely and fulfilling commands to the best of one's ability.",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_09.mp3"
+    },
+    {
+      "hadith_number": 10,
+      "title": "The Answered Supplication",
+      "narrator": "Abū Hurayrah",
+      "source": "Muslim",
+      "arabic_text": "عن [أبي هريرةَ] رَضِي اللهُ عَنْهُ قالَ: (قالَ messenger of Allah صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: \"إِنَّ اللهَ تَعَالَى طَيِّبٌ لاَ يَقْبَلُ إِلاَّ طَيِّبًا، وإِنَّ اللهَ أَمَرَ الْمُؤْمِنِينَ بِمَا أَمَرَ بِهِ الْمُرْسَلِينَ، فَقَالَ تَعَالَى: <<يَأَيُّهَا الرُّسُلُ كُلُواْ مِنَ الطَّيِّبَاتِ وَاعْمَلُوا صَالِحًا>>، وَقَالَ تَعَالَى: <<يَأَيُّهَا الَّذِينَ آمَنُوا كُلُوا مِنْ طَيِّبَاتِ مَا رَزَقْنَاكُمْ>>. ثُمَّ ذَكَرَ الرَّجُلَ يُطِيلُ السَّفَرَ أَشْعَثَ أَغْبَرَ، يَمُدُّ يَدَيْهِ إِلَى السَّماءِ يا رَبُّ.. يا رَبُّ، وَمَطْعَمُهُ حَرَامٌ، وَمَشْرَبُهُ حَرَامِ، وَمَلْبَسُهُ حَرَامٌ، وَغُذِّيَ بِالْحَرَامَ، فَأَنَّى يُسْتَجَابُ لَهُ؟\").",
+      "english_translation": "From Abū Hurayrah (raḍiyallāhu ʿanhu) who said: The Messenger of Allāh (ṣallallāhu ʿalayhi wasallam) said, 'Verily Allāh is tayyib (good, pure) and does not accept but that which is ṭayyib, and Allāh commanded the Believers that which He commanded the Messengers, so He, the Exalted said, 'O Messengers, eat of the good and wholesome and work righteous deeds', and the Exalted said, 'O you who believe, eat of the good and wholesome things we have provided you with.' Then he mentioned (the case) of a man on a long journey with dishevelled hair, covered with dust, raising his hands to the sky, (saying), 'O Lord, O Lord...' yet his food is (from and with the) unlawful, his drink is (from and with the) unlawful, his clothing is (from and with) the unlawful and his nourishment is (from and with) the unlawful, so how will he be answered?'",
+      "description": "This Hadith emphasizes that Allah only accepts good and pure things, and warns that prayers of those who consume unlawful (harām) earnings will not be answered. It highlights the importance of consuming only halal (lawful) sustenance.",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_10.mp3"
+    },
+    {
+      "hadith_number": 11,
+      "title": "Leaving Doubt",
+      "narrator": "al-Ḥasan bin ʿAlī bin Abī Ṭālib",
+      "source": "Tirmidhī, al-Nasāʾī",
+      "arabic_text": "عن [أبي مُحَمَّدٍ الْحَسَنِ بنِ عليِّ بنِ أبي طالِبٍ]، سِبْطِ messenger of Allah صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ ورَيْحانَتِهِ رَضِي اللهُ عَنْهُما قالَ: (حَفِظْتُ مِنْ messenger of Allah صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: \"دَعْ مَا يَرِيبُكَ إِلَى مَا لاَ يَرِيبُكَ\").",
+      "english_translation": "From Abū Muḥammad al-Ḥasan bin ʿAlī bin Abī Ṭālib, the grandson of the Messenger of Allāh (ṣallallāhu ʿalayhi wasallam) and his sweet fragrance (raḍiyallāhu ʿanhu) who said: I memorized from the Messenger of Allāh (ṣallallāhu ʿalayhi wasallam), 'Leave that which makes you doubt for that which does not make you doubt.'",
+      "description": "This Hadith advises to abandon anything that causes suspicion or uncertainty for that which is clear and certain. It was narrated by al-Ḥasan bin ʿAlī and classified as ḥasan saḥīḥ by Tirmidhī.",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_11.mp3"
+    },
+    {
+      "hadith_number": 12,
+      "title": "Interest in the Beneficial",
+      "narrator": "Abū Hurayrah",
+      "source": "Tirmidhī",
+      "arabic_text": "عن [أبي هريرةَ] رَضِي اللهُ عَنْهُ قالَ: (قالَ messenger of Allah صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: \"مِنْ حُسْنِ إِسْلاَمِ الْمَرْءِ تَرْكُهُ مَا لاَ يَعْنِيهُ\").",
+      "english_translation": "From Abū Hurayrah (raḍiyallāhu ʿanhu) who said: The Messenger of Allāh (ṣallallāhu ʿalayhi wasallam) said, 'From the excellence of a man's Islām is his abandonment of that which does not concern him.'",
+      "description": "This Hadith states that a sign of the excellence of a person's Islam is their abandonment of what does not concern them. It is classified as a ḥasan (good) hadith.",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_12.mp3"
+    },
+    {
+      "hadith_number": 13,
+      "title": "From the Perfection of Īmān",
+      "narrator": "Anas bin Mālik",
+      "source": "al-Bukhārī, Muslim",
+      "arabic_text": "عن أبي حمزةَ أنسِ بنِ مالكٍ رَضِي اللهُ عَنْهُ خادمِ messenger of Allah صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عن النَّبيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قالَ: \"لاَ يُؤْمِنُ أَحَدُكُمْ حَتَّى يُحِبَّ لأَِخِيهِ مَا يُحِبُّ لِنَفْسِهِ\".",
+      "english_translation": "From Abū Ḥamzah Anas bin Mālik (raḍiyallāhu ʿanhu), the servant of the Messenger of Allāh (ṣallallāhu ʿalayhi wasallam), from the Prophet (ṣallallāhu ʿalayhi wasallam), that he said, 'None of you truly believes until he loves for his brother what he loves for himself.'",
+      "description": "This Hadith emphasizes a fundamental principle of Islamic faith: that a believer does not truly believe until they desire for their brother (in humanity and faith) what they desire for themselves. It is a cornerstone of mutual love, empathy, and brotherhood in Islam.",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_13.mp3"
+    },
+    {
+      "hadith_number": 14,
+      "title": "Sanctity of a Muslim's Life",
+      "narrator": "ʿAbd Allāh bin Masʿūd",
+      "source": "al-Bukhārī, Muslim",
+      "arabic_text": "عنْ [ابنِ مسعودٍ] رَضِي اللهُ عَنْهُ قالَ: (قالَ messenger of Allah صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: \"لاَ يَحِلُّ دَمُ امْرِئٍ مُسْلِمٍ إِلاَّ بِإِحْدَى ثَلاَثٍ: الثَّيِّبِ الزَّانِي، وَالنَّفْسِ بِالنَّفْسِ، وَالتَّارِكِ لِدِينِهِ الْمُفَارِقِ لِلْجَمَاعَةِ\").",
+      "english_translation": "From Ibn Masʿūd (raḍiyallāhu ʿanhu) who said: The Messenger of Allāh (ṣallallāhu ʿalayhi wasallam) said, 'The blood of a Muslim who testifies none has the right to be worshipped (in truth) but Allāh and that I am the Messenger of Allāh is not taken lawfully except in one of three: The adulterer, a life for life and the one who abandons his religion and separates from the jamāʿah (of the Muslims).'",
+      "description": "This Hadith discusses the sanctity of a Muslim's life and outlines the three conditions under which taking a Muslim's life is lawful: for the married adulterer, qisas (retaliation), and for the one who abandons his religion and separates from the community.",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_14.mp3"
+    },
+    {
+      "hadith_number": 15,
+      "title": "Honouring the Guest",
+      "narrator": "Abū Hurayrah",
+      "source": "al-Bukhārī, Muslim",
+      "arabic_text": "عن [أبي هُريرةَ] رَضِي اللهُ عَنْهُ، أنَّ messenger of Allah صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قالَ: \"مَنْ كَانَ يُؤْمِنُ بِاللهِ وَالْيَوْمِ الآخِرِ فَلْيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ، وَمَنْ كَانَ يُؤْمِنُ بِاللهِ وَالْيَوْمِ الآخِرِ فَلْيُكْرِمْ جَارَهُ، وَمَنْ كَانَ يُؤْمِنُ بِاللهِ وَالْيَوْمِ الآخِرِ فَلْيُكْرِمْ ضَيْفَهُ\".",
+      "english_translation": "From Abū Hurayrah (raḍiyallāhu ʿanhu) who said that The Messenger of Allāh (ṣallallāhu ʿalayhi wasallam) said, 'Whoever believes in Allāh and the Last Day, let him speak goodness or else remain silent. And whoever believes in Allāh and the Last Day, let him honour his neighbour. And whoever believes in Allāh in the Last Day, let him honour his guest.'",
+      "description": "This Hadith emphasizes the importance of speaking good or remaining silent, honoring one's neighbor, and honoring one's guest. It links these actions to belief in Allah and the Last Day.",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_15.mp3"
+    },
+    {
+      "hadith_number": 16,
+      "title": "Prohibition of Anger",
+      "narrator": "Abū Hurayrah",
+      "source": "al-Bukhārī",
+      "arabic_text": "عنْ [أبي هُريرةَ] رَضِي اللهُ عَنْهُ، (أنَّ رَجُلاً قالَ للنَّبيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: أَوْصِني. قالَ: \"لاَ تَغْضَبْ.\" فَرَدَّدَ مِرارًا، قالَ: \"لاَ تَغْضَبْ\").",
+      "english_translation": "From Abū Hurayrah (raḍiyallāhu ʿanhu) that a man said to the Prophet (ṣallallāhu ʿalayhi wasallam), 'Advise me.' He said, 'Do not become angry' and (the man) repeated his request a number of times and he said, 'Do not become angry.'",
+      "description": "This Hadith recounts an incident where a man sought advice from the Prophet Muhammad, and the Prophet repeatedly instructed him, 'Do not become angry.' The hadith emphasizes the importance of controlling one's anger.",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_16.mp3"
+    },
+    {
+      "hadith_number": 17,
+      "title": "Kindness to Animals",
+      "narrator": "Shaddād bin ʾAws",
+      "source": "Muslim",
+      "arabic_text": "عن [أبي يَعْلَى شَدَّادِ بنِ أَوْسٍ] رَضِي اللهُ عَنْهُ، عن messenger of Allah صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قالَ: \"إِنَّ اللهَ كَتَبَ الإِحْسَانَ عَلَى كُلِّ شَيْءٍ، فَإِذَا قَتَلْتُمْ فَأَحْسِنُوا الْقِتْلَةَ، وَإِذَا ذَبَحْتُمْ فَأَحْسِنُوا الذِّبْحَةَ، وَلْيُحِدَّ أَحَدُكُمْ شَفْرَتَهُ وَلْيُرِحْ ذَبِيحَتَهُ\".",
+      "english_translation": "From Abū Yaʿlā Shaddād bin ʾAws (raḍiyallāhu ʿanhu) from the Messenger of Allāh (ṣallallāhu ʿalayhi wasallam) that he said, 'Indeed Allāh has prescribed proficiency and benevolence in every thing. Hence, when you kill then kill proficiently, and when you slaughter, then slaughter with proficiency and benevolence. Let one of you sharpen his blade and let him grant ease to the slaughter animal.'",
+      "description": "This Hadith emphasizes that Allah has prescribed excellence and benevolence in everything, including the treatment of animals. It instructs Muslims to be kind when slaughtering animals by sharpening the blade and making the process as painless as possible.",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_17.mp3"
+    },
+    {
+      "hadith_number": 18,
+      "title": "Taqwā and Good Manners",
+      "narrator": "Abū Dharr, Muʿādh bin Jabal",
+      "source": "Tirmidhī",
+      "arabic_text": "عن [أبي ذرٍّ جُندُبِ بنِ جُنَادَةَ] و[أبي عبدِ الرَّحمنِ مُعاذِ بنِ جبلٍ] رضِي اللهُ عَنْهُما، عن messenger of Allah صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قالَ: \"اتَّقِ اللهَ حَيْثُمَا كُنْتَ، وَأَتْبِعِ السَّيِّئَةَ الْحَسَنَةَ تَمْحُهَا، وَخَالِقِ النَّاسَ بِخُلُقٍ حَسَنٍ\".",
+      "english_translation": "From Abū Dharr Jundub bin Junādah and Abī ʿAbd al-Raḥmān Muʿādh bin Jabal (raḍiyallāhu ʿanhumā), from the Messenger of Allāh (ṣallallāhu ʿalayhi wasallam) that he said, 'Have taqwā of Allāh wherever you may be, and follow up an evil deed with a good deed and it will wipe it out, and behave towards the people with good manners.'",
+      "description": "This Hadith emphasizes three important principles: having taqwā (piety) of Allah everywhere, following up evil deeds with good ones to erase them, and treating people with good character and manners.",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_18.mp3"
+    },
+    {
+      "hadith_number": 19,
+      "title": "Faith in al-Qaḍā wal-Qadar",
+      "narrator": "ʿAbd Allāh bin ʿAbbās",
+      "source": "Tirmidhī",
+      "arabic_text": "عَن [أَبِي العبَّاسِ عبْدِ الله بنِ عَبّاسٍ] رَضِي اللهُ عَنْهُما قالَ: (كُنْتُ خَلْفَ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَوْمًا، فَقَالَ: \"يَا غُلاَمُ، إِنِّي أُعَلِّمُكَ كَلِمَاتٍ؛ احْفَظِ اللهَ يَحْفَظْكَ، احْفَظِ اللهَ تَجِدْهُ تُجَاهَكَ، إِذَا سَأَلْتَ فَاسْأَلِ اللهَ، وَإِذَا اسْتَعَنْتَ فَاسْتَعِنْ بِاللهِ، وَاعْلَمْ أَنَّ الأُمَّةَ لَوِ اجْتَمَعَتْ عَلَى أَنْ يَنْفَعُوكَ بِشَيْءٍ لَمْ يَنْفَعُوكَ إِلاَّ بِشَيْءٍ قَدْ كَتَبَهُ اللهُ لَكَ، وَإِنِ اجْتَمَعُوا عَلَى أَنْ يَضُرُّوكَ بِشَيْءٍ لَمْ يَضُرُّوكَ إِلاَّ بِشَيْءٍ قَدْ كَتَبَهُ اللهُ عَلَيْكَ، رُفِعَتِ الأَقْلاَمُ وَجَفَّتِ الصُّحُفُ\").",
+      "english_translation": "From Abū al-ʿAbbās ʿAbd Allāh bin ʿAbbās (raḍiyallāhu ʿanhuma) who said: I was behind the Prophet (ṣallallāhu ʿalayhi wasallam) one day when he said, 'Young man, I shall teach you some words. Be mindful of Allāh and Allāh will protect you. Be mindful of Allāh and you will find Him in front of you. When you ask, then ask only of Allāh, and when you seek aid, then seek aid from Allāh. Know that if the whole ummah gathered together to benefit you with something, they will not benefit you except with something that Allāh had written for you, and if they gathered together to harm you with something, they will not harm you except with something that Allāh had written for you. The pens have been lifted, and the scrolls have dried.'",
+      "description": "This Hadith emphasizes reliance on Allah, recognizing that all benefits and harms are by Allah's decree. It highlights the importance of being mindful of Allah in all situations and understanding that what is destined will occur.",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_19.mp3"
+    },
+    {
+      "hadith_number": 20,
+      "title": "Modesty, Shame is From Īmān",
+      "narrator": "ʿUqbah bin ʾAmr",
+      "source": "al-Bukhārī",
+      "arabic_text": "عَنْ [أَبِي مَسْعُودٍ عُقبةَ بنِ عَمْرٍو الأنصاريِّ الْبَدْريِّ] رَضِي اللهُ عَنْهُ قالَ: (قالَ messenger of Allah صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: \"إِنَّ مِمَّا أَدْرَكَ النَّاسُ مِنْ كَلاَمِ النُّبُوَّةِ الأُولَى إِذَا لَمْ تَسْتَحِ فَاصْنَعْ مَا شِئْتَ\").",
+      "english_translation": "From Abū Masʿūd ʿUqbah bin ʾAmr al-Ansārī al-Badarī (raḍiyallāhu ʿanhu) who said: The Messenger of Allāh (ṣallallāhu ʿalayhi wasallam) said, 'That which the people came across from the speech of the (era) of the first prophethood is that when you have no shame then do as you wish.'",
+      "description": "This Hadith highlights the importance of shame and modesty as a deterrent from wrongdoing, implying that a lack of shame can lead one to do anything without moral restraint.",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_20.mp3"
+    },
+    {
+      "hadith_number": 21,
+      "title": "Having Istiqāmah Upon Islām",
+      "narrator": "Sufyān bin ʿAbd Allāh",
+      "source": "Muslim",
+      "arabic_text": "عَن [أبي عمرٍو] وَقِيلَ: [أَبي عَمْرةَ سُفيانَ بنِ عَبْدِ اللهِ] رَضِي اللهُ عَنْهُ قالَ قُلْتُ: (يَا رَسُولَ اللهِ، قُلْ لِي فِي الإسلامِ قَوْلاً لا أَسْأَلُ عَنْهُ أَحَدًا غَيْرَكَ. قالَ: \"قُلْ: آمَنْتُ بِاللهِ ثُمَّ اسْتَقِمْ \").",
+      "english_translation": "From Abū ʾAmr and it is said, Abī ʿAmrah Sufyān bin ʿAbd Allāh (raḍiyallāhu ʿanhu) that he said: I said, 'O Messenger of Allāh, say to me a word regarding Islām which I cannot ask from anyone besides you.' He said, 'Say: I believe in Allāh and thereafter remain steadfast.'",
+      "description": "This Hadith provides guidance on how to achieve steadfastness in Islam by believing in Allah and remaining firm upon the religion.",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_21.mp3"
+    },
+    {
+      "hadith_number": 22,
+      "title": "The Path to Paradise",
+      "narrator": "Jābir bin ʿAbd Allāh",
+      "source": "Muslim",
+      "arabic_text": "عن [أبي عبدِ اللهِ جابرِ بنِ عبدِ اللهِ الأنصاريِّ] رَضِي اللهُ عَنْهُما، أَنَّ رَجُلاً سَأَلَ messenger of Allah صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَقَالَ: أَرَأَيْتَ إذا صَلَّيْتُ الْمَكْتُوباتِ، وَصُمْتُ رَمَضَانَ، وَأَحْلَلْتُ الْحَلالَ، وَحَرَّمْتُ الْحَرَامَ، وَلَمْ أَزِدْ عَلَى ذلِكَ شَيْئًا، أَأَدْخُلُ الْجَنَّةَ؟ قالَ: \"نَعَمْ\".",
+      "english_translation": "From AbūʿAbd Allāh Jābir bin ʿAbd Allāh al-Ansārī (raḍiyallāhu ʿanhumā), that a man asked the Messenger of Allāh (ṣallallāhu ʿalayhi wasallam) and said: Do you consider that if I pray the prescribed prayers, fast in Ramaḍān, treat as lawful what is lawful and treat as unlawful what is unlawful, and I do not add anything else to that, shall I enter Paradise? He (the Messenger) said, 'Yes.'",
+      "description": "This Hadith describes the path to Paradise as fulfilling the basic obligations: performing the prescribed prayers, fasting in Ramadan, avoiding the unlawful, and accepting the lawful.",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_22.mp3"
+    },
+    {
+      "hadith_number": 23,
+      "title": "Purity is Half of Īmān",
+      "narrator": "al-Ḥārith bin ʿĀṣim",
+      "source": "Muslim",
+      "arabic_text": "الطهور شطر الإيمان عن [أبي مالكٍ الحارثِ بنِ عاصمٍ الأشْعَرِيِّ] رَضِي اللهُ عَنْهُ، قالَ: (قالَ messenger of Allah صلَّى اللهُ عَلَيْهِ وسَلَّمَ: \"الطُّـهُورُ شَطْرُ الإِيمَانِ، وَالْحَمْدُ للهِ تَمْلأُ الْمِيزَانَ، وَسُبْحَانَ اللهِ وَالْحَمْدُ للهِ تَمْلأُ — [أَو تَمْلَآنِ] — مَا بَيْنَ السَّمَواتِ وَالأَرْضِ، وَالصَّلاَةُ نُورٌ، وَالصَّدَقَةُ بُرْهَانٌ، وَالصَّبْرُ ضِيَاءٌ، وَالْقُرْآنَ حُجَّةٌ لَكَ أَوْ عَلَيْكَ، كُلُّ النَّاسِ يَغْدُو؛ فَبَائِعٌ نَفْسَهُ فَمُعْتِقُهَا أَوْ مُوبِقُهَا\").",
+      "english_translation": "From Abū Mālik al-Ḥārith bin ʿĀṣim al-Ashʿarī (raḍiyallāhu ʿanhu) who said: The Messenger of Allāh (ṣallallāhu ʿalayhi wasallam) said: 'Purity is one-half of faith, (saying) alḥamdulillāh fills the scales, and (saying) subḥānallāh wal-ḥamdulillāh fill what is between the heavens and the earth. Prayer is light, charity is an evidence and patience is illumination. The Qurʾān is a proof for or against you. Everyone awakes as a vendor of his own soul, so either he delivers it or destroys it.'",
+      "description": "This Hadith emphasizes the importance of purity (which is half of faith) and explains the rewards of various acts of worship. It concludes by stating that every person is responsible for their own soul's salvation.",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_23.mp3"
+    },
+    {
+      "hadith_number": 24,
+      "title": "Prohibition of Oppression",
+      "narrator": "Abū Dharr al-Ghifārī",
+      "source": "Muslim",
+      "arabic_text": "عن [أبي ذرٍّ الغِفَاريِّ] رَضِي اللهُ عَنْهُ، عن النَّبيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فيما يرويه عن ربِّه عزَّ وجلّ أنَّه قالَ: \"يَا عِبَادِي، إِنِّي حَرَّمْتُ الظُّلْمَ عَلَى نَفْسِي، وَجَعَلْتُهُ بَيْنَكُمْ مُحَرَّمًا، فَلاَ تَظَالَمُوا. يَا عِبَادِي، كُلُّكُمْ ضَالٌّ إِلاَّ مَنْ هَدَيْتُهُ , فَاسْتَهْدُونِي أَهْدِكُمْ. يَا عِبَادِي، كُلُّكُمْ جَائِعٌ إِلاَّ مَنْ أَطْعَمْتُهُ، فَاسْتَطْعِمُونِي أُطْعِمْكُمْ. يَا عِبَادِي، كُلُّكُمْ عَارٍ إِلاَّ مَنْ كَسَوْتُهُ، فَاسْتَكْسُونِي أَكْسُكُمْ. يَا عِبَادِي، إِنَّكُمْ تُخْطِئُونَ بِاللَّيْلِ وَالنَّهَارِ وَأَنَا أَغْفِرُ الذُّنُوبَ جَمِيعًا، فَاسْتَغْفِرُونِي أَغْفِرْ لَكُمْ. يَا عِبَادِي، إِنَّكُمْ لَنْ تَبْلُغُوا ضَرِّي فَتَضُرُّونِي، وَلَنْ تَبْلُغُوا نَفْعِي فَتَنْفَعُونِي. يَا عِبَادِي، لَوْ أَنَّ أَوَّلَكُمْ وَآخِرَكُمْ وإِنْسَكُم وَجِنَّكُم كَانُوا عَلَى أَتْقَى قَلْبِ رَجُلٍ واحِدٍ مِنْكُمْ مَا زَادَ ذَلِكَ في مُلْكِي شَيْئًا. يَا عِبَادِي، لَوْ أنَّ أوَّلَكُم وَآخِرَكُمْ وَإِنْسَكُمْ وَجِنَّكُمْ كَانُوا عَلَى أَفْجَرِ قَلْبِ رَجُلٍ وَاحِدٍ مِنْكُمْ مَا نَقَصَ ذَلِكَ مِنْ مُلْكِي شَيْئًا. يا عِبَادِي لَوْ أَنَّ أَوَّلَكُمْ وَآخِرَكُمْ وَإِنْسَكُمْ وَجِنَّكُمْ قَامُوا فِي صَعِيدٍ وَاحِدٍ فَسَأَلُونِي فَأَعْطَيْتُ كُلَّ وَاحِدٍ مَسْأَلَتَهُ مَا نَقَصَ ذَلِكَ مِمَّا عِنْدِي إِلاَّ كَمَا يَنْقُصُ الْمِخْيَطُ إِذَا أُدْخِلَ الْبَحْرَ. يَا عِبَادِي، إِنَّمَا هِيَ أَعْمَالُكُمْ أُحْصِيهَا لَكُمْ ثُمَّ أُوَفِّيكُمْ إِيَّاهَا, فَمَنْ وَجَدَ خَيْرًا فَلْيَحْمَدِ اللهَ، وَمَنْ وَجَدَ غَيْرَ ذَلِكَ فَلاَ يَلُومَنَّ إِلاَّ نَفْسَهُ\".",
+      "english_translation": "From Abū Dharr al-Ghifārī (raḍiyallāhu ʿanhu), from the Prophet (ṣallallāhu ʿalayhi wasallam), from that which he narrates from His Lord, the Mighty and Majestic, that He said, 'O My servants, I have forbidden oppression for Myself and have made it forbidden amongst you, so do not oppress one another. O My servants, all of you are astray except he whom I have guided, so seek guidance of Me and I shall guide you. O My servants, all of you are hungry except he whom I have fed, so seek food of Me and I shall feed you. O My servants, all of you are naked except he whom I have clothed, so seek clothing of Me and I shall clothe you. O My servants, you sin by night and by day, and I forgive all sins, so seek forgiveness of Me and I shall forgive you. O My servants, you will not attain harming Me so as to harm Me, and you will not attain benefiting Me so as to benefit Me. O My servants, were the first of you and the last of you, the human of you and the jinn of you to become as pious as the most pious heart of any one man of you, that would not increase My kingdom in anything. O My servants, were the first of you and the last of you, the human of you and the jinn of you to be as wicked as the most wicked heart of any one man of you, that would not decrease My kingdom in anything. O My servants, were the first of you and the last of you, the human of you and the jinn of you to rise up in one place and make a request of Me, and were I to give everyone what he requested, that would not decrease what I have, any more than a needle decreases the sea if put into it. O My servants, it is but your deeds that I reckon up for you and then recompense you for, so let him who finds good praise Allāh, and let him who finds other than that blame no one but himself.'",
+      "description": "This powerful Hadith Qudsi emphasizes that Allah has forbidden oppression for Himself and among people. It highlights that no one's actions can increase or decrease Allah's kingdom, and that people will be recompensed for their own deeds.",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_24.mp3"
+    },
+    {
+      "hadith_number": 25,
+      "title": "The Excellence of Dhikr",
+      "narrator": "Abū Dharr al-Ghifārī",
+      "source": "Muslim",
+      "arabic_text": "عن [أبي ذرٍّ] رَضِي اللهُ عَنْهُ، أَنَّ نَاسًا مِنْ أَصْحابِ messenger of Allah صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قالُوا لِلنَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: يَا رَسُولَ اللهِ، ذَهَبَ أَهْلُ الدُّثُورِ بِالأُجُورِ؛ يُصَلُّونَ كَمَا نُصَلِّي، ويَصُومُونَ كَمَا نَصُومُ، ويَتَصَدَّقُونَ بِفُضُولِ أَمْوالِهِم. قالَ: \"أَوَلَيْسَ قَدْ جَعَلَ اللهُ لَكُمْ مَا تَصَدَّقُونَ، إِنَّ بِكُلِّ تَسْبِيحَةٍ صَدَقَةً، وَكُلِّ تَكْبِيرَةٍ صَدَقَةً، وَكُلِّ تَحْمِيدَةٍ صَدَقَةً، وَكُلِّ تَهْلِيلَةٍ صَدَقَةً، وَأمْرٌ بِالْمَعْرُوفِ صَدَقَةٌ، وَنَهْيٌ عَنْ مُنْكَرٍ صَدَقَةٌ، وَفِي بُضْعِ أَحَدِكُمْ صَدَقَةٌ\". قَالُوا: يَا رَسُولَ اللهِ، أَيَأْتِي أَحَدُنَا شَهْوَتَهُ وَيَكُونُ لَهُ أَجْرٌ؟ قالَ: \"أَرَأيْتُمْ لَوْ وَضَعَهَا فِي حَرَامٍ أَكَانَ عَلَيْهِ وِزْرٌ فَكَذَلِكَ إِذَا وَضَعَهَا فِي الْحَلاَلِ كَانَ لَهُ أَجْرٌ\".",
+      "english_translation": "From Abū Dharr (raḍiyallāhu ʿanhu) that some from the companions of the Messenger of Allāh said: 'O Messenger of Allāh, the wealthy have made off with the rewards, they pray as we pray, they fast as we fast, and they give away in charity through the excess of their wealth.' He said, 'Has not Allāh made things for you to give away in charity? Every tasbih (saying Subhanallah) is a charity, every takbir (saying Allahu Akbar) is a charity, every tahmid (saying Alhmadulillahi) is a charity, and every tahlil (saying La ilaha illallah) is a charity, to enjoin a good action is a charity, to forbid an evil action is a charity, and in the sexual act of each of you there is a charity.' They said, 'O Messenger of Allāh, when one of us fulfils his sexual desire will he have some reward for that?' He said, 'Do you not think that were he to act upon it unlawfully he would be sinning? Likewise, if he has acted upon it lawfully he will have a reward.'",
+      "description": "This Hadith emphasizes that acts of remembrance of Allah (such as Tasbih, Takbir, Tahmid, Tahlil), enjoining good, forbidding evil, and even lawful conjugal relations are considered acts of charity and will be rewarded.",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_25.mp3"
+    },
+    {
+      "hadith_number": 26,
+      "title": "The Paths of Goodness",
+      "narrator": "Abū Hurayrah",
+      "source": "al-Bukhārī, Muslim",
+      "arabic_text": "عَنْ [أَبي هُريرة] رَضِي اللهُ عَنْهُ قالَ: (قالَ messenger of Allah صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: \"كُلُّ سُلاَمَى مِنَ النَّاسِ عَلَيْهِ صَدَقَةٌ كُلَّ يَوْمٍ تَطْلُعُ فِيهِ الشَّمْسُ؛ تَعْدِلُ بَيْنَ اثْنَيْنِ صَدَقَةٌ، وَتُعِينُ الرَّجُلَ فِي دَابَّتِهِ فَتَحْمِلُهُ عَلَيْهَا، أَوْ تَرْفَعُ لَهُ عَلَيْهَا مَتَاعَهُ صَدَقَةٌ, وَالْكَلِمَةُ الطَّيِّبَةُ صَدَقَةٌ، وَبِكُلِّ خُطْوَةٍ تَمْشِيهَا إِلَى الصَّلاَةِ صَدَقَةٌ، وَتُمِيطُ الأَذَى عَنِ الطَّرِيقِ صَدَقَةٌ\").",
+      "english_translation": "From Abū Hurayrah (raḍiyallāhu ʿanhu) who said: The Messenger of Allāh (ṣallallāhu ʿalayhi wasallam) said, 'For every day on which the sun rises an act of charity is due for every joint in a person's body. That you reconcile between two people is an act of charity, to aid a man with his riding-beast, helping him onto it or lifting up his belongings onto it is an act of charity. A good word is an act of charity, and every step that you take to the prayer (in congregation) is an act of charity, and that you remove something harmful from the path is an act of charity.'",
+      "description": "This Hadith explains various actions considered acts of charity for each day, such as reconciling between people, assisting someone with their riding-beast, speaking a good word, walking to prayer, and removing harmful objects from the path.",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_26.mp3"
+    },
+    {
+      "hadith_number": 27,
+      "title": "Righteousness and Sin",
+      "narrator": "al-Nawwās bin al-Samʿān",
+      "source": "Muslim",
+      "arabic_text": "عن [النَّوَّاسِ بنِ سِمْعانَ] رَضِي اللهُ عَنْهُ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قالَ: \"الْبِرُّ حُسْنُ الْخُلُقِ، وَالإِثْمُ مَا حَاكَ فِي نَفْسِكَ وَكَرِهْتَ أنْ يَطَّلِعَ عليْهِ النَّاسُ\". وعن [وابِصَةَ بنِ مَعْبَدٍ] رَضِي اللهُ عَنْهُ قالَ: (أتيتُ messenger of Allah صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فَقالَ: \"جِئْتَ تَسْأَلُ عَنِ الْبِرِّ\" قُلْتُ: نَعَمْ. قالَ: \"اسْتَفْتِ قَلْبَكَ؛ الْبِرُّ مَا اطْمَأنَّتْ إِلَيْهِ النَّفْسُ وَاطْمَأنَّ إِلَيْهِ الْقَلْبُ، وَالإِثْمُ مَا حَاكََ فِي النَّفْسِ وَتَرَدَّدَ فِي الصَّدْرِ وَإِنْ أَفْتَاكَ النَّاسُ وَأَفْتَوْكَ\").",
+      "english_translation": "From al-Nawwās bin al-Samʿān (may Allah be pleased with him), from the Prophet (peace and blessings be upon him) that he said, 'Righteousness (birr) is good morality, and wrongdoing is that which wavers in your soul and which you dislike people finding out about.' And on the authority of Wābiṣah bin Maʿbad (may Allah be pleased with him) that he said: I came to the messenger of Allah and he said, 'You have come to ask about righteousness?' I said, 'Yes.' He said, 'Consult your heart. Righteousness is that about which the soul feels tranquil and the heart feels tranquil, and wrongdoing is that which wavers in the soul and moves to and fro in the breast even though people again and again have given you their legal opinion [in its favor].'",
+      "description": "This Hadith presents a concise definition of righteousness and sin. It defines righteousness as encompassing good morality and sin as that which causes unease within oneself. It also emphasizes consulting one's heart to determine righteousness.",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_27.mp3"
+    },
+    {
+      "hadith_number": 28,
+      "title": "Sticking to the Sunnah",
+      "narrator": "al-ʿIrbāḍ bin Sāriyah",
+      "source": "Abū Dāwūd, Tirmidhī",
+      "arabic_text": "عَنْ [أَبي نَجِيحٍ العِرْباضِ بنِ سَاريةَ] رَضِي اللهُ عَنْهُ قالَ: (وَعَظَنا رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مَوْعِظَةً وَجِلَتْ مِنْها القُلوبُ، وَذَرَفَتْ مِنْها العُيُونُ، فَقُلْنا: يا messenger of Allah، كَأنَّها مَوْعِظَةُ مُودِّعٍ فَأَوْصِنا. قالَ: \"أُوصِيكُمْ بِتَقْوَى اللهِ عَزَّ وَجَلَّ، وَالسَّمْعِ وَالطَّاعَةِ، وَإِنْ تَأَمَّرَ عَلَيْكُمْ عَبْدٌ حَبَشِيٌّ، فَإِنَّهُ مَنْ يَعِشْ مِنْكُمْ فَسَيَرَى اخْتِلاَفًا كَثِيرًا، فَعَلَيْكُمْ بِسُنَّتِي وَسُنَّةِ الْخُلَفَاءِ الرَّاشِدِينَ الْمَهْدِيِّينَ، تَمَسَّكُوا بِهَا، وَعَضُّوا عَلَيْهَا بِالنَّوَاجِذِ، وَإِيَّاكُمْ وَمُحْدَثَاتِ الأُمُورِ؛ فَإِنَّ كُلَّ مُحْدَثَةٍ بِدْعَةٌ، وَكُلَّ بِدْعَةٍ ضَلاَلَةٌ\").",
+      "english_translation": "From Abū Najīh al-ʿIrbāḍ bin Sāriyah (raḍiyallāhu ʿanhu) who said: The Messenger of Allah gave us a sermon by which our hearts were filled with fear and tears came to our eyes. We said: 'O Messenger of Allāh, it is as though this is a farewell sermon, so counsel us.' He said, 'I counsel you to fear Allah and to give absolute obedience even if a slave becomes your leader. Verily he among you who lives [long] will see great controversy, so you must keep to my sunnah and to the sunnah of the rightly-guided Khalifahs - bite onto it with your molars. Beware of newly invented matters, for every invented matter is an innovation and every innovation is a going astray, and every going astray is in Hell-fire.'",
+      "description": "This Hadith emphasizes the importance of following the Sunnah of the Prophet and the rightly-guided Caliphs. It warns against innovations in religion, stating that every innovation is a going astray that leads to Hell-fire.",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_28.mp3"
+    },
+    {
+      "hadith_number": 29,
+      "title": "The Danger of the Tongue",
+      "narrator": "Muʿādh bin Jabal",
+      "source": "Tirmidhī",
+      "arabic_text": "عن [معاذِ بنِ جَبَلٍ] رَضِي اللهُ عَنْهُ، قالَ: قُلْتُ: (يا رَسُولَ اللهِ، أَخْبِرْنِي بِعَمَلٍ يُدْخِلُني الجَنَّةَ ويُباعِدُني عَنِ النَّارِ. قالَ: \"لَقَدْ سَأَلْتَ عَنْ عَظِيمٍ، وَإِنَّهُ لَيَسِيرٌ عَلَى مَنْ يَسَّرَهُ اللهُ تَعَالَى عَلَيْهِ؛ تَعْبُدُ اللهَ لاَ تُشْرِكُ بِهِ شَيْئًا، وَتُقِيمُ الصَّلاَةَ، وَتُؤْتِي الزَّكَاةَ، وَتَصُومُ رَمَضَانَ، وَتَحُجُّ الْبَيْتَ\". ثمَّ قالَ: \"أَلاَ أَدُلُّكَ عَلَى أَبْوَابِ الْخَيْرِ؟ الصَّوْمُ جُنَّةٌ، وَالصَّدَقَةُ تُطْفِئُ الْخَطِيئَةَ كَمَا يُطْفِئُ الْمَاءُ النَّارَ، وَصَلاَةُ الرَّجُلِ فِي جَوْفِ اللَّيْلِ\". ثُمَّ تَلاَ: <<تَتَجَافَى جُنُوبُهُمْ عَنِ الْمَضَاجِعِ>> حَتى بَلَغَ: <<يَعْمَلُونَ>> . ثُمَّ قالَ: \"أَلاَ أُخْبِرُكَ بِرَأْسِ الأَمْرِِ وَعَمُودِهِ وَذِرْوَةِ سَنَامِهِ؟\". قُلْتُ: بَلى يَا رَسُولَ اللهِ. قالَ: \"رَأْسُ الأَمْرِ الإِسْلاَمُ، وَعَمُودُهُ الصَّلاَةُ، وَذِرْوَةُ سَنَامِهِ الْجِهَادُ\". ثمَّ قالَ: \"أَلاَ أُخْبِرُكَ بِمِلاَكِ ذَلِكَ كُلِّهِ؟\". فَقُلْتُ: بلى يا رَسُولَ اللهِ. فَأَخَذَ بِلِسَانِهِ وقالَ: \"كُفَّ عَلَيْكَ هَذَا\". قُلْتُ: يا نَبِيَّ اللهِ، وإِنَّا لَمُؤَاخَذُونَ بِمَا نَتَكَلَّمُ به؟ فقامَ: \"ثَكِلَتْكَ أُمُّكَ، وَهَلْ يَكُبُّ النَّاسَ فِي النَّارِ عَلَى وُجُوهِهِمْ أو قالَ: عَلَى مَنَاخِرِهِم إِلاَّ حَصَائِدُ أَلْسِنَتِهِمْ\").",
+      "english_translation": "From Muʿādh bin Jabal (raḍiyallāhu ʿanhu) who said: I said, 'O Messenger of Allah, tell me of an act which will enter me into Paradise and will keep me away from Hellfire.' He said, 'You have asked me about a major matter, yet it is easy for him for whom Allāh the Exalted makes its easy. You should worship Allāh, associating nothing with Him, you should perform the prayers, you should pay the zakāt, you should fast in Ramaḍan, and you should make the pilgrimage to the House.' Then he said, 'Shall I not show you the gates of goodness? Fasting [which] is a shield, charity [which] extinguishes sin as water extinguishes fire; and the praying of a man in the depth of night.' Then he recited a verse about those who forsake their beds for worship. Then he said, 'Shall I not tell you of the peak of the matter, its pillar, and its topmost part?' I said, 'Yes, O Messenger of Allāh.' He said, 'The peak of the matter is Islam, the pillar is prayer, and its topmost part is jihād.' Then he said: 'Shall I not tell you of the controlling of all that?' I said, 'Yes, O Messenger of Allāh', and he took hold of his tongue and said, 'Restrain this.' I said: 'O Prophet of Allāh, will what we say be held against us?' He said, 'May your mother be bereaved of you, Muʿādh! Is there anything that topples people on their faces - or he said on their noses - into Hellfire other than the harvests of their tongues?'",
+      "description": "This Hadith emphasizes the importance of controlling one's tongue, stating that people are often cast into Hellfire due to what they say. It also outlines the pillars of Islam and the importance of various acts of worship.",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_29.mp3"
+    },
+    {
+      "hadith_number": 30,
+      "title": "The Limits of the Sharīʿah",
+      "narrator": "Jurthūm bin Nāshir",
+      "source": "al-Dārqutnī",
+      "arabic_text": "عَن [أَبي ثَعْلبةَ الْخُشَنِيِّ جُرثُومِ بنِ ناشرٍ] رَضِي اللهُ عَنْهُ عَن messenger of Allah صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قالَ: \"إِنَّ اللهَ تَعَالى فَرَضَ فَرَائِضَ فَلاَ تُضَيِّعُوهَا، وَحَدَّ حُدُودًا فَلاَ تَعْتَدُوهَا، وَحَرَّمَ أَشْيَاءَ فَلاَ تَنْتَهِكُوهَا، وَسَكَتَ عَنْ أَشْيَاءَ رَحْمَةً لَكُمْ غَيْرَ نِسْيَانٍ فَلاَ تَبْحَثُوا عَنْها\".",
+      "english_translation": "From Abū Thaʿlabah Jurthūm bin Nāshir (raḍiyallāhu ʿanhu), from the Messenger of Allāh (ṣallallāhu ʿalayhi wasallam), that he said, 'Allāh the Exalted has obligated religious duties, so do not neglect them. He has set boundaries, so do not transgress them. He has prohibited some things, so do not violate them and about some things He was silent, out of compassion for you, not forgetfulness, so seek not after them.'",
+      "description": "This Hadith emphasizes adherence to divine commands, avoiding transgressions of set boundaries, refraining from prohibited acts, and not delving into matters Allah has left unaddressed out of mercy.",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_30.mp3"
+    },
+    {
+      "hadith_number": 31,
+      "title": "Abstinence From the World",
+      "narrator": "Sahl bin Saʿd",
+      "source": "Ibn Mājah",
+      "arabic_text": "الزهد في الدنيا عن [أبي العبَّاسِ سَهْلِ بنِ سَعْدٍ الساعديِّ] رَضِي اللهُ عَنْهُ قالَ: (جاءَ رَجُلٌ إلى النَّبيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَقالَ: يا رَسُولَ اللهِ، دُلَّنِي عَلَى عَمَلٍ إِذَا عَمِلْتُهُ أَحَبَّنِي اللهُ وأَحبَّنِي النَّاسُ. فَقَالَ: \"ازْهَدْ فِي الدُّنْيَا يُحِبَّكَ اللهُ، وَازْهَدْ فِيمَا عِنْدَ النَّاسِ يُحِبَّكَ النَّاسُ\").",
+      "english_translation": "From Sahl bin Saʿd al-Sāʿidī (raḍiyallāhu ʿanhu) who said: A man came to the Prophet (ṣallallāhu ʿalayhi wasallam) and said: 'O Messenger of Allāh, direct me to an act which, if I do it, [will cause] Allāh to love me and people to love me.' He said, 'Abstain from (pursuit of) the world and Allāh will love you, and abstain from (pursuing) what people possess and people will love you.'",
+      "description": "This Hadith provides guidance on how to gain love from Allah and people by abstaining from the pursuit of worldly possessions and what others possess.",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_31.mp3"
+    },
+    {
+      "hadith_number": 32,
+      "title": "There Should Be No Harm",
+      "narrator": "Abū Saʿīd al-Khudrī",
+      "source": "Ibn Mājah, al-Dārqutnī",
+      "arabic_text": "عَنْ [أَبِي سعيدٍ سعدِ بنِ سِنانٍ الخُدْريِّ] رَضِي اللهُ عَنْهُ، أنَّ messenger of Allah صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قالَ: \"لاَ ضَرَرَ وَلاَ ضِرَارَ \".",
+      "english_translation": "From Abū Saʿīd Saʿd bin Sinān al-Khudrī (raḍiyallāhu ʿanhu), that the Messenger of Allāh (ṣallallāhu ʿalayhi wasallam) said, 'There should be neither harming nor reciprocating harm.'",
+      "description": "This Hadith establishes the principle that neither causing harm to others nor reciprocating harm is permitted in Islam. It is a fundamental principle of Islamic law regarding interpersonal relations.",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_32.mp3"
+    },
+    {
+      "hadith_number": 33,
+      "title": "The Proof is Upon the Claimant",
+      "narrator": "ʿAbd Allāh bin ʿAbbās",
+      "source": "al-Bayhaqī",
+      "arabic_text": "البيّنة على المدّعي عنْ [ابنِ عبَّاسٍ] رَضِي اللهُ عَنْهُما، أنَّ messenger of Allah صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قالَ: \"لَوْ يُعْطَى النَّاسُ بِدَعْواهُمْ، لاَدَّعَى رِجَالٌ أَمْوَالَ قَوْمٍ وَدِمَاءَهُمْ، لَكِنِ الْبَيِّنَةُ عَلَى الْمُدَّعِي وَالْيَمِينُ عَلَى مَنْ أَنْكَرَ\".",
+      "english_translation": "From Ibn ʿAbbās (raḍiyallāhu ʿanhumā), that the Messenger of Allāh (ṣallallāhu ʿalayhi wasallam) said, 'If the people were to be given in accordance with their claim, men would claim the fortunes and lives of [other] people, but the onus of proof is upon the claimant, and the taking of an oath is incumbent upon him who denies.'",
+      "description": "This Hadith establishes the legal principle that the burden of proof lies with the claimant, and the one who denies must take an oath. It prevents false claims against people's wealth and lives.",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_33.mp3"
+    },
+    {
+      "hadith_number": 34,
+      "title": "Correcting the Evil",
+      "narrator": "Abū Saʿīd al-Khudrī",
+      "source": "Muslim",
+      "arabic_text": "عَنْ [أَبي سعيدٍ الخُدريِّ] رَضِي اللهُ عَنْهُ قالَ: سَمِعتُ messenger of Allah صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يقولُ: \"مَنْ رَأَى مِنْكُمْ مُنْكَرًا فَلْيُغَيِّرْهُ بِيَدِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِلِسَانِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِقَلْبِهِ، وَذَلِكَ أَضْعَفُ الْإيمَانِ\".",
+      "english_translation": "From Abū Saʿīd al-Khudrī (raḍiyallāhu ʿanhu) who said: I heard the Messenger of Allāh (ṣallallāhu ʿalayhi wasallam) saying, 'Whosoever amongst you sees an evil, let him change it with his hand, and if he is not able, then with his tongue and if he is not able, then with his heart, and that is the weakest of faith.'",
+      "description": "This Hadith emphasizes the responsibility of a Muslim to address wrongdoings. It states that if one witnesses an evil, they should strive to change it first with their hand (action), failing that, with their tongue (speech), and if unable to do either, then with their heart (disapproving it internally).",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_34.mp3"
+    },
+    {
+      "hadith_number": 35,
+      "title": "Brotherhood and Piety",
+      "narrator": "Abū Hurayrah",
+      "source": "Muslim",
+      "arabic_text": "عَنْ [أَبي هُريرةَ] رَضِي اللهُ عَنْهُ قالَ: قالَ messenger of Allah صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: \"لاَ تَحَاسَدُوا، وَلاَ تَنَاجَشُوا، وَلاَ تَبَاغَضُوا، وَلاَ تَدَابَرُوا وَلاَ يَبِيعُ بَعْضُكُم عَلَى بَيْعِ بَعْضٍ، وَكُونُوا عِبَادَ اللهِ إِخْوَانًا، المُسْلِمُ أَخُو المُسْلِمِ لاَ يَظْلِمُهُ، وَلاَ يَخْذُلُهُ، وَلاَ يَكْذِبُهُ، وَلاَ يَحْقِرُهُ. التَّقوَى هَهُنَا وَيُشِيرُ إِلَى صَدْرِه ثَلاَثَ مَرَّاتٍ بِحَسْبِ امْرِئٍ مِنَ الشَّرِّ أنْ يَحْقِرَ أَخَاهُ المُسْلِمَ، كُلُّ المُسْلِمِ عَلَى المُسْلِمِ حَرَامٌ دَمُهُ وَمَالُهُ وعِرْضُهُ\".",
+      "english_translation": "From Abū Hurayrah (raḍiyallāhu ʿanhu) who said: The Messenger of Allāh (ṣallallāhu ʿalayhi wasallam) said, 'Do not envy one another; do not inflate prices one to another; do not hate one another; do not turn away from one another; and do not undercut one another, but be you, O servants of Allāh, brothers. A Muslim is the brother of a Muslim: he neither oppresses him nor does he fail him, he neither lies to him nor does he hold him in contempt. Piety (taqwā) is right here - and he pointed to his breast three times. It is evil enough for a man to hold his brother Muslim in contempt. The whole of a Muslim for another Muslim is inviolable: his blood, his property, and his honor.'",
+      "description": "This Hadith emphasizes fundamental principles of Islamic conduct and brotherhood among Muslims. It prohibits actions such as envy, price inflation, hatred, turning away from one another, and undercutting sales. It stresses the inviolability of a Muslim's blood, property, and honor.",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_35.mp3"
+    },
+    {
+      "hadith_number": 36,
+      "title": "Seeking Knowledge",
+      "narrator": "Abū Hurayrah",
+      "source": "Muslim",
+      "arabic_text": "عَن [أبي هُريرةَ] رَضِي اللهُ عَنْهُ، عنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قالَ: \"مَنْ نَفَّسَ عَنْ مُؤْمِنٍ كُرْبَةً مِنْ كُرَبِ الدُّنْيَا نَفَّسَ اللهُ عَنْهُ كُرْبَةً مِنْ كُرَبِ يَوْمِ الْقِيَامَةِ، وَمَنْ يَسَّرَ عَلَى مُعْسِرٍ يَسَّرَ اللهُ عَلَيْهِ فِي الدُّنْيَا وَالْآخِرَةِ، وَمَنْ سَتَرَ مُسْلِمًا سَتَرَهُ اللهُ فِي الدُّنْيَا وَالآخِرَةِ، وَاللهُ فِي عَوْنِ الْعَبْدِ مَا كَانَ الْعَبْدُ فِي عَوْنِ أَخِيهِ، وَمَنْ سَلَكَ طَرِيقًا يَلْتَمِسُ فِيهِ عِلْمًا سَهَّلَ اللهُ لَهُ بِهِ طَرِيقًا إِلَى الْجَنَّةِ، وَمَا اجْتَمَعَ قَومٌ فِي بَيْتٍ مِنْ بُيُوتِ اللهِ يَتْلُونَ كِتَابَ اللهِ وَيَتَدَارَسُونَهُ بَيْنَهُمْ إِلاَّ نَزَلَتْ عَلَيْهِمُ السَّكِينَةُ، وَغَشِيَتْهُمُ الرَّحْمَةُ، وَحَفَّتْهُمُ الْمَلاَئِكَةُ، وَذَكَرَهُمُ اللهُ فِيمَنْ عِنْدَه، وَمَنْ بَطَّأَ بِهِ عَمَلُهُ لَمْ يُسْرِعْ بِهِ نَسَبُهُ\".",
+      "english_translation": "From Abū Hurayrah (raḍiyallāhu ʿanhu), from the Prophet (ṣallallāhu ʿalayhi wasallam), that he said, 'Whosoever removes a worldly distress from a believer, Allāh will remove from him one of the distresses of the Day of Judgment. Whosoever alleviates [the lot of] a needy person, Allāh will alleviate [his lot] in this world and the next. Whosoever shields a Muslim, Allāh will shield him in this world and the next. Allāh will aid a servant [of His] so long as the servant aids his brother. Whosoever follows a path to seek knowledge therein, Allāh will make easy for him a path to Paradise. No people gather together in one of the houses of Allāh, reciting the Book of Allāh and studying it among themselves, without tranquility descending upon them, mercy enveloping them, the angels surrounding them, and Allāh making mention of them amongst those who are with Him. Whosoever is slowed down by his actions will not be hastened forward by his lineage.'",
+      "description": "This Hadith emphasizes the virtues of alleviating distress for others, helping the needy, shielding a Muslim's faults, aiding one's brother, and most importantly, the reward for seeking knowledge. It highlights the blessings bestowed upon those who gather in mosques to recite and study the Qur'an.",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_36.mp3"
+    },
+    {
+      "hadith_number": 37,
+      "title": "Righteous Deeds Explained",
+      "narrator": "ʿAbd Allāh bin ʿAbbās",
+      "source": "al-Bukhārī, Muslim",
+      "arabic_text": "عن [ابنِ عبَّاسٍ] رَضِي اللهُ عَنْهُما، عَنْ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فِيما يَرْويهِ عَنْ ربِّهِ تَبَارَكَ وتَعالى قالَ: \"إِنَّ اللهَ كَتَبَ الْحَسَنَاتِ وَالسَّيِّئَاتِ، ثُمَّ بَيَّنَ ذَلِكَ؛ فَمَنْ هَمَّ بِحَسَنةٍ فَلَمْ يَعْمَلْهَا كَتَبَهَا اللهُ عِنْدَهُ حَسَنَةً كَامِلَةً، وَإِنْ هَمَّ بِهَا فَعَمِلَهَا كَتَبَهَا اللهُ عِنْدَهُ عَشْرَ حَسَنَاتٍ إِلَى سَبْعِمِائَةِ ضِعْفٍ إِلَى أَضْعَافٍ كَثِيرَةٍ، وَإِنْ هَمَّ بِسَيِّئَةٍ فَلَمْ يَعْمَلْها كَتَبَهَا اللهُ عِنْدَهُ حَسَنَةً كَامِلَةً، وَإِنْ هَمَّ بِهَا فَعَمِلَهَا كَتَبَهَا اللهُ سَيِّئَةً وَاحِدَةً\".",
+      "english_translation": "From Ibn ʿAbbās (raḍiyallāhu ʿanhumā), from the Messenger of Allāh (ṣallallāhu ʿalayhi wasallam), from that which he narrates from His Lord, the Blessed and Exalted, that He said, 'Allāh has written down the good deeds and the bad deeds.' Then he explained it [by saying that], 'He who considered doing a good deed and has not done it, Allāh writes it down with Himself as a full good deed, but if he considered doing it and has done it, Allāh writes it down with Himself as from ten good deeds to seven hundred times, or many times over. But if he considered doing a bad deed and has not done it, Allāh writes it down with Himself as a full good deed, but if he considered doing it and has done it, Allāh writes it down as one bad deed.'",
+      "description": "This Hadith elaborates on the divine accounting of good and bad deeds. It clarifies that intending a good deed, even if not acted upon, is recorded as a full good deed, while performing it brings multiplied rewards. Conversely, a bad deed that is not done is recorded as a good deed, but if performed, it is recorded as only one bad deed.",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_37.mp3"
+    },
+    {
+      "hadith_number": 38,
+      "title": "The Awliyāʾ of Allāh",
+      "narrator": "Abū Hurayrah",
+      "source": "al-Bukhārī",
+      "arabic_text": "عَنْ [أبي هُريرةَ] رَضِي اللهُ عَنْهُ قالَ: (قالَ messenger of Allah صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: \"إِنَّ اللهَ تَعَالَى قَالَ: مَنْ عَادَى لِي وَلِيًّا فَقَدْ آذَنْتُهُ بِالْحَرْبِ وَمَا تَقَرَّبَ إِلَيَّ عَبْدِي بِشَيْءٍ أَحَبَّ إِلَيَّ مِمَّا افْتَرَضْتُهُ عَلَيْهِ، وَلاَ يَزَالُ عَبْدِي يَتَقَرَّبُ إِلَيَّ بِالنَّوَافِلِ حَتَّى أُحِبَّهُ، فَإِذَا أَحْبَبْتُهُ كُنْتُ سَمْعَهُ الَّذِي يَسْمَعُ بِهِ، وَبَصَرَهُ الَّذِي يُبْصِرُ بِهِ، وَيَدَهُ الَّتِي يَبْطِشُ بِهَا، وَرِجْلَهُ الَّتِي يَمْشِي بِهَا، وَلَئِنْ سَأَلَنِي لأَُعْطِيَنَّهُ، وَلَئِنِ اسْتَعَاذَنِي لأَُعِيذَنَّهُ\").",
+      "english_translation": "From Abū Hurayrah (raḍiyallāhu ʿanhu) who said: The Prophet (ṣallallāhu ʿalayhi wasallam) said: Allāh, the Exalted, says, 'Whoever shows enmity to a friend of Mine, I shall be at war with him. My servant does not draw near to Me with anything more loved by Me than the religious duties I have obligated upon him, and My servant continues to draw near to Me with supererogatory deeds until I love him. When I love him I am his hearing with which he hears, his seeing with which he sees, his hand with which he strikes, and his foot with which he walks. Were he to ask [something] of Me, I would surely give it to him and were he to ask Me for refuge, I would surely grant him it.'",
+      "description": "This Hadith emphasizes Allah's relationship with His friends (Awliyāʾ), detailing how drawing closer to Allah through obligatory and supererogatory deeds leads to divine love and support. It warns those who show enmity to Allah's friends.",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_38.mp3"
+    },
+    {
+      "hadith_number": 39,
+      "title": "Mistakes and Forgetfulness",
+      "narrator": "ʿAbd Allāh bin ʿAbbās",
+      "source": "Ibn Mājah, al-Bayhaqī",
+      "arabic_text": "عَنِ [ابنِ عبَّاسٍ] رَضِي اللهُ عَنْهُما، أَنَّ messenger of Allah صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قالَ: \"إنَّ اللهَ تَجَاوَزَ لِي عَنْ أُمَّتِي: الْخَطَأَ، وَالنِّسْيَانَ، وَمَا اسْتُكْرِهُوا عَلَيْهِ\".",
+      "english_translation": "From Ibn ʿAbbās (raḍiyallāhu ʿanhumā) that the Messenger of Allāh (ṣallallāhu ʿalayhi wasallam) said, 'Allāh has overlooked my people for me, for [their] mistakes, [their] forgetfulness and for what they have done under compulsion.'",
+      "description": "This Hadith states that Allah has forgiven the Muslim Ummah for actions committed due to mistakes, forgetfulness, or under compulsion. It provides comfort and hope to Muslims regarding unintentional errors.",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_39.mp3"
+    },
+    {
+      "hadith_number": 40,
+      "title": "Be in the World as a Stranger",
+      "narrator": "ʿAbd Allāh bin ʿUmar",
+      "source": "al-Bukhārī",
+      "arabic_text": "عن [ابنِ عمرَ] رَضِي اللهُ عَنْهُما قالَ: (أَخَذَ messenger of Allah صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِمَنْكِبَيَّ فقالَ: \"كُنْ فِي الدُّنْيَا كَأَنَّكَ غَرِيبٌ أَوْ عَابِرُ سَبِيلٍ\"). وَكَانَ ابنُ عُمَر رَضِي اللهُ عَنْهُما يَقُولُ: إِذَا أَمْسَيـْتَ فَلَا تَنْتَظِرِ الصَّبَاحَ، وَإِذَا أَصْبَحْتَ فَلَا تَنْتَظِرِ المساءَ، وَخُذْ مِن صِحَّتِكَ لِمَرَضِكَ، وَمِنْ حَيَاتِكَ لِمَوْتِكَ.",
+      "english_translation": "From Ibn ʿUmar (raḍiyallāhu ʿanhumā) who said: The Messenger of Allāh (ṣallallāhu ʿalayhi wasallam) took me by the shoulder and said, 'Be in the world as though you were a stranger or a traveller.' And Ibn ʿUmar used to say, 'At evening do not expect (to live till) morning, and at morning do not expect (to live till) evening. Take from your health for your illness and from your life for your death.'",
+      "description": "This Hadith encapsulates an important principle of Islamic living, advising believers to view their time in this world with a transient perspective, preparing for the Hereafter. Ibn ʿUmar's commentary emphasizes the importance of utilizing one's present health and life for future needs.",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_40.mp3"
+    },
+    {
+      "hadith_number": 41,
+      "title": "Following the Prophet",
+      "narrator": "ʿAbd Allāh bin ʿAmr bin al-ʿĀṣ",
+      "source": "al-Nawawī in Kitāb al-Ḥujjah",
+      "arabic_text": "عَنْ [أَبي مُحَمّدٍ عَبْدِ اللهِ بنِ عَمْرِو بنِ العاصِ] رَضِي اللهُ عَنْهُما قالَ: (قالَ messenger of Allah صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: \"لاَ يُؤْمِنُ أَحَدُكُمْ حَتَّى يَكُونَ هَواهُ تَبَعًا لِمَا جِئْتُ بِهِ\").",
+      "english_translation": "From Abū Muḥammad ʿAbd ِAllāh bin ʿAmr bin al-ʿĀṣ (raḍiyallāhu ʿanhumā) who said: The Messenger of Allāh (ṣallallāhu ʿalayhi wasallam) said, 'None of you truly believes until his inclination is in accordance with what I have brought.'",
+      "description": "This Hadith emphasizes that true faith requires one's desires and inclinations to be in accordance with the teachings of the Prophet Muhammad. It calls for complete submission to the Sunnah.",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_41.mp3"
+    },
+    {
+      "hadith_number": 42,
+      "title": "Allāh's Vast Mercy",
+      "narrator": "Anas bin Mālik",
+      "source": "Tirmidhī",
+      "arabic_text": "عَنْ [أَنَسٍ] رَضِي اللهُ عَنْهُ قالَ: (سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَقولُ: \"قَالَ اللهُ تَعَالَى: يَا ابْنَ آدَمَ، إِنَّكَ مَا دَعَوْتَنِي وَرَجَوْتَنِي غَفَرْتُ لَكَ عَلَى مَا كَانَ مِنْكَ وَلاَ أُبَالِي، يَا ابْنَ آدَمَ، لَوْ بَلَغَتْ ذُنُوبُكَ عَنَانَ السَّمَاءِ ثُمَّ اسْتَغْفَرْتَنِي غَفَرْتُ لَكَ، يَا ابْنَ آدَمَ، إِنَّكَ لَوْ أَتَيْتَنِي بِقُرَابِ الأَرْضِ خَطَايَا ثُمَّ لَقِيتَنِي لاَ تُشْرِكُ بِي شَيْئًا لأََتَيْتُكَ بِقُرَابِهَا مَغْفِرَةً\").",
+      "english_translation": "From Anas (raḍiyallāhu ʿanhu) who said: I heard the Messenger of Allāh (ṣallallāhu ʿalayhi wasallam) saying: Allāh the Exalted has said, 'O son of Ādam, so long as you call upon Me and ask of Me, I shall forgive you for what you have done, and I shall not mind. O son of Ādam, were your sins to reach the clouds of the sky and were you then to ask forgiveness of Me, I would forgive you. O son of Ādam, were you to come to Me with sins nearly as great as the earth and were you then to face Me, ascribing no partner to Me, I would in turn bring you forgiveness nearly as great as (the earth).'",
+      "description": "This Hadith emphasizes the immense mercy and forgiveness of Allah for those who call upon Him, seek forgiveness, and do not associate partners with Him. It highlights that no matter how great the sins, Allah's forgiveness is greater, provided one seeks it and maintains pure monotheism.",
+      "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_42.mp3"
+    }
+  ],
+  "audio_information": {
+    "note": "Audio links were not directly available on the extracted webpage content. The website may provide audio resources through separate media players or downloadable audio files that require direct access to the website's audio infrastructure.",
+    "recommendation": "To obtain the audio recordings for these hadiths, please visit https://www.nawawis40hadith.com/nw/ and navigate to each hadith page to access any available audio resources, or contact the website administrator for information about audio availability and download options."
+  },
+  "scholars_providing_commentaries": [
+    "Shaykh Ṣaliḥ al-Fawzān (from \"Al-Minḥat al-Rabbāniyyah Fī Sharḥ al-Arbaʿīn al-Nawawiyyah\")",
+    "Shaykh ʿAbd al-Muḥsin al-ʿAbbād (from \"Fatḥ al-Qawiyy al-Matīn\")",
+    "Shaykh Muḥammad bin Ṣāliḥ al-ʿUthaymīn (from \"Sharḥ al-Arbaʿīn al-Nawawiyyah\")",
+    "Shaykh Ṣāliḥ Āl al-Shaykh (from \"Sharḥ al-Arbaʿīn al-Nawawiyyah\")",
+    "Shaykh Ismaʿīl bin Muḥammad al-Anṣārī (from \"Al-Tuḥfah al-Rabbāniyyah Fī Sharḥ al-Arbaʿīn Hadīthan al-Nawawiyyah\")"
+  ]
+}
