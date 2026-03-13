@@ -5,5 +5,6 @@
   "source": "Tirmidhī",
   "arabic_text": "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه و سلم مِنْ حُسْنِ إسْلَامِ الْمَرْءِ تَرْكُهُ مَا لَا يَعْنِيهِ . حَدِيثٌ حَسَنٌ، رَوَاهُ التِّرْمِذِيُّ [رقم: 2318] ، ابن ماجه [رقم:]",
   "english_translation": "From Abū Hurayrah (raḍiyallāhu ʿanhu) who said: The Messenger of Allāh (ṣallallāhu ʿalayhi wasallam) said, 'From the excellence of a man's Islām is his abandonment of that which does not concern him.'",
-  "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_12.mp3"
+  "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_12.mp3",
+  "sync_url": "https://uthumany.github.io/nawawi-40-hadiths/api/sync/hadith_12.json"
 }

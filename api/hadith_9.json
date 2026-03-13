@@ -5,5 +5,6 @@
   "source": "al-Bukhārī, Muslim",
   "arabic_text": "عَنْ أَبِي هُرَيْرَةَ عَبْدِ الرَّحْمَنِ بْنِ صَخْرٍ رَضِيَ اللهُ عَنْهُ قَالَ: سَمِعْت رَسُولَ اللَّهِ صلى الله عليه و سلم يَقُولُ: مَا نَهَيْتُكُمْ عَنْهُ فَاجْتَنِبُوهُ، وَمَا أَمَرْتُكُمْ بِهِ فَأْتُوا مِنْهُ مَا اسْتَطَعْتُمْ، فَإِنَّمَا أَهْلَكَ الَّذِينَ مِنْ قَبْلِكُمْ كَثْرَةُ مَسَائِلِهِمْ وَاخْتِلَافُهُمْ عَلَى أَنْبِيَائِهِمْ .\n[رَوَاهُ الْبُخَارِيُّ] ،[وَمُسْلِمٌ]",
   "english_translation": "From Abū Hurayrah ʿAbd al-Raḥmān bin Ṣakhr (raḍiyallāhu ʿanhu) who said: I heard the Messenger of Allāh (ṣallallāhu ʿalayhi wasallam) saying, 'What I have forbidden you from then avoid it all, and whatever I have ordered you with then act upon as much of it as you are able, for verily, that which destroyed those who came before you was their abundant questioning and differing with their Prophets.'",
-  "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_09.mp3"
+  "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_09.mp3",
+  "sync_url": "https://uthumany.github.io/nawawi-40-hadiths/api/sync/hadith_9.json"
 }

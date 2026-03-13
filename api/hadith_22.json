@@ -5,5 +5,6 @@
   "source": "Muslim",
   "arabic_text": "عَنْ أَبِي عَبْدِ اللَّهِ جَابِرِ بْنِ عَبْدِ اللَّهِ الْأَنْصَارِيِّ رَضِيَ اللهُ عَنْهُمَا: أَنَّ رَجُلًا سَأَلَ رَسُولَ اللَّهِ صلى الله عليه و سلم فَقَالَ: أَرَأَيْت إذَا صَلَّيْت الْمَكْتُوبَاتِ، وَصُمْت رَمَضَانَ، وَأَحْلَلْت الْحَلَالَ، وَحَرَّمْت الْحَرَامَ، وَلَمْ أَزِدْ عَلَى ذَلِكَ شَيْئًا؛ أَأَدْخُلُ الْجَنَّةَ؟ قَالَ: نَعْمْ . [رَوَاهُ مُسْلِمٌ]",
   "english_translation": "From AbūʿAbd Allāh Jābir bin ʿAbd Allāh al-Ansārī (raḍiyallāhu ʿanhumā), that a man asked the Messenger of Allāh (ṣallallāhu ʿalayhi wasallam) and said: Do you consider that if I pray the prescribed prayers, fast in Ramaḍān, treat as lawful what is lawful and treat as unlawful what is unlawful, and I do not add anything else to that, shall I enter Paradise? He (the Messenger) said, 'Yes.'",
-  "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_22.mp3"
+  "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_22.mp3",
+  "sync_url": "https://uthumany.github.io/nawawi-40-hadiths/api/sync/hadith_22.json"
 }
