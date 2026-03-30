@@ -1,0 +1,406 @@
+{
+  "hadith_number": 22,
+  "text": "On the authority of Abu Abdullah Jabbir, the son of Abdullah al Ansari, may Allah be pleased of them both, a man asked the messenger of Allah, made the blessings and peace of Allah be upon him. Do you think that if I perform the obligatory prayers, fast in Ramadan, treat as lawful, that which is lawful, and treat as forbidden, that which is forbidden, and do nothing further. I shall enter Paradise, he said yes, and resulated by Muslim.",
+  "words": [
+    {
+      "word": "On",
+      "start": 0.0,
+      "end": 0.48
+    },
+    {
+      "word": "the",
+      "start": 0.48,
+      "end": 0.6
+    },
+    {
+      "word": "authority",
+      "start": 0.6,
+      "end": 1.04
+    },
+    {
+      "word": "of",
+      "start": 1.04,
+      "end": 1.44
+    },
+    {
+      "word": "Abu",
+      "start": 1.44,
+      "end": 1.6
+    },
+    {
+      "word": "Abdullah",
+      "start": 1.6,
+      "end": 2.2
+    },
+    {
+      "word": "Jabbir,",
+      "start": 2.2,
+      "end": 3.12
+    },
+    {
+      "word": "the",
+      "start": 3.84,
+      "end": 3.9
+    },
+    {
+      "word": "son",
+      "start": 3.9,
+      "end": 4.22
+    },
+    {
+      "word": "of",
+      "start": 4.22,
+      "end": 4.52
+    },
+    {
+      "word": "Abdullah",
+      "start": 4.52,
+      "end": 4.92
+    },
+    {
+      "word": "al",
+      "start": 4.92,
+      "end": 5.4
+    },
+    {
+      "word": "Ansari,",
+      "start": 5.4,
+      "end": 5.96
+    },
+    {
+      "word": "may",
+      "start": 6.52,
+      "end": 6.72
+    },
+    {
+      "word": "Allah",
+      "start": 6.72,
+      "end": 7.02
+    },
+    {
+      "word": "be",
+      "start": 7.02,
+      "end": 7.24
+    },
+    {
+      "word": "pleased",
+      "start": 7.24,
+      "end": 7.52
+    },
+    {
+      "word": "of",
+      "start": 7.52,
+      "end": 7.68
+    },
+    {
+      "word": "them",
+      "start": 7.68,
+      "end": 7.82
+    },
+    {
+      "word": "both,",
+      "start": 7.82,
+      "end": 8.36
+    },
+    {
+      "word": "a",
+      "start": 8.9,
+      "end": 8.98
+    },
+    {
+      "word": "man",
+      "start": 8.98,
+      "end": 9.18
+    },
+    {
+      "word": "asked",
+      "start": 9.18,
+      "end": 9.64
+    },
+    {
+      "word": "the",
+      "start": 9.64,
+      "end": 9.88
+    },
+    {
+      "word": "messenger",
+      "start": 9.88,
+      "end": 10.22
+    },
+    {
+      "word": "of",
+      "start": 10.22,
+      "end": 10.46
+    },
+    {
+      "word": "Allah,",
+      "start": 10.46,
+      "end": 10.98
+    },
+    {
+      "word": "made",
+      "start": 11.56,
+      "end": 11.72
+    },
+    {
+      "word": "the",
+      "start": 11.72,
+      "end": 12.0
+    },
+    {
+      "word": "blessings",
+      "start": 12.0,
+      "end": 12.12
+    },
+    {
+      "word": "and",
+      "start": 12.12,
+      "end": 12.4
+    },
+    {
+      "word": "peace",
+      "start": 12.4,
+      "end": 12.62
+    },
+    {
+      "word": "of",
+      "start": 12.62,
+      "end": 12.76
+    },
+    {
+      "word": "Allah",
+      "start": 12.76,
+      "end": 13.02
+    },
+    {
+      "word": "be",
+      "start": 13.02,
+      "end": 13.34
+    },
+    {
+      "word": "upon",
+      "start": 13.34,
+      "end": 13.54
+    },
+    {
+      "word": "him.",
+      "start": 13.54,
+      "end": 14.12
+    },
+    {
+      "word": "Do",
+      "start": 14.4,
+      "end": 14.56
+    },
+    {
+      "word": "you",
+      "start": 14.56,
+      "end": 14.74
+    },
+    {
+      "word": "think",
+      "start": 14.74,
+      "end": 15.12
+    },
+    {
+      "word": "that",
+      "start": 15.12,
+      "end": 15.4
+    },
+    {
+      "word": "if",
+      "start": 15.4,
+      "end": 15.54
+    },
+    {
+      "word": "I",
+      "start": 15.54,
+      "end": 15.72
+    },
+    {
+      "word": "perform",
+      "start": 15.72,
+      "end": 16.08
+    },
+    {
+      "word": "the",
+      "start": 16.08,
+      "end": 16.3
+    },
+    {
+      "word": "obligatory",
+      "start": 16.3,
+      "end": 16.7
+    },
+    {
+      "word": "prayers,",
+      "start": 16.7,
+      "end": 17.54
+    },
+    {
+      "word": "fast",
+      "start": 18.26,
+      "end": 18.5
+    },
+    {
+      "word": "in",
+      "start": 18.5,
+      "end": 18.78
+    },
+    {
+      "word": "Ramadan,",
+      "start": 18.78,
+      "end": 19.18
+    },
+    {
+      "word": "treat",
+      "start": 20.34,
+      "end": 20.52
+    },
+    {
+      "word": "as",
+      "start": 20.52,
+      "end": 20.82
+    },
+    {
+      "word": "lawful,",
+      "start": 20.82,
+      "end": 21.38
+    },
+    {
+      "word": "that",
+      "start": 21.68,
+      "end": 21.7
+    },
+    {
+      "word": "which",
+      "start": 21.7,
+      "end": 21.94
+    },
+    {
+      "word": "is",
+      "start": 21.94,
+      "end": 22.18
+    },
+    {
+      "word": "lawful,",
+      "start": 22.18,
+      "end": 22.74
+    },
+    {
+      "word": "and",
+      "start": 23.18,
+      "end": 23.38
+    },
+    {
+      "word": "treat",
+      "start": 23.38,
+      "end": 23.62
+    },
+    {
+      "word": "as",
+      "start": 23.62,
+      "end": 23.9
+    },
+    {
+      "word": "forbidden,",
+      "start": 23.9,
+      "end": 24.32
+    },
+    {
+      "word": "that",
+      "start": 24.92,
+      "end": 25.18
+    },
+    {
+      "word": "which",
+      "start": 25.18,
+      "end": 25.56
+    },
+    {
+      "word": "is",
+      "start": 25.56,
+      "end": 25.84
+    },
+    {
+      "word": "forbidden,",
+      "start": 25.84,
+      "end": 26.24
+    },
+    {
+      "word": "and",
+      "start": 27.1,
+      "end": 27.38
+    },
+    {
+      "word": "do",
+      "start": 27.38,
+      "end": 27.54
+    },
+    {
+      "word": "nothing",
+      "start": 27.54,
+      "end": 27.8
+    },
+    {
+      "word": "further.",
+      "start": 27.8,
+      "end": 28.36
+    },
+    {
+      "word": "I",
+      "start": 28.36,
+      "end": 29.38
+    },
+    {
+      "word": "shall",
+      "start": 29.38,
+      "end": 29.56
+    },
+    {
+      "word": "enter",
+      "start": 29.56,
+      "end": 29.84
+    },
+    {
+      "word": "Paradise,",
+      "start": 29.84,
+      "end": 30.3
+    },
+    {
+      "word": "he",
+      "start": 31.32,
+      "end": 31.38
+    },
+    {
+      "word": "said",
+      "start": 31.38,
+      "end": 31.58
+    },
+    {
+      "word": "yes,",
+      "start": 31.58,
+      "end": 32.24
+    },
+    {
+      "word": "and",
+      "start": 32.84,
+      "end": 32.92
+    },
+    {
+      "word": "resulated",
+      "start": 32.92,
+      "end": 33.4
+    },
+    {
+      "word": "by",
+      "start": 33.4,
+      "end": 33.66
+    },
+    {
+      "word": "Muslim.",
+      "start": 33.66,
+      "end": 33.9
+    }
+  ]
+}

@@ -1,0 +1,436 @@
+{
+  "hadith_number": 15,
+  "text": "On the authority of Abu Harayra may Allah be pleased with him, the messenger of Allah, may the blessings and peace of Allah be upon him, said, Let him who believes in Allah and the last day, either speak day, either speak good or keep silent, and let him who believes in Allah and the last day, be generous to his neighbour, and let him who believes in Allah, and the last day, be generous to his guest. It was related by Abu Harayra and Muslim.",
+  "words": [
+    {
+      "word": "On",
+      "start": 0.0,
+      "end": 0.64
+    },
+    {
+      "word": "the",
+      "start": 0.64,
+      "end": 0.7
+    },
+    {
+      "word": "authority",
+      "start": 0.7,
+      "end": 1.16
+    },
+    {
+      "word": "of",
+      "start": 1.16,
+      "end": 1.74
+    },
+    {
+      "word": "Abu",
+      "start": 1.74,
+      "end": 2.0
+    },
+    {
+      "word": "Harayra",
+      "start": 2.0,
+      "end": 2.7
+    },
+    {
+      "word": "may",
+      "start": 2.7,
+      "end": 3.3
+    },
+    {
+      "word": "Allah",
+      "start": 3.3,
+      "end": 3.64
+    },
+    {
+      "word": "be",
+      "start": 3.64,
+      "end": 3.86
+    },
+    {
+      "word": "pleased",
+      "start": 3.86,
+      "end": 4.14
+    },
+    {
+      "word": "with",
+      "start": 4.14,
+      "end": 4.3
+    },
+    {
+      "word": "him,",
+      "start": 4.3,
+      "end": 4.82
+    },
+    {
+      "word": "the",
+      "start": 5.22,
+      "end": 5.34
+    },
+    {
+      "word": "messenger",
+      "start": 5.34,
+      "end": 5.84
+    },
+    {
+      "word": "of",
+      "start": 5.84,
+      "end": 6.22
+    },
+    {
+      "word": "Allah,",
+      "start": 6.22,
+      "end": 6.72
+    },
+    {
+      "word": "may",
+      "start": 7.42,
+      "end": 7.5
+    },
+    {
+      "word": "the",
+      "start": 7.5,
+      "end": 7.66
+    },
+    {
+      "word": "blessings",
+      "start": 7.66,
+      "end": 8.0
+    },
+    {
+      "word": "and",
+      "start": 8.0,
+      "end": 8.42
+    },
+    {
+      "word": "peace",
+      "start": 8.42,
+      "end": 8.7
+    },
+    {
+      "word": "of",
+      "start": 8.7,
+      "end": 9.0
+    },
+    {
+      "word": "Allah",
+      "start": 9.0,
+      "end": 9.24
+    },
+    {
+      "word": "be",
+      "start": 9.24,
+      "end": 9.42
+    },
+    {
+      "word": "upon",
+      "start": 9.42,
+      "end": 9.64
+    },
+    {
+      "word": "him,",
+      "start": 9.64,
+      "end": 10.24
+    },
+    {
+      "word": "said,",
+      "start": 10.48,
+      "end": 10.74
+    },
+    {
+      "word": "Let",
+      "start": 11.36,
+      "end": 11.52
+    },
+    {
+      "word": "him",
+      "start": 11.52,
+      "end": 11.82
+    },
+    {
+      "word": "who",
+      "start": 11.82,
+      "end": 12.06
+    },
+    {
+      "word": "believes",
+      "start": 12.06,
+      "end": 12.34
+    },
+    {
+      "word": "in",
+      "start": 12.34,
+      "end": 12.66
+    },
+    {
+      "word": "Allah",
+      "start": 12.66,
+      "end": 12.94
+    },
+    {
+      "word": "and",
+      "start": 12.94,
+      "end": 13.5
+    },
+    {
+      "word": "the",
+      "start": 13.5,
+      "end": 13.62
+    },
+    {
+      "word": "last",
+      "start": 13.62,
+      "end": 13.9
+    },
+    {
+      "word": "day,",
+      "start": 13.9,
+      "end": 14.64
+    },
+    {
+      "word": "either",
+      "start": 15.32,
+      "end": 15.58
+    },
+    {
+      "word": "speak",
+      "start": 15.58,
+      "end": 15.9
+    },
+    {
+      "word": "day,",
+      "start": 15.9,
+      "end": 16.74
+    },
+    {
+      "word": "either",
+      "start": 17.5,
+      "end": 17.74
+    },
+    {
+      "word": "speak",
+      "start": 17.74,
+      "end": 18.06
+    },
+    {
+      "word": "good",
+      "start": 18.06,
+      "end": 18.64
+    },
+    {
+      "word": "or",
+      "start": 18.64,
+      "end": 19.36
+    },
+    {
+      "word": "keep",
+      "start": 19.36,
+      "end": 19.62
+    },
+    {
+      "word": "silent,",
+      "start": 19.62,
+      "end": 20.12
+    },
+    {
+      "word": "and",
+      "start": 20.98,
+      "end": 21.2
+    },
+    {
+      "word": "let",
+      "start": 21.2,
+      "end": 21.3
+    },
+    {
+      "word": "him",
+      "start": 21.3,
+      "end": 21.7
+    },
+    {
+      "word": "who",
+      "start": 21.7,
+      "end": 21.96
+    },
+    {
+      "word": "believes",
+      "start": 21.96,
+      "end": 22.2
+    },
+    {
+      "word": "in",
+      "start": 22.2,
+      "end": 22.54
+    },
+    {
+      "word": "Allah",
+      "start": 22.54,
+      "end": 22.9
+    },
+    {
+      "word": "and",
+      "start": 22.9,
+      "end": 23.52
+    },
+    {
+      "word": "the",
+      "start": 23.52,
+      "end": 23.7
+    },
+    {
+      "word": "last",
+      "start": 23.7,
+      "end": 23.98
+    },
+    {
+      "word": "day,",
+      "start": 23.98,
+      "end": 24.8
+    },
+    {
+      "word": "be",
+      "start": 25.38,
+      "end": 25.4
+    },
+    {
+      "word": "generous",
+      "start": 25.4,
+      "end": 25.84
+    },
+    {
+      "word": "to",
+      "start": 25.84,
+      "end": 26.22
+    },
+    {
+      "word": "his",
+      "start": 26.22,
+      "end": 26.44
+    },
+    {
+      "word": "neighbour,",
+      "start": 26.44,
+      "end": 26.88
+    },
+    {
+      "word": "and",
+      "start": 27.68,
+      "end": 27.88
+    },
+    {
+      "word": "let",
+      "start": 27.88,
+      "end": 28.0
+    },
+    {
+      "word": "him",
+      "start": 28.0,
+      "end": 28.4
+    },
+    {
+      "word": "who",
+      "start": 28.4,
+      "end": 28.6
+    },
+    {
+      "word": "believes",
+      "start": 28.6,
+      "end": 28.86
+    },
+    {
+      "word": "in",
+      "start": 28.86,
+      "end": 29.16
+    },
+    {
+      "word": "Allah,",
+      "start": 29.16,
+      "end": 29.44
+    },
+    {
+      "word": "and",
+      "start": 30.16,
+      "end": 30.46
+    },
+    {
+      "word": "the",
+      "start": 30.46,
+      "end": 30.64
+    },
+    {
+      "word": "last",
+      "start": 30.64,
+      "end": 30.9
+    },
+    {
+      "word": "day,",
+      "start": 30.9,
+      "end": 31.52
+    },
+    {
+      "word": "be",
+      "start": 32.12,
+      "end": 32.18
+    },
+    {
+      "word": "generous",
+      "start": 32.18,
+      "end": 32.58
+    },
+    {
+      "word": "to",
+      "start": 32.58,
+      "end": 32.78
+    },
+    {
+      "word": "his",
+      "start": 32.78,
+      "end": 33.02
+    },
+    {
+      "word": "guest.",
+      "start": 33.02,
+      "end": 33.56
+    },
+    {
+      "word": "It",
+      "start": 34.3,
+      "end": 34.46
+    },
+    {
+      "word": "was",
+      "start": 34.46,
+      "end": 34.58
+    },
+    {
+      "word": "related",
+      "start": 34.58,
+      "end": 35.04
+    },
+    {
+      "word": "by",
+      "start": 35.04,
+      "end": 35.38
+    },
+    {
+      "word": "Abu",
+      "start": 35.38,
+      "end": 35.6
+    },
+    {
+      "word": "Harayra",
+      "start": 35.6,
+      "end": 36.4
+    },
+    {
+      "word": "and",
+      "start": 36.4,
+      "end": 36.5
+    },
+    {
+      "word": "Muslim.",
+      "start": 36.5,
+      "end": 36.74
+    }
+  ]
+}

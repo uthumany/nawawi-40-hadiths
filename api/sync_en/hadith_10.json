@@ -1,0 +1,756 @@
+{
+  "hadith_number": 10,
+  "text": "On the authority of Abu Huraira, may Allah be pleased to have him, who said, the messenger of Allah, may the blessings and peace of Allah be upon him, said, Allah the Almighty is good and accepts only that which is good. Allah has commanded the faithful to do that which he commanded the messengers. And the Almighty has said, O ye messengers, eat of the good things and do right. And Allah the Almighty has said, O ye who believe, eat the good things wherewith we have provided you. Then he mentioned the case of a man who having journeyed far, is disheveled and dusty, and he spread sat His hands to the sky, saying, O Lord, O Lord, while His food is unlawful, His drink and lawful, His clothing and lawful, and He has nourished and loathily. So how can He be answered? It was related by Muslim.",
+  "words": [
+    {
+      "word": "On",
+      "start": 0.0,
+      "end": 0.7
+    },
+    {
+      "word": "the",
+      "start": 0.7,
+      "end": 0.8
+    },
+    {
+      "word": "authority",
+      "start": 0.8,
+      "end": 1.2
+    },
+    {
+      "word": "of",
+      "start": 1.2,
+      "end": 1.58
+    },
+    {
+      "word": "Abu",
+      "start": 1.58,
+      "end": 1.76
+    },
+    {
+      "word": "Huraira,",
+      "start": 1.76,
+      "end": 2.64
+    },
+    {
+      "word": "may",
+      "start": 3.22,
+      "end": 3.34
+    },
+    {
+      "word": "Allah",
+      "start": 3.34,
+      "end": 3.66
+    },
+    {
+      "word": "be",
+      "start": 3.66,
+      "end": 3.88
+    },
+    {
+      "word": "pleased",
+      "start": 3.88,
+      "end": 4.16
+    },
+    {
+      "word": "to",
+      "start": 4.16,
+      "end": 4.34
+    },
+    {
+      "word": "have",
+      "start": 4.34,
+      "end": 4.54
+    },
+    {
+      "word": "him,",
+      "start": 4.54,
+      "end": 4.82
+    },
+    {
+      "word": "who",
+      "start": 5.24,
+      "end": 5.46
+    },
+    {
+      "word": "said,",
+      "start": 5.46,
+      "end": 6.02
+    },
+    {
+      "word": "the",
+      "start": 6.6,
+      "end": 6.74
+    },
+    {
+      "word": "messenger",
+      "start": 6.74,
+      "end": 7.1
+    },
+    {
+      "word": "of",
+      "start": 7.1,
+      "end": 7.36
+    },
+    {
+      "word": "Allah,",
+      "start": 7.36,
+      "end": 7.78
+    },
+    {
+      "word": "may",
+      "start": 8.3,
+      "end": 8.54
+    },
+    {
+      "word": "the",
+      "start": 8.54,
+      "end": 8.68
+    },
+    {
+      "word": "blessings",
+      "start": 8.68,
+      "end": 8.98
+    },
+    {
+      "word": "and",
+      "start": 8.98,
+      "end": 9.28
+    },
+    {
+      "word": "peace",
+      "start": 9.28,
+      "end": 9.48
+    },
+    {
+      "word": "of",
+      "start": 9.48,
+      "end": 9.74
+    },
+    {
+      "word": "Allah",
+      "start": 9.74,
+      "end": 10.0
+    },
+    {
+      "word": "be",
+      "start": 10.0,
+      "end": 10.22
+    },
+    {
+      "word": "upon",
+      "start": 10.22,
+      "end": 10.44
+    },
+    {
+      "word": "him,",
+      "start": 10.44,
+      "end": 11.0
+    },
+    {
+      "word": "said,",
+      "start": 11.3,
+      "end": 11.76
+    },
+    {
+      "word": "Allah",
+      "start": 12.48,
+      "end": 12.66
+    },
+    {
+      "word": "the",
+      "start": 12.66,
+      "end": 12.9
+    },
+    {
+      "word": "Almighty",
+      "start": 12.9,
+      "end": 13.24
+    },
+    {
+      "word": "is",
+      "start": 13.24,
+      "end": 13.84
+    },
+    {
+      "word": "good",
+      "start": 13.84,
+      "end": 14.2
+    },
+    {
+      "word": "and",
+      "start": 14.2,
+      "end": 14.78
+    },
+    {
+      "word": "accepts",
+      "start": 14.78,
+      "end": 15.08
+    },
+    {
+      "word": "only",
+      "start": 15.08,
+      "end": 15.44
+    },
+    {
+      "word": "that",
+      "start": 15.44,
+      "end": 15.86
+    },
+    {
+      "word": "which",
+      "start": 15.86,
+      "end": 16.12
+    },
+    {
+      "word": "is",
+      "start": 16.12,
+      "end": 16.3
+    },
+    {
+      "word": "good.",
+      "start": 16.3,
+      "end": 16.84
+    },
+    {
+      "word": "Allah",
+      "start": 17.8,
+      "end": 18.08
+    },
+    {
+      "word": "has",
+      "start": 18.08,
+      "end": 18.4
+    },
+    {
+      "word": "commanded",
+      "start": 18.4,
+      "end": 18.74
+    },
+    {
+      "word": "the",
+      "start": 18.74,
+      "end": 19.04
+    },
+    {
+      "word": "faithful",
+      "start": 19.04,
+      "end": 19.4
+    },
+    {
+      "word": "to",
+      "start": 19.4,
+      "end": 20.12
+    },
+    {
+      "word": "do",
+      "start": 20.12,
+      "end": 20.32
+    },
+    {
+      "word": "that",
+      "start": 20.32,
+      "end": 20.56
+    },
+    {
+      "word": "which",
+      "start": 20.56,
+      "end": 20.74
+    },
+    {
+      "word": "he",
+      "start": 20.74,
+      "end": 21.0
+    },
+    {
+      "word": "commanded",
+      "start": 21.0,
+      "end": 21.3
+    },
+    {
+      "word": "the",
+      "start": 21.3,
+      "end": 21.6
+    },
+    {
+      "word": "messengers.",
+      "start": 21.6,
+      "end": 22.1
+    },
+    {
+      "word": "And",
+      "start": 23.02,
+      "end": 23.38
+    },
+    {
+      "word": "the",
+      "start": 23.38,
+      "end": 23.48
+    },
+    {
+      "word": "Almighty",
+      "start": 23.48,
+      "end": 23.8
+    },
+    {
+      "word": "has",
+      "start": 23.8,
+      "end": 24.06
+    },
+    {
+      "word": "said,",
+      "start": 24.06,
+      "end": 24.66
+    },
+    {
+      "word": "O",
+      "start": 25.24,
+      "end": 25.4
+    },
+    {
+      "word": "ye",
+      "start": 25.4,
+      "end": 25.58
+    },
+    {
+      "word": "messengers,",
+      "start": 25.58,
+      "end": 26.26
+    },
+    {
+      "word": "eat",
+      "start": 27.0,
+      "end": 27.14
+    },
+    {
+      "word": "of",
+      "start": 27.14,
+      "end": 27.38
+    },
+    {
+      "word": "the",
+      "start": 27.38,
+      "end": 27.46
+    },
+    {
+      "word": "good",
+      "start": 27.46,
+      "end": 27.66
+    },
+    {
+      "word": "things",
+      "start": 27.66,
+      "end": 28.14
+    },
+    {
+      "word": "and",
+      "start": 28.14,
+      "end": 28.76
+    },
+    {
+      "word": "do",
+      "start": 28.76,
+      "end": 29.0
+    },
+    {
+      "word": "right.",
+      "start": 29.0,
+      "end": 29.44
+    },
+    {
+      "word": "And",
+      "start": 30.28,
+      "end": 30.46
+    },
+    {
+      "word": "Allah",
+      "start": 30.46,
+      "end": 30.76
+    },
+    {
+      "word": "the",
+      "start": 30.76,
+      "end": 30.94
+    },
+    {
+      "word": "Almighty",
+      "start": 30.94,
+      "end": 31.42
+    },
+    {
+      "word": "has",
+      "start": 31.42,
+      "end": 31.72
+    },
+    {
+      "word": "said,",
+      "start": 31.72,
+      "end": 32.42
+    },
+    {
+      "word": "O",
+      "start": 33.0,
+      "end": 33.1
+    },
+    {
+      "word": "ye",
+      "start": 33.1,
+      "end": 33.34
+    },
+    {
+      "word": "who",
+      "start": 33.34,
+      "end": 33.56
+    },
+    {
+      "word": "believe,",
+      "start": 33.56,
+      "end": 34.04
+    },
+    {
+      "word": "eat",
+      "start": 34.96,
+      "end": 35.12
+    },
+    {
+      "word": "the",
+      "start": 35.12,
+      "end": 35.24
+    },
+    {
+      "word": "good",
+      "start": 35.24,
+      "end": 35.46
+    },
+    {
+      "word": "things",
+      "start": 35.46,
+      "end": 35.82
+    },
+    {
+      "word": "wherewith",
+      "start": 35.82,
+      "end": 36.5
+    },
+    {
+      "word": "we",
+      "start": 36.5,
+      "end": 37.14
+    },
+    {
+      "word": "have",
+      "start": 37.14,
+      "end": 37.4
+    },
+    {
+      "word": "provided",
+      "start": 37.4,
+      "end": 37.72
+    },
+    {
+      "word": "you.",
+      "start": 37.72,
+      "end": 38.38
+    },
+    {
+      "word": "Then",
+      "start": 39.02,
+      "end": 39.3
+    },
+    {
+      "word": "he",
+      "start": 39.3,
+      "end": 39.42
+    },
+    {
+      "word": "mentioned",
+      "start": 39.42,
+      "end": 39.84
+    },
+    {
+      "word": "the",
+      "start": 39.84,
+      "end": 40.3
+    },
+    {
+      "word": "case",
+      "start": 40.3,
+      "end": 40.56
+    },
+    {
+      "word": "of",
+      "start": 40.56,
+      "end": 41.24
+    },
+    {
+      "word": "a",
+      "start": 41.24,
+      "end": 41.46
+    },
+    {
+      "word": "man",
+      "start": 41.46,
+      "end": 41.96
+    },
+    {
+      "word": "who",
+      "start": 41.96,
+      "end": 42.6
+    },
+    {
+      "word": "having",
+      "start": 42.6,
+      "end": 42.88
+    },
+    {
+      "word": "journeyed",
+      "start": 42.88,
+      "end": 43.36
+    },
+    {
+      "word": "far,",
+      "start": 43.36,
+      "end": 43.82
+    },
+    {
+      "word": "is",
+      "start": 44.38,
+      "end": 44.5
+    },
+    {
+      "word": "disheveled",
+      "start": 44.5,
+      "end": 45.22
+    },
+    {
+      "word": "and",
+      "start": 45.22,
+      "end": 45.34
+    },
+    {
+      "word": "dusty,",
+      "start": 45.34,
+      "end": 45.84
+    },
+    {
+      "word": "and",
+      "start": 45.84,
+      "end": 46.58
+    },
+    {
+      "word": "he",
+      "start": 46.58,
+      "end": 46.74
+    },
+    {
+      "word": "spread",
+      "start": 46.74,
+      "end": 47.0
+    },
+    {
+      "word": "sat",
+      "start": 47.0,
+      "end": 47.3
+    },
+    {
+      "word": "His",
+      "start": 47.3,
+      "end": 47.42
+    },
+    {
+      "word": "hands",
+      "start": 47.42,
+      "end": 47.72
+    },
+    {
+      "word": "to",
+      "start": 47.72,
+      "end": 47.96
+    },
+    {
+      "word": "the",
+      "start": 47.96,
+      "end": 48.08
+    },
+    {
+      "word": "sky,",
+      "start": 48.08,
+      "end": 48.48
+    },
+    {
+      "word": "saying,",
+      "start": 49.1,
+      "end": 49.28
+    },
+    {
+      "word": "O",
+      "start": 50.12,
+      "end": 50.22
+    },
+    {
+      "word": "Lord,",
+      "start": 50.22,
+      "end": 50.6
+    },
+    {
+      "word": "O",
+      "start": 51.02,
+      "end": 51.1
+    },
+    {
+      "word": "Lord,",
+      "start": 51.1,
+      "end": 51.46
+    },
+    {
+      "word": "while",
+      "start": 52.44,
+      "end": 52.58
+    },
+    {
+      "word": "His",
+      "start": 52.58,
+      "end": 52.84
+    },
+    {
+      "word": "food",
+      "start": 52.84,
+      "end": 53.06
+    },
+    {
+      "word": "is",
+      "start": 53.06,
+      "end": 53.38
+    },
+    {
+      "word": "unlawful,",
+      "start": 53.38,
+      "end": 53.98
+    },
+    {
+      "word": "His",
+      "start": 54.46,
+      "end": 54.64
+    },
+    {
+      "word": "drink",
+      "start": 54.64,
+      "end": 54.92
+    },
+    {
+      "word": "and",
+      "start": 54.92,
+      "end": 55.32
+    },
+    {
+      "word": "lawful,",
+      "start": 55.32,
+      "end": 55.9
+    },
+    {
+      "word": "His",
+      "start": 56.26,
+      "end": 56.48
+    },
+    {
+      "word": "clothing",
+      "start": 56.48,
+      "end": 56.82
+    },
+    {
+      "word": "and",
+      "start": 56.82,
+      "end": 57.28
+    },
+    {
+      "word": "lawful,",
+      "start": 57.28,
+      "end": 58.04
+    },
+    {
+      "word": "and",
+      "start": 58.46,
+      "end": 58.64
+    },
+    {
+      "word": "He",
+      "start": 58.64,
+      "end": 58.76
+    },
+    {
+      "word": "has",
+      "start": 58.76,
+      "end": 58.94
+    },
+    {
+      "word": "nourished",
+      "start": 58.94,
+      "end": 59.24
+    },
+    {
+      "word": "and",
+      "start": 59.24,
+      "end": 59.46
+    },
+    {
+      "word": "loathily.",
+      "start": 59.46,
+      "end": 60.0
+    },
+    {
+      "word": "So",
+      "start": 60.88,
+      "end": 61.06
+    },
+    {
+      "word": "how",
+      "start": 61.06,
+      "end": 61.28
+    },
+    {
+      "word": "can",
+      "start": 61.28,
+      "end": 61.48
+    },
+    {
+      "word": "He",
+      "start": 61.48,
+      "end": 61.66
+    },
+    {
+      "word": "be",
+      "start": 61.66,
+      "end": 61.92
+    },
+    {
+      "word": "answered?",
+      "start": 61.92,
+      "end": 62.16
+    },
+    {
+      "word": "It",
+      "start": 63.3,
+      "end": 63.44
+    },
+    {
+      "word": "was",
+      "start": 63.44,
+      "end": 63.62
+    },
+    {
+      "word": "related",
+      "start": 63.62,
+      "end": 63.92
+    },
+    {
+      "word": "by",
+      "start": 63.92,
+      "end": 64.22
+    },
+    {
+      "word": "Muslim.",
+      "start": 64.22,
+      "end": 64.48
+    }
+  ]
+}

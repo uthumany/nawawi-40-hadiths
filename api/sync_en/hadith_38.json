@@ -1,0 +1,726 @@
+{
+  "hadith_number": 38,
+  "text": "On the authority of Abu Harayra, may Allah be pleased with him. He said, the messenger of Allah, may the blessings and peace of Allah be upon him. Said, Allah the Almighty has said, whoever shows enmity to a friend of mine, I shall be at war with him. My servant does not draw near to me, with anything more loved by my servant, continues to draw near to me, with superogatory works, so that I shall love him. When I love him, I am his hearing with which he hears, his seeing with which he sees, his hand with which he strikes, and his foot with which he walks. Why he to ask something of me? I would surely give it to him, and why he to ask me for refuge. I would surely grant him it. It was related by Abu Harayra.",
+  "words": [
+    {
+      "word": "On",
+      "start": 0.0,
+      "end": 0.6
+    },
+    {
+      "word": "the",
+      "start": 0.6,
+      "end": 0.68
+    },
+    {
+      "word": "authority",
+      "start": 0.68,
+      "end": 1.16
+    },
+    {
+      "word": "of",
+      "start": 1.16,
+      "end": 1.62
+    },
+    {
+      "word": "Abu",
+      "start": 1.62,
+      "end": 1.82
+    },
+    {
+      "word": "Harayra,",
+      "start": 1.82,
+      "end": 2.58
+    },
+    {
+      "word": "may",
+      "start": 3.18,
+      "end": 3.3
+    },
+    {
+      "word": "Allah",
+      "start": 3.3,
+      "end": 3.58
+    },
+    {
+      "word": "be",
+      "start": 3.58,
+      "end": 3.78
+    },
+    {
+      "word": "pleased",
+      "start": 3.78,
+      "end": 4.08
+    },
+    {
+      "word": "with",
+      "start": 4.08,
+      "end": 4.24
+    },
+    {
+      "word": "him.",
+      "start": 4.24,
+      "end": 4.72
+    },
+    {
+      "word": "He",
+      "start": 5.14,
+      "end": 5.34
+    },
+    {
+      "word": "said,",
+      "start": 5.34,
+      "end": 5.8
+    },
+    {
+      "word": "the",
+      "start": 6.4,
+      "end": 6.56
+    },
+    {
+      "word": "messenger",
+      "start": 6.56,
+      "end": 6.92
+    },
+    {
+      "word": "of",
+      "start": 6.92,
+      "end": 7.18
+    },
+    {
+      "word": "Allah,",
+      "start": 7.18,
+      "end": 7.7
+    },
+    {
+      "word": "may",
+      "start": 8.5,
+      "end": 8.54
+    },
+    {
+      "word": "the",
+      "start": 8.54,
+      "end": 8.72
+    },
+    {
+      "word": "blessings",
+      "start": 8.72,
+      "end": 9.04
+    },
+    {
+      "word": "and",
+      "start": 9.04,
+      "end": 9.4
+    },
+    {
+      "word": "peace",
+      "start": 9.4,
+      "end": 9.64
+    },
+    {
+      "word": "of",
+      "start": 9.64,
+      "end": 9.84
+    },
+    {
+      "word": "Allah",
+      "start": 9.84,
+      "end": 10.16
+    },
+    {
+      "word": "be",
+      "start": 10.16,
+      "end": 10.34
+    },
+    {
+      "word": "upon",
+      "start": 10.34,
+      "end": 10.58
+    },
+    {
+      "word": "him.",
+      "start": 10.58,
+      "end": 11.22
+    },
+    {
+      "word": "Said,",
+      "start": 11.56,
+      "end": 11.68
+    },
+    {
+      "word": "Allah",
+      "start": 12.7,
+      "end": 12.9
+    },
+    {
+      "word": "the",
+      "start": 12.9,
+      "end": 13.16
+    },
+    {
+      "word": "Almighty",
+      "start": 13.16,
+      "end": 13.46
+    },
+    {
+      "word": "has",
+      "start": 13.46,
+      "end": 13.86
+    },
+    {
+      "word": "said,",
+      "start": 13.86,
+      "end": 14.42
+    },
+    {
+      "word": "whoever",
+      "start": 15.08,
+      "end": 15.54
+    },
+    {
+      "word": "shows",
+      "start": 15.54,
+      "end": 16.02
+    },
+    {
+      "word": "enmity",
+      "start": 16.02,
+      "end": 16.5
+    },
+    {
+      "word": "to",
+      "start": 16.5,
+      "end": 16.88
+    },
+    {
+      "word": "a",
+      "start": 16.88,
+      "end": 17.06
+    },
+    {
+      "word": "friend",
+      "start": 17.06,
+      "end": 17.12
+    },
+    {
+      "word": "of",
+      "start": 17.12,
+      "end": 17.42
+    },
+    {
+      "word": "mine,",
+      "start": 17.42,
+      "end": 17.84
+    },
+    {
+      "word": "I",
+      "start": 18.6,
+      "end": 18.74
+    },
+    {
+      "word": "shall",
+      "start": 18.74,
+      "end": 18.92
+    },
+    {
+      "word": "be",
+      "start": 18.92,
+      "end": 19.08
+    },
+    {
+      "word": "at",
+      "start": 19.08,
+      "end": 19.28
+    },
+    {
+      "word": "war",
+      "start": 19.28,
+      "end": 19.38
+    },
+    {
+      "word": "with",
+      "start": 19.38,
+      "end": 19.66
+    },
+    {
+      "word": "him.",
+      "start": 19.66,
+      "end": 20.14
+    },
+    {
+      "word": "My",
+      "start": 21.06,
+      "end": 21.3
+    },
+    {
+      "word": "servant",
+      "start": 21.3,
+      "end": 21.68
+    },
+    {
+      "word": "does",
+      "start": 21.68,
+      "end": 21.92
+    },
+    {
+      "word": "not",
+      "start": 21.92,
+      "end": 22.2
+    },
+    {
+      "word": "draw",
+      "start": 22.2,
+      "end": 22.44
+    },
+    {
+      "word": "near",
+      "start": 22.44,
+      "end": 22.7
+    },
+    {
+      "word": "to",
+      "start": 22.7,
+      "end": 22.86
+    },
+    {
+      "word": "me,",
+      "start": 22.86,
+      "end": 23.32
+    },
+    {
+      "word": "with",
+      "start": 23.72,
+      "end": 23.98
+    },
+    {
+      "word": "anything",
+      "start": 23.98,
+      "end": 24.34
+    },
+    {
+      "word": "more",
+      "start": 24.34,
+      "end": 24.68
+    },
+    {
+      "word": "loved",
+      "start": 24.68,
+      "end": 25.06
+    },
+    {
+      "word": "by",
+      "start": 25.06,
+      "end": 25.4
+    },
+    {
+      "word": "my",
+      "start": 25.4,
+      "end": 25.68
+    },
+    {
+      "word": "servant,",
+      "start": 25.68,
+      "end": 26.16
+    },
+    {
+      "word": "continues",
+      "start": 26.86,
+      "end": 27.24
+    },
+    {
+      "word": "to",
+      "start": 27.24,
+      "end": 27.46
+    },
+    {
+      "word": "draw",
+      "start": 27.46,
+      "end": 27.72
+    },
+    {
+      "word": "near",
+      "start": 27.72,
+      "end": 27.96
+    },
+    {
+      "word": "to",
+      "start": 27.96,
+      "end": 28.14
+    },
+    {
+      "word": "me,",
+      "start": 28.14,
+      "end": 28.86
+    },
+    {
+      "word": "with",
+      "start": 29.16,
+      "end": 29.34
+    },
+    {
+      "word": "superogatory",
+      "start": 29.34,
+      "end": 30.02
+    },
+    {
+      "word": "works,",
+      "start": 30.02,
+      "end": 30.9
+    },
+    {
+      "word": "so",
+      "start": 31.48,
+      "end": 31.58
+    },
+    {
+      "word": "that",
+      "start": 31.58,
+      "end": 31.84
+    },
+    {
+      "word": "I",
+      "start": 31.84,
+      "end": 32.02
+    },
+    {
+      "word": "shall",
+      "start": 32.02,
+      "end": 32.22
+    },
+    {
+      "word": "love",
+      "start": 32.22,
+      "end": 32.42
+    },
+    {
+      "word": "him.",
+      "start": 32.42,
+      "end": 32.88
+    },
+    {
+      "word": "When",
+      "start": 33.36,
+      "end": 33.62
+    },
+    {
+      "word": "I",
+      "start": 33.62,
+      "end": 33.7
+    },
+    {
+      "word": "love",
+      "start": 33.7,
+      "end": 33.94
+    },
+    {
+      "word": "him,",
+      "start": 33.94,
+      "end": 34.54
+    },
+    {
+      "word": "I",
+      "start": 34.96,
+      "end": 35.08
+    },
+    {
+      "word": "am",
+      "start": 35.08,
+      "end": 35.28
+    },
+    {
+      "word": "his",
+      "start": 35.28,
+      "end": 35.6
+    },
+    {
+      "word": "hearing",
+      "start": 35.6,
+      "end": 35.82
+    },
+    {
+      "word": "with",
+      "start": 35.82,
+      "end": 36.04
+    },
+    {
+      "word": "which",
+      "start": 36.04,
+      "end": 36.32
+    },
+    {
+      "word": "he",
+      "start": 36.32,
+      "end": 36.54
+    },
+    {
+      "word": "hears,",
+      "start": 36.54,
+      "end": 37.1
+    },
+    {
+      "word": "his",
+      "start": 37.94,
+      "end": 38.26
+    },
+    {
+      "word": "seeing",
+      "start": 38.26,
+      "end": 38.6
+    },
+    {
+      "word": "with",
+      "start": 38.6,
+      "end": 38.92
+    },
+    {
+      "word": "which",
+      "start": 38.92,
+      "end": 39.22
+    },
+    {
+      "word": "he",
+      "start": 39.22,
+      "end": 39.42
+    },
+    {
+      "word": "sees,",
+      "start": 39.42,
+      "end": 39.98
+    },
+    {
+      "word": "his",
+      "start": 40.7,
+      "end": 40.96
+    },
+    {
+      "word": "hand",
+      "start": 40.96,
+      "end": 41.34
+    },
+    {
+      "word": "with",
+      "start": 41.34,
+      "end": 41.7
+    },
+    {
+      "word": "which",
+      "start": 41.7,
+      "end": 41.94
+    },
+    {
+      "word": "he",
+      "start": 41.94,
+      "end": 42.16
+    },
+    {
+      "word": "strikes,",
+      "start": 42.16,
+      "end": 42.62
+    },
+    {
+      "word": "and",
+      "start": 43.62,
+      "end": 43.82
+    },
+    {
+      "word": "his",
+      "start": 43.82,
+      "end": 44.02
+    },
+    {
+      "word": "foot",
+      "start": 44.02,
+      "end": 44.42
+    },
+    {
+      "word": "with",
+      "start": 44.42,
+      "end": 44.8
+    },
+    {
+      "word": "which",
+      "start": 44.8,
+      "end": 45.04
+    },
+    {
+      "word": "he",
+      "start": 45.04,
+      "end": 45.2
+    },
+    {
+      "word": "walks.",
+      "start": 45.2,
+      "end": 45.8
+    },
+    {
+      "word": "Why",
+      "start": 46.6,
+      "end": 46.8
+    },
+    {
+      "word": "he",
+      "start": 46.8,
+      "end": 46.96
+    },
+    {
+      "word": "to",
+      "start": 46.96,
+      "end": 47.18
+    },
+    {
+      "word": "ask",
+      "start": 47.18,
+      "end": 47.46
+    },
+    {
+      "word": "something",
+      "start": 47.46,
+      "end": 47.82
+    },
+    {
+      "word": "of",
+      "start": 47.82,
+      "end": 48.08
+    },
+    {
+      "word": "me?",
+      "start": 48.08,
+      "end": 48.58
+    },
+    {
+      "word": "I",
+      "start": 48.86,
+      "end": 49.16
+    },
+    {
+      "word": "would",
+      "start": 49.16,
+      "end": 49.3
+    },
+    {
+      "word": "surely",
+      "start": 49.3,
+      "end": 49.52
+    },
+    {
+      "word": "give",
+      "start": 49.52,
+      "end": 49.74
+    },
+    {
+      "word": "it",
+      "start": 49.74,
+      "end": 50.0
+    },
+    {
+      "word": "to",
+      "start": 50.0,
+      "end": 50.16
+    },
+    {
+      "word": "him,",
+      "start": 50.16,
+      "end": 50.6
+    },
+    {
+      "word": "and",
+      "start": 51.04,
+      "end": 51.34
+    },
+    {
+      "word": "why",
+      "start": 51.34,
+      "end": 51.42
+    },
+    {
+      "word": "he",
+      "start": 51.42,
+      "end": 51.56
+    },
+    {
+      "word": "to",
+      "start": 51.56,
+      "end": 51.84
+    },
+    {
+      "word": "ask",
+      "start": 51.84,
+      "end": 52.18
+    },
+    {
+      "word": "me",
+      "start": 52.18,
+      "end": 52.42
+    },
+    {
+      "word": "for",
+      "start": 52.42,
+      "end": 52.62
+    },
+    {
+      "word": "refuge.",
+      "start": 52.62,
+      "end": 53.12
+    },
+    {
+      "word": "I",
+      "start": 53.88,
+      "end": 54.08
+    },
+    {
+      "word": "would",
+      "start": 54.08,
+      "end": 54.28
+    },
+    {
+      "word": "surely",
+      "start": 54.28,
+      "end": 54.56
+    },
+    {
+      "word": "grant",
+      "start": 54.56,
+      "end": 54.88
+    },
+    {
+      "word": "him",
+      "start": 54.88,
+      "end": 55.12
+    },
+    {
+      "word": "it.",
+      "start": 55.12,
+      "end": 55.42
+    },
+    {
+      "word": "It",
+      "start": 55.42,
+      "end": 56.54
+    },
+    {
+      "word": "was",
+      "start": 56.54,
+      "end": 56.68
+    },
+    {
+      "word": "related",
+      "start": 56.68,
+      "end": 57.1
+    },
+    {
+      "word": "by",
+      "start": 57.1,
+      "end": 57.4
+    },
+    {
+      "word": "Abu",
+      "start": 57.4,
+      "end": 57.62
+    },
+    {
+      "word": "Harayra.",
+      "start": 57.62,
+      "end": 58.32
+    }
+  ]
+}

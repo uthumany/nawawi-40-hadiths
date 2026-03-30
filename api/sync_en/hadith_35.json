@@ -1,0 +1,781 @@
+{
+  "hadith_number": 35,
+  "text": "On the authority of Abu Harayra, may Allah be pleased with him. He said, the messenger of Allah made the blessings and peace of Allah be upon him. He said, do not vary one another. Do not inflate prices one to another. Do not hate one another. Do not turn away from one another. And do not undercut one another. But be you, a servants of Allah, brother. But be you, a servants of Allah, brothers. Al-Muslim is the brother of a Muslim. He now that oppressors nor does he fail him. He now that lies to him nor does he hold him in contempt. Piety is right here and he pointed to his breast three times. It is evil enough for a man to hold his brother in Muslim in contempt. The whole of a Muslim for another Muslim is immeasurable. His blood, his property and his honour. It was related by Muslim.",
+  "words": [
+    {
+      "word": "On",
+      "start": 0.0,
+      "end": 0.84
+    },
+    {
+      "word": "the",
+      "start": 0.84,
+      "end": 0.92
+    },
+    {
+      "word": "authority",
+      "start": 0.92,
+      "end": 1.38
+    },
+    {
+      "word": "of",
+      "start": 1.38,
+      "end": 1.86
+    },
+    {
+      "word": "Abu",
+      "start": 1.86,
+      "end": 2.08
+    },
+    {
+      "word": "Harayra,",
+      "start": 2.08,
+      "end": 2.72
+    },
+    {
+      "word": "may",
+      "start": 3.34,
+      "end": 3.42
+    },
+    {
+      "word": "Allah",
+      "start": 3.42,
+      "end": 3.76
+    },
+    {
+      "word": "be",
+      "start": 3.76,
+      "end": 3.94
+    },
+    {
+      "word": "pleased",
+      "start": 3.94,
+      "end": 4.2
+    },
+    {
+      "word": "with",
+      "start": 4.2,
+      "end": 4.38
+    },
+    {
+      "word": "him.",
+      "start": 4.38,
+      "end": 5.06
+    },
+    {
+      "word": "He",
+      "start": 5.32,
+      "end": 5.48
+    },
+    {
+      "word": "said,",
+      "start": 5.48,
+      "end": 5.96
+    },
+    {
+      "word": "the",
+      "start": 6.68,
+      "end": 6.82
+    },
+    {
+      "word": "messenger",
+      "start": 6.82,
+      "end": 7.14
+    },
+    {
+      "word": "of",
+      "start": 7.14,
+      "end": 7.38
+    },
+    {
+      "word": "Allah",
+      "start": 7.38,
+      "end": 7.92
+    },
+    {
+      "word": "made",
+      "start": 7.92,
+      "end": 8.5
+    },
+    {
+      "word": "the",
+      "start": 8.5,
+      "end": 8.76
+    },
+    {
+      "word": "blessings",
+      "start": 8.76,
+      "end": 8.9
+    },
+    {
+      "word": "and",
+      "start": 8.9,
+      "end": 9.2
+    },
+    {
+      "word": "peace",
+      "start": 9.2,
+      "end": 9.42
+    },
+    {
+      "word": "of",
+      "start": 9.42,
+      "end": 9.68
+    },
+    {
+      "word": "Allah",
+      "start": 9.68,
+      "end": 9.9
+    },
+    {
+      "word": "be",
+      "start": 9.9,
+      "end": 10.08
+    },
+    {
+      "word": "upon",
+      "start": 10.08,
+      "end": 10.3
+    },
+    {
+      "word": "him.",
+      "start": 10.3,
+      "end": 10.74
+    },
+    {
+      "word": "He",
+      "start": 11.06,
+      "end": 11.06
+    },
+    {
+      "word": "said,",
+      "start": 11.06,
+      "end": 11.44
+    },
+    {
+      "word": "do",
+      "start": 12.18,
+      "end": 12.36
+    },
+    {
+      "word": "not",
+      "start": 12.36,
+      "end": 12.6
+    },
+    {
+      "word": "vary",
+      "start": 12.6,
+      "end": 12.96
+    },
+    {
+      "word": "one",
+      "start": 12.96,
+      "end": 13.24
+    },
+    {
+      "word": "another.",
+      "start": 13.24,
+      "end": 13.68
+    },
+    {
+      "word": "Do",
+      "start": 14.8,
+      "end": 14.86
+    },
+    {
+      "word": "not",
+      "start": 14.86,
+      "end": 15.14
+    },
+    {
+      "word": "inflate",
+      "start": 15.14,
+      "end": 15.6
+    },
+    {
+      "word": "prices",
+      "start": 15.6,
+      "end": 16.12
+    },
+    {
+      "word": "one",
+      "start": 16.12,
+      "end": 16.58
+    },
+    {
+      "word": "to",
+      "start": 16.58,
+      "end": 16.96
+    },
+    {
+      "word": "another.",
+      "start": 16.96,
+      "end": 17.36
+    },
+    {
+      "word": "Do",
+      "start": 18.8,
+      "end": 18.96
+    },
+    {
+      "word": "not",
+      "start": 18.96,
+      "end": 19.24
+    },
+    {
+      "word": "hate",
+      "start": 19.24,
+      "end": 19.58
+    },
+    {
+      "word": "one",
+      "start": 19.58,
+      "end": 19.98
+    },
+    {
+      "word": "another.",
+      "start": 19.98,
+      "end": 20.46
+    },
+    {
+      "word": "Do",
+      "start": 21.42,
+      "end": 21.52
+    },
+    {
+      "word": "not",
+      "start": 21.52,
+      "end": 21.78
+    },
+    {
+      "word": "turn",
+      "start": 21.78,
+      "end": 22.02
+    },
+    {
+      "word": "away",
+      "start": 22.02,
+      "end": 22.5
+    },
+    {
+      "word": "from",
+      "start": 22.5,
+      "end": 22.86
+    },
+    {
+      "word": "one",
+      "start": 22.86,
+      "end": 23.0
+    },
+    {
+      "word": "another.",
+      "start": 23.0,
+      "end": 23.4
+    },
+    {
+      "word": "And",
+      "start": 24.6,
+      "end": 24.82
+    },
+    {
+      "word": "do",
+      "start": 24.82,
+      "end": 24.92
+    },
+    {
+      "word": "not",
+      "start": 24.92,
+      "end": 25.54
+    },
+    {
+      "word": "undercut",
+      "start": 25.54,
+      "end": 26.2
+    },
+    {
+      "word": "one",
+      "start": 26.2,
+      "end": 26.52
+    },
+    {
+      "word": "another.",
+      "start": 26.52,
+      "end": 26.94
+    },
+    {
+      "word": "But",
+      "start": 27.74,
+      "end": 28.06
+    },
+    {
+      "word": "be",
+      "start": 28.06,
+      "end": 28.4
+    },
+    {
+      "word": "you,",
+      "start": 28.4,
+      "end": 29.06
+    },
+    {
+      "word": "a",
+      "start": 29.74,
+      "end": 29.74
+    },
+    {
+      "word": "servants",
+      "start": 29.74,
+      "end": 30.04
+    },
+    {
+      "word": "of",
+      "start": 30.04,
+      "end": 30.32
+    },
+    {
+      "word": "Allah,",
+      "start": 30.32,
+      "end": 30.72
+    },
+    {
+      "word": "brother.",
+      "start": 31.42,
+      "end": 31.74
+    },
+    {
+      "word": "But",
+      "start": 32.48,
+      "end": 32.62
+    },
+    {
+      "word": "be",
+      "start": 32.62,
+      "end": 32.92
+    },
+    {
+      "word": "you,",
+      "start": 32.92,
+      "end": 33.48
+    },
+    {
+      "word": "a",
+      "start": 34.06,
+      "end": 34.06
+    },
+    {
+      "word": "servants",
+      "start": 34.06,
+      "end": 34.44
+    },
+    {
+      "word": "of",
+      "start": 34.44,
+      "end": 34.72
+    },
+    {
+      "word": "Allah,",
+      "start": 34.72,
+      "end": 35.2
+    },
+    {
+      "word": "brothers.",
+      "start": 35.78,
+      "end": 36.1
+    },
+    {
+      "word": "Al",
+      "start": 37.32,
+      "end": 37.48
+    },
+    {
+      "word": "-Muslim",
+      "start": 37.48,
+      "end": 37.84
+    },
+    {
+      "word": "is",
+      "start": 37.84,
+      "end": 38.32
+    },
+    {
+      "word": "the",
+      "start": 38.32,
+      "end": 38.48
+    },
+    {
+      "word": "brother",
+      "start": 38.48,
+      "end": 38.74
+    },
+    {
+      "word": "of",
+      "start": 38.74,
+      "end": 39.0
+    },
+    {
+      "word": "a",
+      "start": 39.0,
+      "end": 39.1
+    },
+    {
+      "word": "Muslim.",
+      "start": 39.1,
+      "end": 39.54
+    },
+    {
+      "word": "He",
+      "start": 40.78,
+      "end": 40.88
+    },
+    {
+      "word": "now",
+      "start": 40.88,
+      "end": 40.98
+    },
+    {
+      "word": "that",
+      "start": 40.98,
+      "end": 41.16
+    },
+    {
+      "word": "oppressors",
+      "start": 41.16,
+      "end": 43.02
+    },
+    {
+      "word": "nor",
+      "start": 43.02,
+      "end": 43.24
+    },
+    {
+      "word": "does",
+      "start": 43.24,
+      "end": 43.44
+    },
+    {
+      "word": "he",
+      "start": 43.44,
+      "end": 43.64
+    },
+    {
+      "word": "fail",
+      "start": 43.64,
+      "end": 43.84
+    },
+    {
+      "word": "him.",
+      "start": 43.84,
+      "end": 44.78
+    },
+    {
+      "word": "He",
+      "start": 45.28,
+      "end": 45.48
+    },
+    {
+      "word": "now",
+      "start": 45.48,
+      "end": 45.58
+    },
+    {
+      "word": "that",
+      "start": 45.58,
+      "end": 45.74
+    },
+    {
+      "word": "lies",
+      "start": 45.74,
+      "end": 46.06
+    },
+    {
+      "word": "to",
+      "start": 46.06,
+      "end": 46.26
+    },
+    {
+      "word": "him",
+      "start": 46.26,
+      "end": 47.02
+    },
+    {
+      "word": "nor",
+      "start": 47.02,
+      "end": 47.36
+    },
+    {
+      "word": "does",
+      "start": 47.36,
+      "end": 47.54
+    },
+    {
+      "word": "he",
+      "start": 47.54,
+      "end": 47.7
+    },
+    {
+      "word": "hold",
+      "start": 47.7,
+      "end": 47.88
+    },
+    {
+      "word": "him",
+      "start": 47.88,
+      "end": 48.1
+    },
+    {
+      "word": "in",
+      "start": 48.1,
+      "end": 48.2
+    },
+    {
+      "word": "contempt.",
+      "start": 48.2,
+      "end": 48.8
+    },
+    {
+      "word": "Piety",
+      "start": 50.1,
+      "end": 50.34
+    },
+    {
+      "word": "is",
+      "start": 50.34,
+      "end": 50.8
+    },
+    {
+      "word": "right",
+      "start": 50.8,
+      "end": 51.0
+    },
+    {
+      "word": "here",
+      "start": 51.0,
+      "end": 51.68
+    },
+    {
+      "word": "and",
+      "start": 51.68,
+      "end": 52.32
+    },
+    {
+      "word": "he",
+      "start": 52.32,
+      "end": 52.56
+    },
+    {
+      "word": "pointed",
+      "start": 52.56,
+      "end": 52.84
+    },
+    {
+      "word": "to",
+      "start": 52.84,
+      "end": 53.1
+    },
+    {
+      "word": "his",
+      "start": 53.1,
+      "end": 53.26
+    },
+    {
+      "word": "breast",
+      "start": 53.26,
+      "end": 53.62
+    },
+    {
+      "word": "three",
+      "start": 53.62,
+      "end": 54.02
+    },
+    {
+      "word": "times.",
+      "start": 54.02,
+      "end": 54.52
+    },
+    {
+      "word": "It",
+      "start": 55.38,
+      "end": 55.98
+    },
+    {
+      "word": "is",
+      "start": 55.98,
+      "end": 56.26
+    },
+    {
+      "word": "evil",
+      "start": 56.26,
+      "end": 56.52
+    },
+    {
+      "word": "enough",
+      "start": 56.52,
+      "end": 56.96
+    },
+    {
+      "word": "for",
+      "start": 56.96,
+      "end": 57.76
+    },
+    {
+      "word": "a",
+      "start": 57.76,
+      "end": 57.94
+    },
+    {
+      "word": "man",
+      "start": 57.94,
+      "end": 58.04
+    },
+    {
+      "word": "to",
+      "start": 58.04,
+      "end": 58.24
+    },
+    {
+      "word": "hold",
+      "start": 58.24,
+      "end": 58.4
+    },
+    {
+      "word": "his",
+      "start": 58.4,
+      "end": 58.68
+    },
+    {
+      "word": "brother",
+      "start": 58.68,
+      "end": 58.94
+    },
+    {
+      "word": "in",
+      "start": 58.94,
+      "end": 59.16
+    },
+    {
+      "word": "Muslim",
+      "start": 59.16,
+      "end": 59.4
+    },
+    {
+      "word": "in",
+      "start": 59.4,
+      "end": 60.3
+    },
+    {
+      "word": "contempt.",
+      "start": 60.3,
+      "end": 60.82
+    },
+    {
+      "word": "The",
+      "start": 61.98,
+      "end": 62.08
+    },
+    {
+      "word": "whole",
+      "start": 62.08,
+      "end": 62.3
+    },
+    {
+      "word": "of",
+      "start": 62.3,
+      "end": 62.46
+    },
+    {
+      "word": "a",
+      "start": 62.46,
+      "end": 62.58
+    },
+    {
+      "word": "Muslim",
+      "start": 62.58,
+      "end": 62.86
+    },
+    {
+      "word": "for",
+      "start": 62.86,
+      "end": 63.5
+    },
+    {
+      "word": "another",
+      "start": 63.5,
+      "end": 63.76
+    },
+    {
+      "word": "Muslim",
+      "start": 63.76,
+      "end": 64.2
+    },
+    {
+      "word": "is",
+      "start": 64.2,
+      "end": 64.88
+    },
+    {
+      "word": "immeasurable.",
+      "start": 64.88,
+      "end": 65.46
+    },
+    {
+      "word": "His",
+      "start": 66.38,
+      "end": 66.56
+    },
+    {
+      "word": "blood,",
+      "start": 66.56,
+      "end": 66.88
+    },
+    {
+      "word": "his",
+      "start": 67.32,
+      "end": 67.52
+    },
+    {
+      "word": "property",
+      "start": 67.52,
+      "end": 67.88
+    },
+    {
+      "word": "and",
+      "start": 67.88,
+      "end": 68.72
+    },
+    {
+      "word": "his",
+      "start": 68.72,
+      "end": 69.02
+    },
+    {
+      "word": "honour.",
+      "start": 69.02,
+      "end": 69.42
+    },
+    {
+      "word": "It",
+      "start": 70.86,
+      "end": 71.04
+    },
+    {
+      "word": "was",
+      "start": 71.04,
+      "end": 71.22
+    },
+    {
+      "word": "related",
+      "start": 71.22,
+      "end": 71.58
+    },
+    {
+      "word": "by",
+      "start": 71.58,
+      "end": 71.88
+    },
+    {
+      "word": "Muslim.",
+      "start": 71.88,
+      "end": 72.22
+    }
+  ]
+}

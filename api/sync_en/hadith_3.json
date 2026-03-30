@@ -1,0 +1,446 @@
+{
+  "hadith_number": 3,
+  "text": "On the authority of Abu Abd-Arhman Abdullah, the son of Umah Ibn-Akhatab, may Allah be pleased of them both, who said, I heard the messenger of Allah, made a blessings and peace of Allah be upon him. Say, Islam has been built on five pillars, testifying that there is no God but Allah, and that Muhammad is the messenger of Allah, performing the prayers, pain as a cut, making the pilgrimage to the house and fasting and Ramadan. It was related by Abu Khari and Muslim.",
+  "words": [
+    {
+      "word": "On",
+      "start": 0.0,
+      "end": 0.48
+    },
+    {
+      "word": "the",
+      "start": 0.48,
+      "end": 0.58
+    },
+    {
+      "word": "authority",
+      "start": 0.58,
+      "end": 0.98
+    },
+    {
+      "word": "of",
+      "start": 0.98,
+      "end": 1.4
+    },
+    {
+      "word": "Abu",
+      "start": 1.4,
+      "end": 1.7
+    },
+    {
+      "word": "Abd",
+      "start": 1.7,
+      "end": 2.3
+    },
+    {
+      "word": "-Arhman",
+      "start": 2.3,
+      "end": 2.86
+    },
+    {
+      "word": "Abdullah,",
+      "start": 2.86,
+      "end": 3.6
+    },
+    {
+      "word": "the",
+      "start": 4.32,
+      "end": 4.4
+    },
+    {
+      "word": "son",
+      "start": 4.4,
+      "end": 4.72
+    },
+    {
+      "word": "of",
+      "start": 4.72,
+      "end": 5.08
+    },
+    {
+      "word": "Umah",
+      "start": 5.08,
+      "end": 5.5
+    },
+    {
+      "word": "Ibn",
+      "start": 5.5,
+      "end": 5.8
+    },
+    {
+      "word": "-Akhatab,",
+      "start": 5.8,
+      "end": 6.5
+    },
+    {
+      "word": "may",
+      "start": 7.18,
+      "end": 7.38
+    },
+    {
+      "word": "Allah",
+      "start": 7.38,
+      "end": 7.66
+    },
+    {
+      "word": "be",
+      "start": 7.66,
+      "end": 7.92
+    },
+    {
+      "word": "pleased",
+      "start": 7.92,
+      "end": 8.2
+    },
+    {
+      "word": "of",
+      "start": 8.2,
+      "end": 8.38
+    },
+    {
+      "word": "them",
+      "start": 8.38,
+      "end": 8.54
+    },
+    {
+      "word": "both,",
+      "start": 8.54,
+      "end": 9.02
+    },
+    {
+      "word": "who",
+      "start": 9.38,
+      "end": 9.5
+    },
+    {
+      "word": "said,",
+      "start": 9.5,
+      "end": 9.96
+    },
+    {
+      "word": "I",
+      "start": 10.4,
+      "end": 10.54
+    },
+    {
+      "word": "heard",
+      "start": 10.54,
+      "end": 10.84
+    },
+    {
+      "word": "the",
+      "start": 10.84,
+      "end": 11.08
+    },
+    {
+      "word": "messenger",
+      "start": 11.08,
+      "end": 11.4
+    },
+    {
+      "word": "of",
+      "start": 11.4,
+      "end": 11.74
+    },
+    {
+      "word": "Allah,",
+      "start": 11.74,
+      "end": 12.1
+    },
+    {
+      "word": "made",
+      "start": 12.52,
+      "end": 12.64
+    },
+    {
+      "word": "a",
+      "start": 12.64,
+      "end": 12.96
+    },
+    {
+      "word": "blessings",
+      "start": 12.96,
+      "end": 13.04
+    },
+    {
+      "word": "and",
+      "start": 13.04,
+      "end": 13.32
+    },
+    {
+      "word": "peace",
+      "start": 13.32,
+      "end": 13.56
+    },
+    {
+      "word": "of",
+      "start": 13.56,
+      "end": 13.72
+    },
+    {
+      "word": "Allah",
+      "start": 13.72,
+      "end": 13.98
+    },
+    {
+      "word": "be",
+      "start": 13.98,
+      "end": 14.18
+    },
+    {
+      "word": "upon",
+      "start": 14.18,
+      "end": 14.38
+    },
+    {
+      "word": "him.",
+      "start": 14.38,
+      "end": 15.08
+    },
+    {
+      "word": "Say,",
+      "start": 15.4,
+      "end": 15.58
+    },
+    {
+      "word": "Islam",
+      "start": 16.3,
+      "end": 16.76
+    },
+    {
+      "word": "has",
+      "start": 16.76,
+      "end": 17.08
+    },
+    {
+      "word": "been",
+      "start": 17.08,
+      "end": 17.26
+    },
+    {
+      "word": "built",
+      "start": 17.26,
+      "end": 17.48
+    },
+    {
+      "word": "on",
+      "start": 17.48,
+      "end": 17.78
+    },
+    {
+      "word": "five",
+      "start": 17.78,
+      "end": 18.12
+    },
+    {
+      "word": "pillars,",
+      "start": 18.12,
+      "end": 18.72
+    },
+    {
+      "word": "testifying",
+      "start": 19.44,
+      "end": 19.98
+    },
+    {
+      "word": "that",
+      "start": 19.98,
+      "end": 20.24
+    },
+    {
+      "word": "there",
+      "start": 20.24,
+      "end": 20.36
+    },
+    {
+      "word": "is",
+      "start": 20.36,
+      "end": 20.52
+    },
+    {
+      "word": "no",
+      "start": 20.52,
+      "end": 20.74
+    },
+    {
+      "word": "God",
+      "start": 20.74,
+      "end": 20.92
+    },
+    {
+      "word": "but",
+      "start": 20.92,
+      "end": 21.26
+    },
+    {
+      "word": "Allah,",
+      "start": 21.26,
+      "end": 21.7
+    },
+    {
+      "word": "and",
+      "start": 22.3,
+      "end": 22.48
+    },
+    {
+      "word": "that",
+      "start": 22.48,
+      "end": 22.64
+    },
+    {
+      "word": "Muhammad",
+      "start": 22.64,
+      "end": 22.96
+    },
+    {
+      "word": "is",
+      "start": 22.96,
+      "end": 23.38
+    },
+    {
+      "word": "the",
+      "start": 23.38,
+      "end": 23.54
+    },
+    {
+      "word": "messenger",
+      "start": 23.54,
+      "end": 23.78
+    },
+    {
+      "word": "of",
+      "start": 23.78,
+      "end": 24.1
+    },
+    {
+      "word": "Allah,",
+      "start": 24.1,
+      "end": 24.64
+    },
+    {
+      "word": "performing",
+      "start": 25.52,
+      "end": 25.76
+    },
+    {
+      "word": "the",
+      "start": 25.76,
+      "end": 26.14
+    },
+    {
+      "word": "prayers,",
+      "start": 26.14,
+      "end": 26.6
+    },
+    {
+      "word": "pain",
+      "start": 27.3,
+      "end": 27.48
+    },
+    {
+      "word": "as",
+      "start": 27.48,
+      "end": 27.74
+    },
+    {
+      "word": "a",
+      "start": 27.74,
+      "end": 27.88
+    },
+    {
+      "word": "cut,",
+      "start": 27.88,
+      "end": 28.28
+    },
+    {
+      "word": "making",
+      "start": 28.96,
+      "end": 29.28
+    },
+    {
+      "word": "the",
+      "start": 29.28,
+      "end": 29.56
+    },
+    {
+      "word": "pilgrimage",
+      "start": 29.56,
+      "end": 29.98
+    },
+    {
+      "word": "to",
+      "start": 29.98,
+      "end": 30.28
+    },
+    {
+      "word": "the",
+      "start": 30.28,
+      "end": 30.48
+    },
+    {
+      "word": "house",
+      "start": 30.48,
+      "end": 31.02
+    },
+    {
+      "word": "and",
+      "start": 31.02,
+      "end": 31.66
+    },
+    {
+      "word": "fasting",
+      "start": 31.66,
+      "end": 32.02
+    },
+    {
+      "word": "and",
+      "start": 32.02,
+      "end": 32.26
+    },
+    {
+      "word": "Ramadan.",
+      "start": 32.26,
+      "end": 32.6
+    },
+    {
+      "word": "It",
+      "start": 33.96,
+      "end": 34.04
+    },
+    {
+      "word": "was",
+      "start": 34.04,
+      "end": 34.24
+    },
+    {
+      "word": "related",
+      "start": 34.24,
+      "end": 34.58
+    },
+    {
+      "word": "by",
+      "start": 34.58,
+      "end": 34.88
+    },
+    {
+      "word": "Abu",
+      "start": 34.88,
+      "end": 35.12
+    },
+    {
+      "word": "Khari",
+      "start": 35.12,
+      "end": 35.66
+    },
+    {
+      "word": "and",
+      "start": 35.66,
+      "end": 36.06
+    },
+    {
+      "word": "Muslim.",
+      "start": 36.06,
+      "end": 36.26
+    }
+  ]
+}

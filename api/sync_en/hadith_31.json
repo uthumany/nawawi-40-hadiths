@@ -1,0 +1,491 @@
+{
+  "hadith_number": 31,
+  "text": "On the authority of Abu Al-Ala-Bas Sahil Ibn Sadi, May Allah be pleased with him, who said, A man came to the prophet, May the blessings and peace of Allah be upon him, and said, O Messenger of Allah, direct me to an act, which if I do it, will cause Allah to love me, and people to love me. He said, Renance the world, and Allah will love you, and renounce what people possess, and people will love you. A good head-eat, related by Ibn Majah, and others with good chains of authorities.",
+  "words": [
+    {
+      "word": "On",
+      "start": 0.0,
+      "end": 0.62
+    },
+    {
+      "word": "the",
+      "start": 0.62,
+      "end": 0.7
+    },
+    {
+      "word": "authority",
+      "start": 0.7,
+      "end": 1.26
+    },
+    {
+      "word": "of",
+      "start": 1.26,
+      "end": 2.14
+    },
+    {
+      "word": "Abu",
+      "start": 2.14,
+      "end": 2.32
+    },
+    {
+      "word": "Al",
+      "start": 2.32,
+      "end": 2.6
+    },
+    {
+      "word": "-Ala",
+      "start": 2.6,
+      "end": 2.6
+    },
+    {
+      "word": "-Bas",
+      "start": 2.6,
+      "end": 3.04
+    },
+    {
+      "word": "Sahil",
+      "start": 3.04,
+      "end": 3.86
+    },
+    {
+      "word": "Ibn",
+      "start": 3.86,
+      "end": 4.28
+    },
+    {
+      "word": "Sadi,",
+      "start": 4.28,
+      "end": 4.92
+    },
+    {
+      "word": "May",
+      "start": 6.46,
+      "end": 6.64
+    },
+    {
+      "word": "Allah",
+      "start": 6.64,
+      "end": 6.94
+    },
+    {
+      "word": "be",
+      "start": 6.94,
+      "end": 7.18
+    },
+    {
+      "word": "pleased",
+      "start": 7.18,
+      "end": 7.48
+    },
+    {
+      "word": "with",
+      "start": 7.48,
+      "end": 7.62
+    },
+    {
+      "word": "him,",
+      "start": 7.62,
+      "end": 8.28
+    },
+    {
+      "word": "who",
+      "start": 8.5,
+      "end": 8.68
+    },
+    {
+      "word": "said,",
+      "start": 8.68,
+      "end": 9.28
+    },
+    {
+      "word": "A",
+      "start": 9.72,
+      "end": 9.92
+    },
+    {
+      "word": "man",
+      "start": 9.92,
+      "end": 10.06
+    },
+    {
+      "word": "came",
+      "start": 10.06,
+      "end": 10.3
+    },
+    {
+      "word": "to",
+      "start": 10.3,
+      "end": 10.48
+    },
+    {
+      "word": "the",
+      "start": 10.48,
+      "end": 10.7
+    },
+    {
+      "word": "prophet,",
+      "start": 10.7,
+      "end": 11.04
+    },
+    {
+      "word": "May",
+      "start": 12.18,
+      "end": 12.28
+    },
+    {
+      "word": "the",
+      "start": 12.28,
+      "end": 12.46
+    },
+    {
+      "word": "blessings",
+      "start": 12.46,
+      "end": 12.78
+    },
+    {
+      "word": "and",
+      "start": 12.78,
+      "end": 13.12
+    },
+    {
+      "word": "peace",
+      "start": 13.12,
+      "end": 13.34
+    },
+    {
+      "word": "of",
+      "start": 13.34,
+      "end": 13.6
+    },
+    {
+      "word": "Allah",
+      "start": 13.6,
+      "end": 13.86
+    },
+    {
+      "word": "be",
+      "start": 13.86,
+      "end": 14.1
+    },
+    {
+      "word": "upon",
+      "start": 14.1,
+      "end": 14.34
+    },
+    {
+      "word": "him,",
+      "start": 14.34,
+      "end": 15.16
+    },
+    {
+      "word": "and",
+      "start": 15.32,
+      "end": 15.56
+    },
+    {
+      "word": "said,",
+      "start": 15.56,
+      "end": 15.98
+    },
+    {
+      "word": "O",
+      "start": 16.52,
+      "end": 16.7
+    },
+    {
+      "word": "Messenger",
+      "start": 16.7,
+      "end": 17.08
+    },
+    {
+      "word": "of",
+      "start": 17.08,
+      "end": 17.32
+    },
+    {
+      "word": "Allah,",
+      "start": 17.32,
+      "end": 17.94
+    },
+    {
+      "word": "direct",
+      "start": 18.74,
+      "end": 18.96
+    },
+    {
+      "word": "me",
+      "start": 18.96,
+      "end": 19.22
+    },
+    {
+      "word": "to",
+      "start": 19.22,
+      "end": 19.38
+    },
+    {
+      "word": "an",
+      "start": 19.38,
+      "end": 19.68
+    },
+    {
+      "word": "act,",
+      "start": 19.68,
+      "end": 20.04
+    },
+    {
+      "word": "which",
+      "start": 20.58,
+      "end": 20.7
+    },
+    {
+      "word": "if",
+      "start": 20.7,
+      "end": 20.96
+    },
+    {
+      "word": "I",
+      "start": 20.96,
+      "end": 21.12
+    },
+    {
+      "word": "do",
+      "start": 21.12,
+      "end": 21.3
+    },
+    {
+      "word": "it,",
+      "start": 21.3,
+      "end": 21.98
+    },
+    {
+      "word": "will",
+      "start": 22.44,
+      "end": 22.56
+    },
+    {
+      "word": "cause",
+      "start": 22.56,
+      "end": 22.84
+    },
+    {
+      "word": "Allah",
+      "start": 22.84,
+      "end": 23.26
+    },
+    {
+      "word": "to",
+      "start": 23.26,
+      "end": 23.7
+    },
+    {
+      "word": "love",
+      "start": 23.7,
+      "end": 23.9
+    },
+    {
+      "word": "me,",
+      "start": 23.9,
+      "end": 24.38
+    },
+    {
+      "word": "and",
+      "start": 24.84,
+      "end": 25.04
+    },
+    {
+      "word": "people",
+      "start": 25.04,
+      "end": 25.38
+    },
+    {
+      "word": "to",
+      "start": 25.38,
+      "end": 25.74
+    },
+    {
+      "word": "love",
+      "start": 25.74,
+      "end": 25.98
+    },
+    {
+      "word": "me.",
+      "start": 25.98,
+      "end": 26.42
+    },
+    {
+      "word": "He",
+      "start": 26.72,
+      "end": 27.04
+    },
+    {
+      "word": "said,",
+      "start": 27.04,
+      "end": 27.52
+    },
+    {
+      "word": "Renance",
+      "start": 27.52,
+      "end": 28.52
+    },
+    {
+      "word": "the",
+      "start": 28.52,
+      "end": 28.76
+    },
+    {
+      "word": "world,",
+      "start": 28.76,
+      "end": 29.16
+    },
+    {
+      "word": "and",
+      "start": 30.1,
+      "end": 30.24
+    },
+    {
+      "word": "Allah",
+      "start": 30.24,
+      "end": 30.48
+    },
+    {
+      "word": "will",
+      "start": 30.48,
+      "end": 30.7
+    },
+    {
+      "word": "love",
+      "start": 30.7,
+      "end": 30.9
+    },
+    {
+      "word": "you,",
+      "start": 30.9,
+      "end": 31.5
+    },
+    {
+      "word": "and",
+      "start": 31.84,
+      "end": 31.94
+    },
+    {
+      "word": "renounce",
+      "start": 31.94,
+      "end": 32.36
+    },
+    {
+      "word": "what",
+      "start": 32.36,
+      "end": 32.6
+    },
+    {
+      "word": "people",
+      "start": 32.6,
+      "end": 32.88
+    },
+    {
+      "word": "possess,",
+      "start": 32.88,
+      "end": 33.46
+    },
+    {
+      "word": "and",
+      "start": 34.0,
+      "end": 34.38
+    },
+    {
+      "word": "people",
+      "start": 34.38,
+      "end": 34.68
+    },
+    {
+      "word": "will",
+      "start": 34.68,
+      "end": 35.08
+    },
+    {
+      "word": "love",
+      "start": 35.08,
+      "end": 35.24
+    },
+    {
+      "word": "you.",
+      "start": 35.24,
+      "end": 35.82
+    },
+    {
+      "word": "A",
+      "start": 36.14,
+      "end": 36.18
+    },
+    {
+      "word": "good",
+      "start": 36.18,
+      "end": 36.4
+    },
+    {
+      "word": "head",
+      "start": 36.4,
+      "end": 36.66
+    },
+    {
+      "word": "-eat,",
+      "start": 36.66,
+      "end": 36.88
+    },
+    {
+      "word": "related",
+      "start": 37.42,
+      "end": 37.9
+    },
+    {
+      "word": "by",
+      "start": 37.9,
+      "end": 38.26
+    },
+    {
+      "word": "Ibn",
+      "start": 38.26,
+      "end": 38.48
+    },
+    {
+      "word": "Majah,",
+      "start": 38.48,
+      "end": 38.98
+    },
+    {
+      "word": "and",
+      "start": 39.62,
+      "end": 39.82
+    },
+    {
+      "word": "others",
+      "start": 39.82,
+      "end": 40.14
+    },
+    {
+      "word": "with",
+      "start": 40.14,
+      "end": 40.56
+    },
+    {
+      "word": "good",
+      "start": 40.56,
+      "end": 40.78
+    },
+    {
+      "word": "chains",
+      "start": 40.78,
+      "end": 41.12
+    },
+    {
+      "word": "of",
+      "start": 41.12,
+      "end": 41.32
+    },
+    {
+      "word": "authorities.",
+      "start": 41.32,
+      "end": 41.72
+    }
+  ]
+}

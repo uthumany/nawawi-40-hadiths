@@ -1,0 +1,566 @@
+{
+  "hadith_number": 32,
+  "text": "On the authority of Abu Sayyid, sadib and Malik,ib and Sinan al-Qudri, may Allah be pleased to finde. The messenger of Allah, may the blessings and peace of Allah be upon him, said, there should be neither harming nor reciprocating harm. A good hindi, related by ibn Majah, ad-daraqudni and others, and ranked as Musnad. It was also related by Malik, in al-Mu'ata, as Musnad, with a chain of authorities from Am Ibn Ya'ya, from his father, from the Prophet, made the blessings and peace of Allah be upon him, but leaving at Abu Sayyid, and he has other chains of authorities that support one another.",
+  "words": [
+    {
+      "word": "On",
+      "start": 0.0,
+      "end": 0.48
+    },
+    {
+      "word": "the",
+      "start": 0.48,
+      "end": 0.6
+    },
+    {
+      "word": "authority",
+      "start": 0.6,
+      "end": 1.02
+    },
+    {
+      "word": "of",
+      "start": 1.02,
+      "end": 1.78
+    },
+    {
+      "word": "Abu",
+      "start": 1.78,
+      "end": 2.02
+    },
+    {
+      "word": "Sayyid,",
+      "start": 2.02,
+      "end": 2.66
+    },
+    {
+      "word": "sadib",
+      "start": 3.06,
+      "end": 3.56
+    },
+    {
+      "word": "and",
+      "start": 3.56,
+      "end": 3.78
+    },
+    {
+      "word": "Malik",
+      "start": 3.78,
+      "end": 4.28
+    },
+    {
+      "word": ",ib",
+      "start": 4.28,
+      "end": 4.9
+    },
+    {
+      "word": "and",
+      "start": 4.9,
+      "end": 5.04
+    },
+    {
+      "word": "Sinan",
+      "start": 5.04,
+      "end": 5.48
+    },
+    {
+      "word": "al",
+      "start": 5.48,
+      "end": 5.78
+    },
+    {
+      "word": "-Qudri,",
+      "start": 5.78,
+      "end": 6.44
+    },
+    {
+      "word": "may",
+      "start": 7.12,
+      "end": 7.32
+    },
+    {
+      "word": "Allah",
+      "start": 7.32,
+      "end": 7.6
+    },
+    {
+      "word": "be",
+      "start": 7.6,
+      "end": 7.82
+    },
+    {
+      "word": "pleased",
+      "start": 7.82,
+      "end": 8.12
+    },
+    {
+      "word": "to",
+      "start": 8.12,
+      "end": 8.26
+    },
+    {
+      "word": "finde.",
+      "start": 8.26,
+      "end": 8.62
+    },
+    {
+      "word": "The",
+      "start": 9.16,
+      "end": 9.26
+    },
+    {
+      "word": "messenger",
+      "start": 9.26,
+      "end": 9.62
+    },
+    {
+      "word": "of",
+      "start": 9.62,
+      "end": 9.88
+    },
+    {
+      "word": "Allah,",
+      "start": 9.88,
+      "end": 10.46
+    },
+    {
+      "word": "may",
+      "start": 11.02,
+      "end": 11.1
+    },
+    {
+      "word": "the",
+      "start": 11.1,
+      "end": 11.26
+    },
+    {
+      "word": "blessings",
+      "start": 11.26,
+      "end": 11.52
+    },
+    {
+      "word": "and",
+      "start": 11.52,
+      "end": 11.76
+    },
+    {
+      "word": "peace",
+      "start": 11.76,
+      "end": 11.96
+    },
+    {
+      "word": "of",
+      "start": 11.96,
+      "end": 12.14
+    },
+    {
+      "word": "Allah",
+      "start": 12.14,
+      "end": 12.3
+    },
+    {
+      "word": "be",
+      "start": 12.3,
+      "end": 12.62
+    },
+    {
+      "word": "upon",
+      "start": 12.62,
+      "end": 12.86
+    },
+    {
+      "word": "him,",
+      "start": 12.86,
+      "end": 13.26
+    },
+    {
+      "word": "said,",
+      "start": 13.48,
+      "end": 13.64
+    },
+    {
+      "word": "there",
+      "start": 14.44,
+      "end": 14.62
+    },
+    {
+      "word": "should",
+      "start": 14.62,
+      "end": 14.84
+    },
+    {
+      "word": "be",
+      "start": 14.84,
+      "end": 15.04
+    },
+    {
+      "word": "neither",
+      "start": 15.04,
+      "end": 15.28
+    },
+    {
+      "word": "harming",
+      "start": 15.28,
+      "end": 15.76
+    },
+    {
+      "word": "nor",
+      "start": 15.76,
+      "end": 16.6
+    },
+    {
+      "word": "reciprocating",
+      "start": 16.6,
+      "end": 17.24
+    },
+    {
+      "word": "harm.",
+      "start": 17.24,
+      "end": 17.78
+    },
+    {
+      "word": "A",
+      "start": 18.54,
+      "end": 18.7
+    },
+    {
+      "word": "good",
+      "start": 18.7,
+      "end": 18.9
+    },
+    {
+      "word": "hindi,",
+      "start": 18.9,
+      "end": 19.2
+    },
+    {
+      "word": "related",
+      "start": 19.82,
+      "end": 20.16
+    },
+    {
+      "word": "by",
+      "start": 20.16,
+      "end": 20.5
+    },
+    {
+      "word": "ibn",
+      "start": 20.5,
+      "end": 20.68
+    },
+    {
+      "word": "Majah,",
+      "start": 20.68,
+      "end": 21.22
+    },
+    {
+      "word": "ad",
+      "start": 21.9,
+      "end": 22.04
+    },
+    {
+      "word": "-daraqudni",
+      "start": 22.04,
+      "end": 22.6
+    },
+    {
+      "word": "and",
+      "start": 22.6,
+      "end": 23.2
+    },
+    {
+      "word": "others,",
+      "start": 23.2,
+      "end": 23.58
+    },
+    {
+      "word": "and",
+      "start": 24.26,
+      "end": 24.42
+    },
+    {
+      "word": "ranked",
+      "start": 24.42,
+      "end": 24.72
+    },
+    {
+      "word": "as",
+      "start": 24.72,
+      "end": 25.16
+    },
+    {
+      "word": "Musnad.",
+      "start": 25.16,
+      "end": 25.6
+    },
+    {
+      "word": "It",
+      "start": 25.6,
+      "end": 26.42
+    },
+    {
+      "word": "was",
+      "start": 26.42,
+      "end": 26.72
+    },
+    {
+      "word": "also",
+      "start": 26.72,
+      "end": 26.96
+    },
+    {
+      "word": "related",
+      "start": 26.96,
+      "end": 27.36
+    },
+    {
+      "word": "by",
+      "start": 27.36,
+      "end": 27.64
+    },
+    {
+      "word": "Malik,",
+      "start": 27.64,
+      "end": 28.2
+    },
+    {
+      "word": "in",
+      "start": 28.9,
+      "end": 29.02
+    },
+    {
+      "word": "al",
+      "start": 29.02,
+      "end": 29.26
+    },
+    {
+      "word": "-Mu",
+      "start": 29.26,
+      "end": 29.4
+    },
+    {
+      "word": "'ata,",
+      "start": 29.4,
+      "end": 29.68
+    },
+    {
+      "word": "as",
+      "start": 30.4,
+      "end": 30.6
+    },
+    {
+      "word": "Musnad,",
+      "start": 30.6,
+      "end": 31.12
+    },
+    {
+      "word": "with",
+      "start": 31.84,
+      "end": 31.98
+    },
+    {
+      "word": "a",
+      "start": 31.98,
+      "end": 32.1
+    },
+    {
+      "word": "chain",
+      "start": 32.1,
+      "end": 32.34
+    },
+    {
+      "word": "of",
+      "start": 32.34,
+      "end": 32.5
+    },
+    {
+      "word": "authorities",
+      "start": 32.5,
+      "end": 32.96
+    },
+    {
+      "word": "from",
+      "start": 32.96,
+      "end": 34.08
+    },
+    {
+      "word": "Am",
+      "start": 34.08,
+      "end": 34.38
+    },
+    {
+      "word": "Ibn",
+      "start": 34.38,
+      "end": 34.88
+    },
+    {
+      "word": "Ya",
+      "start": 34.88,
+      "end": 35.22
+    },
+    {
+      "word": "'ya,",
+      "start": 35.22,
+      "end": 35.36
+    },
+    {
+      "word": "from",
+      "start": 36.36,
+      "end": 36.48
+    },
+    {
+      "word": "his",
+      "start": 36.48,
+      "end": 36.72
+    },
+    {
+      "word": "father,",
+      "start": 36.72,
+      "end": 37.06
+    },
+    {
+      "word": "from",
+      "start": 37.64,
+      "end": 37.72
+    },
+    {
+      "word": "the",
+      "start": 37.72,
+      "end": 37.92
+    },
+    {
+      "word": "Prophet,",
+      "start": 37.92,
+      "end": 38.3
+    },
+    {
+      "word": "made",
+      "start": 38.82,
+      "end": 38.9
+    },
+    {
+      "word": "the",
+      "start": 38.9,
+      "end": 39.1
+    },
+    {
+      "word": "blessings",
+      "start": 39.1,
+      "end": 39.38
+    },
+    {
+      "word": "and",
+      "start": 39.38,
+      "end": 39.9
+    },
+    {
+      "word": "peace",
+      "start": 39.9,
+      "end": 40.16
+    },
+    {
+      "word": "of",
+      "start": 40.16,
+      "end": 40.4
+    },
+    {
+      "word": "Allah",
+      "start": 40.4,
+      "end": 40.64
+    },
+    {
+      "word": "be",
+      "start": 40.64,
+      "end": 40.84
+    },
+    {
+      "word": "upon",
+      "start": 40.84,
+      "end": 41.04
+    },
+    {
+      "word": "him,",
+      "start": 41.04,
+      "end": 41.78
+    },
+    {
+      "word": "but",
+      "start": 42.02,
+      "end": 42.22
+    },
+    {
+      "word": "leaving",
+      "start": 42.22,
+      "end": 42.5
+    },
+    {
+      "word": "at",
+      "start": 42.5,
+      "end": 43.02
+    },
+    {
+      "word": "Abu",
+      "start": 43.02,
+      "end": 43.24
+    },
+    {
+      "word": "Sayyid,",
+      "start": 43.24,
+      "end": 43.62
+    },
+    {
+      "word": "and",
+      "start": 44.36,
+      "end": 44.5
+    },
+    {
+      "word": "he",
+      "start": 44.5,
+      "end": 44.58
+    },
+    {
+      "word": "has",
+      "start": 44.58,
+      "end": 44.82
+    },
+    {
+      "word": "other",
+      "start": 44.82,
+      "end": 45.12
+    },
+    {
+      "word": "chains",
+      "start": 45.12,
+      "end": 45.38
+    },
+    {
+      "word": "of",
+      "start": 45.38,
+      "end": 45.62
+    },
+    {
+      "word": "authorities",
+      "start": 45.62,
+      "end": 46.06
+    },
+    {
+      "word": "that",
+      "start": 46.06,
+      "end": 47.22
+    },
+    {
+      "word": "support",
+      "start": 47.22,
+      "end": 47.58
+    },
+    {
+      "word": "one",
+      "start": 47.58,
+      "end": 47.9
+    },
+    {
+      "word": "another.",
+      "start": 47.9,
+      "end": 48.16
+    }
+  ]
+}

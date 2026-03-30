@@ -1,0 +1,426 @@
+{
+  "hadith_number": 5,
+  "text": "On your 30th of the mother of the faithful, Om Abdullah Ayesha, may Allah be pleased with her, who said, the messenger of Allah, may the blessings and peace of Allah be upon him, said, He who innovates something in this matter of ours that does not of it will have it rejected. It was related by al-Bukhari and Muslim. In one version by Muslim it reads, He who doesn't act which our matter is not in agreement with will have it rejected.",
+  "words": [
+    {
+      "word": "On",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "your",
+      "start": 0.42,
+      "end": 0.62
+    },
+    {
+      "word": "30th",
+      "start": 0.62,
+      "end": 1.16
+    },
+    {
+      "word": "of",
+      "start": 1.16,
+      "end": 1.22
+    },
+    {
+      "word": "the",
+      "start": 1.22,
+      "end": 1.28
+    },
+    {
+      "word": "mother",
+      "start": 1.28,
+      "end": 1.48
+    },
+    {
+      "word": "of",
+      "start": 1.48,
+      "end": 1.78
+    },
+    {
+      "word": "the",
+      "start": 1.78,
+      "end": 1.88
+    },
+    {
+      "word": "faithful,",
+      "start": 1.88,
+      "end": 2.4
+    },
+    {
+      "word": "Om",
+      "start": 2.98,
+      "end": 3.18
+    },
+    {
+      "word": "Abdullah",
+      "start": 3.18,
+      "end": 3.66
+    },
+    {
+      "word": "Ayesha,",
+      "start": 3.66,
+      "end": 4.54
+    },
+    {
+      "word": "may",
+      "start": 5.0,
+      "end": 5.18
+    },
+    {
+      "word": "Allah",
+      "start": 5.18,
+      "end": 5.48
+    },
+    {
+      "word": "be",
+      "start": 5.48,
+      "end": 5.72
+    },
+    {
+      "word": "pleased",
+      "start": 5.72,
+      "end": 5.96
+    },
+    {
+      "word": "with",
+      "start": 5.96,
+      "end": 6.14
+    },
+    {
+      "word": "her,",
+      "start": 6.14,
+      "end": 6.62
+    },
+    {
+      "word": "who",
+      "start": 6.92,
+      "end": 7.14
+    },
+    {
+      "word": "said,",
+      "start": 7.14,
+      "end": 7.52
+    },
+    {
+      "word": "the",
+      "start": 7.96,
+      "end": 8.06
+    },
+    {
+      "word": "messenger",
+      "start": 8.06,
+      "end": 8.42
+    },
+    {
+      "word": "of",
+      "start": 8.42,
+      "end": 8.66
+    },
+    {
+      "word": "Allah,",
+      "start": 8.66,
+      "end": 9.16
+    },
+    {
+      "word": "may",
+      "start": 9.44,
+      "end": 9.58
+    },
+    {
+      "word": "the",
+      "start": 9.58,
+      "end": 9.74
+    },
+    {
+      "word": "blessings",
+      "start": 9.74,
+      "end": 10.0
+    },
+    {
+      "word": "and",
+      "start": 10.0,
+      "end": 10.28
+    },
+    {
+      "word": "peace",
+      "start": 10.28,
+      "end": 10.46
+    },
+    {
+      "word": "of",
+      "start": 10.46,
+      "end": 10.7
+    },
+    {
+      "word": "Allah",
+      "start": 10.7,
+      "end": 10.96
+    },
+    {
+      "word": "be",
+      "start": 10.96,
+      "end": 11.16
+    },
+    {
+      "word": "upon",
+      "start": 11.16,
+      "end": 11.36
+    },
+    {
+      "word": "him,",
+      "start": 11.36,
+      "end": 11.92
+    },
+    {
+      "word": "said,",
+      "start": 12.16,
+      "end": 12.34
+    },
+    {
+      "word": "He",
+      "start": 12.94,
+      "end": 13.12
+    },
+    {
+      "word": "who",
+      "start": 13.12,
+      "end": 13.38
+    },
+    {
+      "word": "innovates",
+      "start": 13.38,
+      "end": 13.8
+    },
+    {
+      "word": "something",
+      "start": 13.8,
+      "end": 14.14
+    },
+    {
+      "word": "in",
+      "start": 14.14,
+      "end": 14.38
+    },
+    {
+      "word": "this",
+      "start": 14.38,
+      "end": 14.54
+    },
+    {
+      "word": "matter",
+      "start": 14.54,
+      "end": 14.82
+    },
+    {
+      "word": "of",
+      "start": 14.82,
+      "end": 15.14
+    },
+    {
+      "word": "ours",
+      "start": 15.14,
+      "end": 15.6
+    },
+    {
+      "word": "that",
+      "start": 15.6,
+      "end": 16.0
+    },
+    {
+      "word": "does",
+      "start": 16.0,
+      "end": 16.18
+    },
+    {
+      "word": "not",
+      "start": 16.18,
+      "end": 16.36
+    },
+    {
+      "word": "of",
+      "start": 16.36,
+      "end": 16.62
+    },
+    {
+      "word": "it",
+      "start": 16.62,
+      "end": 17.02
+    },
+    {
+      "word": "will",
+      "start": 17.02,
+      "end": 17.4
+    },
+    {
+      "word": "have",
+      "start": 17.4,
+      "end": 17.56
+    },
+    {
+      "word": "it",
+      "start": 17.56,
+      "end": 17.74
+    },
+    {
+      "word": "rejected.",
+      "start": 17.74,
+      "end": 18.2
+    },
+    {
+      "word": "It",
+      "start": 19.08,
+      "end": 19.22
+    },
+    {
+      "word": "was",
+      "start": 19.22,
+      "end": 19.36
+    },
+    {
+      "word": "related",
+      "start": 19.36,
+      "end": 19.74
+    },
+    {
+      "word": "by",
+      "start": 19.74,
+      "end": 20.0
+    },
+    {
+      "word": "al",
+      "start": 20.0,
+      "end": 20.18
+    },
+    {
+      "word": "-Bukhari",
+      "start": 20.18,
+      "end": 20.58
+    },
+    {
+      "word": "and",
+      "start": 20.58,
+      "end": 21.0
+    },
+    {
+      "word": "Muslim.",
+      "start": 21.0,
+      "end": 21.42
+    },
+    {
+      "word": "In",
+      "start": 22.26,
+      "end": 22.42
+    },
+    {
+      "word": "one",
+      "start": 22.42,
+      "end": 22.62
+    },
+    {
+      "word": "version",
+      "start": 22.62,
+      "end": 23.02
+    },
+    {
+      "word": "by",
+      "start": 23.02,
+      "end": 23.38
+    },
+    {
+      "word": "Muslim",
+      "start": 23.38,
+      "end": 23.7
+    },
+    {
+      "word": "it",
+      "start": 23.7,
+      "end": 23.96
+    },
+    {
+      "word": "reads,",
+      "start": 23.96,
+      "end": 24.26
+    },
+    {
+      "word": "He",
+      "start": 24.26,
+      "end": 25.18
+    },
+    {
+      "word": "who",
+      "start": 25.18,
+      "end": 25.44
+    },
+    {
+      "word": "doesn't",
+      "start": 25.44,
+      "end": 25.78
+    },
+    {
+      "word": "act",
+      "start": 25.78,
+      "end": 26.14
+    },
+    {
+      "word": "which",
+      "start": 26.14,
+      "end": 26.56
+    },
+    {
+      "word": "our",
+      "start": 26.56,
+      "end": 26.72
+    },
+    {
+      "word": "matter",
+      "start": 26.72,
+      "end": 26.96
+    },
+    {
+      "word": "is",
+      "start": 26.96,
+      "end": 27.26
+    },
+    {
+      "word": "not",
+      "start": 27.26,
+      "end": 27.72
+    },
+    {
+      "word": "in",
+      "start": 27.72,
+      "end": 28.2
+    },
+    {
+      "word": "agreement",
+      "start": 28.2,
+      "end": 28.56
+    },
+    {
+      "word": "with",
+      "start": 28.56,
+      "end": 29.94
+    },
+    {
+      "word": "will",
+      "start": 29.94,
+      "end": 30.18
+    },
+    {
+      "word": "have",
+      "start": 30.18,
+      "end": 30.54
+    },
+    {
+      "word": "it",
+      "start": 30.54,
+      "end": 30.84
+    },
+    {
+      "word": "rejected.",
+      "start": 30.84,
+      "end": 31.2
+    }
+  ]
+}

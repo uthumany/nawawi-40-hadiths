@@ -1,0 +1,426 @@
+{
+  "hadith_number": 9,
+  "text": "9th Hadith, on the authority of Abu Hureira, Abd-Arahman, Ibn Sakhir, may Allah be pleased with him. He said, I heard the messenger of Allah, made a blessings and peace of Allah be upon him, say, what I have forbidden to you, avoid, what I have ordered you to do, do as much as you can. It was only their excessive questioning and their disagreeing with their prophets, that destroyed those who were before you. It was related by Abu Hureira and Muslim.",
+  "words": [
+    {
+      "word": "9th",
+      "start": 0.0,
+      "end": 0.84
+    },
+    {
+      "word": "Hadith,",
+      "start": 0.84,
+      "end": 1.3
+    },
+    {
+      "word": "on",
+      "start": 1.84,
+      "end": 1.96
+    },
+    {
+      "word": "the",
+      "start": 1.96,
+      "end": 2.06
+    },
+    {
+      "word": "authority",
+      "start": 2.06,
+      "end": 2.46
+    },
+    {
+      "word": "of",
+      "start": 2.46,
+      "end": 2.82
+    },
+    {
+      "word": "Abu",
+      "start": 2.82,
+      "end": 3.06
+    },
+    {
+      "word": "Hureira,",
+      "start": 3.06,
+      "end": 3.76
+    },
+    {
+      "word": "Abd",
+      "start": 4.24,
+      "end": 4.38
+    },
+    {
+      "word": "-Arahman,",
+      "start": 4.38,
+      "end": 5.12
+    },
+    {
+      "word": "Ibn",
+      "start": 5.44,
+      "end": 5.64
+    },
+    {
+      "word": "Sakhir,",
+      "start": 5.64,
+      "end": 6.46
+    },
+    {
+      "word": "may",
+      "start": 6.98,
+      "end": 7.16
+    },
+    {
+      "word": "Allah",
+      "start": 7.16,
+      "end": 7.46
+    },
+    {
+      "word": "be",
+      "start": 7.46,
+      "end": 7.76
+    },
+    {
+      "word": "pleased",
+      "start": 7.76,
+      "end": 8.06
+    },
+    {
+      "word": "with",
+      "start": 8.06,
+      "end": 8.28
+    },
+    {
+      "word": "him.",
+      "start": 8.28,
+      "end": 8.88
+    },
+    {
+      "word": "He",
+      "start": 9.28,
+      "end": 9.46
+    },
+    {
+      "word": "said,",
+      "start": 9.46,
+      "end": 9.8
+    },
+    {
+      "word": "I",
+      "start": 10.3,
+      "end": 10.52
+    },
+    {
+      "word": "heard",
+      "start": 10.52,
+      "end": 10.78
+    },
+    {
+      "word": "the",
+      "start": 10.78,
+      "end": 11.0
+    },
+    {
+      "word": "messenger",
+      "start": 11.0,
+      "end": 11.28
+    },
+    {
+      "word": "of",
+      "start": 11.28,
+      "end": 11.54
+    },
+    {
+      "word": "Allah,",
+      "start": 11.54,
+      "end": 12.04
+    },
+    {
+      "word": "made",
+      "start": 12.68,
+      "end": 12.82
+    },
+    {
+      "word": "a",
+      "start": 12.82,
+      "end": 13.08
+    },
+    {
+      "word": "blessings",
+      "start": 13.08,
+      "end": 13.26
+    },
+    {
+      "word": "and",
+      "start": 13.26,
+      "end": 13.62
+    },
+    {
+      "word": "peace",
+      "start": 13.62,
+      "end": 13.86
+    },
+    {
+      "word": "of",
+      "start": 13.86,
+      "end": 14.08
+    },
+    {
+      "word": "Allah",
+      "start": 14.08,
+      "end": 14.36
+    },
+    {
+      "word": "be",
+      "start": 14.36,
+      "end": 14.7
+    },
+    {
+      "word": "upon",
+      "start": 14.7,
+      "end": 14.9
+    },
+    {
+      "word": "him,",
+      "start": 14.9,
+      "end": 15.52
+    },
+    {
+      "word": "say,",
+      "start": 15.62,
+      "end": 15.88
+    },
+    {
+      "word": "what",
+      "start": 16.56,
+      "end": 16.74
+    },
+    {
+      "word": "I",
+      "start": 16.74,
+      "end": 16.94
+    },
+    {
+      "word": "have",
+      "start": 16.94,
+      "end": 17.12
+    },
+    {
+      "word": "forbidden",
+      "start": 17.12,
+      "end": 17.38
+    },
+    {
+      "word": "to",
+      "start": 17.38,
+      "end": 17.78
+    },
+    {
+      "word": "you,",
+      "start": 17.78,
+      "end": 18.38
+    },
+    {
+      "word": "avoid,",
+      "start": 18.7,
+      "end": 19.08
+    },
+    {
+      "word": "what",
+      "start": 19.84,
+      "end": 19.98
+    },
+    {
+      "word": "I",
+      "start": 19.98,
+      "end": 20.22
+    },
+    {
+      "word": "have",
+      "start": 20.22,
+      "end": 20.48
+    },
+    {
+      "word": "ordered",
+      "start": 20.48,
+      "end": 20.7
+    },
+    {
+      "word": "you",
+      "start": 20.7,
+      "end": 21.12
+    },
+    {
+      "word": "to",
+      "start": 21.12,
+      "end": 21.46
+    },
+    {
+      "word": "do,",
+      "start": 21.46,
+      "end": 22.02
+    },
+    {
+      "word": "do",
+      "start": 22.6,
+      "end": 22.92
+    },
+    {
+      "word": "as",
+      "start": 22.92,
+      "end": 23.12
+    },
+    {
+      "word": "much",
+      "start": 23.12,
+      "end": 23.38
+    },
+    {
+      "word": "as",
+      "start": 23.38,
+      "end": 23.82
+    },
+    {
+      "word": "you",
+      "start": 23.82,
+      "end": 24.02
+    },
+    {
+      "word": "can.",
+      "start": 24.02,
+      "end": 24.5
+    },
+    {
+      "word": "It",
+      "start": 25.06,
+      "end": 25.14
+    },
+    {
+      "word": "was",
+      "start": 25.14,
+      "end": 25.42
+    },
+    {
+      "word": "only",
+      "start": 25.42,
+      "end": 25.66
+    },
+    {
+      "word": "their",
+      "start": 25.66,
+      "end": 25.94
+    },
+    {
+      "word": "excessive",
+      "start": 25.94,
+      "end": 26.3
+    },
+    {
+      "word": "questioning",
+      "start": 26.3,
+      "end": 26.88
+    },
+    {
+      "word": "and",
+      "start": 26.88,
+      "end": 27.78
+    },
+    {
+      "word": "their",
+      "start": 27.78,
+      "end": 27.98
+    },
+    {
+      "word": "disagreeing",
+      "start": 27.98,
+      "end": 28.52
+    },
+    {
+      "word": "with",
+      "start": 28.52,
+      "end": 28.74
+    },
+    {
+      "word": "their",
+      "start": 28.74,
+      "end": 28.92
+    },
+    {
+      "word": "prophets,",
+      "start": 28.92,
+      "end": 29.6
+    },
+    {
+      "word": "that",
+      "start": 30.38,
+      "end": 30.46
+    },
+    {
+      "word": "destroyed",
+      "start": 30.46,
+      "end": 30.86
+    },
+    {
+      "word": "those",
+      "start": 30.86,
+      "end": 31.46
+    },
+    {
+      "word": "who",
+      "start": 31.46,
+      "end": 31.7
+    },
+    {
+      "word": "were",
+      "start": 31.7,
+      "end": 31.86
+    },
+    {
+      "word": "before",
+      "start": 31.86,
+      "end": 32.14
+    },
+    {
+      "word": "you.",
+      "start": 32.14,
+      "end": 32.72
+    },
+    {
+      "word": "It",
+      "start": 33.04,
+      "end": 33.22
+    },
+    {
+      "word": "was",
+      "start": 33.22,
+      "end": 33.42
+    },
+    {
+      "word": "related",
+      "start": 33.42,
+      "end": 33.78
+    },
+    {
+      "word": "by",
+      "start": 33.78,
+      "end": 34.16
+    },
+    {
+      "word": "Abu",
+      "start": 34.16,
+      "end": 34.4
+    },
+    {
+      "word": "Hureira",
+      "start": 34.4,
+      "end": 35.32
+    },
+    {
+      "word": "and",
+      "start": 35.32,
+      "end": 35.56
+    },
+    {
+      "word": "Muslim.",
+      "start": 35.56,
+      "end": 35.78
+    }
+  ]
+}
