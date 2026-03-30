@@ -1,0 +1,91 @@
+/**
+ * Nawawi's 40 Hadiths - Word-by-Word Highlighting CSS
+ * Supports both Arabic (RTL) and English (LTR) layouts.
+ */
+
+/* Container for the hadith text */
+.hadith-text-container {
+    line-height: 2.5;
+    font-size: 1.4rem;
+    padding: 25px;
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 12px;
+    max-height: 500px;
+    overflow-y: auto;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+    transition: all 0.3s ease;
+}
+
+/* RTL support for Arabic text */
+.hadith-text-container.rtl {
+    direction: rtl;
+    font-family: 'Amiri', 'Traditional Arabic', serif;
+    font-size: 1.8rem;
+    text-align: right;
+}
+
+/* LTR support for English text */
+.hadith-text-container.ltr {
+    direction: ltr;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+}
+
+/* Base style for each word */
+.hadith-word {
+    display: inline-block;
+    padding: 0 4px;
+    cursor: pointer;
+    transition: all 0.15s ease-in-out;
+    border-radius: 6px;
+    color: #444;
+    margin: 0 2px;
+}
+
+/* Style for the currently spoken word */
+.hadith-word.highlighted {
+    background-color: #4caf50; /* Green highlight */
+    color: #ffffff;
+    font-weight: bold;
+    transform: scale(1.08); /* Subtle zoom effect */
+    box-shadow: 0 4px 8px rgba(76, 175, 80, 0.3);
+    z-index: 10;
+}
+
+/* Hover effect for interactive seeking */
+.hadith-word:hover {
+    background-color: #f0f0f0;
+    color: #000;
+}
+
+/* Custom scrollbar for the container */
+.hadith-text-container::-webkit-scrollbar {
+    width: 8px;
+}
+
+.hadith-text-container::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 10px;
+}
+
+.hadith-text-container::-webkit-scrollbar-thumb {
+    background: #ccc;
+    border-radius: 10px;
+}
+
+.hadith-text-container::-webkit-scrollbar-thumb:hover {
+    background: #999;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .hadith-text-container {
+        font-size: 1.1rem;
+        padding: 15px;
+    }
+    
+    .hadith-text-container.rtl {
+        font-size: 1.5rem;
+    }
+}
