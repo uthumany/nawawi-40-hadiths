@@ -1,0 +1,481 @@
+/**
+ * Nawawi's 40 Hadiths - Enhanced Word-by-Word Highlighting CSS
+ * Supports both Arabic (RTL) and English (LTR) layouts with advanced features.
+ */
+
+/* ============================================
+   Container Styles
+   ============================================ */
+
+.hadith-text-container {
+    line-height: 2.5;
+    font-size: 1.4rem;
+    padding: 25px;
+    background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
+    border: 2px solid #e0e0e0;
+    border-radius: 12px;
+    max-height: 500px;
+    overflow-y: auto;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    transition: all 0.3s ease;
+    position: relative;
+}
+
+.hadith-text-container:hover {
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
+    border-color: #4caf50;
+}
+
+/* RTL support for Arabic text */
+.hadith-text-container.rtl {
+    direction: rtl;
+    font-family: 'Amiri', 'Traditional Arabic', 'Arabic Typesetting', serif;
+    font-size: 1.8rem;
+    text-align: right;
+}
+
+/* LTR support for English text */
+.hadith-text-container.ltr {
+    direction: ltr;
+    font-family: 'Segoe UI', 'Helvetica Neue', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+}
+
+/* ============================================
+   Word Styles
+   ============================================ */
+
+.hadith-word {
+    display: inline-block;
+    padding: 4px 6px;
+    cursor: pointer;
+    transition: all 0.15s ease-in-out;
+    border-radius: 6px;
+    color: #444;
+    margin: 0 2px;
+    position: relative;
+    user-select: none;
+}
+
+.hadith-word:hover {
+    background-color: #f0f0f0;
+    color: #000;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Style for the currently spoken word */
+.hadith-word.highlighted {
+    background: linear-gradient(135deg, #4caf50 0%, #45a049 100%);
+    color: #ffffff;
+    font-weight: bold;
+    transform: scale(1.1) translateY(-2px);
+    box-shadow: 0 6px 12px rgba(76, 175, 80, 0.4);
+    z-index: 10;
+    animation: pulse-highlight 0.3s ease-out;
+}
+
+/* Search highlight style */
+.hadith-word.search-highlight {
+    background-color: #fff3cd;
+    color: #856404;
+    border: 1px solid #ffc107;
+    font-weight: 500;
+}
+
+.hadith-word.search-highlight.highlighted {
+    background: linear-gradient(135deg, #4caf50 0%, #45a049 100%);
+    color: #ffffff;
+    border: none;
+}
+
+/* ============================================
+   Animations
+   ============================================ */
+
+@keyframes pulse-highlight {
+    0% {
+        transform: scale(1) translateY(0);
+        opacity: 0.8;
+    }
+    50% {
+        transform: scale(1.15) translateY(-3px);
+    }
+    100% {
+        transform: scale(1.1) translateY(-2px);
+        opacity: 1;
+    }
+}
+
+@keyframes fade-in {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* ============================================
+   Tooltip Styles
+   ============================================ */
+
+.hadith-word-tooltip {
+    position: fixed;
+    background: rgba(0, 0, 0, 0.9);
+    color: white;
+    padding: 8px 12px;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    z-index: 1000;
+    pointer-events: none;
+    transform: translate(-50%, -100%);
+    white-space: nowrap;
+    animation: fade-in 0.2s ease-out;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.tooltip-content {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.tooltip-word {
+    font-weight: bold;
+    font-size: 0.95rem;
+}
+
+.tooltip-time {
+    font-size: 0.8rem;
+    opacity: 0.9;
+    font-family: 'Courier New', monospace;
+}
+
+.tooltip-index {
+    font-size: 0.75rem;
+    opacity: 0.8;
+}
+
+/* ============================================
+   Scrollbar Styles
+   ============================================ */
+
+.hadith-text-container::-webkit-scrollbar {
+    width: 10px;
+}
+
+.hadith-text-container::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 10px;
+}
+
+.hadith-text-container::-webkit-scrollbar-thumb {
+    background: linear-gradient(180deg, #ccc 0%, #999 100%);
+    border-radius: 10px;
+    transition: background 0.3s ease;
+}
+
+.hadith-text-container::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(180deg, #999 0%, #666 100%);
+}
+
+/* Firefox scrollbar */
+.hadith-text-container {
+    scrollbar-color: #999 #f1f1f1;
+    scrollbar-width: thin;
+}
+
+/* ============================================
+   Player Controls
+   ============================================ */
+
+.hadith-player-controls {
+    display: flex;
+    gap: 12px;
+    margin-top: 16px;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.player-button {
+    padding: 8px 16px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.95rem;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.player-button:hover {
+    background-color: #45a049;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(76, 175, 80, 0.3);
+}
+
+.player-button:active {
+    transform: translateY(0);
+}
+
+.player-button.secondary {
+    background-color: #2196F3;
+}
+
+.player-button.secondary:hover {
+    background-color: #0b7dda;
+}
+
+/* ============================================
+   Statistics Display
+   ============================================ */
+
+.hadith-stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 12px;
+    margin-top: 16px;
+    padding: 12px;
+    background-color: #f5f5f5;
+    border-radius: 8px;
+}
+
+.stat-item {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.stat-label {
+    font-size: 0.85rem;
+    color: #666;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.stat-value {
+    font-size: 1.4rem;
+    font-weight: bold;
+    color: #4caf50;
+}
+
+/* ============================================
+   Search Box
+   ============================================ */
+
+.hadith-search-box {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 12px;
+}
+
+.search-input {
+    flex: 1;
+    padding: 8px 12px;
+    border: 2px solid #e0e0e0;
+    border-radius: 6px;
+    font-size: 0.95rem;
+    transition: all 0.3s ease;
+}
+
+.search-input:focus {
+    outline: none;
+    border-color: #4caf50;
+    box-shadow: 0 0 8px rgba(76, 175, 80, 0.2);
+}
+
+.search-button {
+    padding: 8px 16px;
+    background-color: #2196F3;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+
+.search-button:hover {
+    background-color: #0b7dda;
+    transform: translateY(-2px);
+}
+
+/* ============================================
+   Progress Bar
+   ============================================ */
+
+.hadith-progress-bar {
+    width: 100%;
+    height: 6px;
+    background-color: #e0e0e0;
+    border-radius: 3px;
+    overflow: hidden;
+    margin-top: 12px;
+    cursor: pointer;
+}
+
+.progress-fill {
+    height: 100%;
+    background: linear-gradient(90deg, #4caf50 0%, #45a049 100%);
+    width: 0%;
+    transition: width 0.1s linear;
+    border-radius: 3px;
+}
+
+/* ============================================
+   Responsive Design
+   ============================================ */
+
+@media (max-width: 768px) {
+    .hadith-text-container {
+        font-size: 1.1rem;
+        padding: 15px;
+        max-height: 400px;
+    }
+    
+    .hadith-text-container.rtl {
+        font-size: 1.5rem;
+    }
+    
+    .hadith-word {
+        padding: 3px 4px;
+        margin: 0 1px;
+    }
+    
+    .hadith-word.highlighted {
+        transform: scale(1.08) translateY(-1px);
+    }
+    
+    .hadith-player-controls {
+        gap: 8px;
+    }
+    
+    .player-button {
+        padding: 6px 12px;
+        font-size: 0.85rem;
+    }
+    
+    .hadith-stats {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 8px;
+        padding: 8px;
+    }
+    
+    .stat-value {
+        font-size: 1.2rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .hadith-text-container {
+        font-size: 0.95rem;
+        padding: 10px;
+        max-height: 300px;
+        line-height: 2;
+    }
+    
+    .hadith-text-container.rtl {
+        font-size: 1.3rem;
+    }
+    
+    .hadith-word {
+        padding: 2px 3px;
+        margin: 0;
+    }
+    
+    .hadith-word-tooltip {
+        font-size: 0.75rem;
+        padding: 6px 10px;
+    }
+    
+    .hadith-player-controls {
+        flex-direction: column;
+    }
+    
+    .player-button {
+        width: 100%;
+        justify-content: center;
+    }
+    
+    .hadith-stats {
+        grid-template-columns: 1fr;
+        gap: 6px;
+    }
+}
+
+/* ============================================
+   Dark Mode Support
+   ============================================ */
+
+@media (prefers-color-scheme: dark) {
+    .hadith-text-container {
+        background: linear-gradient(135deg, #2a2a2a 0%, #1f1f1f 100%);
+        border-color: #444;
+        color: #e0e0e0;
+    }
+    
+    .hadith-word {
+        color: #b0b0b0;
+    }
+    
+    .hadith-word:hover {
+        background-color: #404040;
+        color: #ffffff;
+    }
+    
+    .hadith-stats {
+        background-color: #333;
+        color: #e0e0e0;
+    }
+    
+    .stat-label {
+        color: #999;
+    }
+    
+    .search-input {
+        background-color: #333;
+        border-color: #555;
+        color: #e0e0e0;
+    }
+    
+    .search-input:focus {
+        border-color: #4caf50;
+    }
+    
+    .hadith-progress-bar {
+        background-color: #404040;
+    }
+}
+
+/* ============================================
+   Accessibility
+   ============================================ */
+
+.hadith-word:focus {
+    outline: 2px solid #4caf50;
+    outline-offset: 2px;
+}
+
+.player-button:focus {
+    outline: 2px solid #333;
+    outline-offset: 2px;
+}
+
+/* Reduce motion for users who prefer it */
+@media (prefers-reduced-motion: reduce) {
+    .hadith-word,
+    .hadith-word.highlighted,
+    .player-button,
+    .hadith-word-tooltip {
+        transition: none;
+        animation: none;
+    }
+}

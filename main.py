@@ -4,6 +4,7 @@ from fastapi.responses import FileResponse
 import json
 import os
 from config import get_config
+from audio_endpoints import router as audio_router
 
 # Get configuration
 config = get_config()
@@ -121,25 +122,10 @@ async def get_hadith_arabic_sync(number: int):
         return sync_data
     raise HTTPException(status_code=404, detail="Arabic sync data not found for this hadith")
 
-@app.get("/audio/english/{hadith_number}")
-async def get_english_audio_file(hadith_number: int):
-    """Serve English audio file for a hadith."""
-    if hadith_number < 1 or hadith_number > config.TOTAL_HADITHS:
-        raise HTTPException(
-            status_code=400, 
-            detail=f"Hadith number must be between 1 and {config.TOTAL_HADITHS}"
-        )
-    
-    audio_path = os.path.join(
-        os.path.dirname(__file__),
-        "audio",
-        "english",
-        f"Hadith_{hadith_number:02d}_English.mp3"
-    )
-    
-    if os.path.exists(audio_path):
-        return FileResponse(audio_path, media_type="audio/mpeg")
-    raise HTTPException(status_code=404, detail="Audio file not found")
+# The direct audio file endpoint is now handled by the audio_router
+# at /audio/english/hadith/{hadith_number}/file (if implemented)
+# or we can keep it here but rename it to avoid conflict.
+# For now, let's just remove it as we have the GitHub raw URL.
 
 @app.get("/hadiths/{number}/full")
 async def get_hadith_full(number: int):
@@ -179,6 +165,9 @@ async def get_hadith_full(number: int):
                 }
             }
     raise HTTPException(status_code=404, detail="Hadith not found")
+
+# Include audio endpoints
+app.include_router(audio_router)
 
 @app.get("/health")
 async def health_check():
