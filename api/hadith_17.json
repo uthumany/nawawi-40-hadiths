@@ -6,5 +6,7 @@
   "arabic_text": "عَنْ أَبِي يَعْلَى شَدَّادِ بْنِ أَوْسٍ رَضِيَ اللهُ عَنْهُ عَنْ رَسُولِ اللَّهِ صلى الله عليه و سلم قَالَ: إنَّ اللَّهَ كَتَبَ الْإِحْسَانَ عَلَى كُلِّ شَيْءٍ، فَإِذَا قَتَلْتُمْ فَأَحْسِنُوا الْقِتْلَةَ، وَإِذَا ذَبَحْتُمْ فَأَحْسِنُوا الذِّبْحَةَ، وَلْيُحِدَّ أَحَدُكُمْ شَفْرَتَهُ، وَلْيُرِحْ ذَبِيحَتَهُ . [رَوَاهُ مُسْلِمٌ]",
   "english_translation": "From Abū Yaʿlā Shaddād bin ʾAws (raḍiyallāhu ʿanhu) from the Messenger of Allāh (ṣallallāhu ʿalayhi wasallam) that he said, 'Indeed Allāh has prescribed proficiency and benevolence in every thing. Hence, when you kill then kill proficiently, and when you slaughter, then slaughter with proficiency and benevolence. Let one of you sharpen his blade and let him grant ease to the slaughter animal.'",
   "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_17.mp3",
-  "sync_url": "https://uthumany.github.io/nawawi-40-hadiths/api/sync/hadith_17.json"
+  "sync_url": "https://uthumany.github.io/nawawi-40-hadiths/api/sync/hadith_17.json",
+  "english_audio_url": "https://raw.githubusercontent.com/uthumany/nawawi-40-hadiths/main/audio/english/Hadith_17_English.mp3",
+  "english_sync_url": "https://uthumany.github.io/nawawi-40-hadiths/api/sync_en/hadith_17.json"
 }

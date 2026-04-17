@@ -1,301 +1,306 @@
 {
-  "hadith_number": 12,
-  "text": "On the authority of Abu Harayra, may Allah be pleased with him, he said, the messenger of Allah, may the blessings and peace of Allah be upon him, said, part of someone's being a good Muslim, is his leaving alone, that which does not concern him. A good Hadith, which was related by Attimidhi and others in this form.",
+  "text": "On the authority of Abu Huraira, may Allah be pleased with him, who said, The messenger of Allah, may the blessings and peace of Allah be upon him, said, Part of someone's being a good Muslim is his leaving alone that which does not concern him. A good hadith, which was related by al-Timidi and others in this form.",
   "words": [
     {
       "word": "On",
       "start": 0.0,
-      "end": 0.4
+      "end": 0.3199999928474426
     },
     {
       "word": "the",
-      "start": 0.4,
-      "end": 0.48
+      "start": 0.3199999928474426,
+      "end": 0.5400000214576721
     },
     {
       "word": "authority",
-      "start": 0.48,
-      "end": 0.9
+      "start": 0.5400000214576721,
+      "end": 0.8799999952316284
     },
     {
       "word": "of",
-      "start": 0.9,
-      "end": 1.58
+      "start": 0.8799999952316284,
+      "end": 1.600000023841858
     },
     {
       "word": "Abu",
-      "start": 1.58,
-      "end": 1.84
+      "start": 1.600000023841858,
+      "end": 1.9600000381469727
     },
     {
-      "word": "Harayra,",
-      "start": 1.84,
-      "end": 2.62
+      "word": "Huraira",
+      "start": 1.9600000381469727,
+      "end": 2.940000057220459
     },
     {
       "word": "may",
-      "start": 3.16,
-      "end": 3.28
+      "start": 3.1600000858306885,
+      "end": 3.240000009536743
     },
     {
       "word": "Allah",
-      "start": 3.28,
-      "end": 3.6
+      "start": 3.240000009536743,
+      "end": 3.5
     },
     {
       "word": "be",
-      "start": 3.6,
-      "end": 3.84
+      "start": 3.5,
+      "end": 3.8399999141693115
     },
     {
       "word": "pleased",
-      "start": 3.84,
-      "end": 4.1
+      "start": 3.8399999141693115,
+      "end": 4.019999980926514
     },
     {
       "word": "with",
-      "start": 4.1,
-      "end": 4.28
+      "start": 4.019999980926514,
+      "end": 4.28000020980835
     },
     {
-      "word": "him,",
-      "start": 4.28,
-      "end": 4.66
+      "word": "him",
+      "start": 4.28000020980835,
+      "end": 4.699999809265137
     },
     {
-      "word": "he",
-      "start": 4.88,
+      "word": "who",
+      "start": 4.820000171661377,
       "end": 5.0
     },
     {
-      "word": "said,",
+      "word": "said",
       "start": 5.0,
-      "end": 5.3
+      "end": 5.199999809265137
     },
     {
-      "word": "the",
-      "start": 5.64,
-      "end": 5.74
+      "word": "The",
+      "start": 5.71999979019165,
+      "end": 5.71999979019165
     },
     {
       "word": "messenger",
-      "start": 5.74,
-      "end": 6.1
+      "start": 5.71999979019165,
+      "end": 6.039999961853027
     },
     {
       "word": "of",
-      "start": 6.1,
-      "end": 6.36
-    },
-    {
-      "word": "Allah,",
-      "start": 6.36,
-      "end": 6.86
-    },
-    {
-      "word": "may",
-      "start": 7.16,
-      "end": 7.22
-    },
-    {
-      "word": "the",
-      "start": 7.22,
-      "end": 7.36
-    },
-    {
-      "word": "blessings",
-      "start": 7.36,
-      "end": 7.7
-    },
-    {
-      "word": "and",
-      "start": 7.7,
-      "end": 8.04
-    },
-    {
-      "word": "peace",
-      "start": 8.04,
-      "end": 8.32
-    },
-    {
-      "word": "of",
-      "start": 8.32,
-      "end": 8.6
+      "start": 6.039999961853027,
+      "end": 6.440000057220459
     },
     {
       "word": "Allah",
-      "start": 8.6,
-      "end": 8.84
+      "start": 6.440000057220459,
+      "end": 6.659999847412109
     },
     {
-      "word": "be",
-      "start": 8.84,
-      "end": 9.06
+      "word": "may",
+      "start": 7.119999885559082,
+      "end": 7.179999828338623
     },
     {
-      "word": "upon",
-      "start": 9.06,
-      "end": 9.28
+      "word": "the",
+      "start": 7.179999828338623,
+      "end": 7.519999980926514
     },
     {
-      "word": "him,",
-      "start": 9.28,
-      "end": 9.76
-    },
-    {
-      "word": "said,",
-      "start": 10.06,
-      "end": 10.28
-    },
-    {
-      "word": "part",
-      "start": 10.58,
-      "end": 10.82
-    },
-    {
-      "word": "of",
-      "start": 10.82,
-      "end": 11.0
-    },
-    {
-      "word": "someone's",
-      "start": 11.0,
-      "end": 11.58
-    },
-    {
-      "word": "being",
-      "start": 11.58,
-      "end": 11.78
-    },
-    {
-      "word": "a",
-      "start": 11.78,
-      "end": 12.0
-    },
-    {
-      "word": "good",
-      "start": 12.0,
-      "end": 12.18
-    },
-    {
-      "word": "Muslim,",
-      "start": 12.18,
-      "end": 12.56
-    },
-    {
-      "word": "is",
-      "start": 13.3,
-      "end": 13.42
-    },
-    {
-      "word": "his",
-      "start": 13.42,
-      "end": 13.62
-    },
-    {
-      "word": "leaving",
-      "start": 13.62,
-      "end": 13.92
-    },
-    {
-      "word": "alone,",
-      "start": 13.92,
-      "end": 14.42
-    },
-    {
-      "word": "that",
-      "start": 14.84,
-      "end": 15.12
-    },
-    {
-      "word": "which",
-      "start": 15.12,
-      "end": 15.5
-    },
-    {
-      "word": "does",
-      "start": 15.5,
-      "end": 15.66
-    },
-    {
-      "word": "not",
-      "start": 15.66,
-      "end": 15.9
-    },
-    {
-      "word": "concern",
-      "start": 15.9,
-      "end": 16.22
-    },
-    {
-      "word": "him.",
-      "start": 16.22,
-      "end": 16.8
-    },
-    {
-      "word": "A",
-      "start": 17.12,
-      "end": 17.2
-    },
-    {
-      "word": "good",
-      "start": 17.2,
-      "end": 17.4
-    },
-    {
-      "word": "Hadith,",
-      "start": 17.4,
-      "end": 17.84
-    },
-    {
-      "word": "which",
-      "start": 18.3,
-      "end": 18.36
-    },
-    {
-      "word": "was",
-      "start": 18.36,
-      "end": 18.56
-    },
-    {
-      "word": "related",
-      "start": 18.56,
-      "end": 18.92
-    },
-    {
-      "word": "by",
-      "start": 18.92,
-      "end": 19.34
-    },
-    {
-      "word": "Attimidhi",
-      "start": 19.34,
-      "end": 20.08
+      "word": "blessings",
+      "start": 7.519999980926514,
+      "end": 7.659999847412109
     },
     {
       "word": "and",
-      "start": 20.08,
-      "end": 20.48
+      "start": 7.659999847412109,
+      "end": 8.039999961853027
+    },
+    {
+      "word": "peace",
+      "start": 8.039999961853027,
+      "end": 8.300000190734863
+    },
+    {
+      "word": "of",
+      "start": 8.300000190734863,
+      "end": 8.680000305175781
+    },
+    {
+      "word": "Allah",
+      "start": 8.680000305175781,
+      "end": 8.819999694824219
+    },
+    {
+      "word": "be",
+      "start": 8.819999694824219,
+      "end": 9.020000457763672
+    },
+    {
+      "word": "upon",
+      "start": 9.020000457763672,
+      "end": 9.239999771118164
+    },
+    {
+      "word": "him",
+      "start": 9.239999771118164,
+      "end": 9.539999961853027
+    },
+    {
+      "word": "said",
+      "start": 10.020000457763672,
+      "end": 10.220000267028809
+    },
+    {
+      "word": "Part",
+      "start": 10.739999771118164,
+      "end": 10.800000190734863
+    },
+    {
+      "word": "of",
+      "start": 10.800000190734863,
+      "end": 10.9399995803833
+    },
+    {
+      "word": "someone's",
+      "start": 10.9399995803833,
+      "end": 11.520000457763672
+    },
+    {
+      "word": "being",
+      "start": 11.520000457763672,
+      "end": 11.760000228881836
+    },
+    {
+      "word": "a",
+      "start": 11.760000228881836,
+      "end": 11.960000038146973
+    },
+    {
+      "word": "good",
+      "start": 11.960000038146973,
+      "end": 12.15999984741211
+    },
+    {
+      "word": "Muslim",
+      "start": 12.15999984741211,
+      "end": 12.520000457763672
+    },
+    {
+      "word": "is",
+      "start": 12.520000457763672,
+      "end": 13.300000190734863
+    },
+    {
+      "word": "his",
+      "start": 13.300000190734863,
+      "end": 13.65999984741211
+    },
+    {
+      "word": "leaving",
+      "start": 13.65999984741211,
+      "end": 13.9399995803833
+    },
+    {
+      "word": "alone",
+      "start": 13.9399995803833,
+      "end": 14.520000457763672
+    },
+    {
+      "word": "that",
+      "start": 14.520000457763672,
+      "end": 15.0600004196167
+    },
+    {
+      "word": "which",
+      "start": 15.0600004196167,
+      "end": 15.460000038146973
+    },
+    {
+      "word": "does",
+      "start": 15.460000038146973,
+      "end": 15.65999984741211
+    },
+    {
+      "word": "not",
+      "start": 15.65999984741211,
+      "end": 15.880000114440918
+    },
+    {
+      "word": "concern",
+      "start": 15.880000114440918,
+      "end": 16.239999771118164
+    },
+    {
+      "word": "him",
+      "start": 16.239999771118164,
+      "end": 16.5
+    },
+    {
+      "word": "A",
+      "start": 16.979999542236328,
+      "end": 17.139999389648438
+    },
+    {
+      "word": "good",
+      "start": 17.139999389648438,
+      "end": 17.360000610351562
+    },
+    {
+      "word": "hadith",
+      "start": 17.360000610351562,
+      "end": 17.739999771118164
+    },
+    {
+      "word": "which",
+      "start": 18.18000030517578,
+      "end": 18.31999969482422
+    },
+    {
+      "word": "was",
+      "start": 18.31999969482422,
+      "end": 18.559999465942383
+    },
+    {
+      "word": "related",
+      "start": 18.559999465942383,
+      "end": 18.8799991607666
+    },
+    {
+      "word": "by",
+      "start": 18.8799991607666,
+      "end": 19.440000534057617
+    },
+    {
+      "word": "al",
+      "start": 19.440000534057617,
+      "end": 19.459999084472656
+    },
+    {
+      "word": "Timidi",
+      "start": 19.459999084472656,
+      "end": 19.84000015258789
+    },
+    {
+      "word": "and",
+      "start": 19.84000015258789,
+      "end": 20.479999542236328
     },
     {
       "word": "others",
-      "start": 20.48,
-      "end": 20.86
+      "start": 20.479999542236328,
+      "end": 20.81999969482422
     },
     {
       "word": "in",
-      "start": 20.86,
-      "end": 21.18
+      "start": 20.81999969482422,
+      "end": 21.100000381469727
     },
     {
       "word": "this",
-      "start": 21.18,
-      "end": 21.36
+      "start": 21.100000381469727,
+      "end": 21.360000610351562
     },
     {
-      "word": "form.",
-      "start": 21.36,
-      "end": 21.66
+      "word": "form",
+      "start": 21.360000610351562,
+      "end": 21.6200008392334
     }
-  ]
+  ],
+  "hadith_number": 12
 }

@@ -1,426 +1,436 @@
 {
-  "hadith_number": 9,
-  "text": "9th Hadith, on the authority of Abu Hureira, Abd-Arahman, Ibn Sakhir, may Allah be pleased with him. He said, I heard the messenger of Allah, made a blessings and peace of Allah be upon him, say, what I have forbidden to you, avoid, what I have ordered you to do, do as much as you can. It was only their excessive questioning and their disagreeing with their prophets, that destroyed those who were before you. It was related by Abu Hureira and Muslim.",
+  "text": "9th hadith, on the authority of Abu Huraira Abdur-Rahman Ibn Sakhir. May Allah be pleased with him. He said, I heard the messenger of Allah. May the blessings and peace of Allah be upon him. Say, what I have forbidden to you, avoid. What I have ordered you to do, do as much of it as you can. It was only their excessive questioning and their disagreeing with their prophets that destroyed those who were before you. It was related by al-Bukhari and Muslim.",
   "words": [
     {
       "word": "9th",
       "start": 0.0,
-      "end": 0.84
+      "end": 1.1399999856948853
     },
     {
-      "word": "Hadith,",
-      "start": 0.84,
-      "end": 1.3
+      "word": "hadith",
+      "start": 1.1399999856948853,
+      "end": 1.1399999856948853
     },
     {
       "word": "on",
-      "start": 1.84,
-      "end": 1.96
+      "start": 1.440000057220459,
+      "end": 1.899999976158142
     },
     {
       "word": "the",
-      "start": 1.96,
-      "end": 2.06
+      "start": 1.899999976158142,
+      "end": 2.119999885559082
     },
     {
       "word": "authority",
-      "start": 2.06,
-      "end": 2.46
+      "start": 2.119999885559082,
+      "end": 2.4600000381469727
     },
     {
       "word": "of",
-      "start": 2.46,
-      "end": 2.82
+      "start": 2.4600000381469727,
+      "end": 2.7799999713897705
     },
     {
       "word": "Abu",
-      "start": 2.82,
-      "end": 3.06
+      "start": 2.7799999713897705,
+      "end": 3.119999885559082
     },
     {
-      "word": "Hureira,",
-      "start": 3.06,
-      "end": 3.76
+      "word": "Huraira",
+      "start": 3.119999885559082,
+      "end": 3.9000000953674316
     },
     {
-      "word": "Abd",
-      "start": 4.24,
-      "end": 4.38
+      "word": "Abdur",
+      "start": 3.9000000953674316,
+      "end": 4.460000038146973
     },
     {
-      "word": "-Arahman,",
-      "start": 4.38,
-      "end": 5.12
+      "word": "Rahman",
+      "start": 4.460000038146973,
+      "end": 4.900000095367432
     },
     {
       "word": "Ibn",
-      "start": 5.44,
-      "end": 5.64
+      "start": 4.900000095367432,
+      "end": 5.659999847412109
     },
     {
-      "word": "Sakhir,",
-      "start": 5.64,
-      "end": 6.46
+      "word": "Sakhir",
+      "start": 5.659999847412109,
+      "end": 6.360000133514404
     },
     {
-      "word": "may",
-      "start": 6.98,
-      "end": 7.16
+      "word": "May",
+      "start": 6.980000019073486,
+      "end": 7.099999904632568
     },
     {
       "word": "Allah",
-      "start": 7.16,
-      "end": 7.46
+      "start": 7.099999904632568,
+      "end": 7.400000095367432
     },
     {
       "word": "be",
-      "start": 7.46,
-      "end": 7.76
+      "start": 7.400000095367432,
+      "end": 7.78000020980835
     },
     {
       "word": "pleased",
-      "start": 7.76,
-      "end": 8.06
+      "start": 7.78000020980835,
+      "end": 8.0
     },
     {
       "word": "with",
-      "start": 8.06,
-      "end": 8.28
+      "start": 8.0,
+      "end": 8.279999732971191
     },
     {
-      "word": "him.",
-      "start": 8.28,
-      "end": 8.88
+      "word": "him",
+      "start": 8.279999732971191,
+      "end": 8.539999961853027
     },
     {
       "word": "He",
-      "start": 9.28,
-      "end": 9.46
+      "start": 9.260000228881836,
+      "end": 9.460000038146973
     },
     {
-      "word": "said,",
-      "start": 9.46,
-      "end": 9.8
+      "word": "said",
+      "start": 9.460000038146973,
+      "end": 9.680000305175781
     },
     {
       "word": "I",
-      "start": 10.3,
-      "end": 10.52
+      "start": 10.359999656677246,
+      "end": 10.399999618530273
     },
     {
       "word": "heard",
-      "start": 10.52,
-      "end": 10.78
+      "start": 10.399999618530273,
+      "end": 10.720000267028809
     },
     {
       "word": "the",
-      "start": 10.78,
-      "end": 11.0
+      "start": 10.720000267028809,
+      "end": 10.960000038146973
     },
     {
       "word": "messenger",
-      "start": 11.0,
-      "end": 11.28
+      "start": 10.960000038146973,
+      "end": 11.220000267028809
     },
     {
       "word": "of",
-      "start": 11.28,
-      "end": 11.54
-    },
-    {
-      "word": "Allah,",
-      "start": 11.54,
-      "end": 12.04
-    },
-    {
-      "word": "made",
-      "start": 12.68,
-      "end": 12.82
-    },
-    {
-      "word": "a",
-      "start": 12.82,
-      "end": 13.08
-    },
-    {
-      "word": "blessings",
-      "start": 13.08,
-      "end": 13.26
-    },
-    {
-      "word": "and",
-      "start": 13.26,
-      "end": 13.62
-    },
-    {
-      "word": "peace",
-      "start": 13.62,
-      "end": 13.86
-    },
-    {
-      "word": "of",
-      "start": 13.86,
-      "end": 14.08
+      "start": 11.220000267028809,
+      "end": 11.640000343322754
     },
     {
       "word": "Allah",
-      "start": 14.08,
-      "end": 14.36
+      "start": 11.640000343322754,
+      "end": 11.880000114440918
+    },
+    {
+      "word": "May",
+      "start": 12.65999984741211,
+      "end": 12.760000228881836
+    },
+    {
+      "word": "the",
+      "start": 12.760000228881836,
+      "end": 13.100000381469727
+    },
+    {
+      "word": "blessings",
+      "start": 13.100000381469727,
+      "end": 13.239999771118164
+    },
+    {
+      "word": "and",
+      "start": 13.239999771118164,
+      "end": 13.600000381469727
+    },
+    {
+      "word": "peace",
+      "start": 13.600000381469727,
+      "end": 13.819999694824219
+    },
+    {
+      "word": "of",
+      "start": 13.819999694824219,
+      "end": 14.119999885559082
+    },
+    {
+      "word": "Allah",
+      "start": 14.119999885559082,
+      "end": 14.319999694824219
     },
     {
       "word": "be",
-      "start": 14.36,
-      "end": 14.7
+      "start": 14.319999694824219,
+      "end": 14.699999809265137
     },
     {
       "word": "upon",
-      "start": 14.7,
-      "end": 14.9
+      "start": 14.699999809265137,
+      "end": 14.859999656677246
     },
     {
-      "word": "him,",
-      "start": 14.9,
-      "end": 15.52
+      "word": "him",
+      "start": 14.859999656677246,
+      "end": 15.260000228881836
     },
     {
-      "word": "say,",
-      "start": 15.62,
-      "end": 15.88
+      "word": "Say",
+      "start": 15.539999961853027,
+      "end": 15.899999618530273
     },
     {
       "word": "what",
-      "start": 16.56,
-      "end": 16.74
+      "start": 16.6200008392334,
+      "end": 16.719999313354492
     },
     {
       "word": "I",
-      "start": 16.74,
-      "end": 16.94
+      "start": 16.719999313354492,
+      "end": 16.920000076293945
     },
     {
       "word": "have",
-      "start": 16.94,
-      "end": 17.12
+      "start": 16.920000076293945,
+      "end": 17.15999984741211
     },
     {
       "word": "forbidden",
-      "start": 17.12,
-      "end": 17.38
+      "start": 17.15999984741211,
+      "end": 17.360000610351562
     },
     {
       "word": "to",
-      "start": 17.38,
-      "end": 17.78
+      "start": 17.360000610351562,
+      "end": 17.68000030517578
     },
     {
-      "word": "you,",
-      "start": 17.78,
-      "end": 18.38
+      "word": "you",
+      "start": 17.68000030517578,
+      "end": 18.0
     },
     {
-      "word": "avoid,",
-      "start": 18.7,
-      "end": 19.08
+      "word": "avoid",
+      "start": 18.700000762939453,
+      "end": 19.020000457763672
     },
     {
-      "word": "what",
-      "start": 19.84,
-      "end": 19.98
+      "word": "What",
+      "start": 19.719999313354492,
+      "end": 19.959999084472656
     },
     {
       "word": "I",
-      "start": 19.98,
-      "end": 20.22
+      "start": 19.959999084472656,
+      "end": 20.219999313354492
     },
     {
       "word": "have",
-      "start": 20.22,
-      "end": 20.48
+      "start": 20.219999313354492,
+      "end": 20.5
     },
     {
       "word": "ordered",
-      "start": 20.48,
-      "end": 20.7
+      "start": 20.5,
+      "end": 20.6200008392334
     },
     {
       "word": "you",
-      "start": 20.7,
-      "end": 21.12
+      "start": 20.6200008392334,
+      "end": 21.0
     },
     {
       "word": "to",
-      "start": 21.12,
-      "end": 21.46
-    },
-    {
-      "word": "do,",
-      "start": 21.46,
-      "end": 22.02
+      "start": 21.0,
+      "end": 21.440000534057617
     },
     {
       "word": "do",
-      "start": 22.6,
-      "end": 22.92
+      "start": 21.440000534057617,
+      "end": 21.739999771118164
+    },
+    {
+      "word": "do",
+      "start": 22.81999969482422,
+      "end": 22.860000610351562
     },
     {
       "word": "as",
-      "start": 22.92,
-      "end": 23.12
+      "start": 22.860000610351562,
+      "end": 23.1200008392334
     },
     {
       "word": "much",
-      "start": 23.12,
-      "end": 23.38
+      "start": 23.1200008392334,
+      "end": 23.280000686645508
+    },
+    {
+      "word": "of",
+      "start": 23.280000686645508,
+      "end": 23.600000381469727
+    },
+    {
+      "word": "it",
+      "start": 23.600000381469727,
+      "end": 23.639999389648438
     },
     {
       "word": "as",
-      "start": 23.38,
-      "end": 23.82
+      "start": 23.639999389648438,
+      "end": 23.860000610351562
     },
     {
       "word": "you",
-      "start": 23.82,
-      "end": 24.02
+      "start": 23.860000610351562,
+      "end": 24.0
     },
     {
-      "word": "can.",
-      "start": 24.02,
-      "end": 24.5
+      "word": "can",
+      "start": 24.0,
+      "end": 24.299999237060547
     },
     {
       "word": "It",
-      "start": 25.06,
-      "end": 25.14
+      "start": 24.860000610351562,
+      "end": 25.139999389648438
     },
     {
       "word": "was",
-      "start": 25.14,
-      "end": 25.42
+      "start": 25.139999389648438,
+      "end": 25.31999969482422
     },
     {
       "word": "only",
-      "start": 25.42,
-      "end": 25.66
+      "start": 25.31999969482422,
+      "end": 25.6200008392334
     },
     {
       "word": "their",
-      "start": 25.66,
-      "end": 25.94
+      "start": 25.6200008392334,
+      "end": 25.940000534057617
     },
     {
       "word": "excessive",
-      "start": 25.94,
-      "end": 26.3
+      "start": 25.940000534057617,
+      "end": 26.34000015258789
     },
     {
       "word": "questioning",
-      "start": 26.3,
-      "end": 26.88
+      "start": 26.34000015258789,
+      "end": 26.84000015258789
     },
     {
       "word": "and",
-      "start": 26.88,
-      "end": 27.78
+      "start": 26.84000015258789,
+      "end": 27.65999984741211
     },
     {
       "word": "their",
-      "start": 27.78,
-      "end": 27.98
+      "start": 27.65999984741211,
+      "end": 27.899999618530273
     },
     {
       "word": "disagreeing",
-      "start": 27.98,
-      "end": 28.52
+      "start": 27.899999618530273,
+      "end": 28.479999542236328
     },
     {
       "word": "with",
-      "start": 28.52,
-      "end": 28.74
+      "start": 28.479999542236328,
+      "end": 28.639999389648438
     },
     {
       "word": "their",
-      "start": 28.74,
-      "end": 28.92
+      "start": 28.639999389648438,
+      "end": 28.8799991607666
     },
     {
-      "word": "prophets,",
-      "start": 28.92,
-      "end": 29.6
+      "word": "prophets",
+      "start": 28.8799991607666,
+      "end": 29.299999237060547
     },
     {
       "word": "that",
-      "start": 30.38,
-      "end": 30.46
+      "start": 29.760000228881836,
+      "end": 30.440000534057617
     },
     {
       "word": "destroyed",
-      "start": 30.46,
-      "end": 30.86
+      "start": 30.440000534057617,
+      "end": 30.84000015258789
     },
     {
       "word": "those",
-      "start": 30.86,
-      "end": 31.46
+      "start": 30.84000015258789,
+      "end": 31.360000610351562
     },
     {
       "word": "who",
-      "start": 31.46,
-      "end": 31.7
+      "start": 31.360000610351562,
+      "end": 31.6200008392334
     },
     {
       "word": "were",
-      "start": 31.7,
-      "end": 31.86
+      "start": 31.6200008392334,
+      "end": 31.799999237060547
     },
     {
       "word": "before",
-      "start": 31.86,
-      "end": 32.14
+      "start": 31.799999237060547,
+      "end": 32.060001373291016
     },
     {
-      "word": "you.",
-      "start": 32.14,
-      "end": 32.72
+      "word": "you",
+      "start": 32.060001373291016,
+      "end": 32.36000061035156
     },
     {
       "word": "It",
-      "start": 33.04,
-      "end": 33.22
+      "start": 33.099998474121094,
+      "end": 33.20000076293945
     },
     {
       "word": "was",
-      "start": 33.22,
-      "end": 33.42
+      "start": 33.20000076293945,
+      "end": 33.380001068115234
     },
     {
       "word": "related",
-      "start": 33.42,
-      "end": 33.78
+      "start": 33.380001068115234,
+      "end": 33.7599983215332
     },
     {
       "word": "by",
-      "start": 33.78,
-      "end": 34.16
+      "start": 33.7599983215332,
+      "end": 34.18000030517578
     },
     {
-      "word": "Abu",
-      "start": 34.16,
-      "end": 34.4
+      "word": "al",
+      "start": 34.18000030517578,
+      "end": 34.380001068115234
     },
     {
-      "word": "Hureira",
-      "start": 34.4,
-      "end": 35.32
+      "word": "Bukhari",
+      "start": 34.380001068115234,
+      "end": 34.720001220703125
     },
     {
       "word": "and",
-      "start": 35.32,
-      "end": 35.56
+      "start": 34.720001220703125,
+      "end": 35.47999954223633
     },
     {
-      "word": "Muslim.",
-      "start": 35.56,
-      "end": 35.78
+      "word": "Muslim",
+      "start": 35.47999954223633,
+      "end": 35.79999923706055
     }
-  ]
+  ],
+  "hadith_number": 9
 }

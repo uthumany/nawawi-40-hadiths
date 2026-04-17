@@ -1,871 +1,871 @@
 {
-  "hadith_number": 6,
-  "text": "6. On the authority of Abu Abdullah, and no man, the son of Bashar, may Allah be pleased of them both, who said, I heard the messenger of Allah, may the blessings and peace of Allah be upon him. Say, that which is lawful is plain, and that which is unlawful is plain, and that which is unlawful is plain, and between the two of them are doubtful matters, about which not many people know. Thus, he who avoids doubtful matters, clears himself in regard to his religion and his honour. But he who falls into doubtful matters, falls into that which is unlawful, like the shepherd who postures around a sanctuary, all but grazing therein. Truly, every king has a sanctuary, and truly, Allah's sanctuary is his prohibitions. Truly, in the body there is a morsel of flesh which, if it be whole, all the body is whole, and which if it be diseased, all of it is diseased. Truly, it is the heart. It was related by al-Bukhari and Muslim.",
+  "text": "6th Hadith On the authority of Abu Abdullah al-Nu'man, the son of Bashir, may Allah be pleased of them both, who said, I heard the Messenger of Allah, may the blessings and peace of Allah be upon him, say, That which is lawful is plain, and that which is unlawful is plain, and that which is unlawful is plain, and between the two of them are doubtful matters, about which not many people know. Thus, he who avoids doubtful matters clears himself in regard to his religion and his honour. But he who falls into doubtful matters falls into that which is unlawful, like the shepherd who pastures around a sanctuary, all but grazing therein. Truly, every king has a sanctuary, and truly, Allah's sanctuary is his prohibitions. Truly, in the body there is a morsel of flesh, which, if it be whole, all the body is whole, and which, if it be diseased, all of it is diseased. Truly, it is the heart. It was related by al-Bukhari and Muslim.",
   "words": [
     {
-      "word": "6.",
+      "word": "6th",
       "start": 0.0,
-      "end": 1.08
+      "end": 1.2599999904632568
+    },
+    {
+      "word": "Hadith",
+      "start": 1.2599999904632568,
+      "end": 1.600000023841858
     },
     {
       "word": "On",
-      "start": 1.86,
-      "end": 2.5
+      "start": 1.7799999713897705,
+      "end": 2.4600000381469727
     },
     {
       "word": "the",
-      "start": 2.5,
-      "end": 2.66
+      "start": 2.4600000381469727,
+      "end": 2.680000066757202
     },
     {
       "word": "authority",
-      "start": 2.66,
-      "end": 3.06
+      "start": 2.680000066757202,
+      "end": 3.0799999237060547
     },
     {
       "word": "of",
-      "start": 3.06,
+      "start": 3.0799999237060547,
       "end": 3.5
     },
     {
       "word": "Abu",
       "start": 3.5,
-      "end": 3.76
+      "end": 3.759999990463257
     },
     {
-      "word": "Abdullah,",
-      "start": 3.76,
-      "end": 4.48
-    },
-    {
-      "word": "and",
-      "start": 4.9,
-      "end": 5.06
-    },
-    {
-      "word": "no",
-      "start": 5.06,
-      "end": 5.22
-    },
-    {
-      "word": "man,",
-      "start": 5.22,
-      "end": 5.68
-    },
-    {
-      "word": "the",
-      "start": 6.12,
-      "end": 6.24
-    },
-    {
-      "word": "son",
-      "start": 6.24,
-      "end": 6.36
-    },
-    {
-      "word": "of",
-      "start": 6.36,
-      "end": 6.56
-    },
-    {
-      "word": "Bashar,",
-      "start": 6.56,
-      "end": 7.22
-    },
-    {
-      "word": "may",
-      "start": 7.64,
-      "end": 7.74
-    },
-    {
-      "word": "Allah",
-      "start": 7.74,
-      "end": 8.0
-    },
-    {
-      "word": "be",
-      "start": 8.0,
-      "end": 8.22
-    },
-    {
-      "word": "pleased",
-      "start": 8.22,
-      "end": 8.48
-    },
-    {
-      "word": "of",
-      "start": 8.48,
-      "end": 8.62
-    },
-    {
-      "word": "them",
-      "start": 8.62,
-      "end": 8.78
-    },
-    {
-      "word": "both,",
-      "start": 8.78,
-      "end": 9.3
-    },
-    {
-      "word": "who",
-      "start": 9.86,
-      "end": 10.04
-    },
-    {
-      "word": "said,",
-      "start": 10.04,
-      "end": 10.5
-    },
-    {
-      "word": "I",
-      "start": 11.12,
-      "end": 11.22
-    },
-    {
-      "word": "heard",
-      "start": 11.22,
-      "end": 11.5
-    },
-    {
-      "word": "the",
-      "start": 11.5,
-      "end": 11.68
-    },
-    {
-      "word": "messenger",
-      "start": 11.68,
-      "end": 11.96
-    },
-    {
-      "word": "of",
-      "start": 11.96,
-      "end": 12.22
-    },
-    {
-      "word": "Allah,",
-      "start": 12.22,
-      "end": 12.74
-    },
-    {
-      "word": "may",
-      "start": 13.04,
-      "end": 13.18
-    },
-    {
-      "word": "the",
-      "start": 13.18,
-      "end": 13.36
-    },
-    {
-      "word": "blessings",
-      "start": 13.36,
-      "end": 13.66
-    },
-    {
-      "word": "and",
-      "start": 13.66,
-      "end": 14.02
-    },
-    {
-      "word": "peace",
-      "start": 14.02,
-      "end": 14.28
-    },
-    {
-      "word": "of",
-      "start": 14.28,
-      "end": 14.5
-    },
-    {
-      "word": "Allah",
-      "start": 14.5,
-      "end": 14.9
-    },
-    {
-      "word": "be",
-      "start": 14.9,
-      "end": 15.44
-    },
-    {
-      "word": "upon",
-      "start": 15.44,
-      "end": 15.72
-    },
-    {
-      "word": "him.",
-      "start": 15.72,
-      "end": 16.36
-    },
-    {
-      "word": "Say,",
-      "start": 16.7,
-      "end": 16.98
-    },
-    {
-      "word": "that",
-      "start": 17.8,
-      "end": 18.04
-    },
-    {
-      "word": "which",
-      "start": 18.04,
-      "end": 18.32
-    },
-    {
-      "word": "is",
-      "start": 18.32,
-      "end": 18.5
-    },
-    {
-      "word": "lawful",
-      "start": 18.5,
-      "end": 18.98
-    },
-    {
-      "word": "is",
-      "start": 18.98,
-      "end": 19.28
-    },
-    {
-      "word": "plain,",
-      "start": 19.28,
-      "end": 19.68
-    },
-    {
-      "word": "and",
-      "start": 20.36,
-      "end": 20.7
-    },
-    {
-      "word": "that",
-      "start": 20.7,
-      "end": 20.82
-    },
-    {
-      "word": "which",
-      "start": 20.82,
-      "end": 20.98
-    },
-    {
-      "word": "is",
-      "start": 20.98,
-      "end": 21.26
-    },
-    {
-      "word": "unlawful",
-      "start": 21.26,
-      "end": 21.8
-    },
-    {
-      "word": "is",
-      "start": 21.8,
-      "end": 22.14
-    },
-    {
-      "word": "plain,",
-      "start": 22.14,
-      "end": 22.56
-    },
-    {
-      "word": "and",
-      "start": 23.28,
-      "end": 23.64
-    },
-    {
-      "word": "that",
-      "start": 23.64,
-      "end": 23.76
-    },
-    {
-      "word": "which",
-      "start": 23.76,
-      "end": 24.06
-    },
-    {
-      "word": "is",
-      "start": 24.06,
-      "end": 24.38
-    },
-    {
-      "word": "unlawful",
-      "start": 24.38,
-      "end": 25.02
-    },
-    {
-      "word": "is",
-      "start": 25.02,
-      "end": 25.44
-    },
-    {
-      "word": "plain,",
-      "start": 25.44,
-      "end": 25.9
-    },
-    {
-      "word": "and",
-      "start": 26.52,
-      "end": 26.84
-    },
-    {
-      "word": "between",
-      "start": 26.84,
-      "end": 27.1
-    },
-    {
-      "word": "the",
-      "start": 27.1,
-      "end": 27.36
-    },
-    {
-      "word": "two",
-      "start": 27.36,
-      "end": 27.48
-    },
-    {
-      "word": "of",
-      "start": 27.48,
-      "end": 27.72
-    },
-    {
-      "word": "them",
-      "start": 27.72,
-      "end": 28.12
-    },
-    {
-      "word": "are",
-      "start": 28.12,
-      "end": 28.48
-    },
-    {
-      "word": "doubtful",
-      "start": 28.48,
-      "end": 28.92
-    },
-    {
-      "word": "matters,",
-      "start": 28.92,
-      "end": 29.36
-    },
-    {
-      "word": "about",
-      "start": 29.36,
-      "end": 30.18
-    },
-    {
-      "word": "which",
-      "start": 30.18,
-      "end": 30.8
-    },
-    {
-      "word": "not",
-      "start": 30.8,
-      "end": 31.26
-    },
-    {
-      "word": "many",
-      "start": 31.26,
-      "end": 31.48
-    },
-    {
-      "word": "people",
-      "start": 31.48,
-      "end": 31.8
-    },
-    {
-      "word": "know.",
-      "start": 31.8,
-      "end": 32.42
-    },
-    {
-      "word": "Thus,",
-      "start": 33.0,
-      "end": 33.38
-    },
-    {
-      "word": "he",
-      "start": 33.92,
-      "end": 34.08
-    },
-    {
-      "word": "who",
-      "start": 34.08,
-      "end": 34.28
-    },
-    {
-      "word": "avoids",
-      "start": 34.28,
-      "end": 34.7
-    },
-    {
-      "word": "doubtful",
-      "start": 34.7,
-      "end": 35.12
-    },
-    {
-      "word": "matters,",
-      "start": 35.12,
-      "end": 35.6
-    },
-    {
-      "word": "clears",
-      "start": 36.32,
-      "end": 36.52
-    },
-    {
-      "word": "himself",
-      "start": 36.52,
-      "end": 36.94
-    },
-    {
-      "word": "in",
-      "start": 36.94,
-      "end": 37.28
-    },
-    {
-      "word": "regard",
-      "start": 37.28,
-      "end": 37.6
-    },
-    {
-      "word": "to",
-      "start": 37.6,
-      "end": 37.78
-    },
-    {
-      "word": "his",
-      "start": 37.78,
-      "end": 37.96
-    },
-    {
-      "word": "religion",
-      "start": 37.96,
-      "end": 38.3
-    },
-    {
-      "word": "and",
-      "start": 38.3,
-      "end": 38.84
-    },
-    {
-      "word": "his",
-      "start": 38.84,
-      "end": 39.08
-    },
-    {
-      "word": "honour.",
-      "start": 39.08,
-      "end": 39.5
-    },
-    {
-      "word": "But",
-      "start": 40.3,
-      "end": 40.48
-    },
-    {
-      "word": "he",
-      "start": 40.48,
-      "end": 40.66
-    },
-    {
-      "word": "who",
-      "start": 40.66,
-      "end": 40.86
-    },
-    {
-      "word": "falls",
-      "start": 40.86,
-      "end": 41.12
-    },
-    {
-      "word": "into",
-      "start": 41.12,
-      "end": 41.3
-    },
-    {
-      "word": "doubtful",
-      "start": 41.3,
-      "end": 41.68
-    },
-    {
-      "word": "matters,",
-      "start": 41.68,
-      "end": 42.22
-    },
-    {
-      "word": "falls",
-      "start": 42.88,
-      "end": 43.1
-    },
-    {
-      "word": "into",
-      "start": 43.1,
-      "end": 43.32
-    },
-    {
-      "word": "that",
-      "start": 43.32,
-      "end": 43.56
-    },
-    {
-      "word": "which",
-      "start": 43.56,
-      "end": 43.78
-    },
-    {
-      "word": "is",
-      "start": 43.78,
-      "end": 44.06
-    },
-    {
-      "word": "unlawful,",
-      "start": 44.06,
-      "end": 44.7
-    },
-    {
-      "word": "like",
-      "start": 45.36,
-      "end": 45.54
-    },
-    {
-      "word": "the",
-      "start": 45.54,
-      "end": 45.74
-    },
-    {
-      "word": "shepherd",
-      "start": 45.74,
-      "end": 46.0
-    },
-    {
-      "word": "who",
-      "start": 46.0,
-      "end": 46.42
-    },
-    {
-      "word": "postures",
-      "start": 46.42,
-      "end": 47.0
-    },
-    {
-      "word": "around",
-      "start": 47.0,
-      "end": 47.36
-    },
-    {
-      "word": "a",
-      "start": 47.36,
-      "end": 47.68
-    },
-    {
-      "word": "sanctuary,",
-      "start": 47.68,
-      "end": 47.94
-    },
-    {
-      "word": "all",
-      "start": 48.88,
-      "end": 49.06
-    },
-    {
-      "word": "but",
-      "start": 49.06,
-      "end": 49.3
-    },
-    {
-      "word": "grazing",
-      "start": 49.3,
-      "end": 49.62
-    },
-    {
-      "word": "therein.",
-      "start": 50.22,
-      "end": 50.74
-    },
-    {
-      "word": "Truly,",
-      "start": 51.58,
-      "end": 51.86
-    },
-    {
-      "word": "every",
-      "start": 52.18,
-      "end": 52.44
-    },
-    {
-      "word": "king",
-      "start": 52.44,
-      "end": 52.68
-    },
-    {
-      "word": "has",
-      "start": 52.68,
-      "end": 52.94
-    },
-    {
-      "word": "a",
-      "start": 52.94,
-      "end": 53.16
-    },
-    {
-      "word": "sanctuary,",
-      "start": 53.16,
-      "end": 53.52
-    },
-    {
-      "word": "and",
-      "start": 54.7,
-      "end": 54.84
-    },
-    {
-      "word": "truly,",
-      "start": 54.84,
-      "end": 55.24
-    },
-    {
-      "word": "Allah's",
-      "start": 55.72,
-      "end": 56.06
-    },
-    {
-      "word": "sanctuary",
-      "start": 56.06,
-      "end": 56.52
-    },
-    {
-      "word": "is",
-      "start": 56.52,
-      "end": 56.9
-    },
-    {
-      "word": "his",
-      "start": 56.9,
-      "end": 57.26
-    },
-    {
-      "word": "prohibitions.",
-      "start": 57.26,
-      "end": 58.08
-    },
-    {
-      "word": "Truly,",
-      "start": 58.98,
-      "end": 59.22
-    },
-    {
-      "word": "in",
-      "start": 59.46,
-      "end": 59.56
-    },
-    {
-      "word": "the",
-      "start": 59.56,
-      "end": 59.64
-    },
-    {
-      "word": "body",
-      "start": 59.64,
-      "end": 60.02
-    },
-    {
-      "word": "there",
-      "start": 60.02,
-      "end": 60.38
-    },
-    {
-      "word": "is",
-      "start": 60.38,
-      "end": 60.48
-    },
-    {
-      "word": "a",
-      "start": 60.48,
-      "end": 60.7
-    },
-    {
-      "word": "morsel",
-      "start": 60.7,
-      "end": 60.88
-    },
-    {
-      "word": "of",
-      "start": 60.88,
-      "end": 61.18
-    },
-    {
-      "word": "flesh",
-      "start": 61.18,
-      "end": 61.68
-    },
-    {
-      "word": "which,",
-      "start": 61.68,
-      "end": 62.5
-    },
-    {
-      "word": "if",
-      "start": 62.76,
-      "end": 63.1
-    },
-    {
-      "word": "it",
-      "start": 63.1,
-      "end": 63.28
-    },
-    {
-      "word": "be",
-      "start": 63.28,
-      "end": 63.44
-    },
-    {
-      "word": "whole,",
-      "start": 63.44,
-      "end": 63.78
-    },
-    {
-      "word": "all",
-      "start": 64.44,
-      "end": 64.64
-    },
-    {
-      "word": "the",
-      "start": 64.64,
-      "end": 64.78
-    },
-    {
-      "word": "body",
-      "start": 64.78,
-      "end": 65.0
-    },
-    {
-      "word": "is",
-      "start": 65.0,
-      "end": 65.24
-    },
-    {
-      "word": "whole,",
-      "start": 65.24,
-      "end": 65.62
-    },
-    {
-      "word": "and",
-      "start": 66.1,
-      "end": 66.34
-    },
-    {
-      "word": "which",
-      "start": 66.34,
-      "end": 66.5
-    },
-    {
-      "word": "if",
-      "start": 66.5,
-      "end": 66.66
-    },
-    {
-      "word": "it",
-      "start": 66.66,
-      "end": 66.78
-    },
-    {
-      "word": "be",
-      "start": 66.78,
-      "end": 66.88
-    },
-    {
-      "word": "diseased,",
-      "start": 66.88,
-      "end": 67.52
-    },
-    {
-      "word": "all",
-      "start": 68.2,
-      "end": 68.4
-    },
-    {
-      "word": "of",
-      "start": 68.4,
-      "end": 68.52
-    },
-    {
-      "word": "it",
-      "start": 68.52,
-      "end": 68.64
-    },
-    {
-      "word": "is",
-      "start": 68.64,
-      "end": 68.9
-    },
-    {
-      "word": "diseased.",
-      "start": 68.9,
-      "end": 69.52
-    },
-    {
-      "word": "Truly,",
-      "start": 70.48,
-      "end": 70.76
-    },
-    {
-      "word": "it",
-      "start": 70.9,
-      "end": 70.98
-    },
-    {
-      "word": "is",
-      "start": 70.98,
-      "end": 71.2
-    },
-    {
-      "word": "the",
-      "start": 71.2,
-      "end": 71.4
-    },
-    {
-      "word": "heart.",
-      "start": 71.4,
-      "end": 71.78
-    },
-    {
-      "word": "It",
-      "start": 72.84,
-      "end": 73.0
-    },
-    {
-      "word": "was",
-      "start": 73.0,
-      "end": 73.22
-    },
-    {
-      "word": "related",
-      "start": 73.22,
-      "end": 73.6
-    },
-    {
-      "word": "by",
-      "start": 73.6,
-      "end": 73.88
+      "word": "Abdullah",
+      "start": 3.759999990463257,
+      "end": 4.460000038146973
     },
     {
       "word": "al",
-      "start": 73.88,
-      "end": 74.06
+      "start": 4.460000038146973,
+      "end": 5.079999923706055
     },
     {
-      "word": "-Bukhari",
-      "start": 74.06,
-      "end": 74.58
+      "word": "Nu'man",
+      "start": 5.079999923706055,
+      "end": 5.480000019073486
+    },
+    {
+      "word": "the",
+      "start": 6.119999885559082,
+      "end": 6.28000020980835
+    },
+    {
+      "word": "son",
+      "start": 6.28000020980835,
+      "end": 6.340000152587891
+    },
+    {
+      "word": "of",
+      "start": 6.340000152587891,
+      "end": 6.739999771118164
+    },
+    {
+      "word": "Bashir",
+      "start": 6.739999771118164,
+      "end": 6.940000057220459
+    },
+    {
+      "word": "may",
+      "start": 7.579999923706055,
+      "end": 7.78000020980835
+    },
+    {
+      "word": "Allah",
+      "start": 7.78000020980835,
+      "end": 7.900000095367432
+    },
+    {
+      "word": "be",
+      "start": 7.900000095367432,
+      "end": 8.239999771118164
+    },
+    {
+      "word": "pleased",
+      "start": 8.239999771118164,
+      "end": 8.399999618530273
+    },
+    {
+      "word": "of",
+      "start": 8.399999618530273,
+      "end": 8.579999923706055
+    },
+    {
+      "word": "them",
+      "start": 8.579999923706055,
+      "end": 8.880000114440918
+    },
+    {
+      "word": "both",
+      "start": 8.880000114440918,
+      "end": 9.260000228881836
+    },
+    {
+      "word": "who",
+      "start": 9.84000015258789,
+      "end": 10.020000457763672
+    },
+    {
+      "word": "said",
+      "start": 10.020000457763672,
+      "end": 10.260000228881836
+    },
+    {
+      "word": "I",
+      "start": 10.699999809265137,
+      "end": 11.15999984741211
+    },
+    {
+      "word": "heard",
+      "start": 11.15999984741211,
+      "end": 11.4399995803833
+    },
+    {
+      "word": "the",
+      "start": 11.4399995803833,
+      "end": 11.619999885559082
+    },
+    {
+      "word": "Messenger",
+      "start": 11.619999885559082,
+      "end": 11.920000076293945
+    },
+    {
+      "word": "of",
+      "start": 11.920000076293945,
+      "end": 12.279999732971191
+    },
+    {
+      "word": "Allah",
+      "start": 12.279999732971191,
+      "end": 12.479999542236328
+    },
+    {
+      "word": "may",
+      "start": 13.0600004196167,
+      "end": 13.119999885559082
+    },
+    {
+      "word": "the",
+      "start": 13.119999885559082,
+      "end": 13.380000114440918
+    },
+    {
+      "word": "blessings",
+      "start": 13.380000114440918,
+      "end": 13.65999984741211
     },
     {
       "word": "and",
-      "start": 74.58,
-      "end": 75.1
+      "start": 13.65999984741211,
+      "end": 14.0
     },
     {
-      "word": "Muslim.",
-      "start": 75.1,
-      "end": 75.34
+      "word": "peace",
+      "start": 14.0,
+      "end": 14.220000267028809
+    },
+    {
+      "word": "of",
+      "start": 14.220000267028809,
+      "end": 14.65999984741211
+    },
+    {
+      "word": "Allah",
+      "start": 14.65999984741211,
+      "end": 14.720000267028809
+    },
+    {
+      "word": "be",
+      "start": 14.720000267028809,
+      "end": 15.460000038146973
+    },
+    {
+      "word": "upon",
+      "start": 15.460000038146973,
+      "end": 15.680000305175781
+    },
+    {
+      "word": "him",
+      "start": 15.680000305175781,
+      "end": 15.979999542236328
+    },
+    {
+      "word": "say",
+      "start": 16.639999389648438,
+      "end": 16.920000076293945
+    },
+    {
+      "word": "That",
+      "start": 17.8799991607666,
+      "end": 18.0
+    },
+    {
+      "word": "which",
+      "start": 18.0,
+      "end": 18.280000686645508
+    },
+    {
+      "word": "is",
+      "start": 18.280000686645508,
+      "end": 18.479999542236328
+    },
+    {
+      "word": "lawful",
+      "start": 18.479999542236328,
+      "end": 18.81999969482422
+    },
+    {
+      "word": "is",
+      "start": 18.81999969482422,
+      "end": 19.280000686645508
+    },
+    {
+      "word": "plain",
+      "start": 19.280000686645508,
+      "end": 19.579999923706055
+    },
+    {
+      "word": "and",
+      "start": 19.940000534057617,
+      "end": 20.579999923706055
+    },
+    {
+      "word": "that",
+      "start": 20.579999923706055,
+      "end": 20.760000228881836
+    },
+    {
+      "word": "which",
+      "start": 20.760000228881836,
+      "end": 21.020000457763672
+    },
+    {
+      "word": "is",
+      "start": 21.020000457763672,
+      "end": 21.299999237060547
+    },
+    {
+      "word": "unlawful",
+      "start": 21.299999237060547,
+      "end": 21.68000030517578
+    },
+    {
+      "word": "is",
+      "start": 21.68000030517578,
+      "end": 22.219999313354492
+    },
+    {
+      "word": "plain",
+      "start": 22.219999313354492,
+      "end": 22.5
+    },
+    {
+      "word": "and",
+      "start": 23.31999969482422,
+      "end": 23.520000457763672
+    },
+    {
+      "word": "that",
+      "start": 23.520000457763672,
+      "end": 23.719999313354492
+    },
+    {
+      "word": "which",
+      "start": 23.719999313354492,
+      "end": 24.059999465942383
+    },
+    {
+      "word": "is",
+      "start": 24.059999465942383,
+      "end": 24.420000076293945
+    },
+    {
+      "word": "unlawful",
+      "start": 24.420000076293945,
+      "end": 24.84000015258789
+    },
+    {
+      "word": "is",
+      "start": 24.84000015258789,
+      "end": 25.760000228881836
+    },
+    {
+      "word": "plain",
+      "start": 25.760000228881836,
+      "end": 25.799999237060547
+    },
+    {
+      "word": "and",
+      "start": 26.34000015258789,
+      "end": 26.780000686645508
+    },
+    {
+      "word": "between",
+      "start": 26.780000686645508,
+      "end": 27.040000915527344
+    },
+    {
+      "word": "the",
+      "start": 27.040000915527344,
+      "end": 27.239999771118164
+    },
+    {
+      "word": "two",
+      "start": 27.239999771118164,
+      "end": 27.459999084472656
+    },
+    {
+      "word": "of",
+      "start": 27.459999084472656,
+      "end": 27.84000015258789
+    },
+    {
+      "word": "them",
+      "start": 27.84000015258789,
+      "end": 27.84000015258789
+    },
+    {
+      "word": "are",
+      "start": 27.84000015258789,
+      "end": 28.5
+    },
+    {
+      "word": "doubtful",
+      "start": 28.5,
+      "end": 28.899999618530273
+    },
+    {
+      "word": "matters",
+      "start": 28.899999618530273,
+      "end": 29.280000686645508
+    },
+    {
+      "word": "about",
+      "start": 29.68000030517578,
+      "end": 30.040000915527344
+    },
+    {
+      "word": "which",
+      "start": 30.040000915527344,
+      "end": 30.600000381469727
+    },
+    {
+      "word": "not",
+      "start": 30.600000381469727,
+      "end": 31.260000228881836
+    },
+    {
+      "word": "many",
+      "start": 31.260000228881836,
+      "end": 31.420000076293945
+    },
+    {
+      "word": "people",
+      "start": 31.420000076293945,
+      "end": 31.760000228881836
+    },
+    {
+      "word": "know",
+      "start": 31.760000228881836,
+      "end": 32.119998931884766
+    },
+    {
+      "word": "Thus",
+      "start": 33.279998779296875,
+      "end": 33.279998779296875
+    },
+    {
+      "word": "he",
+      "start": 33.900001525878906,
+      "end": 33.959999084472656
+    },
+    {
+      "word": "who",
+      "start": 33.959999084472656,
+      "end": 34.2400016784668
+    },
+    {
+      "word": "avoids",
+      "start": 34.2400016784668,
+      "end": 34.58000183105469
+    },
+    {
+      "word": "doubtful",
+      "start": 34.58000183105469,
+      "end": 35.13999938964844
+    },
+    {
+      "word": "matters",
+      "start": 35.13999938964844,
+      "end": 35.5
+    },
+    {
+      "word": "clears",
+      "start": 35.7599983215332,
+      "end": 36.47999954223633
+    },
+    {
+      "word": "himself",
+      "start": 36.47999954223633,
+      "end": 36.939998626708984
+    },
+    {
+      "word": "in",
+      "start": 36.939998626708984,
+      "end": 37.279998779296875
+    },
+    {
+      "word": "regard",
+      "start": 37.279998779296875,
+      "end": 37.540000915527344
+    },
+    {
+      "word": "to",
+      "start": 37.540000915527344,
+      "end": 37.7400016784668
+    },
+    {
+      "word": "his",
+      "start": 37.7400016784668,
+      "end": 37.97999954223633
+    },
+    {
+      "word": "religion",
+      "start": 37.97999954223633,
+      "end": 38.34000015258789
+    },
+    {
+      "word": "and",
+      "start": 38.34000015258789,
+      "end": 38.779998779296875
+    },
+    {
+      "word": "his",
+      "start": 38.779998779296875,
+      "end": 39.15999984741211
+    },
+    {
+      "word": "honour",
+      "start": 39.15999984741211,
+      "end": 39.2599983215332
+    },
+    {
+      "word": "But",
+      "start": 40.119998931884766,
+      "end": 40.400001525878906
+    },
+    {
+      "word": "he",
+      "start": 40.400001525878906,
+      "end": 40.619998931884766
+    },
+    {
+      "word": "who",
+      "start": 40.619998931884766,
+      "end": 41.040000915527344
+    },
+    {
+      "word": "falls",
+      "start": 41.040000915527344,
+      "end": 41.040000915527344
+    },
+    {
+      "word": "into",
+      "start": 41.040000915527344,
+      "end": 41.34000015258789
+    },
+    {
+      "word": "doubtful",
+      "start": 41.34000015258789,
+      "end": 41.70000076293945
+    },
+    {
+      "word": "matters",
+      "start": 41.70000076293945,
+      "end": 42.060001373291016
+    },
+    {
+      "word": "falls",
+      "start": 42.31999969482422,
+      "end": 43.040000915527344
+    },
+    {
+      "word": "into",
+      "start": 43.040000915527344,
+      "end": 43.2599983215332
+    },
+    {
+      "word": "that",
+      "start": 43.2599983215332,
+      "end": 43.52000045776367
+    },
+    {
+      "word": "which",
+      "start": 43.52000045776367,
+      "end": 43.7599983215332
+    },
+    {
+      "word": "is",
+      "start": 43.7599983215332,
+      "end": 43.97999954223633
+    },
+    {
+      "word": "unlawful",
+      "start": 43.97999954223633,
+      "end": 44.5
+    },
+    {
+      "word": "like",
+      "start": 45.41999816894531,
+      "end": 45.5
+    },
+    {
+      "word": "the",
+      "start": 45.5,
+      "end": 45.97999954223633
+    },
+    {
+      "word": "shepherd",
+      "start": 45.97999954223633,
+      "end": 45.97999954223633
+    },
+    {
+      "word": "who",
+      "start": 45.97999954223633,
+      "end": 46.619998931884766
+    },
+    {
+      "word": "pastures",
+      "start": 46.619998931884766,
+      "end": 46.84000015258789
+    },
+    {
+      "word": "around",
+      "start": 46.84000015258789,
+      "end": 47.29999923706055
+    },
+    {
+      "word": "a",
+      "start": 47.29999923706055,
+      "end": 47.900001525878906
+    },
+    {
+      "word": "sanctuary",
+      "start": 47.900001525878906,
+      "end": 47.900001525878906
+    },
+    {
+      "word": "all",
+      "start": 48.84000015258789,
+      "end": 49.0
+    },
+    {
+      "word": "but",
+      "start": 49.0,
+      "end": 49.29999923706055
+    },
+    {
+      "word": "grazing",
+      "start": 49.29999923706055,
+      "end": 49.619998931884766
+    },
+    {
+      "word": "therein",
+      "start": 49.619998931884766,
+      "end": 50.31999969482422
+    },
+    {
+      "word": "Truly",
+      "start": 51.599998474121094,
+      "end": 51.81999969482422
+    },
+    {
+      "word": "every",
+      "start": 52.08000183105469,
+      "end": 52.400001525878906
+    },
+    {
+      "word": "king",
+      "start": 52.400001525878906,
+      "end": 52.63999938964844
+    },
+    {
+      "word": "has",
+      "start": 52.63999938964844,
+      "end": 52.86000061035156
+    },
+    {
+      "word": "a",
+      "start": 52.86000061035156,
+      "end": 53.459999084472656
+    },
+    {
+      "word": "sanctuary",
+      "start": 53.459999084472656,
+      "end": 53.459999084472656
+    },
+    {
+      "word": "and",
+      "start": 54.18000030517578,
+      "end": 54.79999923706055
+    },
+    {
+      "word": "truly",
+      "start": 54.79999923706055,
+      "end": 55.2599983215332
+    },
+    {
+      "word": "Allah's",
+      "start": 55.599998474121094,
+      "end": 56.459999084472656
+    },
+    {
+      "word": "sanctuary",
+      "start": 56.459999084472656,
+      "end": 56.459999084472656
+    },
+    {
+      "word": "is",
+      "start": 56.459999084472656,
+      "end": 56.86000061035156
+    },
+    {
+      "word": "his",
+      "start": 56.86000061035156,
+      "end": 57.20000076293945
+    },
+    {
+      "word": "prohibitions",
+      "start": 57.20000076293945,
+      "end": 57.79999923706055
+    },
+    {
+      "word": "Truly",
+      "start": 58.70000076293945,
+      "end": 59.18000030517578
+    },
+    {
+      "word": "in",
+      "start": 59.36000061035156,
+      "end": 59.459999084472656
+    },
+    {
+      "word": "the",
+      "start": 59.459999084472656,
+      "end": 59.7400016784668
+    },
+    {
+      "word": "body",
+      "start": 59.7400016784668,
+      "end": 59.84000015258789
+    },
+    {
+      "word": "there",
+      "start": 59.84000015258789,
+      "end": 60.29999923706055
+    },
+    {
+      "word": "is",
+      "start": 60.29999923706055,
+      "end": 60.459999084472656
+    },
+    {
+      "word": "a",
+      "start": 60.459999084472656,
+      "end": 60.7599983215332
+    },
+    {
+      "word": "morsel",
+      "start": 60.7599983215332,
+      "end": 60.79999923706055
+    },
+    {
+      "word": "of",
+      "start": 60.79999923706055,
+      "end": 61.47999954223633
+    },
+    {
+      "word": "flesh",
+      "start": 61.47999954223633,
+      "end": 61.47999954223633
+    },
+    {
+      "word": "which",
+      "start": 62.220001220703125,
+      "end": 62.380001068115234
+    },
+    {
+      "word": "if",
+      "start": 62.959999084472656,
+      "end": 63.02000045776367
+    },
+    {
+      "word": "it",
+      "start": 63.02000045776367,
+      "end": 63.279998779296875
+    },
+    {
+      "word": "be",
+      "start": 63.279998779296875,
+      "end": 63.400001525878906
+    },
+    {
+      "word": "whole",
+      "start": 63.400001525878906,
+      "end": 63.7400016784668
+    },
+    {
+      "word": "all",
+      "start": 64.44000244140625,
+      "end": 64.58000183105469
+    },
+    {
+      "word": "the",
+      "start": 64.58000183105469,
+      "end": 64.76000213623047
+    },
+    {
+      "word": "body",
+      "start": 64.76000213623047,
+      "end": 64.95999908447266
+    },
+    {
+      "word": "is",
+      "start": 64.95999908447266,
+      "end": 65.22000122070312
+    },
+    {
+      "word": "whole",
+      "start": 65.22000122070312,
+      "end": 65.45999908447266
+    },
+    {
+      "word": "and",
+      "start": 65.9800033569336,
+      "end": 66.23999786376953
+    },
+    {
+      "word": "which",
+      "start": 66.23999786376953,
+      "end": 66.45999908447266
+    },
+    {
+      "word": "if",
+      "start": 66.55999755859375,
+      "end": 66.55999755859375
+    },
+    {
+      "word": "it",
+      "start": 66.55999755859375,
+      "end": 66.73999786376953
+    },
+    {
+      "word": "be",
+      "start": 66.73999786376953,
+      "end": 66.95999908447266
+    },
+    {
+      "word": "diseased",
+      "start": 66.95999908447266,
+      "end": 67.37999725341797
+    },
+    {
+      "word": "all",
+      "start": 68.18000030517578,
+      "end": 68.30000305175781
+    },
+    {
+      "word": "of",
+      "start": 68.30000305175781,
+      "end": 68.55999755859375
+    },
+    {
+      "word": "it",
+      "start": 68.55999755859375,
+      "end": 68.62000274658203
+    },
+    {
+      "word": "is",
+      "start": 68.62000274658203,
+      "end": 68.91999816894531
+    },
+    {
+      "word": "diseased",
+      "start": 68.91999816894531,
+      "end": 69.31999969482422
+    },
+    {
+      "word": "Truly",
+      "start": 70.45999908447266,
+      "end": 70.68000030517578
+    },
+    {
+      "word": "it",
+      "start": 70.83999633789062,
+      "end": 70.95999908447266
+    },
+    {
+      "word": "is",
+      "start": 70.95999908447266,
+      "end": 71.0999984741211
+    },
+    {
+      "word": "the",
+      "start": 71.0999984741211,
+      "end": 71.55999755859375
+    },
+    {
+      "word": "heart",
+      "start": 71.55999755859375,
+      "end": 71.62000274658203
+    },
+    {
+      "word": "It",
+      "start": 72.80000305175781,
+      "end": 72.9800033569336
+    },
+    {
+      "word": "was",
+      "start": 72.9800033569336,
+      "end": 73.22000122070312
+    },
+    {
+      "word": "related",
+      "start": 73.22000122070312,
+      "end": 73.54000091552734
+    },
+    {
+      "word": "by",
+      "start": 73.54000091552734,
+      "end": 73.94000244140625
+    },
+    {
+      "word": "al",
+      "start": 73.94000244140625,
+      "end": 74.18000030517578
+    },
+    {
+      "word": "Bukhari",
+      "start": 74.18000030517578,
+      "end": 74.41999816894531
+    },
+    {
+      "word": "and",
+      "start": 74.41999816894531,
+      "end": 75.04000091552734
+    },
+    {
+      "word": "Muslim",
+      "start": 75.04000091552734,
+      "end": 75.37999725341797
     }
-  ]
+  ],
+  "hadith_number": 6
 }

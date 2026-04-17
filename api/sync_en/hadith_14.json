@@ -1,386 +1,386 @@
 {
-  "hadith_number": 14,
-  "text": "On the authority of Ibn Masood, may Allah be pleased with him, who said, the messenger of Allah, may the blessings and peace of Allah be upon him, said, the blood of a Muslim may not be legally split, other than in one of three instances. The married person who commits adultery, a life for a life, and one who forsakes his religion, and the bandons the community. It was related by al-Bukhari and Muslim.",
+  "text": "On the authority of Ibn Mas'ud, may Allah be pleased with him, who said, The messenger of Allah, may the blessings and peace of Allah be upon him, said, The blood of a Muslim may not be legally split other than in one of three instances. The married person who commits adultery, a life for a life, and one who forsakes his religion and abandons the community. It was related by al-Bukhari and Muslim.",
   "words": [
     {
       "word": "On",
       "start": 0.0,
-      "end": 0.52
+      "end": 0.41999998688697815
     },
     {
       "word": "the",
-      "start": 0.52,
-      "end": 0.6
+      "start": 0.41999998688697815,
+      "end": 0.6600000262260437
     },
     {
       "word": "authority",
-      "start": 0.6,
-      "end": 1.04
+      "start": 0.6600000262260437,
+      "end": 1.0399999618530273
     },
     {
       "word": "of",
-      "start": 1.04,
-      "end": 1.48
+      "start": 1.0399999618530273,
+      "end": 1.559999942779541
     },
     {
       "word": "Ibn",
-      "start": 1.48,
-      "end": 1.7
+      "start": 1.559999942779541,
+      "end": 1.7000000476837158
     },
     {
-      "word": "Masood,",
-      "start": 1.7,
-      "end": 2.28
+      "word": "Mas",
+      "start": 1.7000000476837158,
+      "end": 1.9800000190734863
+    },
+    {
+      "word": "ud",
+      "start": 1.9800000190734863,
+      "end": 2.1600000858306885
     },
     {
       "word": "may",
-      "start": 2.78,
-      "end": 2.9
+      "start": 2.7200000286102295,
+      "end": 2.8399999141693115
     },
     {
       "word": "Allah",
-      "start": 2.9,
-      "end": 3.2
+      "start": 2.8399999141693115,
+      "end": 3.0999999046325684
     },
     {
       "word": "be",
-      "start": 3.2,
-      "end": 3.42
+      "start": 3.0999999046325684,
+      "end": 3.5
     },
     {
       "word": "pleased",
-      "start": 3.42,
-      "end": 3.68
+      "start": 3.5,
+      "end": 3.619999885559082
     },
     {
       "word": "with",
-      "start": 3.68,
-      "end": 3.86
+      "start": 3.619999885559082,
+      "end": 3.8399999141693115
     },
     {
-      "word": "him,",
-      "start": 3.86,
-      "end": 4.34
+      "word": "him",
+      "start": 3.8399999141693115,
+      "end": 4.159999847412109
     },
     {
       "word": "who",
-      "start": 4.58,
-      "end": 4.72
+      "start": 4.559999942779541,
+      "end": 4.71999979019165
     },
     {
-      "word": "said,",
-      "start": 4.72,
-      "end": 5.18
-    },
-    {
-      "word": "the",
-      "start": 5.74,
-      "end": 5.88
-    },
-    {
-      "word": "messenger",
-      "start": 5.88,
-      "end": 6.22
-    },
-    {
-      "word": "of",
-      "start": 6.22,
-      "end": 6.48
-    },
-    {
-      "word": "Allah,",
-      "start": 6.48,
-      "end": 7.04
-    },
-    {
-      "word": "may",
-      "start": 7.6,
-      "end": 7.68
-    },
-    {
-      "word": "the",
-      "start": 7.68,
-      "end": 7.84
-    },
-    {
-      "word": "blessings",
-      "start": 7.84,
-      "end": 8.14
-    },
-    {
-      "word": "and",
-      "start": 8.14,
-      "end": 8.46
-    },
-    {
-      "word": "peace",
-      "start": 8.46,
-      "end": 8.7
-    },
-    {
-      "word": "of",
-      "start": 8.7,
-      "end": 8.88
-    },
-    {
-      "word": "Allah",
-      "start": 8.88,
-      "end": 9.12
-    },
-    {
-      "word": "be",
-      "start": 9.12,
-      "end": 9.32
-    },
-    {
-      "word": "upon",
-      "start": 9.32,
-      "end": 9.54
-    },
-    {
-      "word": "him,",
-      "start": 9.54,
-      "end": 10.04
-    },
-    {
-      "word": "said,",
-      "start": 10.28,
-      "end": 10.48
-    },
-    {
-      "word": "the",
-      "start": 11.12,
-      "end": 11.3
-    },
-    {
-      "word": "blood",
-      "start": 11.3,
-      "end": 11.56
-    },
-    {
-      "word": "of",
-      "start": 11.56,
-      "end": 11.82
-    },
-    {
-      "word": "a",
-      "start": 11.82,
-      "end": 11.98
-    },
-    {
-      "word": "Muslim",
-      "start": 11.98,
-      "end": 12.32
-    },
-    {
-      "word": "may",
-      "start": 12.32,
-      "end": 13.34
-    },
-    {
-      "word": "not",
-      "start": 13.34,
-      "end": 13.54
-    },
-    {
-      "word": "be",
-      "start": 13.54,
-      "end": 13.74
-    },
-    {
-      "word": "legally",
-      "start": 13.74,
-      "end": 14.08
-    },
-    {
-      "word": "split,",
-      "start": 14.08,
-      "end": 14.76
-    },
-    {
-      "word": "other",
-      "start": 15.22,
-      "end": 15.4
-    },
-    {
-      "word": "than",
-      "start": 15.4,
-      "end": 15.64
-    },
-    {
-      "word": "in",
-      "start": 15.64,
-      "end": 15.88
-    },
-    {
-      "word": "one",
-      "start": 15.88,
-      "end": 16.04
-    },
-    {
-      "word": "of",
-      "start": 16.04,
-      "end": 16.32
-    },
-    {
-      "word": "three",
-      "start": 16.32,
-      "end": 16.86
-    },
-    {
-      "word": "instances.",
-      "start": 16.86,
-      "end": 17.46
+      "word": "said",
+      "start": 4.71999979019165,
+      "end": 4.920000076293945
     },
     {
       "word": "The",
-      "start": 18.36,
-      "end": 18.5
+      "start": 5.78000020980835,
+      "end": 5.860000133514404
     },
     {
-      "word": "married",
-      "start": 18.5,
-      "end": 18.72
+      "word": "messenger",
+      "start": 5.860000133514404,
+      "end": 6.159999847412109
     },
     {
-      "word": "person",
-      "start": 18.72,
-      "end": 19.24
+      "word": "of",
+      "start": 6.159999847412109,
+      "end": 6.559999942779541
     },
     {
-      "word": "who",
-      "start": 19.24,
-      "end": 19.48
+      "word": "Allah",
+      "start": 6.559999942779541,
+      "end": 6.800000190734863
     },
     {
-      "word": "commits",
-      "start": 19.48,
-      "end": 19.72
+      "word": "may",
+      "start": 7.579999923706055,
+      "end": 7.639999866485596
     },
     {
-      "word": "adultery,",
-      "start": 19.72,
-      "end": 20.68
+      "word": "the",
+      "start": 7.639999866485596,
+      "end": 7.840000152587891
     },
     {
-      "word": "a",
-      "start": 21.18,
-      "end": 21.22
-    },
-    {
-      "word": "life",
-      "start": 21.22,
-      "end": 21.5
-    },
-    {
-      "word": "for",
-      "start": 21.5,
-      "end": 21.84
-    },
-    {
-      "word": "a",
-      "start": 21.84,
-      "end": 21.96
-    },
-    {
-      "word": "life,",
-      "start": 21.96,
-      "end": 22.32
+      "word": "blessings",
+      "start": 7.840000152587891,
+      "end": 8.140000343322754
     },
     {
       "word": "and",
-      "start": 23.18,
-      "end": 23.38
+      "start": 8.140000343322754,
+      "end": 8.460000038146973
+    },
+    {
+      "word": "peace",
+      "start": 8.460000038146973,
+      "end": 8.65999984741211
+    },
+    {
+      "word": "of",
+      "start": 8.65999984741211,
+      "end": 8.859999656677246
+    },
+    {
+      "word": "Allah",
+      "start": 8.859999656677246,
+      "end": 9.079999923706055
+    },
+    {
+      "word": "be",
+      "start": 9.079999923706055,
+      "end": 9.279999732971191
+    },
+    {
+      "word": "upon",
+      "start": 9.279999732971191,
+      "end": 9.5
+    },
+    {
+      "word": "him",
+      "start": 9.5,
+      "end": 9.819999694824219
+    },
+    {
+      "word": "said",
+      "start": 10.239999771118164,
+      "end": 10.399999618530273
+    },
+    {
+      "word": "The",
+      "start": 11.260000228881836,
+      "end": 11.260000228881836
+    },
+    {
+      "word": "blood",
+      "start": 11.260000228881836,
+      "end": 11.5
+    },
+    {
+      "word": "of",
+      "start": 11.5,
+      "end": 11.760000228881836
+    },
+    {
+      "word": "a",
+      "start": 11.760000228881836,
+      "end": 12.260000228881836
+    },
+    {
+      "word": "Muslim",
+      "start": 12.260000228881836,
+      "end": 12.260000228881836
+    },
+    {
+      "word": "may",
+      "start": 12.260000228881836,
+      "end": 13.300000190734863
+    },
+    {
+      "word": "not",
+      "start": 13.300000190734863,
+      "end": 13.5
+    },
+    {
+      "word": "be",
+      "start": 13.5,
+      "end": 13.760000228881836
+    },
+    {
+      "word": "legally",
+      "start": 13.760000228881836,
+      "end": 14.140000343322754
+    },
+    {
+      "word": "split",
+      "start": 14.140000343322754,
+      "end": 14.539999961853027
+    },
+    {
+      "word": "other",
+      "start": 14.539999961853027,
+      "end": 15.380000114440918
+    },
+    {
+      "word": "than",
+      "start": 15.380000114440918,
+      "end": 15.600000381469727
+    },
+    {
+      "word": "in",
+      "start": 15.600000381469727,
+      "end": 15.880000114440918
     },
     {
       "word": "one",
-      "start": 23.38,
-      "end": 23.76
+      "start": 15.880000114440918,
+      "end": 16.0
+    },
+    {
+      "word": "of",
+      "start": 16.0,
+      "end": 16.399999618530273
+    },
+    {
+      "word": "three",
+      "start": 16.399999618530273,
+      "end": 16.920000076293945
+    },
+    {
+      "word": "instances",
+      "start": 16.920000076293945,
+      "end": 17.540000915527344
+    },
+    {
+      "word": "The",
+      "start": 18.18000030517578,
+      "end": 18.459999084472656
+    },
+    {
+      "word": "married",
+      "start": 18.459999084472656,
+      "end": 18.700000762939453
+    },
+    {
+      "word": "person",
+      "start": 18.700000762939453,
+      "end": 19.200000762939453
     },
     {
       "word": "who",
-      "start": 23.76,
-      "end": 24.08
+      "start": 19.200000762939453,
+      "end": 19.700000762939453
+    },
+    {
+      "word": "commits",
+      "start": 19.700000762939453,
+      "end": 19.700000762939453
+    },
+    {
+      "word": "adultery",
+      "start": 19.700000762939453,
+      "end": 20.219999313354492
+    },
+    {
+      "word": "a",
+      "start": 21.0,
+      "end": 21.219999313354492
+    },
+    {
+      "word": "life",
+      "start": 21.219999313354492,
+      "end": 21.459999084472656
+    },
+    {
+      "word": "for",
+      "start": 21.459999084472656,
+      "end": 21.81999969482422
+    },
+    {
+      "word": "a",
+      "start": 21.81999969482422,
+      "end": 22.1200008392334
+    },
+    {
+      "word": "life",
+      "start": 22.1200008392334,
+      "end": 22.200000762939453
+    },
+    {
+      "word": "and",
+      "start": 23.15999984741211,
+      "end": 23.34000015258789
+    },
+    {
+      "word": "one",
+      "start": 23.34000015258789,
+      "end": 23.639999389648438
+    },
+    {
+      "word": "who",
+      "start": 23.639999389648438,
+      "end": 24.5
     },
     {
       "word": "forsakes",
-      "start": 24.08,
-      "end": 24.56
+      "start": 24.5,
+      "end": 24.5
     },
     {
       "word": "his",
-      "start": 24.56,
-      "end": 24.86
+      "start": 24.5,
+      "end": 25.239999771118164
     },
     {
-      "word": "religion,",
-      "start": 24.86,
-      "end": 25.32
+      "word": "religion",
+      "start": 25.239999771118164,
+      "end": 25.239999771118164
     },
     {
       "word": "and",
-      "start": 25.32,
-      "end": 26.36
+      "start": 25.239999771118164,
+      "end": 26.440000534057617
+    },
+    {
+      "word": "abandons",
+      "start": 26.440000534057617,
+      "end": 26.84000015258789
     },
     {
       "word": "the",
-      "start": 26.36,
-      "end": 26.48
+      "start": 26.84000015258789,
+      "end": 27.420000076293945
     },
     {
-      "word": "bandons",
-      "start": 26.48,
-      "end": 27.12
-    },
-    {
-      "word": "the",
-      "start": 27.12,
-      "end": 27.4
-    },
-    {
-      "word": "community.",
-      "start": 27.4,
-      "end": 27.94
+      "word": "community",
+      "start": 27.420000076293945,
+      "end": 27.860000610351562
     },
     {
       "word": "It",
-      "start": 28.7,
-      "end": 28.84
+      "start": 27.860000610351562,
+      "end": 28.81999969482422
     },
     {
       "word": "was",
-      "start": 28.84,
-      "end": 29.04
+      "start": 28.81999969482422,
+      "end": 28.979999542236328
     },
     {
       "word": "related",
-      "start": 29.04,
-      "end": 29.44
+      "start": 28.979999542236328,
+      "end": 29.3799991607666
     },
     {
       "word": "by",
-      "start": 29.44,
-      "end": 29.76
+      "start": 29.3799991607666,
+      "end": 29.799999237060547
     },
     {
       "word": "al",
-      "start": 29.76,
-      "end": 29.94
+      "start": 29.799999237060547,
+      "end": 29.920000076293945
     },
     {
-      "word": "-Bukhari",
-      "start": 29.94,
-      "end": 30.46
+      "word": "Bukhari",
+      "start": 29.920000076293945,
+      "end": 30.360000610351562
     },
     {
       "word": "and",
-      "start": 30.46,
-      "end": 31.26
+      "start": 30.360000610351562,
+      "end": 31.219999313354492
     },
     {
-      "word": "Muslim.",
-      "start": 31.26,
-      "end": 31.52
+      "word": "Muslim",
+      "start": 31.219999313354492,
+      "end": 31.559999465942383
     }
-  ]
+  ],
+  "hadith_number": 14
 }

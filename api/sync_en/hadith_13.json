@@ -1,291 +1,291 @@
 {
-  "hadith_number": 13,
-  "text": "On the authority of Abu Hamza, Anas Ibn Malik, may Allah be pleased with him. The servant of the messenger of Allah, may the blessings and peace of Allah be upon him, said, none of you truly believes, until he wishes for his brother, was he wishes for himself. It was related by Al-Bukhari and Muslim.",
+  "text": "On the authority of Abu Hamza Anas ibn Malik, may Allah be pleased with him, the servant of the Messenger of Allah, may the blessings and peace of Allah be upon him, said, none of you truly believes, until he wishes for his brother, what he wishes for himself. It was related by al-Bukhari and Muslim.",
   "words": [
     {
       "word": "On",
       "start": 0.0,
-      "end": 0.4
+      "end": 0.3199999928474426
     },
     {
       "word": "the",
-      "start": 0.4,
-      "end": 0.48
+      "start": 0.3199999928474426,
+      "end": 0.47999998927116394
     },
     {
       "word": "authority",
-      "start": 0.48,
-      "end": 0.86
+      "start": 0.47999998927116394,
+      "end": 0.8600000143051147
     },
     {
       "word": "of",
-      "start": 0.86,
-      "end": 1.24
+      "start": 0.8600000143051147,
+      "end": 1.2200000286102295
     },
     {
       "word": "Abu",
-      "start": 1.24,
-      "end": 1.46
+      "start": 1.2200000286102295,
+      "end": 1.4600000381469727
     },
     {
-      "word": "Hamza,",
-      "start": 1.46,
-      "end": 1.98
+      "word": "Hamza",
+      "start": 1.4600000381469727,
+      "end": 1.8799999952316284
     },
     {
       "word": "Anas",
-      "start": 2.36,
-      "end": 2.72
+      "start": 1.8799999952316284,
+      "end": 2.7200000286102295
     },
     {
-      "word": "Ibn",
-      "start": 2.72,
-      "end": 3.1
+      "word": "ibn",
+      "start": 2.7200000286102295,
+      "end": 3.059999942779541
     },
     {
-      "word": "Malik,",
-      "start": 3.1,
-      "end": 3.52
+      "word": "Malik",
+      "start": 3.059999942779541,
+      "end": 3.5
     },
     {
       "word": "may",
-      "start": 3.78,
-      "end": 3.92
+      "start": 3.7799999713897705,
+      "end": 3.859999895095825
     },
     {
       "word": "Allah",
-      "start": 3.92,
-      "end": 4.18
+      "start": 3.859999895095825,
+      "end": 4.119999885559082
     },
     {
       "word": "be",
-      "start": 4.18,
-      "end": 4.44
+      "start": 4.119999885559082,
+      "end": 4.460000038146973
     },
     {
       "word": "pleased",
-      "start": 4.44,
-      "end": 4.7
+      "start": 4.460000038146973,
+      "end": 4.639999866485596
     },
     {
       "word": "with",
-      "start": 4.7,
-      "end": 4.9
+      "start": 4.639999866485596,
+      "end": 4.860000133514404
     },
     {
-      "word": "him.",
-      "start": 4.9,
-      "end": 5.26
+      "word": "him",
+      "start": 4.860000133514404,
+      "end": 5.079999923706055
     },
     {
-      "word": "The",
-      "start": 5.68,
-      "end": 5.76
+      "word": "the",
+      "start": 5.559999942779541,
+      "end": 5.71999979019165
     },
     {
       "word": "servant",
-      "start": 5.76,
-      "end": 6.08
+      "start": 5.71999979019165,
+      "end": 6.019999980926514
     },
     {
       "word": "of",
-      "start": 6.08,
-      "end": 6.32
+      "start": 6.019999980926514,
+      "end": 6.360000133514404
     },
     {
       "word": "the",
-      "start": 6.32,
-      "end": 6.42
+      "start": 6.360000133514404,
+      "end": 6.539999961853027
     },
     {
-      "word": "messenger",
-      "start": 6.42,
-      "end": 6.76
-    },
-    {
-      "word": "of",
-      "start": 6.76,
-      "end": 7.06
-    },
-    {
-      "word": "Allah,",
-      "start": 7.06,
-      "end": 7.5
-    },
-    {
-      "word": "may",
-      "start": 7.92,
-      "end": 7.98
-    },
-    {
-      "word": "the",
-      "start": 7.98,
-      "end": 8.12
-    },
-    {
-      "word": "blessings",
-      "start": 8.12,
-      "end": 8.44
-    },
-    {
-      "word": "and",
-      "start": 8.44,
-      "end": 8.82
-    },
-    {
-      "word": "peace",
-      "start": 8.82,
-      "end": 9.12
+      "word": "Messenger",
+      "start": 6.539999961853027,
+      "end": 6.71999979019165
     },
     {
       "word": "of",
-      "start": 9.12,
-      "end": 9.42
+      "start": 6.71999979019165,
+      "end": 7.119999885559082
     },
     {
       "word": "Allah",
-      "start": 9.42,
-      "end": 9.78
+      "start": 7.119999885559082,
+      "end": 7.340000152587891
     },
     {
-      "word": "be",
-      "start": 9.78,
-      "end": 10.1
+      "word": "may",
+      "start": 7.900000095367432,
+      "end": 7.940000057220459
     },
     {
-      "word": "upon",
-      "start": 10.1,
-      "end": 10.32
+      "word": "the",
+      "start": 7.940000057220459,
+      "end": 8.220000267028809
     },
     {
-      "word": "him,",
-      "start": 10.32,
-      "end": 10.96
-    },
-    {
-      "word": "said,",
-      "start": 11.24,
-      "end": 11.48
-    },
-    {
-      "word": "none",
-      "start": 11.92,
-      "end": 12.1
-    },
-    {
-      "word": "of",
-      "start": 12.1,
-      "end": 12.28
-    },
-    {
-      "word": "you",
-      "start": 12.28,
-      "end": 12.4
-    },
-    {
-      "word": "truly",
-      "start": 12.4,
-      "end": 12.68
-    },
-    {
-      "word": "believes,",
-      "start": 12.68,
-      "end": 13.2
-    },
-    {
-      "word": "until",
-      "start": 14.0,
-      "end": 14.26
-    },
-    {
-      "word": "he",
-      "start": 14.26,
-      "end": 14.54
-    },
-    {
-      "word": "wishes",
-      "start": 14.54,
-      "end": 14.78
-    },
-    {
-      "word": "for",
-      "start": 14.78,
-      "end": 15.02
-    },
-    {
-      "word": "his",
-      "start": 15.02,
-      "end": 15.2
-    },
-    {
-      "word": "brother,",
-      "start": 15.2,
-      "end": 15.6
-    },
-    {
-      "word": "was",
-      "start": 16.2,
-      "end": 16.28
-    },
-    {
-      "word": "he",
-      "start": 16.28,
-      "end": 16.42
-    },
-    {
-      "word": "wishes",
-      "start": 16.42,
-      "end": 16.7
-    },
-    {
-      "word": "for",
-      "start": 16.7,
-      "end": 16.98
-    },
-    {
-      "word": "himself.",
-      "start": 16.98,
-      "end": 17.44
-    },
-    {
-      "word": "It",
-      "start": 17.98,
-      "end": 18.16
-    },
-    {
-      "word": "was",
-      "start": 18.16,
-      "end": 18.26
-    },
-    {
-      "word": "related",
-      "start": 18.26,
-      "end": 18.64
-    },
-    {
-      "word": "by",
-      "start": 18.64,
-      "end": 18.96
-    },
-    {
-      "word": "Al",
-      "start": 18.96,
-      "end": 19.16
-    },
-    {
-      "word": "-Bukhari",
-      "start": 19.16,
-      "end": 19.62
+      "word": "blessings",
+      "start": 8.220000267028809,
+      "end": 8.420000076293945
     },
     {
       "word": "and",
-      "start": 19.62,
-      "end": 20.34
+      "start": 8.420000076293945,
+      "end": 8.819999694824219
     },
     {
-      "word": "Muslim.",
-      "start": 20.34,
-      "end": 20.6
+      "word": "peace",
+      "start": 8.819999694824219,
+      "end": 9.100000381469727
+    },
+    {
+      "word": "of",
+      "start": 9.100000381469727,
+      "end": 9.539999961853027
+    },
+    {
+      "word": "Allah",
+      "start": 9.539999961853027,
+      "end": 9.779999732971191
+    },
+    {
+      "word": "be",
+      "start": 9.779999732971191,
+      "end": 10.079999923706055
+    },
+    {
+      "word": "upon",
+      "start": 10.079999923706055,
+      "end": 10.300000190734863
+    },
+    {
+      "word": "him",
+      "start": 10.300000190734863,
+      "end": 10.600000381469727
+    },
+    {
+      "word": "said",
+      "start": 11.239999771118164,
+      "end": 11.380000114440918
+    },
+    {
+      "word": "none",
+      "start": 11.920000076293945,
+      "end": 12.020000457763672
+    },
+    {
+      "word": "of",
+      "start": 12.020000457763672,
+      "end": 12.180000305175781
+    },
+    {
+      "word": "you",
+      "start": 12.180000305175781,
+      "end": 12.34000015258789
+    },
+    {
+      "word": "truly",
+      "start": 12.34000015258789,
+      "end": 12.680000305175781
+    },
+    {
+      "word": "believes",
+      "start": 12.680000305175781,
+      "end": 13.220000267028809
+    },
+    {
+      "word": "until",
+      "start": 13.899999618530273,
+      "end": 14.220000267028809
+    },
+    {
+      "word": "he",
+      "start": 14.220000267028809,
+      "end": 14.619999885559082
+    },
+    {
+      "word": "wishes",
+      "start": 14.619999885559082,
+      "end": 14.739999771118164
+    },
+    {
+      "word": "for",
+      "start": 14.739999771118164,
+      "end": 15.0
+    },
+    {
+      "word": "his",
+      "start": 15.0,
+      "end": 15.479999542236328
+    },
+    {
+      "word": "brother",
+      "start": 15.479999542236328,
+      "end": 15.479999542236328
+    },
+    {
+      "word": "what",
+      "start": 16.100000381469727,
+      "end": 16.260000228881836
+    },
+    {
+      "word": "he",
+      "start": 16.260000228881836,
+      "end": 16.479999542236328
+    },
+    {
+      "word": "wishes",
+      "start": 16.479999542236328,
+      "end": 16.559999465942383
+    },
+    {
+      "word": "for",
+      "start": 16.559999465942383,
+      "end": 16.979999542236328
+    },
+    {
+      "word": "himself",
+      "start": 16.979999542236328,
+      "end": 17.420000076293945
+    },
+    {
+      "word": "It",
+      "start": 17.979999542236328,
+      "end": 18.1200008392334
+    },
+    {
+      "word": "was",
+      "start": 18.1200008392334,
+      "end": 18.299999237060547
+    },
+    {
+      "word": "related",
+      "start": 18.299999237060547,
+      "end": 18.6200008392334
+    },
+    {
+      "word": "by",
+      "start": 18.6200008392334,
+      "end": 18.979999542236328
+    },
+    {
+      "word": "al",
+      "start": 18.979999542236328,
+      "end": 19.18000030517578
+    },
+    {
+      "word": "Bukhari",
+      "start": 19.18000030517578,
+      "end": 19.520000457763672
+    },
+    {
+      "word": "and",
+      "start": 19.520000457763672,
+      "end": 20.31999969482422
+    },
+    {
+      "word": "Muslim",
+      "start": 20.31999969482422,
+      "end": 20.6200008392334
     }
-  ]
+  ],
+  "hadith_number": 13
 }

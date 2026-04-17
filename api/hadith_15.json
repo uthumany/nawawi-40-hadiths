@@ -6,5 +6,7 @@
   "arabic_text": "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللهُ عَنْهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه و سلم قَالَ: مَنْ كَانَ يُؤْمِنُ بِاَللَّهِ وَالْيَوْمِ الْآخِرِ فَلْيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ، وَمَنْ كَانَ يُؤْمِنُ بِاَللَّهِ وَالْيَوْمِ الْآخِرِ فَلْيُكْرِمْ جَارَهُ، وَمَنْ كَانَ يُؤْمِنُ بِاَللَّهِ وَالْيَوْمِ الْآخِرِ فَلْيُكْرِمْ ضَيْفَهُ .\n[رَوَاهُ الْبُخَارِيُّ] ، [وَمُسْلِمٌ]",
   "english_translation": "From Abū Hurayrah (raḍiyallāhu ʿanhu) who said that The Messenger of Allāh (ṣallallāhu ʿalayhi wasallam) said, 'Whoever believes in Allāh and the Last Day, let him speak goodness or else remain silent. And whoever believes in Allāh and the Last Day, let him honour his neighbour. And whoever believes in Allāh in the Last Day, let him honour his guest.'",
   "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_15.mp3",
-  "sync_url": "https://uthumany.github.io/nawawi-40-hadiths/api/sync/hadith_15.json"
+  "sync_url": "https://uthumany.github.io/nawawi-40-hadiths/api/sync/hadith_15.json",
+  "english_audio_url": "https://raw.githubusercontent.com/uthumany/nawawi-40-hadiths/main/audio/english/Hadith_15_English.mp3",
+  "english_sync_url": "https://uthumany.github.io/nawawi-40-hadiths/api/sync_en/hadith_15.json"
 }

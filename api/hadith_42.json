@@ -6,5 +6,7 @@
   "arabic_text": "عَنْ [أَنَسٍ] رَضِي اللهُ عَنْهُ قالَ: (سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَقولُ: \"قَالَ اللهُ تَعَالَى: يَا ابْنَ آدَمَ، إِنَّكَ مَا دَعَوْتَنِي وَرَجَوْتَنِي غَفَرْتُ لَكَ عَلَى مَا كَانَ مِنْكَ وَلاَ أُبَالِي، يَا ابْنَ آدَمَ، لَوْ بَلَغَتْ ذُنُوبُكَ عَنَانَ السَّمَاءِ ثُمَّ اسْتَغْفَرْتَنِي غَفَرْتُ لَكَ، يَا ابْنَ آدَمَ، إِنَّكَ لَوْ أَتَيْتَنِي بِقُرَابِ الأَرْضِ خَطَايَا ثُمَّ لَقِيتَنِي لاَ تُشْرِكُ بِي شَيْئًا لأََتَيْتُكَ بِقُرَابِهَا مَغْفِرَةً\").",
   "english_translation": "From Anas (raḍiyallāhu ʿanhu) who said: I heard the Messenger of Allāh (ṣallallāhu ʿalayhi wasallam) saying: Allāh the Exalted has said, 'O son of Ādam, so long as you call upon Me and ask of Me, I shall forgive you for what you have done, and I shall not mind. O son of Ādam, were your sins to reach the clouds of the sky and were you then to ask forgiveness of Me, I would forgive you. O son of Ādam, were you to come to Me with sins nearly as great as the earth and were you then to face Me, ascribing no partner to Me, I would in turn bring you forgiveness nearly as great as (the earth).'",
   "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_42.mp3",
-  "sync_url": "https://uthumany.github.io/nawawi-40-hadiths/api/sync/hadith_42.json"
+  "sync_url": "https://uthumany.github.io/nawawi-40-hadiths/api/sync/hadith_42.json",
+  "english_audio_url": "https://raw.githubusercontent.com/uthumany/nawawi-40-hadiths/main/audio/english/Hadith_42_English.mp3",
+  "english_sync_url": "https://uthumany.github.io/nawawi-40-hadiths/api/sync_en/hadith_42.json"
 }

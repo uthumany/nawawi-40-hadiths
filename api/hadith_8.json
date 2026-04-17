@@ -6,5 +6,7 @@
   "arabic_text": "عَنْ ابْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا، أَنَّ رَسُولَ اللَّهِ صلى الله عليه و سلم قَالَ: أُمِرْتُ أَنْ أُقَاتِلَ النَّاسَ حَتَّى يَشْهَدُوا أَنْ لَا إلَهَ إلَّا اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ، وَيُقِيمُوا الصَّلَاةَ، وَيُؤْتُوا الزَّكَاةَ؛ فَإِذَا فَعَلُوا ذَلِكَ عَصَمُوا مِنِّي دِمَاءَهُمْ وَأَمْوَالَهُمْ إلَّا بِحَقِّ الْإِسْلَامِ، وَحِسَابُهُمْ عَلَى اللَّهِ تَعَالَى .\n[رَوَاهُ الْبُخَارِيُّ] ،[وَمُسْلِمٌ]",
   "english_translation": "From Ibn ʿUmar (raḍiyallāhu ʿanhumā) who said that the Messenger of Allāh (ṣallallāhu ʿalayhi wasallam) said, 'I have been ordered to fight the people until they testify that none has the right to be worshipped (in truth) but Allāh and that Muḥammad is the Messenger of Allāh, and (until) they establish the prayer and give the zakāh. So if they do that, their blood and wealth is safeguarded from me, unless it pertains to a right of Islām, and their reckoning is with Allāh.'",
   "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_08.mp3",
-  "sync_url": "https://uthumany.github.io/nawawi-40-hadiths/api/sync/hadith_8.json"
+  "sync_url": "https://uthumany.github.io/nawawi-40-hadiths/api/sync/hadith_8.json",
+  "english_audio_url": "https://raw.githubusercontent.com/uthumany/nawawi-40-hadiths/main/audio/english/Hadith_08_English.mp3",
+  "english_sync_url": "https://uthumany.github.io/nawawi-40-hadiths/api/sync_en/hadith_8.json"
 }

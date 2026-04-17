@@ -1,381 +1,371 @@
 {
-  "hadith_number": 17,
-  "text": "On the authority of Abu Yalla, Shadad Ibn Aus, may Allah be pleased with him, that the messenger of Allah, may the blessings and peace of Allah be upon him, said, fairly Allah as prescribed proficiency in all things. Thus, if you kill, kill well, and if you slaughter, slaughter well. Let each one of you sharpen his blade and let him us best suffering to animal he slurses. It was related to Bo Muslim.",
+  "text": "On the authority of Abu Yala, Shaddad ibn Aus, may Allah be pleased with him, that the Messenger of Allah, may the blessings and peace of Allah be upon him, said, Verily, Allah has prescribed proficiency in all things. Thus, if you kill, kill well, and if you slaughter, slaughter well. Let each one of you sharpen his blade, and let him spare suffering to animal he slaughters. It was related by Muslim.",
   "words": [
     {
       "word": "On",
       "start": 0.0,
-      "end": 0.5
+      "end": 0.41999998688697815
     },
     {
       "word": "the",
-      "start": 0.5,
-      "end": 0.6
+      "start": 0.41999998688697815,
+      "end": 0.5799999833106995
     },
     {
       "word": "authority",
-      "start": 0.6,
-      "end": 1.02
+      "start": 0.5799999833106995,
+      "end": 1.0399999618530273
     },
     {
       "word": "of",
-      "start": 1.02,
-      "end": 1.4
+      "start": 1.0399999618530273,
+      "end": 1.399999976158142
     },
     {
       "word": "Abu",
-      "start": 1.4,
-      "end": 1.62
+      "start": 1.399999976158142,
+      "end": 1.6399999856948853
     },
     {
-      "word": "Yalla,",
-      "start": 1.62,
-      "end": 2.2
+      "word": "Yala",
+      "start": 1.6399999856948853,
+      "end": 1.9600000381469727
     },
     {
-      "word": "Shadad",
-      "start": 2.6,
-      "end": 2.86
+      "word": "Shaddad",
+      "start": 2.5799999237060547,
+      "end": 2.859999895095825
     },
     {
-      "word": "Ibn",
-      "start": 2.86,
-      "end": 3.2
+      "word": "ibn",
+      "start": 2.859999895095825,
+      "end": 3.200000047683716
     },
     {
-      "word": "Aus,",
-      "start": 3.2,
-      "end": 3.8
+      "word": "Aus",
+      "start": 3.200000047683716,
+      "end": 3.5999999046325684
     },
     {
       "word": "may",
-      "start": 4.34,
-      "end": 4.54
+      "start": 4.400000095367432,
+      "end": 4.480000019073486
     },
     {
       "word": "Allah",
-      "start": 4.54,
-      "end": 4.8
+      "start": 4.480000019073486,
+      "end": 4.699999809265137
     },
     {
       "word": "be",
-      "start": 4.8,
-      "end": 5.04
+      "start": 4.699999809265137,
+      "end": 5.099999904632568
     },
     {
       "word": "pleased",
-      "start": 5.04,
-      "end": 5.3
+      "start": 5.099999904632568,
+      "end": 5.21999979019165
     },
     {
       "word": "with",
-      "start": 5.3,
-      "end": 5.48
-    },
-    {
-      "word": "him,",
-      "start": 5.48,
-      "end": 6.02
-    },
-    {
-      "word": "that",
-      "start": 6.4,
-      "end": 6.5
-    },
-    {
-      "word": "the",
-      "start": 6.5,
-      "end": 6.7
-    },
-    {
-      "word": "messenger",
-      "start": 6.7,
-      "end": 7.0
-    },
-    {
-      "word": "of",
-      "start": 7.0,
-      "end": 7.28
-    },
-    {
-      "word": "Allah,",
-      "start": 7.28,
-      "end": 7.78
-    },
-    {
-      "word": "may",
-      "start": 8.46,
-      "end": 8.56
-    },
-    {
-      "word": "the",
-      "start": 8.56,
-      "end": 8.7
-    },
-    {
-      "word": "blessings",
-      "start": 8.7,
-      "end": 9.02
-    },
-    {
-      "word": "and",
-      "start": 9.02,
-      "end": 9.3
-    },
-    {
-      "word": "peace",
-      "start": 9.3,
-      "end": 9.56
-    },
-    {
-      "word": "of",
-      "start": 9.56,
-      "end": 9.8
-    },
-    {
-      "word": "Allah",
-      "start": 9.8,
-      "end": 10.0
-    },
-    {
-      "word": "be",
-      "start": 10.0,
-      "end": 10.2
-    },
-    {
-      "word": "upon",
-      "start": 10.2,
-      "end": 10.42
-    },
-    {
-      "word": "him,",
-      "start": 10.42,
-      "end": 10.86
-    },
-    {
-      "word": "said,",
-      "start": 11.32,
-      "end": 11.32
-    },
-    {
-      "word": "fairly",
-      "start": 12.26,
-      "end": 12.34
-    },
-    {
-      "word": "Allah",
-      "start": 12.34,
-      "end": 12.9
-    },
-    {
-      "word": "as",
-      "start": 12.9,
-      "end": 13.44
-    },
-    {
-      "word": "prescribed",
-      "start": 13.44,
-      "end": 13.9
-    },
-    {
-      "word": "proficiency",
-      "start": 13.9,
-      "end": 14.56
-    },
-    {
-      "word": "in",
-      "start": 14.56,
-      "end": 14.94
-    },
-    {
-      "word": "all",
-      "start": 14.94,
-      "end": 15.1
-    },
-    {
-      "word": "things.",
-      "start": 15.1,
-      "end": 15.68
-    },
-    {
-      "word": "Thus,",
-      "start": 16.42,
-      "end": 16.74
-    },
-    {
-      "word": "if",
-      "start": 17.2,
-      "end": 17.36
-    },
-    {
-      "word": "you",
-      "start": 17.36,
-      "end": 17.52
-    },
-    {
-      "word": "kill,",
-      "start": 17.52,
-      "end": 18.02
-    },
-    {
-      "word": "kill",
-      "start": 18.68,
-      "end": 18.9
-    },
-    {
-      "word": "well,",
-      "start": 18.9,
-      "end": 19.48
-    },
-    {
-      "word": "and",
-      "start": 20.04,
-      "end": 20.28
-    },
-    {
-      "word": "if",
-      "start": 20.28,
-      "end": 20.42
-    },
-    {
-      "word": "you",
-      "start": 20.42,
-      "end": 20.56
-    },
-    {
-      "word": "slaughter,",
-      "start": 20.56,
-      "end": 20.82
-    },
-    {
-      "word": "slaughter",
-      "start": 21.76,
-      "end": 22.0
-    },
-    {
-      "word": "well.",
-      "start": 22.0,
-      "end": 22.54
-    },
-    {
-      "word": "Let",
-      "start": 23.1,
-      "end": 23.34
-    },
-    {
-      "word": "each",
-      "start": 23.34,
-      "end": 23.62
-    },
-    {
-      "word": "one",
-      "start": 23.62,
-      "end": 23.86
-    },
-    {
-      "word": "of",
-      "start": 23.86,
-      "end": 24.02
-    },
-    {
-      "word": "you",
-      "start": 24.02,
-      "end": 24.66
-    },
-    {
-      "word": "sharpen",
-      "start": 24.66,
-      "end": 24.96
-    },
-    {
-      "word": "his",
-      "start": 24.96,
-      "end": 25.26
-    },
-    {
-      "word": "blade",
-      "start": 25.26,
-      "end": 25.68
-    },
-    {
-      "word": "and",
-      "start": 25.68,
-      "end": 26.4
-    },
-    {
-      "word": "let",
-      "start": 26.4,
-      "end": 26.58
+      "start": 5.21999979019165,
+      "end": 5.440000057220459
     },
     {
       "word": "him",
-      "start": 26.58,
-      "end": 26.78
+      "start": 5.440000057220459,
+      "end": 5.659999847412109
     },
     {
-      "word": "us",
-      "start": 26.78,
-      "end": 27.12
+      "word": "that",
+      "start": 6.320000171661377,
+      "end": 6.480000019073486
     },
     {
-      "word": "best",
-      "start": 27.12,
-      "end": 27.36
+      "word": "the",
+      "start": 6.480000019073486,
+      "end": 6.659999847412109
+    },
+    {
+      "word": "Messenger",
+      "start": 6.659999847412109,
+      "end": 6.960000038146973
+    },
+    {
+      "word": "of",
+      "start": 6.960000038146973,
+      "end": 7.340000152587891
+    },
+    {
+      "word": "Allah",
+      "start": 7.340000152587891,
+      "end": 7.559999942779541
+    },
+    {
+      "word": "may",
+      "start": 8.4399995803833,
+      "end": 8.520000457763672
+    },
+    {
+      "word": "the",
+      "start": 8.520000457763672,
+      "end": 8.800000190734863
+    },
+    {
+      "word": "blessings",
+      "start": 8.800000190734863,
+      "end": 8.960000038146973
+    },
+    {
+      "word": "and",
+      "start": 8.960000038146973,
+      "end": 9.4399995803833
+    },
+    {
+      "word": "peace",
+      "start": 9.4399995803833,
+      "end": 9.5
+    },
+    {
+      "word": "of",
+      "start": 9.5,
+      "end": 9.979999542236328
+    },
+    {
+      "word": "Allah",
+      "start": 9.979999542236328,
+      "end": 9.979999542236328
+    },
+    {
+      "word": "be",
+      "start": 9.979999542236328,
+      "end": 10.180000305175781
+    },
+    {
+      "word": "upon",
+      "start": 10.180000305175781,
+      "end": 10.380000114440918
+    },
+    {
+      "word": "him",
+      "start": 10.380000114440918,
+      "end": 10.739999771118164
+    },
+    {
+      "word": "said",
+      "start": 11.100000381469727,
+      "end": 11.199999809265137
+    },
+    {
+      "word": "Verily",
+      "start": 12.15999984741211,
+      "end": 12.359999656677246
+    },
+    {
+      "word": "Allah",
+      "start": 12.859999656677246,
+      "end": 12.859999656677246
+    },
+    {
+      "word": "has",
+      "start": 12.859999656677246,
+      "end": 13.460000038146973
+    },
+    {
+      "word": "prescribed",
+      "start": 13.460000038146973,
+      "end": 13.880000114440918
+    },
+    {
+      "word": "proficiency",
+      "start": 13.880000114440918,
+      "end": 14.420000076293945
+    },
+    {
+      "word": "in",
+      "start": 14.420000076293945,
+      "end": 14.84000015258789
+    },
+    {
+      "word": "all",
+      "start": 14.84000015258789,
+      "end": 15.119999885559082
+    },
+    {
+      "word": "things",
+      "start": 15.119999885559082,
+      "end": 15.5
+    },
+    {
+      "word": "Thus",
+      "start": 16.3799991607666,
+      "end": 16.639999389648438
+    },
+    {
+      "word": "if",
+      "start": 17.040000915527344,
+      "end": 17.280000686645508
+    },
+    {
+      "word": "you",
+      "start": 17.280000686645508,
+      "end": 17.5
+    },
+    {
+      "word": "kill",
+      "start": 17.5,
+      "end": 17.760000228881836
+    },
+    {
+      "word": "kill",
+      "start": 18.8799991607666,
+      "end": 18.8799991607666
+    },
+    {
+      "word": "well",
+      "start": 18.8799991607666,
+      "end": 19.200000762939453
+    },
+    {
+      "word": "and",
+      "start": 19.5,
+      "end": 20.219999313354492
+    },
+    {
+      "word": "if",
+      "start": 20.219999313354492,
+      "end": 20.34000015258789
+    },
+    {
+      "word": "you",
+      "start": 20.34000015258789,
+      "end": 20.81999969482422
+    },
+    {
+      "word": "slaughter",
+      "start": 20.81999969482422,
+      "end": 20.81999969482422
+    },
+    {
+      "word": "slaughter",
+      "start": 22.020000457763672,
+      "end": 22.020000457763672
+    },
+    {
+      "word": "well",
+      "start": 22.020000457763672,
+      "end": 22.399999618530273
+    },
+    {
+      "word": "Let",
+      "start": 22.399999618530273,
+      "end": 23.260000228881836
+    },
+    {
+      "word": "each",
+      "start": 23.260000228881836,
+      "end": 23.600000381469727
+    },
+    {
+      "word": "one",
+      "start": 23.600000381469727,
+      "end": 23.860000610351562
+    },
+    {
+      "word": "of",
+      "start": 23.860000610351562,
+      "end": 23.979999542236328
+    },
+    {
+      "word": "you",
+      "start": 23.979999542236328,
+      "end": 24.639999389648438
+    },
+    {
+      "word": "sharpen",
+      "start": 24.639999389648438,
+      "end": 24.940000534057617
+    },
+    {
+      "word": "his",
+      "start": 24.940000534057617,
+      "end": 25.200000762939453
+    },
+    {
+      "word": "blade",
+      "start": 25.200000762939453,
+      "end": 25.520000457763672
+    },
+    {
+      "word": "and",
+      "start": 26.399999618530273,
+      "end": 26.399999618530273
+    },
+    {
+      "word": "let",
+      "start": 26.399999618530273,
+      "end": 26.559999465942383
+    },
+    {
+      "word": "him",
+      "start": 26.559999465942383,
+      "end": 26.84000015258789
+    },
+    {
+      "word": "spare",
+      "start": 26.84000015258789,
+      "end": 27.139999389648438
     },
     {
       "word": "suffering",
-      "start": 27.36,
-      "end": 28.2
+      "start": 27.139999389648438,
+      "end": 28.219999313354492
     },
     {
       "word": "to",
-      "start": 28.2,
-      "end": 28.72
+      "start": 28.219999313354492,
+      "end": 28.6200008392334
     },
     {
       "word": "animal",
-      "start": 28.72,
-      "end": 28.98
+      "start": 28.6200008392334,
+      "end": 28.959999084472656
     },
     {
       "word": "he",
-      "start": 28.98,
-      "end": 29.26
+      "start": 28.959999084472656,
+      "end": 29.260000228881836
     },
     {
-      "word": "slurses.",
-      "start": 29.26,
-      "end": 30.46
+      "word": "slaughters",
+      "start": 29.260000228881836,
+      "end": 29.600000381469727
     },
     {
       "word": "It",
-      "start": 30.54,
-      "end": 30.58
+      "start": 30.459999084472656,
+      "end": 30.559999465942383
     },
     {
       "word": "was",
-      "start": 30.58,
-      "end": 30.72
+      "start": 30.559999465942383,
+      "end": 30.739999771118164
     },
     {
       "word": "related",
-      "start": 30.72,
-      "end": 31.16
+      "start": 30.739999771118164,
+      "end": 31.100000381469727
     },
     {
-      "word": "to",
-      "start": 31.16,
-      "end": 31.48
+      "word": "by",
+      "start": 31.100000381469727,
+      "end": 31.479999542236328
     },
     {
-      "word": "Bo",
-      "start": 31.48,
-      "end": 31.52
-    },
-    {
-      "word": "Muslim.",
-      "start": 31.52,
-      "end": 31.78
+      "word": "Muslim",
+      "start": 31.479999542236328,
+      "end": 31.81999969482422
     }
-  ]
+  ],
+  "hadith_number": 17
 }

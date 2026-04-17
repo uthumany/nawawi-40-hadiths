@@ -1,761 +1,751 @@
 {
-  "hadith_number": 1,
-  "text": "On the authority of the commander of the faithful, Abu Haths, Omar, Ibn Al-Qatab, May Allah be pleased with him, who said, I heard the messenger of Allah, the blessings and peace of Allah be upon him, say, actions are butt by intention, and every man shall have but that which he intended. Thus, he whose migration was for Allah and his messenger, his migration was for Allah and his messenger, and he whose migration was to achieve some worldly benefit or to take some woman in marriage, his migration was for that for which he migrated. It was related by the two imams of scholars of Hadith, Abu Abu Dullah Muhammad Ibn Ismail Ibn Ibrahim Ibn Al-Murairah Ibn Badesba Al-Bukhari, and Abu Al-Hussein Ibn Al-Hajaj Ibn Ibn Ibn Ibn Ibn Al-Qushari and Nassiburri, and Nassiburri Sahihin, which are the scientists of the compiled books.",
+  "text": "On the authority of the commander of the faithful, Abu Hafs Umar ibn al-Khattab, may Allah be pleased with him, who said, I heard the Messenger of Allah, the blessings and peace of Allah be upon him, say, Actions are but by intention, and every man shall have but that which he intended. Thus, he whose migration was for Allah and his Messenger, his migration was for Allah and his Messenger. And he whose migration was to achieve some worldly benefit, or to take some woman in marriage, his migration was for that for which he migrated. It was related by the two Imams of scholars of Hadith, Abu Abdullah Muhammad ibn Ismail, ibn Ibrahim, ibn al-Mughirah, ibn Badizba al-Bukhari, and Abu al-Husayn Muslim, ibn al-Hajaj, ibn Muslim, al-Khushiri, and Nasiburi, in their two Sahihin, which are the scientists of the compiled books.",
   "words": [
     {
       "word": "On",
       "start": 0.0,
-      "end": 0.64
+      "end": 0.5400000214576721
     },
     {
       "word": "the",
-      "start": 0.64,
-      "end": 0.74
+      "start": 0.5400000214576721,
+      "end": 0.7799999713897705
     },
     {
       "word": "authority",
-      "start": 0.74,
-      "end": 1.22
+      "start": 0.7799999713897705,
+      "end": 1.1799999475479126
     },
     {
       "word": "of",
-      "start": 1.22,
-      "end": 1.8
+      "start": 1.1799999475479126,
+      "end": 1.7999999523162842
     },
     {
       "word": "the",
-      "start": 1.8,
-      "end": 2.02
+      "start": 1.7999999523162842,
+      "end": 1.940000057220459
     },
     {
       "word": "commander",
-      "start": 2.02,
-      "end": 2.28
+      "start": 1.940000057220459,
+      "end": 2.259999990463257
     },
     {
       "word": "of",
-      "start": 2.28,
-      "end": 2.6
+      "start": 2.259999990463257,
+      "end": 2.4800000190734863
     },
     {
       "word": "the",
-      "start": 2.6,
-      "end": 2.72
+      "start": 2.4800000190734863,
+      "end": 2.700000047683716
     },
     {
-      "word": "faithful,",
-      "start": 2.72,
-      "end": 3.34
+      "word": "faithful",
+      "start": 2.700000047683716,
+      "end": 3.0999999046325684
     },
     {
       "word": "Abu",
-      "start": 4.54,
-      "end": 4.76
+      "start": 4.71999979019165,
+      "end": 4.739999771118164
     },
     {
-      "word": "Haths,",
-      "start": 4.76,
-      "end": 5.5
+      "word": "Hafs",
+      "start": 4.739999771118164,
+      "end": 5.28000020980835
     },
     {
-      "word": "Omar,",
-      "start": 5.6,
-      "end": 5.94
+      "word": "Umar",
+      "start": 5.28000020980835,
+      "end": 5.960000038146973
     },
     {
-      "word": "Ibn",
-      "start": 6.36,
-      "end": 6.48
+      "word": "ibn",
+      "start": 5.960000038146973,
+      "end": 6.5
     },
     {
-      "word": "Al",
-      "start": 6.48,
-      "end": 6.88
+      "word": "al",
+      "start": 6.5,
+      "end": 6.860000133514404
     },
     {
-      "word": "-Qatab,",
-      "start": 6.88,
-      "end": 7.3
+      "word": "Khattab",
+      "start": 6.860000133514404,
+      "end": 7.159999847412109
     },
     {
-      "word": "May",
-      "start": 8.0,
-      "end": 8.2
+      "word": "may",
+      "start": 8.100000381469727,
+      "end": 8.140000343322754
     },
     {
       "word": "Allah",
-      "start": 8.2,
-      "end": 8.48
+      "start": 8.140000343322754,
+      "end": 8.399999618530273
     },
     {
       "word": "be",
-      "start": 8.48,
-      "end": 8.74
+      "start": 8.399999618530273,
+      "end": 8.779999732971191
     },
     {
       "word": "pleased",
-      "start": 8.74,
-      "end": 9.1
+      "start": 8.779999732971191,
+      "end": 9.039999961853027
     },
     {
       "word": "with",
-      "start": 9.1,
-      "end": 9.4
+      "start": 9.039999961853027,
+      "end": 9.319999694824219
     },
     {
-      "word": "him,",
-      "start": 9.4,
-      "end": 10.02
+      "word": "him",
+      "start": 9.319999694824219,
+      "end": 9.859999656677246
     },
     {
       "word": "who",
-      "start": 10.42,
-      "end": 10.62
+      "start": 10.420000076293945,
+      "end": 10.640000343322754
     },
     {
-      "word": "said,",
-      "start": 10.62,
-      "end": 11.14
+      "word": "said",
+      "start": 10.640000343322754,
+      "end": 10.84000015258789
     },
     {
       "word": "I",
-      "start": 12.3,
-      "end": 12.32
+      "start": 12.039999961853027,
+      "end": 12.220000267028809
     },
     {
       "word": "heard",
-      "start": 12.32,
-      "end": 12.68
+      "start": 12.220000267028809,
+      "end": 12.600000381469727
     },
     {
       "word": "the",
-      "start": 12.68,
-      "end": 12.92
+      "start": 12.600000381469727,
+      "end": 12.819999694824219
     },
     {
-      "word": "messenger",
-      "start": 12.92,
-      "end": 13.26
+      "word": "Messenger",
+      "start": 12.819999694824219,
+      "end": 13.199999809265137
     },
     {
       "word": "of",
-      "start": 13.26,
-      "end": 13.56
+      "start": 13.199999809265137,
+      "end": 13.640000343322754
     },
     {
-      "word": "Allah,",
-      "start": 13.56,
-      "end": 14.1
+      "word": "Allah",
+      "start": 13.640000343322754,
+      "end": 13.920000076293945
     },
     {
       "word": "the",
-      "start": 14.86,
-      "end": 15.0
+      "start": 14.760000228881836,
+      "end": 14.979999542236328
     },
     {
       "word": "blessings",
-      "start": 15.0,
-      "end": 15.36
+      "start": 14.979999542236328,
+      "end": 15.380000114440918
     },
     {
       "word": "and",
-      "start": 15.36,
-      "end": 15.76
+      "start": 15.380000114440918,
+      "end": 15.739999771118164
     },
     {
       "word": "peace",
-      "start": 15.76,
-      "end": 16.0
+      "start": 15.739999771118164,
+      "end": 15.960000038146973
     },
     {
       "word": "of",
-      "start": 16.0,
-      "end": 16.2
+      "start": 15.960000038146973,
+      "end": 16.280000686645508
     },
     {
       "word": "Allah",
-      "start": 16.2,
-      "end": 16.5
+      "start": 16.280000686645508,
+      "end": 16.459999084472656
     },
     {
       "word": "be",
-      "start": 16.5,
-      "end": 16.74
+      "start": 16.459999084472656,
+      "end": 16.739999771118164
     },
     {
       "word": "upon",
-      "start": 16.74,
-      "end": 16.98
+      "start": 16.739999771118164,
+      "end": 16.940000534057617
     },
     {
-      "word": "him,",
-      "start": 16.98,
-      "end": 17.56
+      "word": "him",
+      "start": 16.940000534057617,
+      "end": 17.579999923706055
     },
     {
-      "word": "say,",
-      "start": 17.78,
-      "end": 18.3
+      "word": "say",
+      "start": 17.739999771118164,
+      "end": 18.059999465942383
     },
     {
-      "word": "actions",
-      "start": 19.8,
-      "end": 20.26
+      "word": "Actions",
+      "start": 20.200000762939453,
+      "end": 20.200000762939453
     },
     {
       "word": "are",
-      "start": 20.26,
-      "end": 20.7
-    },
-    {
-      "word": "butt",
-      "start": 20.7,
-      "end": 20.86
-    },
-    {
-      "word": "by",
-      "start": 20.86,
-      "end": 21.14
-    },
-    {
-      "word": "intention,",
-      "start": 21.14,
-      "end": 21.7
-    },
-    {
-      "word": "and",
-      "start": 22.9,
-      "end": 23.2
-    },
-    {
-      "word": "every",
-      "start": 23.2,
-      "end": 23.5
-    },
-    {
-      "word": "man",
-      "start": 23.5,
-      "end": 23.96
-    },
-    {
-      "word": "shall",
-      "start": 23.96,
-      "end": 24.36
-    },
-    {
-      "word": "have",
-      "start": 24.36,
-      "end": 24.84
+      "start": 20.200000762939453,
+      "end": 20.639999389648438
     },
     {
       "word": "but",
-      "start": 24.84,
-      "end": 25.32
-    },
-    {
-      "word": "that",
-      "start": 25.32,
-      "end": 25.6
-    },
-    {
-      "word": "which",
-      "start": 25.6,
-      "end": 25.9
-    },
-    {
-      "word": "he",
-      "start": 25.9,
-      "end": 26.14
-    },
-    {
-      "word": "intended.",
-      "start": 26.14,
-      "end": 26.54
-    },
-    {
-      "word": "Thus,",
-      "start": 27.42,
-      "end": 28.26
-    },
-    {
-      "word": "he",
-      "start": 29.0,
-      "end": 29.16
-    },
-    {
-      "word": "whose",
-      "start": 29.16,
-      "end": 29.38
-    },
-    {
-      "word": "migration",
-      "start": 29.38,
-      "end": 29.9
-    },
-    {
-      "word": "was",
-      "start": 29.9,
-      "end": 30.3
-    },
-    {
-      "word": "for",
-      "start": 30.3,
-      "end": 30.46
-    },
-    {
-      "word": "Allah",
-      "start": 30.46,
-      "end": 30.86
-    },
-    {
-      "word": "and",
-      "start": 30.86,
-      "end": 31.46
-    },
-    {
-      "word": "his",
-      "start": 31.46,
-      "end": 31.7
-    },
-    {
-      "word": "messenger,",
-      "start": 31.7,
-      "end": 32.28
-    },
-    {
-      "word": "his",
-      "start": 33.48,
-      "end": 33.72
-    },
-    {
-      "word": "migration",
-      "start": 33.72,
-      "end": 34.34
-    },
-    {
-      "word": "was",
-      "start": 34.34,
-      "end": 34.9
-    },
-    {
-      "word": "for",
-      "start": 34.9,
-      "end": 35.04
-    },
-    {
-      "word": "Allah",
-      "start": 35.04,
-      "end": 35.46
-    },
-    {
-      "word": "and",
-      "start": 35.46,
-      "end": 36.0
-    },
-    {
-      "word": "his",
-      "start": 36.0,
-      "end": 36.24
-    },
-    {
-      "word": "messenger,",
-      "start": 36.24,
-      "end": 36.76
-    },
-    {
-      "word": "and",
-      "start": 38.12,
-      "end": 38.32
-    },
-    {
-      "word": "he",
-      "start": 38.32,
-      "end": 38.52
-    },
-    {
-      "word": "whose",
-      "start": 38.52,
-      "end": 38.76
-    },
-    {
-      "word": "migration",
-      "start": 38.76,
-      "end": 39.3
-    },
-    {
-      "word": "was",
-      "start": 39.3,
-      "end": 40.14
-    },
-    {
-      "word": "to",
-      "start": 40.14,
-      "end": 40.26
-    },
-    {
-      "word": "achieve",
-      "start": 40.26,
-      "end": 40.74
-    },
-    {
-      "word": "some",
-      "start": 40.74,
-      "end": 41.2
-    },
-    {
-      "word": "worldly",
-      "start": 41.2,
-      "end": 41.54
-    },
-    {
-      "word": "benefit",
-      "start": 41.54,
-      "end": 42.32
-    },
-    {
-      "word": "or",
-      "start": 42.32,
-      "end": 43.32
-    },
-    {
-      "word": "to",
-      "start": 43.32,
-      "end": 43.52
-    },
-    {
-      "word": "take",
-      "start": 43.52,
-      "end": 43.84
-    },
-    {
-      "word": "some",
-      "start": 43.84,
-      "end": 44.16
-    },
-    {
-      "word": "woman",
-      "start": 44.16,
-      "end": 44.4
-    },
-    {
-      "word": "in",
-      "start": 44.4,
-      "end": 44.6
-    },
-    {
-      "word": "marriage,",
-      "start": 44.6,
-      "end": 45.16
-    },
-    {
-      "word": "his",
-      "start": 46.02,
-      "end": 46.28
-    },
-    {
-      "word": "migration",
-      "start": 46.28,
-      "end": 46.88
-    },
-    {
-      "word": "was",
-      "start": 46.88,
-      "end": 47.6
-    },
-    {
-      "word": "for",
-      "start": 47.6,
-      "end": 47.78
-    },
-    {
-      "word": "that",
-      "start": 47.78,
-      "end": 48.16
-    },
-    {
-      "word": "for",
-      "start": 48.16,
-      "end": 48.74
-    },
-    {
-      "word": "which",
-      "start": 48.74,
-      "end": 49.0
-    },
-    {
-      "word": "he",
-      "start": 49.0,
-      "end": 49.22
-    },
-    {
-      "word": "migrated.",
-      "start": 49.22,
-      "end": 49.66
-    },
-    {
-      "word": "It",
-      "start": 50.68,
-      "end": 51.56
-    },
-    {
-      "word": "was",
-      "start": 51.56,
-      "end": 51.82
-    },
-    {
-      "word": "related",
-      "start": 51.82,
-      "end": 52.32
+      "start": 20.639999389648438,
+      "end": 20.860000610351562
     },
     {
       "word": "by",
-      "start": 52.32,
-      "end": 53.08
+      "start": 20.860000610351562,
+      "end": 21.260000228881836
     },
     {
-      "word": "the",
-      "start": 53.08,
-      "end": 53.28
-    },
-    {
-      "word": "two",
-      "start": 53.28,
-      "end": 53.54
-    },
-    {
-      "word": "imams",
-      "start": 53.54,
-      "end": 53.98
-    },
-    {
-      "word": "of",
-      "start": 53.98,
-      "end": 54.28
-    },
-    {
-      "word": "scholars",
-      "start": 54.28,
-      "end": 54.56
-    },
-    {
-      "word": "of",
-      "start": 54.56,
-      "end": 54.82
-    },
-    {
-      "word": "Hadith,",
-      "start": 54.82,
-      "end": 55.34
-    },
-    {
-      "word": "Abu",
-      "start": 56.36,
-      "end": 56.38
-    },
-    {
-      "word": "Abu",
-      "start": 56.38,
-      "end": 56.82
-    },
-    {
-      "word": "Dullah",
-      "start": 56.82,
-      "end": 57.24
-    },
-    {
-      "word": "Muhammad",
-      "start": 57.24,
-      "end": 57.84
-    },
-    {
-      "word": "Ibn",
-      "start": 57.84,
-      "end": 58.32
-    },
-    {
-      "word": "Ismail",
-      "start": 58.32,
-      "end": 59.04
-    },
-    {
-      "word": "Ibn",
-      "start": 59.04,
-      "end": 59.78
-    },
-    {
-      "word": "Ibrahim",
-      "start": 59.78,
-      "end": 60.46
-    },
-    {
-      "word": "Ibn",
-      "start": 60.46,
-      "end": 61.34
-    },
-    {
-      "word": "Al",
-      "start": 61.34,
-      "end": 61.68
-    },
-    {
-      "word": "-Murairah",
-      "start": 61.68,
-      "end": 62.42
-    },
-    {
-      "word": "Ibn",
-      "start": 62.42,
-      "end": 62.7
-    },
-    {
-      "word": "Badesba",
-      "start": 62.7,
-      "end": 63.84
-    },
-    {
-      "word": "Al",
-      "start": 63.84,
-      "end": 64.2
-    },
-    {
-      "word": "-Bukhari,",
-      "start": 64.2,
-      "end": 64.9
+      "word": "intention",
+      "start": 21.260000228881836,
+      "end": 21.68000030517578
     },
     {
       "word": "and",
-      "start": 65.52,
-      "end": 65.72
+      "start": 22.3799991607666,
+      "end": 23.100000381469727
     },
     {
-      "word": "Abu",
-      "start": 65.72,
-      "end": 65.9
+      "word": "every",
+      "start": 23.100000381469727,
+      "end": 23.479999542236328
     },
     {
-      "word": "Al",
-      "start": 65.9,
-      "end": 66.08
+      "word": "man",
+      "start": 23.479999542236328,
+      "end": 23.8799991607666
     },
     {
-      "word": "-Hussein",
-      "start": 66.08,
-      "end": 66.5
+      "word": "shall",
+      "start": 23.8799991607666,
+      "end": 24.299999237060547
     },
     {
-      "word": "Ibn",
-      "start": 66.5,
-      "end": 67.78
+      "word": "have",
+      "start": 24.299999237060547,
+      "end": 24.65999984741211
     },
     {
-      "word": "Al",
-      "start": 67.78,
-      "end": 68.18
+      "word": "but",
+      "start": 24.65999984741211,
+      "end": 25.280000686645508
     },
     {
-      "word": "-Hajaj",
-      "start": 68.18,
-      "end": 68.66
-    },
-    {
-      "word": "Ibn",
-      "start": 68.66,
-      "end": 69.54
-    },
-    {
-      "word": "Ibn",
-      "start": 69.54,
-      "end": 69.82
-    },
-    {
-      "word": "Ibn",
-      "start": 69.82,
-      "end": 70.08
-    },
-    {
-      "word": "Ibn",
-      "start": 70.08,
-      "end": 70.48
-    },
-    {
-      "word": "Ibn",
-      "start": 70.48,
-      "end": 70.6
-    },
-    {
-      "word": "Al",
-      "start": 70.6,
-      "end": 70.72
-    },
-    {
-      "word": "-Qushari",
-      "start": 70.72,
-      "end": 71.3
-    },
-    {
-      "word": "and",
-      "start": 71.3,
-      "end": 71.96
-    },
-    {
-      "word": "Nassiburri,",
-      "start": 71.96,
-      "end": 73.08
-    },
-    {
-      "word": "and",
-      "start": 73.08,
-      "end": 73.7
-    },
-    {
-      "word": "Nassiburri",
-      "start": 73.7,
-      "end": 74.32
-    },
-    {
-      "word": "Sahihin,",
-      "start": 74.32,
-      "end": 74.98
+      "word": "that",
+      "start": 25.280000686645508,
+      "end": 25.540000915527344
     },
     {
       "word": "which",
-      "start": 75.54,
-      "end": 75.66
+      "start": 25.540000915527344,
+      "end": 25.799999237060547
     },
     {
-      "word": "are",
-      "start": 75.66,
-      "end": 75.84
+      "word": "he",
+      "start": 25.799999237060547,
+      "end": 26.1200008392334
+    },
+    {
+      "word": "intended",
+      "start": 26.1200008392334,
+      "end": 26.479999542236328
+    },
+    {
+      "word": "Thus",
+      "start": 27.5,
+      "end": 28.219999313354492
+    },
+    {
+      "word": "he",
+      "start": 29.139999389648438,
+      "end": 29.139999389648438
+    },
+    {
+      "word": "whose",
+      "start": 29.139999389648438,
+      "end": 29.360000610351562
+    },
+    {
+      "word": "migration",
+      "start": 29.360000610351562,
+      "end": 29.84000015258789
+    },
+    {
+      "word": "was",
+      "start": 29.84000015258789,
+      "end": 30.200000762939453
+    },
+    {
+      "word": "for",
+      "start": 30.200000762939453,
+      "end": 30.5
+    },
+    {
+      "word": "Allah",
+      "start": 30.5,
+      "end": 30.81999969482422
+    },
+    {
+      "word": "and",
+      "start": 30.81999969482422,
+      "end": 31.420000076293945
+    },
+    {
+      "word": "his",
+      "start": 31.420000076293945,
+      "end": 31.700000762939453
+    },
+    {
+      "word": "Messenger",
+      "start": 31.700000762939453,
+      "end": 32.08000183105469
+    },
+    {
+      "word": "his",
+      "start": 32.91999816894531,
+      "end": 33.63999938964844
+    },
+    {
+      "word": "migration",
+      "start": 33.63999938964844,
+      "end": 34.099998474121094
+    },
+    {
+      "word": "was",
+      "start": 34.099998474121094,
+      "end": 34.81999969482422
+    },
+    {
+      "word": "for",
+      "start": 34.81999969482422,
+      "end": 35.0
+    },
+    {
+      "word": "Allah",
+      "start": 35.0,
+      "end": 35.400001525878906
+    },
+    {
+      "word": "and",
+      "start": 35.400001525878906,
+      "end": 35.97999954223633
+    },
+    {
+      "word": "his",
+      "start": 35.97999954223633,
+      "end": 36.63999938964844
+    },
+    {
+      "word": "Messenger",
+      "start": 36.63999938964844,
+      "end": 36.63999938964844
+    },
+    {
+      "word": "And",
+      "start": 37.97999954223633,
+      "end": 38.2400016784668
+    },
+    {
+      "word": "he",
+      "start": 38.2400016784668,
+      "end": 38.5
+    },
+    {
+      "word": "whose",
+      "start": 38.5,
+      "end": 38.70000076293945
+    },
+    {
+      "word": "migration",
+      "start": 38.70000076293945,
+      "end": 39.13999938964844
+    },
+    {
+      "word": "was",
+      "start": 39.13999938964844,
+      "end": 40.040000915527344
+    },
+    {
+      "word": "to",
+      "start": 40.040000915527344,
+      "end": 40.279998779296875
+    },
+    {
+      "word": "achieve",
+      "start": 40.279998779296875,
+      "end": 40.65999984741211
+    },
+    {
+      "word": "some",
+      "start": 40.65999984741211,
+      "end": 41.29999923706055
+    },
+    {
+      "word": "worldly",
+      "start": 41.29999923706055,
+      "end": 41.5
+    },
+    {
+      "word": "benefit",
+      "start": 41.5,
+      "end": 42.040000915527344
+    },
+    {
+      "word": "or",
+      "start": 43.119998931884766,
+      "end": 43.279998779296875
+    },
+    {
+      "word": "to",
+      "start": 43.279998779296875,
+      "end": 43.5
+    },
+    {
+      "word": "take",
+      "start": 43.5,
+      "end": 43.720001220703125
+    },
+    {
+      "word": "some",
+      "start": 43.720001220703125,
+      "end": 44.18000030517578
+    },
+    {
+      "word": "woman",
+      "start": 44.18000030517578,
+      "end": 44.34000015258789
+    },
+    {
+      "word": "in",
+      "start": 44.34000015258789,
+      "end": 44.63999938964844
+    },
+    {
+      "word": "marriage",
+      "start": 44.63999938964844,
+      "end": 44.91999816894531
+    },
+    {
+      "word": "his",
+      "start": 45.939998626708984,
+      "end": 46.220001220703125
+    },
+    {
+      "word": "migration",
+      "start": 46.220001220703125,
+      "end": 46.65999984741211
+    },
+    {
+      "word": "was",
+      "start": 46.65999984741211,
+      "end": 47.560001373291016
+    },
+    {
+      "word": "for",
+      "start": 47.560001373291016,
+      "end": 47.779998779296875
+    },
+    {
+      "word": "that",
+      "start": 47.779998779296875,
+      "end": 48.060001373291016
+    },
+    {
+      "word": "for",
+      "start": 48.060001373291016,
+      "end": 48.70000076293945
+    },
+    {
+      "word": "which",
+      "start": 48.70000076293945,
+      "end": 48.900001525878906
+    },
+    {
+      "word": "he",
+      "start": 48.900001525878906,
+      "end": 49.18000030517578
+    },
+    {
+      "word": "migrated",
+      "start": 49.18000030517578,
+      "end": 49.52000045776367
+    },
+    {
+      "word": "It",
+      "start": 50.84000015258789,
+      "end": 51.560001373291016
+    },
+    {
+      "word": "was",
+      "start": 51.560001373291016,
+      "end": 51.79999923706055
+    },
+    {
+      "word": "related",
+      "start": 51.79999923706055,
+      "end": 52.2400016784668
+    },
+    {
+      "word": "by",
+      "start": 52.2400016784668,
+      "end": 53.02000045776367
     },
     {
       "word": "the",
-      "start": 75.84,
-      "end": 75.98
+      "start": 53.02000045776367,
+      "end": 53.2400016784668
     },
     {
-      "word": "scientists",
-      "start": 75.98,
-      "end": 76.38
+      "word": "two",
+      "start": 53.2400016784668,
+      "end": 53.52000045776367
+    },
+    {
+      "word": "Imams",
+      "start": 53.52000045776367,
+      "end": 53.86000061035156
     },
     {
       "word": "of",
-      "start": 76.38,
-      "end": 76.84
+      "start": 53.86000061035156,
+      "end": 54.220001220703125
+    },
+    {
+      "word": "scholars",
+      "start": 54.220001220703125,
+      "end": 54.52000045776367
+    },
+    {
+      "word": "of",
+      "start": 54.52000045776367,
+      "end": 54.880001068115234
+    },
+    {
+      "word": "Hadith",
+      "start": 54.880001068115234,
+      "end": 55.119998931884766
+    },
+    {
+      "word": "Abu",
+      "start": 55.119998931884766,
+      "end": 56.36000061035156
+    },
+    {
+      "word": "Abdullah",
+      "start": 56.36000061035156,
+      "end": 57.119998931884766
+    },
+    {
+      "word": "Muhammad",
+      "start": 57.119998931884766,
+      "end": 57.900001525878906
+    },
+    {
+      "word": "ibn",
+      "start": 57.900001525878906,
+      "end": 58.31999969482422
+    },
+    {
+      "word": "Ismail",
+      "start": 58.31999969482422,
+      "end": 58.91999816894531
+    },
+    {
+      "word": "ibn",
+      "start": 59.70000076293945,
+      "end": 59.7400016784668
+    },
+    {
+      "word": "Ibrahim",
+      "start": 59.7400016784668,
+      "end": 60.36000061035156
+    },
+    {
+      "word": "ibn",
+      "start": 61.2400016784668,
+      "end": 61.279998779296875
+    },
+    {
+      "word": "al",
+      "start": 61.279998779296875,
+      "end": 61.58000183105469
+    },
+    {
+      "word": "Mughirah",
+      "start": 61.58000183105469,
+      "end": 62.040000915527344
+    },
+    {
+      "word": "ibn",
+      "start": 62.560001373291016,
+      "end": 62.7599983215332
+    },
+    {
+      "word": "Badizba",
+      "start": 62.7599983215332,
+      "end": 63.68000030517578
+    },
+    {
+      "word": "al",
+      "start": 63.68000030517578,
+      "end": 64.55999755859375
+    },
+    {
+      "word": "Bukhari",
+      "start": 64.55999755859375,
+      "end": 64.69999694824219
+    },
+    {
+      "word": "and",
+      "start": 65.72000122070312,
+      "end": 65.73999786376953
+    },
+    {
+      "word": "Abu",
+      "start": 65.73999786376953,
+      "end": 65.87999725341797
+    },
+    {
+      "word": "al",
+      "start": 65.87999725341797,
+      "end": 66.23999786376953
+    },
+    {
+      "word": "Husayn",
+      "start": 66.23999786376953,
+      "end": 66.5
+    },
+    {
+      "word": "Muslim",
+      "start": 66.5,
+      "end": 66.91999816894531
+    },
+    {
+      "word": "ibn",
+      "start": 67.5999984741211,
+      "end": 67.76000213623047
+    },
+    {
+      "word": "al",
+      "start": 67.76000213623047,
+      "end": 68.18000030517578
+    },
+    {
+      "word": "Hajaj",
+      "start": 68.18000030517578,
+      "end": 68.54000091552734
+    },
+    {
+      "word": "ibn",
+      "start": 69.45999908447266,
+      "end": 69.45999908447266
+    },
+    {
+      "word": "Muslim",
+      "start": 69.45999908447266,
+      "end": 70.0
+    },
+    {
+      "word": "al",
+      "start": 70.69999694824219,
+      "end": 70.83999633789062
+    },
+    {
+      "word": "Khushiri",
+      "start": 70.83999633789062,
+      "end": 71.18000030517578
+    },
+    {
+      "word": "and",
+      "start": 71.81999969482422,
+      "end": 72.08000183105469
+    },
+    {
+      "word": "Nasiburi",
+      "start": 72.08000183105469,
+      "end": 72.62000274658203
+    },
+    {
+      "word": "in",
+      "start": 73.5199966430664,
+      "end": 73.63999938964844
+    },
+    {
+      "word": "their",
+      "start": 73.63999938964844,
+      "end": 73.81999969482422
+    },
+    {
+      "word": "two",
+      "start": 73.81999969482422,
+      "end": 74.05999755859375
+    },
+    {
+      "word": "Sahihin",
+      "start": 74.05999755859375,
+      "end": 74.68000030517578
+    },
+    {
+      "word": "which",
+      "start": 75.45999908447266,
+      "end": 75.62000274658203
+    },
+    {
+      "word": "are",
+      "start": 75.62000274658203,
+      "end": 75.76000213623047
     },
     {
       "word": "the",
-      "start": 76.84,
-      "end": 76.98
+      "start": 75.76000213623047,
+      "end": 76.16000366210938
+    },
+    {
+      "word": "scientists",
+      "start": 76.16000366210938,
+      "end": 76.36000061035156
+    },
+    {
+      "word": "of",
+      "start": 76.36000061035156,
+      "end": 76.76000213623047
+    },
+    {
+      "word": "the",
+      "start": 76.76000213623047,
+      "end": 77.0199966430664
     },
     {
       "word": "compiled",
-      "start": 76.98,
-      "end": 77.32
+      "start": 77.0199966430664,
+      "end": 77.30000305175781
     },
     {
-      "word": "books.",
-      "start": 77.32,
-      "end": 77.9
+      "word": "books",
+      "start": 77.30000305175781,
+      "end": 77.73999786376953
     }
-  ]
+  ],
+  "hadith_number": 1
 }

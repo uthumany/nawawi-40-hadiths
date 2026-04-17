@@ -1,341 +1,321 @@
 {
-  "hadith_number": 39,
-  "text": "On the authority of the Son of Abbas, may Al-Ali'i pleased of him both, that the messenger of Al-Ali'i, made a blessings and peace of Al-Ali'i upon him, said, Al-Ali'i has pardoned for me, my people, for lamestakes, and their forgetfulness, and for what they have done under Jures, a gizhadith related by Ibn Majah, Al-Baheki, and others.",
+  "text": "On the authority of the son of Abbas, may Allah be pleased of them both. That the messenger of Allah, may the blessings and peace of Allah be upon him, said, Allah has pardoned for me, my people, for their mistakes and their forgetfulness, and for what they have done under duress. A good hadith, related by Ibn Majah, Al-Bahaki, and others.",
   "words": [
     {
       "word": "On",
       "start": 0.0,
-      "end": 0.4
+      "end": 0.3199999928474426
     },
     {
       "word": "the",
-      "start": 0.4,
-      "end": 0.48
+      "start": 0.3199999928474426,
+      "end": 0.5400000214576721
     },
     {
       "word": "authority",
-      "start": 0.48,
-      "end": 0.92
+      "start": 0.5400000214576721,
+      "end": 0.8799999952316284
     },
     {
       "word": "of",
-      "start": 0.92,
-      "end": 1.32
+      "start": 0.8799999952316284,
+      "end": 1.340000033378601
     },
     {
       "word": "the",
-      "start": 1.32,
-      "end": 1.48
+      "start": 1.340000033378601,
+      "end": 1.4800000190734863
     },
     {
-      "word": "Son",
-      "start": 1.48,
-      "end": 1.72
+      "word": "son",
+      "start": 1.4800000190734863,
+      "end": 1.6799999475479126
     },
     {
       "word": "of",
-      "start": 1.72,
-      "end": 1.98
+      "start": 1.6799999475479126,
+      "end": 2.059999942779541
     },
     {
-      "word": "Abbas,",
-      "start": 1.98,
-      "end": 2.62
+      "word": "Abbas",
+      "start": 2.059999942779541,
+      "end": 2.4000000953674316
     },
     {
       "word": "may",
-      "start": 3.02,
-      "end": 3.14
+      "start": 3.0,
+      "end": 3.0799999237060547
     },
     {
-      "word": "Al",
-      "start": 3.14,
-      "end": 3.44
+      "word": "Allah",
+      "start": 3.0799999237060547,
+      "end": 3.319999933242798
     },
     {
-      "word": "-Ali",
-      "start": 3.44,
-      "end": 3.52
-    },
-    {
-      "word": "'i",
-      "start": 3.52,
-      "end": 3.64
+      "word": "be",
+      "start": 3.319999933242798,
+      "end": 3.6600000858306885
     },
     {
       "word": "pleased",
-      "start": 3.64,
-      "end": 3.9
+      "start": 3.6600000858306885,
+      "end": 3.859999895095825
     },
     {
       "word": "of",
-      "start": 3.9,
-      "end": 4.1
+      "start": 3.859999895095825,
+      "end": 4.039999961853027
     },
     {
-      "word": "him",
-      "start": 4.1,
-      "end": 4.24
+      "word": "them",
+      "start": 4.039999961853027,
+      "end": 4.239999771118164
     },
     {
-      "word": "both,",
-      "start": 4.24,
-      "end": 4.64
+      "word": "both",
+      "start": 4.239999771118164,
+      "end": 4.539999961853027
     },
     {
-      "word": "that",
-      "start": 4.9,
-      "end": 4.96
+      "word": "That",
+      "start": 4.840000152587891,
+      "end": 4.960000038146973
     },
     {
       "word": "the",
-      "start": 4.96,
-      "end": 5.14
+      "start": 4.960000038146973,
+      "end": 5.139999866485596
     },
     {
       "word": "messenger",
-      "start": 5.14,
-      "end": 5.54
+      "start": 5.139999866485596,
+      "end": 5.480000019073486
     },
     {
       "word": "of",
-      "start": 5.54,
-      "end": 5.82
+      "start": 5.480000019073486,
+      "end": 5.940000057220459
     },
     {
-      "word": "Al",
-      "start": 5.82,
-      "end": 6.12
+      "word": "Allah",
+      "start": 5.940000057220459,
+      "end": 6.119999885559082
     },
     {
-      "word": "-Ali",
-      "start": 6.12,
-      "end": 6.38
+      "word": "may",
+      "start": 6.679999828338623,
+      "end": 6.739999771118164
     },
     {
-      "word": "'i,",
-      "start": 6.38,
-      "end": 6.6
-    },
-    {
-      "word": "made",
-      "start": 6.7,
-      "end": 6.82
-    },
-    {
-      "word": "a",
-      "start": 6.82,
-      "end": 6.96
+      "word": "the",
+      "start": 6.739999771118164,
+      "end": 7.079999923706055
     },
     {
       "word": "blessings",
-      "start": 6.96,
-      "end": 7.24
+      "start": 7.079999923706055,
+      "end": 7.199999809265137
     },
     {
       "word": "and",
-      "start": 7.24,
-      "end": 7.56
+      "start": 7.199999809265137,
+      "end": 7.579999923706055
     },
     {
       "word": "peace",
-      "start": 7.56,
-      "end": 7.84
+      "start": 7.579999923706055,
+      "end": 7.820000171661377
     },
     {
       "word": "of",
-      "start": 7.84,
-      "end": 8.16
+      "start": 7.820000171661377,
+      "end": 8.180000305175781
     },
     {
-      "word": "Al",
-      "start": 8.16,
-      "end": 8.42
+      "word": "Allah",
+      "start": 8.180000305175781,
+      "end": 8.359999656677246
     },
     {
-      "word": "-Ali",
-      "start": 8.42,
-      "end": 8.48
-    },
-    {
-      "word": "'i",
-      "start": 8.48,
-      "end": 8.54
+      "word": "be",
+      "start": 8.359999656677246,
+      "end": 8.579999923706055
     },
     {
       "word": "upon",
-      "start": 8.54,
-      "end": 8.82
+      "start": 8.579999923706055,
+      "end": 8.760000228881836
     },
     {
-      "word": "him,",
-      "start": 8.82,
-      "end": 9.38
+      "word": "him",
+      "start": 8.760000228881836,
+      "end": 9.119999885559082
     },
     {
-      "word": "said,",
-      "start": 9.68,
-      "end": 9.92
+      "word": "said",
+      "start": 9.699999809265137,
+      "end": 9.859999656677246
     },
     {
-      "word": "Al",
-      "start": 10.5,
-      "end": 10.64
-    },
-    {
-      "word": "-Ali",
-      "start": 10.64,
-      "end": 10.76
-    },
-    {
-      "word": "'i",
-      "start": 10.76,
-      "end": 10.88
+      "word": "Allah",
+      "start": 10.680000305175781,
+      "end": 10.680000305175781
     },
     {
       "word": "has",
-      "start": 10.88,
-      "end": 11.1
+      "start": 10.680000305175781,
+      "end": 11.300000190734863
     },
     {
       "word": "pardoned",
-      "start": 11.1,
-      "end": 11.5
+      "start": 11.300000190734863,
+      "end": 11.460000038146973
     },
     {
       "word": "for",
-      "start": 11.5,
-      "end": 11.7
+      "start": 11.460000038146973,
+      "end": 11.640000343322754
     },
     {
-      "word": "me,",
-      "start": 11.7,
-      "end": 12.14
+      "word": "me",
+      "start": 11.640000343322754,
+      "end": 11.960000038146973
     },
     {
       "word": "my",
-      "start": 12.44,
-      "end": 12.62
+      "start": 12.4399995803833,
+      "end": 12.619999885559082
     },
     {
-      "word": "people,",
-      "start": 12.62,
-      "end": 13.08
+      "word": "people",
+      "start": 12.619999885559082,
+      "end": 12.979999542236328
     },
     {
       "word": "for",
-      "start": 13.62,
-      "end": 13.66
-    },
-    {
-      "word": "lamestakes,",
-      "start": 13.66,
-      "end": 14.52
-    },
-    {
-      "word": "and",
-      "start": 15.2,
-      "end": 15.42
+      "start": 13.5,
+      "end": 13.640000343322754
     },
     {
       "word": "their",
-      "start": 15.42,
-      "end": 15.58
+      "start": 13.640000343322754,
+      "end": 13.859999656677246
     },
     {
-      "word": "forgetfulness,",
-      "start": 15.58,
-      "end": 16.3
+      "word": "mistakes",
+      "start": 13.859999656677246,
+      "end": 14.380000114440918
     },
     {
       "word": "and",
-      "start": 16.78,
-      "end": 16.9
+      "start": 14.380000114440918,
+      "end": 15.300000190734863
+    },
+    {
+      "word": "their",
+      "start": 15.300000190734863,
+      "end": 15.619999885559082
+    },
+    {
+      "word": "forgetfulness",
+      "start": 15.619999885559082,
+      "end": 16.219999313354492
+    },
+    {
+      "word": "and",
+      "start": 16.719999313354492,
+      "end": 16.860000610351562
     },
     {
       "word": "for",
-      "start": 16.9,
-      "end": 17.04
+      "start": 16.860000610351562,
+      "end": 17.020000457763672
     },
     {
       "word": "what",
-      "start": 17.04,
-      "end": 17.18
+      "start": 17.020000457763672,
+      "end": 17.15999984741211
     },
     {
       "word": "they",
-      "start": 17.18,
-      "end": 17.38
+      "start": 17.15999984741211,
+      "end": 17.31999969482422
     },
     {
       "word": "have",
-      "start": 17.38,
-      "end": 17.54
+      "start": 17.31999969482422,
+      "end": 17.559999465942383
     },
     {
       "word": "done",
-      "start": 17.54,
-      "end": 17.84
+      "start": 17.559999465942383,
+      "end": 17.81999969482422
     },
     {
       "word": "under",
-      "start": 17.84,
-      "end": 18.28
+      "start": 17.81999969482422,
+      "end": 18.280000686645508
     },
     {
-      "word": "Jures,",
-      "start": 18.28,
-      "end": 18.76
+      "word": "duress",
+      "start": 18.280000686645508,
+      "end": 18.81999969482422
     },
     {
-      "word": "a",
-      "start": 19.36,
-      "end": 19.48
+      "word": "A",
+      "start": 19.31999969482422,
+      "end": 19.459999084472656
     },
     {
-      "word": "gizhadith",
-      "start": 19.48,
-      "end": 20.14
+      "word": "good",
+      "start": 19.459999084472656,
+      "end": 19.639999389648438
+    },
+    {
+      "word": "hadith",
+      "start": 19.639999389648438,
+      "end": 20.059999465942383
     },
     {
       "word": "related",
-      "start": 20.14,
-      "end": 20.76
+      "start": 20.399999618530273,
+      "end": 20.68000030517578
     },
     {
       "word": "by",
-      "start": 20.76,
-      "end": 21.04
+      "start": 20.68000030517578,
+      "end": 21.15999984741211
     },
     {
       "word": "Ibn",
-      "start": 21.04,
-      "end": 21.26
+      "start": 21.15999984741211,
+      "end": 21.239999771118164
     },
     {
-      "word": "Majah,",
-      "start": 21.26,
-      "end": 21.82
+      "word": "Majah",
+      "start": 21.239999771118164,
+      "end": 21.81999969482422
     },
     {
       "word": "Al",
-      "start": 22.48,
-      "end": 22.6
+      "start": 22.440000534057617,
+      "end": 22.68000030517578
     },
     {
-      "word": "-Baheki,",
-      "start": 22.6,
-      "end": 23.08
+      "word": "Bahaki",
+      "start": 22.68000030517578,
+      "end": 23.0
     },
     {
       "word": "and",
-      "start": 23.64,
-      "end": 23.78
+      "start": 23.540000915527344,
+      "end": 24.1200008392334
     },
     {
-      "word": "others.",
-      "start": 23.78,
-      "end": 24.1
+      "word": "others",
+      "start": 24.1200008392334,
+      "end": 24.1200008392334
     }
-  ]
+  ],
+  "hadith_number": 39
 }

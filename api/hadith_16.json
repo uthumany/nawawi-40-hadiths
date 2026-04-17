@@ -6,5 +6,7 @@
   "arabic_text": "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللهُ عَنْهُ أَنَّ رَجُلًا قَالَ لِلنَّبِيِّ صلى الله عليه و سلم أَوْصِنِي. قَالَ: لَا تَغْضَبْ، فَرَدَّدَ مِرَارًا، قَالَ: لَا تَغْضَبْ\\",
   "english_translation": "From Abū Hurayrah (raḍiyallāhu ʿanhu) that a man said to the Prophet (ṣallallāhu ʿalayhi wasallam), 'Advise me.' He said, 'Do not become angry' and (the man) repeated his request a number of times and he said, 'Do not become angry.'",
   "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_16.mp3",
-  "sync_url": "https://uthumany.github.io/nawawi-40-hadiths/api/sync/hadith_16.json"
+  "sync_url": "https://uthumany.github.io/nawawi-40-hadiths/api/sync/hadith_16.json",
+  "english_audio_url": "https://raw.githubusercontent.com/uthumany/nawawi-40-hadiths/main/audio/english/Hadith_16_English.mp3",
+  "english_sync_url": "https://uthumany.github.io/nawawi-40-hadiths/api/sync_en/hadith_16.json"
 }

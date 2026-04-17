@@ -6,5 +6,7 @@
   "arabic_text": "عَنْ أَبِي ذَرٍّ جُنْدَبِ بْنِ جُنَادَةَ، وَأَبِي عَبْدِ الرَّحْمَنِ مُعَاذِ بْنِ جَبَلٍ رَضِيَ اللهُ عَنْهُمَا، عَنْ رَسُولِ اللَّهِ صلى الله عليه و سلم قَالَ: اتَّقِ اللَّهَ حَيْثُمَا كُنْت، وَأَتْبِعْ السَّيِّئَةَ الْحَسَنَةَ تَمْحُهَا، وَخَالِقْ النَّاسَ بِخُلُقٍ حَسَنٍ . رَوَاهُ التِّرْمِذِيُّ [رقم:1987] وَقَالَ: حَدِيثٌ حَسَنٌ، وَفِي بَعْضِ النُّسَخِ: حَسَنٌ صَحِيحٌ",
   "english_translation": "From Abū Dharr Jundub bin Junādah and Abī ʿAbd al-Raḥmān Muʿādh bin Jabal (raḍiyallāhu ʿanhumā), from the Messenger of Allāh (ṣallallāhu ʿalayhi wasallam) that he said, 'Have taqwā of Allāh wherever you may be, and follow up an evil deed with a good deed and it will wipe it out, and behave towards the people with good manners.'",
   "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_18.mp3",
-  "sync_url": "https://uthumany.github.io/nawawi-40-hadiths/api/sync/hadith_18.json"
+  "sync_url": "https://uthumany.github.io/nawawi-40-hadiths/api/sync/hadith_18.json",
+  "english_audio_url": "https://raw.githubusercontent.com/uthumany/nawawi-40-hadiths/main/audio/english/Hadith_18_English.mp3",
+  "english_sync_url": "https://uthumany.github.io/nawawi-40-hadiths/api/sync_en/hadith_18.json"
 }

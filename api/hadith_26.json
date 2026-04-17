@@ -6,5 +6,7 @@
   "arabic_text": "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه و سلم كُلُّ سُلَامَى مِنْ النَّاسِ عَلَيْهِ صَدَقَةٌ، كُلَّ يَوْمٍ تَطْلُعُ فِيهِ الشَّمْسُ تَعْدِلُ بَيْنَ اثْنَيْنِ صَدَقَةٌ، وَتُعِينُ الرَّجُلَ فِي دَابَّتِهِ فَتَحْمِلُهُ عَلَيْهَا أَوْ تَرْفَعُ لَهُ عَلَيْهَا مَتَاعَهُ صَدَقَةٌ، وَالْكَلِمَةُ الطَّيِّبَةُ صَدَقَةٌ، وَبِكُلِّ خُطْوَةٍ تَمْشِيهَا إلَى الصَّلَاةِ صَدَقَةٌ، وَتُمِيطُ الْأَذَى عَنْ الطَّرِيقِ صَدَقَةٌ .\n[رَوَاهُ الْبُخَارِيُّ] ، [وَمُسْلِمٌ]",
   "english_translation": "From Abū Hurayrah (raḍiyallāhu ʿanhu) who said: The Messenger of Allāh (ṣallallāhu ʿalayhi wasallam) said, 'For every day on which the sun rises an act of charity is due for every joint in a person's body. That you reconcile between two people is an act of charity, to aid a man with his riding-beast, helping him onto it or lifting up his belongings onto it is an act of charity. A good word is an act of charity, and every step that you take to the prayer (in congregation) is an act of charity, and that you remove something harmful from the path is an act of charity.'",
   "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_26.mp3",
-  "sync_url": "https://uthumany.github.io/nawawi-40-hadiths/api/sync/hadith_26.json"
+  "sync_url": "https://uthumany.github.io/nawawi-40-hadiths/api/sync/hadith_26.json",
+  "english_audio_url": "https://raw.githubusercontent.com/uthumany/nawawi-40-hadiths/main/audio/english/Hadith_26_English.mp3",
+  "english_sync_url": "https://uthumany.github.io/nawawi-40-hadiths/api/sync_en/hadith_26.json"
 }

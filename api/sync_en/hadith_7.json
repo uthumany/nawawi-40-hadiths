@@ -1,331 +1,336 @@
 {
-  "hadith_number": 7,
-  "text": "7th Hadith, on the authority of Abu Rukaya, Tameem, Ibn-Aus Adari, may Allah be pleased of him, that the prophet, made a blessing some peace of Allah be upon him, said, religion is sincerity, we said to whom, he said, to Allah and his book, and his messenger, and to the leaders of the Muslims and their common folk. It was related by Muslim.",
+  "text": "7th Hadith On the authority of Abu Ruqayya Tamim ibn Aus ad-Dari, may Allah be pleased of him, that the Prophet, may the blessings and peace of Allah be upon him, said, Religion is sincerity. We said, To whom? He said, To Allah and His Book, and His Messenger, and to the leaders of the Muslims and their common folk. It was related by Muslim.",
   "words": [
     {
       "word": "7th",
       "start": 0.0,
-      "end": 0.86
+      "end": 0.8199999928474426
     },
     {
-      "word": "Hadith,",
-      "start": 0.86,
-      "end": 1.3
+      "word": "Hadith",
+      "start": 0.8199999928474426,
+      "end": 1.1399999856948853
     },
     {
-      "word": "on",
-      "start": 1.82,
-      "end": 1.94
+      "word": "On",
+      "start": 1.1799999475479126,
+      "end": 1.8600000143051147
     },
     {
       "word": "the",
-      "start": 1.94,
-      "end": 2.06
+      "start": 1.8600000143051147,
+      "end": 2.1600000858306885
     },
     {
       "word": "authority",
-      "start": 2.06,
-      "end": 2.56
+      "start": 2.1600000858306885,
+      "end": 2.5399999618530273
     },
     {
       "word": "of",
-      "start": 2.56,
-      "end": 3.22
+      "start": 2.5399999618530273,
+      "end": 3.259999990463257
     },
     {
       "word": "Abu",
-      "start": 3.22,
-      "end": 3.48
+      "start": 3.259999990463257,
+      "end": 3.5
     },
     {
-      "word": "Rukaya,",
-      "start": 3.48,
-      "end": 4.1
+      "word": "Ruqayya",
+      "start": 3.5,
+      "end": 4.099999904632568
     },
     {
-      "word": "Tameem,",
-      "start": 4.74,
-      "end": 5.02
+      "word": "Tamim",
+      "start": 4.099999904632568,
+      "end": 4.900000095367432
     },
     {
-      "word": "Ibn",
-      "start": 5.24,
-      "end": 5.44
+      "word": "ibn",
+      "start": 4.900000095367432,
+      "end": 5.460000038146973
     },
     {
-      "word": "-Aus",
-      "start": 5.44,
-      "end": 6.0
+      "word": "Aus",
+      "start": 5.460000038146973,
+      "end": 5.860000133514404
     },
     {
-      "word": "Adari,",
-      "start": 6.0,
-      "end": 6.66
+      "word": "ad",
+      "start": 5.860000133514404,
+      "end": 6.380000114440918
+    },
+    {
+      "word": "Dari",
+      "start": 6.380000114440918,
+      "end": 6.559999942779541
     },
     {
       "word": "may",
-      "start": 7.22,
-      "end": 7.44
+      "start": 7.28000020980835,
+      "end": 7.340000152587891
     },
     {
       "word": "Allah",
-      "start": 7.44,
-      "end": 7.7
+      "start": 7.340000152587891,
+      "end": 7.639999866485596
     },
     {
       "word": "be",
-      "start": 7.7,
-      "end": 7.94
+      "start": 7.639999866485596,
+      "end": 7.960000038146973
     },
     {
       "word": "pleased",
-      "start": 7.94,
-      "end": 8.22
+      "start": 7.960000038146973,
+      "end": 8.15999984741211
     },
     {
       "word": "of",
-      "start": 8.22,
-      "end": 8.36
+      "start": 8.15999984741211,
+      "end": 8.380000114440918
     },
     {
-      "word": "him,",
-      "start": 8.36,
-      "end": 8.86
+      "word": "him",
+      "start": 8.380000114440918,
+      "end": 8.640000343322754
     },
     {
       "word": "that",
-      "start": 9.3,
-      "end": 9.42
+      "start": 9.220000267028809,
+      "end": 9.399999618530273
     },
     {
       "word": "the",
-      "start": 9.42,
-      "end": 9.62
+      "start": 9.399999618530273,
+      "end": 10.0
     },
     {
-      "word": "prophet,",
-      "start": 9.62,
-      "end": 10.06
+      "word": "Prophet",
+      "start": 10.0,
+      "end": 10.0
     },
     {
-      "word": "made",
-      "start": 10.94,
-      "end": 11.08
+      "word": "may",
+      "start": 10.920000076293945,
+      "end": 10.979999542236328
     },
     {
-      "word": "a",
-      "start": 11.08,
-      "end": 11.34
+      "word": "the",
+      "start": 10.979999542236328,
+      "end": 11.300000190734863
     },
     {
-      "word": "blessing",
-      "start": 11.34,
-      "end": 11.44
+      "word": "blessings",
+      "start": 11.300000190734863,
+      "end": 11.460000038146973
     },
     {
-      "word": "some",
-      "start": 11.44,
-      "end": 11.78
+      "word": "and",
+      "start": 11.460000038146973,
+      "end": 11.800000190734863
     },
     {
       "word": "peace",
-      "start": 11.78,
-      "end": 12.04
+      "start": 11.800000190734863,
+      "end": 12.020000457763672
     },
     {
       "word": "of",
-      "start": 12.04,
-      "end": 12.28
+      "start": 12.020000457763672,
+      "end": 12.479999542236328
     },
     {
       "word": "Allah",
-      "start": 12.28,
-      "end": 12.52
+      "start": 12.479999542236328,
+      "end": 12.479999542236328
     },
     {
       "word": "be",
-      "start": 12.52,
-      "end": 12.74
+      "start": 12.479999542236328,
+      "end": 12.739999771118164
     },
     {
       "word": "upon",
-      "start": 12.74,
-      "end": 12.98
+      "start": 12.739999771118164,
+      "end": 12.9399995803833
     },
     {
-      "word": "him,",
-      "start": 12.98,
-      "end": 13.4
-    },
-    {
-      "word": "said,",
-      "start": 13.52,
-      "end": 13.7
-    },
-    {
-      "word": "religion",
-      "start": 14.42,
-      "end": 14.64
-    },
-    {
-      "word": "is",
-      "start": 14.64,
-      "end": 15.04
-    },
-    {
-      "word": "sincerity,",
-      "start": 15.04,
-      "end": 15.48
-    },
-    {
-      "word": "we",
-      "start": 16.24,
-      "end": 16.38
+      "word": "him",
+      "start": 12.9399995803833,
+      "end": 13.239999771118164
     },
     {
       "word": "said",
-      "start": 16.38,
-      "end": 16.66
+      "start": 13.600000381469727,
+      "end": 13.699999809265137
     },
     {
-      "word": "to",
-      "start": 16.66,
-      "end": 17.24
+      "word": "Religion",
+      "start": 14.300000190734863,
+      "end": 14.600000381469727
     },
     {
-      "word": "whom,",
-      "start": 17.24,
-      "end": 17.56
+      "word": "is",
+      "start": 14.600000381469727,
+      "end": 15.020000457763672
     },
     {
-      "word": "he",
-      "start": 18.18,
-      "end": 18.32
+      "word": "sincerity",
+      "start": 15.020000457763672,
+      "end": 15.520000457763672
     },
     {
-      "word": "said,",
-      "start": 18.32,
-      "end": 18.78
+      "word": "We",
+      "start": 16.15999984741211,
+      "end": 16.34000015258789
     },
     {
-      "word": "to",
-      "start": 19.38,
-      "end": 19.58
+      "word": "said",
+      "start": 16.34000015258789,
+      "end": 16.6200008392334
+    },
+    {
+      "word": "To",
+      "start": 17.040000915527344,
+      "end": 17.200000762939453
+    },
+    {
+      "word": "whom",
+      "start": 17.200000762939453,
+      "end": 17.559999465942383
+    },
+    {
+      "word": "He",
+      "start": 18.079999923706055,
+      "end": 18.299999237060547
+    },
+    {
+      "word": "said",
+      "start": 18.299999237060547,
+      "end": 18.559999465942383
+    },
+    {
+      "word": "To",
+      "start": 19.040000915527344,
+      "end": 19.540000915527344
     },
     {
       "word": "Allah",
-      "start": 19.58,
-      "end": 19.94
+      "start": 19.540000915527344,
+      "end": 19.940000534057617
     },
     {
       "word": "and",
-      "start": 19.94,
-      "end": 20.48
+      "start": 19.940000534057617,
+      "end": 20.440000534057617
     },
     {
-      "word": "his",
-      "start": 20.48,
-      "end": 20.72
+      "word": "His",
+      "start": 20.440000534057617,
+      "end": 20.65999984741211
     },
     {
-      "word": "book,",
-      "start": 20.72,
-      "end": 21.14
-    },
-    {
-      "word": "and",
-      "start": 21.82,
-      "end": 21.96
-    },
-    {
-      "word": "his",
-      "start": 21.96,
-      "end": 22.16
-    },
-    {
-      "word": "messenger,",
-      "start": 22.16,
-      "end": 22.56
+      "word": "Book",
+      "start": 20.65999984741211,
+      "end": 21.040000915527344
     },
     {
       "word": "and",
-      "start": 23.52,
-      "end": 23.66
+      "start": 21.579999923706055,
+      "end": 21.940000534057617
+    },
+    {
+      "word": "His",
+      "start": 21.940000534057617,
+      "end": 22.18000030517578
+    },
+    {
+      "word": "Messenger",
+      "start": 22.18000030517578,
+      "end": 22.540000915527344
+    },
+    {
+      "word": "and",
+      "start": 23.020000457763672,
+      "end": 23.639999389648438
     },
     {
       "word": "to",
-      "start": 23.66,
-      "end": 23.82
+      "start": 23.639999389648438,
+      "end": 23.760000228881836
     },
     {
       "word": "the",
-      "start": 23.82,
-      "end": 23.94
+      "start": 23.760000228881836,
+      "end": 24.219999313354492
     },
     {
       "word": "leaders",
-      "start": 23.94,
-      "end": 24.22
+      "start": 24.219999313354492,
+      "end": 24.219999313354492
     },
     {
       "word": "of",
-      "start": 24.22,
-      "end": 24.6
+      "start": 24.219999313354492,
+      "end": 24.5
     },
     {
       "word": "the",
-      "start": 24.6,
-      "end": 24.74
+      "start": 24.5,
+      "end": 24.760000228881836
     },
     {
       "word": "Muslims",
-      "start": 24.74,
-      "end": 25.0
+      "start": 24.760000228881836,
+      "end": 24.979999542236328
     },
     {
       "word": "and",
-      "start": 25.0,
-      "end": 25.7
+      "start": 24.979999542236328,
+      "end": 25.600000381469727
     },
     {
       "word": "their",
-      "start": 25.7,
-      "end": 25.9
+      "start": 25.600000381469727,
+      "end": 25.860000610351562
     },
     {
       "word": "common",
-      "start": 25.9,
-      "end": 26.12
+      "start": 25.860000610351562,
+      "end": 26.1200008392334
     },
     {
-      "word": "folk.",
-      "start": 26.12,
-      "end": 26.7
+      "word": "folk",
+      "start": 26.1200008392334,
+      "end": 26.440000534057617
     },
     {
       "word": "It",
-      "start": 26.7,
-      "end": 27.44
+      "start": 27.15999984741211,
+      "end": 27.399999618530273
     },
     {
       "word": "was",
-      "start": 27.44,
-      "end": 27.64
+      "start": 27.399999618530273,
+      "end": 27.579999923706055
     },
     {
       "word": "related",
-      "start": 27.64,
-      "end": 28.0
+      "start": 27.579999923706055,
+      "end": 27.920000076293945
     },
     {
       "word": "by",
-      "start": 28.0,
-      "end": 28.3
+      "start": 27.920000076293945,
+      "end": 28.239999771118164
     },
     {
-      "word": "Muslim.",
-      "start": 28.3,
-      "end": 28.58
+      "word": "Muslim",
+      "start": 28.239999771118164,
+      "end": 28.6200008392334
     }
-  ]
+  ],
+  "hadith_number": 7
 }

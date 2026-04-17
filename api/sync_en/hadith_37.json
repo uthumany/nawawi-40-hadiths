@@ -1,801 +1,806 @@
 {
-  "hadith_number": 37,
-  "text": "On the authority of the Son of Abbas, may Allah be pleased of them both, from the messenger of Allah, may the blessings and peace of Allah be upon him. It's that among the sayings he relates from his Lord, glorified and exalted be he, is that he said, Allah has written down the good deeds and the bad ones. Then he explained it by saying that he who has intended a good deed, but if he has intended it and has done it, Allah writes it down with himself, as from ten good deeds to 700 times, or many times over. But if he has intended a bad deed and has not done it, Allah writes it down with himself as a full good deed. But if he has intended it and has done it, Allah writes it down as one bad deed. It was related by Al-Bukhari and Muslim in their to Sahihin in these words.",
+  "text": "On the authority of the son of Abbas, may Allah be pleased with them both, from the messenger of Allah, may the blessings and peace of Allah be upon him, is that among the sayings he relates from his lord, glorified and exalted be he, is that he said, Allah has written down the good deeds and the bad ones. Then he explained it by saying that he who has intended a good deed, but if he has intended it and has done it, Allah writes it down with himself, as from ten good deeds to seven hundred times, or many times over. But if he has intended a bad deed and has not done it, Allah writes it down with himself as a full good deed. But if he has intended it and has done it, Allah writes it down as one bad deed. It was related by Al-Bukhari and Muslim in their two Sahihin in these words.",
   "words": [
     {
       "word": "On",
       "start": 0.0,
-      "end": 0.64
+      "end": 0.5199999809265137
     },
     {
       "word": "the",
-      "start": 0.64,
-      "end": 0.74
+      "start": 0.5199999809265137,
+      "end": 0.699999988079071
     },
     {
       "word": "authority",
-      "start": 0.74,
-      "end": 1.2
+      "start": 0.699999988079071,
+      "end": 1.1799999475479126
     },
     {
       "word": "of",
-      "start": 1.2,
-      "end": 1.7
+      "start": 1.1799999475479126,
+      "end": 1.659999966621399
     },
     {
       "word": "the",
-      "start": 1.7,
-      "end": 1.94
+      "start": 1.659999966621399,
+      "end": 1.899999976158142
     },
     {
-      "word": "Son",
-      "start": 1.94,
-      "end": 2.02
+      "word": "son",
+      "start": 1.899999976158142,
+      "end": 2.0
     },
     {
       "word": "of",
-      "start": 2.02,
-      "end": 2.2
+      "start": 2.0,
+      "end": 2.240000009536743
     },
     {
-      "word": "Abbas,",
-      "start": 2.2,
-      "end": 2.86
+      "word": "Abbas",
+      "start": 2.240000009536743,
+      "end": 2.5799999237060547
     },
     {
       "word": "may",
-      "start": 3.62,
-      "end": 3.78
+      "start": 3.5999999046325684,
+      "end": 3.700000047683716
     },
     {
       "word": "Allah",
-      "start": 3.78,
-      "end": 4.08
+      "start": 3.700000047683716,
+      "end": 3.9600000381469727
     },
     {
       "word": "be",
-      "start": 4.08,
-      "end": 4.3
+      "start": 3.9600000381469727,
+      "end": 4.300000190734863
     },
     {
       "word": "pleased",
-      "start": 4.3,
-      "end": 4.58
+      "start": 4.300000190734863,
+      "end": 4.5
     },
     {
-      "word": "of",
-      "start": 4.58,
-      "end": 4.74
+      "word": "with",
+      "start": 4.5,
+      "end": 4.679999828338623
     },
     {
       "word": "them",
-      "start": 4.74,
-      "end": 4.9
+      "start": 4.679999828338623,
+      "end": 5.079999923706055
     },
     {
-      "word": "both,",
-      "start": 4.9,
-      "end": 5.4
+      "word": "both",
+      "start": 5.079999923706055,
+      "end": 5.260000228881836
     },
     {
       "word": "from",
-      "start": 5.96,
-      "end": 6.16
+      "start": 6.079999923706055,
+      "end": 6.119999885559082
     },
     {
       "word": "the",
-      "start": 6.16,
-      "end": 6.34
+      "start": 6.119999885559082,
+      "end": 6.420000076293945
     },
     {
       "word": "messenger",
-      "start": 6.34,
-      "end": 6.68
+      "start": 6.420000076293945,
+      "end": 6.619999885559082
     },
     {
       "word": "of",
-      "start": 6.68,
-      "end": 6.94
+      "start": 6.619999885559082,
+      "end": 7.079999923706055
     },
     {
-      "word": "Allah,",
-      "start": 6.94,
-      "end": 7.5
+      "word": "Allah",
+      "start": 7.079999923706055,
+      "end": 7.260000228881836
     },
     {
       "word": "may",
-      "start": 8.08,
-      "end": 8.22
+      "start": 8.140000343322754,
+      "end": 8.180000305175781
     },
     {
       "word": "the",
-      "start": 8.22,
-      "end": 8.4
+      "start": 8.180000305175781,
+      "end": 8.399999618530273
     },
     {
       "word": "blessings",
-      "start": 8.4,
-      "end": 8.66
+      "start": 8.399999618530273,
+      "end": 8.640000343322754
     },
     {
       "word": "and",
-      "start": 8.66,
-      "end": 8.94
+      "start": 8.640000343322754,
+      "end": 9.079999923706055
     },
     {
       "word": "peace",
-      "start": 8.94,
-      "end": 9.16
+      "start": 9.079999923706055,
+      "end": 9.119999885559082
     },
     {
       "word": "of",
-      "start": 9.16,
-      "end": 9.34
+      "start": 9.119999885559082,
+      "end": 9.319999694824219
     },
     {
       "word": "Allah",
-      "start": 9.34,
-      "end": 9.56
+      "start": 9.319999694824219,
+      "end": 9.5
     },
     {
       "word": "be",
-      "start": 9.56,
-      "end": 9.8
+      "start": 9.5,
+      "end": 9.760000228881836
     },
     {
       "word": "upon",
-      "start": 9.8,
-      "end": 10.04
+      "start": 9.760000228881836,
+      "end": 9.979999542236328
     },
     {
-      "word": "him.",
-      "start": 10.04,
-      "end": 10.64
-    },
-    {
-      "word": "It's",
-      "start": 11.24,
-      "end": 11.46
-    },
-    {
-      "word": "that",
-      "start": 11.46,
-      "end": 11.6
-    },
-    {
-      "word": "among",
-      "start": 11.6,
-      "end": 11.84
-    },
-    {
-      "word": "the",
-      "start": 11.84,
-      "end": 12.22
-    },
-    {
-      "word": "sayings",
-      "start": 12.22,
-      "end": 12.48
-    },
-    {
-      "word": "he",
-      "start": 12.48,
-      "end": 12.74
-    },
-    {
-      "word": "relates",
-      "start": 12.74,
-      "end": 13.02
-    },
-    {
-      "word": "from",
-      "start": 13.02,
-      "end": 13.24
-    },
-    {
-      "word": "his",
-      "start": 13.24,
-      "end": 13.48
-    },
-    {
-      "word": "Lord,",
-      "start": 13.48,
-      "end": 13.88
-    },
-    {
-      "word": "glorified",
-      "start": 14.68,
-      "end": 15.16
-    },
-    {
-      "word": "and",
-      "start": 15.16,
-      "end": 15.36
-    },
-    {
-      "word": "exalted",
-      "start": 15.36,
-      "end": 15.76
-    },
-    {
-      "word": "be",
-      "start": 15.76,
-      "end": 16.06
-    },
-    {
-      "word": "he,",
-      "start": 16.06,
-      "end": 16.56
+      "word": "him",
+      "start": 9.979999542236328,
+      "end": 10.300000190734863
     },
     {
       "word": "is",
-      "start": 17.18,
-      "end": 17.32
+      "start": 11.079999923706055,
+      "end": 11.34000015258789
     },
     {
       "word": "that",
-      "start": 17.32,
-      "end": 17.52
+      "start": 11.34000015258789,
+      "end": 11.619999885559082
     },
     {
-      "word": "he",
-      "start": 17.52,
-      "end": 17.74
-    },
-    {
-      "word": "said,",
-      "start": 17.74,
-      "end": 18.46
-    },
-    {
-      "word": "Allah",
-      "start": 19.32,
-      "end": 19.56
-    },
-    {
-      "word": "has",
-      "start": 19.56,
-      "end": 19.84
-    },
-    {
-      "word": "written",
-      "start": 19.84,
-      "end": 20.08
-    },
-    {
-      "word": "down",
-      "start": 20.08,
-      "end": 20.4
+      "word": "among",
+      "start": 11.619999885559082,
+      "end": 11.819999694824219
     },
     {
       "word": "the",
-      "start": 20.4,
-      "end": 20.58
+      "start": 11.819999694824219,
+      "end": 12.399999618530273
     },
     {
-      "word": "good",
-      "start": 20.58,
-      "end": 20.78
-    },
-    {
-      "word": "deeds",
-      "start": 20.78,
-      "end": 21.08
-    },
-    {
-      "word": "and",
-      "start": 21.08,
-      "end": 21.56
-    },
-    {
-      "word": "the",
-      "start": 21.56,
-      "end": 21.7
-    },
-    {
-      "word": "bad",
-      "start": 21.7,
-      "end": 21.84
-    },
-    {
-      "word": "ones.",
-      "start": 21.84,
-      "end": 22.32
-    },
-    {
-      "word": "Then",
-      "start": 23.18,
-      "end": 23.54
+      "word": "sayings",
+      "start": 12.399999618530273,
+      "end": 12.399999618530273
     },
     {
       "word": "he",
-      "start": 23.54,
-      "end": 23.92
+      "start": 12.399999618530273,
+      "end": 12.619999885559082
     },
     {
-      "word": "explained",
-      "start": 23.92,
-      "end": 24.28
-    },
-    {
-      "word": "it",
-      "start": 24.28,
-      "end": 25.04
-    },
-    {
-      "word": "by",
-      "start": 25.04,
-      "end": 25.48
-    },
-    {
-      "word": "saying",
-      "start": 25.48,
-      "end": 25.8
-    },
-    {
-      "word": "that",
-      "start": 25.8,
-      "end": 26.46
-    },
-    {
-      "word": "he",
-      "start": 26.46,
-      "end": 26.68
-    },
-    {
-      "word": "who",
-      "start": 26.68,
-      "end": 26.86
-    },
-    {
-      "word": "has",
-      "start": 26.86,
-      "end": 27.04
-    },
-    {
-      "word": "intended",
-      "start": 27.04,
-      "end": 27.38
-    },
-    {
-      "word": "a",
-      "start": 27.38,
-      "end": 27.56
-    },
-    {
-      "word": "good",
-      "start": 27.56,
-      "end": 27.76
-    },
-    {
-      "word": "deed,",
-      "start": 27.76,
-      "end": 28.32
-    },
-    {
-      "word": "but",
-      "start": 28.96,
-      "end": 29.02
-    },
-    {
-      "word": "if",
-      "start": 29.02,
-      "end": 29.24
-    },
-    {
-      "word": "he",
-      "start": 29.24,
-      "end": 29.38
-    },
-    {
-      "word": "has",
-      "start": 29.38,
-      "end": 29.52
-    },
-    {
-      "word": "intended",
-      "start": 29.52,
-      "end": 29.84
-    },
-    {
-      "word": "it",
-      "start": 29.84,
-      "end": 30.56
-    },
-    {
-      "word": "and",
-      "start": 30.56,
-      "end": 30.92
-    },
-    {
-      "word": "has",
-      "start": 30.92,
-      "end": 31.1
-    },
-    {
-      "word": "done",
-      "start": 31.1,
-      "end": 31.3
-    },
-    {
-      "word": "it,",
-      "start": 31.3,
-      "end": 32.28
-    },
-    {
-      "word": "Allah",
-      "start": 32.76,
-      "end": 32.94
-    },
-    {
-      "word": "writes",
-      "start": 32.94,
-      "end": 33.5
-    },
-    {
-      "word": "it",
-      "start": 33.5,
-      "end": 33.78
-    },
-    {
-      "word": "down",
-      "start": 33.78,
-      "end": 34.08
-    },
-    {
-      "word": "with",
-      "start": 34.08,
-      "end": 34.38
-    },
-    {
-      "word": "himself,",
-      "start": 34.38,
-      "end": 35.06
-    },
-    {
-      "word": "as",
-      "start": 36.02,
-      "end": 36.22
+      "word": "relates",
+      "start": 12.619999885559082,
+      "end": 12.960000038146973
     },
     {
       "word": "from",
-      "start": 36.22,
-      "end": 36.44
+      "start": 12.960000038146973,
+      "end": 13.199999809265137
     },
     {
-      "word": "ten",
-      "start": 36.44,
-      "end": 36.9
+      "word": "his",
+      "start": 13.199999809265137,
+      "end": 13.520000457763672
+    },
+    {
+      "word": "lord",
+      "start": 13.520000457763672,
+      "end": 13.720000267028809
+    },
+    {
+      "word": "glorified",
+      "start": 14.859999656677246,
+      "end": 15.079999923706055
+    },
+    {
+      "word": "and",
+      "start": 15.079999923706055,
+      "end": 15.359999656677246
+    },
+    {
+      "word": "exalted",
+      "start": 15.359999656677246,
+      "end": 15.65999984741211
+    },
+    {
+      "word": "be",
+      "start": 15.65999984741211,
+      "end": 15.979999542236328
+    },
+    {
+      "word": "he",
+      "start": 15.979999542236328,
+      "end": 16.260000228881836
+    },
+    {
+      "word": "is",
+      "start": 17.100000381469727,
+      "end": 17.280000686645508
+    },
+    {
+      "word": "that",
+      "start": 17.280000686645508,
+      "end": 17.479999542236328
+    },
+    {
+      "word": "he",
+      "start": 17.479999542236328,
+      "end": 17.719999313354492
+    },
+    {
+      "word": "said",
+      "start": 17.719999313354492,
+      "end": 18.0
+    },
+    {
+      "word": "Allah",
+      "start": 19.260000228881836,
+      "end": 19.5
+    },
+    {
+      "word": "has",
+      "start": 19.5,
+      "end": 19.899999618530273
+    },
+    {
+      "word": "written",
+      "start": 19.899999618530273,
+      "end": 20.0
+    },
+    {
+      "word": "down",
+      "start": 20.0,
+      "end": 20.360000610351562
+    },
+    {
+      "word": "the",
+      "start": 20.360000610351562,
+      "end": 20.559999465942383
     },
     {
       "word": "good",
-      "start": 36.9,
-      "end": 37.38
+      "start": 20.559999465942383,
+      "end": 20.799999237060547
     },
     {
       "word": "deeds",
-      "start": 37.38,
-      "end": 37.94
-    },
-    {
-      "word": "to",
-      "start": 37.94,
-      "end": 38.98
-    },
-    {
-      "word": "700",
-      "start": 38.98,
-      "end": 39.44
-    },
-    {
-      "word": "times,",
-      "start": 39.44,
-      "end": 40.38
-    },
-    {
-      "word": "or",
-      "start": 41.2,
-      "end": 41.34
-    },
-    {
-      "word": "many",
-      "start": 41.34,
-      "end": 41.58
-    },
-    {
-      "word": "times",
-      "start": 41.58,
-      "end": 41.96
-    },
-    {
-      "word": "over.",
-      "start": 41.96,
-      "end": 42.56
-    },
-    {
-      "word": "But",
-      "start": 43.62,
-      "end": 43.88
-    },
-    {
-      "word": "if",
-      "start": 43.88,
-      "end": 44.02
-    },
-    {
-      "word": "he",
-      "start": 44.02,
-      "end": 44.22
-    },
-    {
-      "word": "has",
-      "start": 44.22,
-      "end": 44.44
-    },
-    {
-      "word": "intended",
-      "start": 44.44,
-      "end": 44.86
-    },
-    {
-      "word": "a",
-      "start": 44.86,
-      "end": 45.22
-    },
-    {
-      "word": "bad",
-      "start": 45.22,
-      "end": 45.44
-    },
-    {
-      "word": "deed",
-      "start": 45.44,
-      "end": 45.88
+      "start": 20.799999237060547,
+      "end": 21.040000915527344
     },
     {
       "word": "and",
-      "start": 45.88,
-      "end": 46.62
+      "start": 21.040000915527344,
+      "end": 21.459999084472656
     },
     {
-      "word": "has",
-      "start": 46.62,
-      "end": 46.78
-    },
-    {
-      "word": "not",
-      "start": 46.78,
-      "end": 47.02
-    },
-    {
-      "word": "done",
-      "start": 47.02,
-      "end": 47.24
-    },
-    {
-      "word": "it,",
-      "start": 47.24,
-      "end": 47.96
-    },
-    {
-      "word": "Allah",
-      "start": 48.44,
-      "end": 48.66
-    },
-    {
-      "word": "writes",
-      "start": 48.66,
-      "end": 49.22
-    },
-    {
-      "word": "it",
-      "start": 49.22,
-      "end": 49.48
-    },
-    {
-      "word": "down",
-      "start": 49.48,
-      "end": 49.96
-    },
-    {
-      "word": "with",
-      "start": 49.96,
-      "end": 50.76
-    },
-    {
-      "word": "himself",
-      "start": 50.76,
-      "end": 51.32
-    },
-    {
-      "word": "as",
-      "start": 51.32,
-      "end": 51.84
-    },
-    {
-      "word": "a",
-      "start": 51.84,
-      "end": 52.02
-    },
-    {
-      "word": "full",
-      "start": 52.02,
-      "end": 52.36
-    },
-    {
-      "word": "good",
-      "start": 52.36,
-      "end": 52.8
-    },
-    {
-      "word": "deed.",
-      "start": 52.8,
-      "end": 53.28
-    },
-    {
-      "word": "But",
-      "start": 54.3,
-      "end": 54.4
-    },
-    {
-      "word": "if",
-      "start": 54.4,
-      "end": 54.62
-    },
-    {
-      "word": "he",
-      "start": 54.62,
-      "end": 54.74
-    },
-    {
-      "word": "has",
-      "start": 54.74,
-      "end": 54.92
-    },
-    {
-      "word": "intended",
-      "start": 54.92,
-      "end": 55.24
-    },
-    {
-      "word": "it",
-      "start": 55.24,
-      "end": 56.24
-    },
-    {
-      "word": "and",
-      "start": 56.24,
-      "end": 56.64
-    },
-    {
-      "word": "has",
-      "start": 56.64,
-      "end": 56.8
-    },
-    {
-      "word": "done",
-      "start": 56.8,
-      "end": 57.0
-    },
-    {
-      "word": "it,",
-      "start": 57.0,
-      "end": 57.82
-    },
-    {
-      "word": "Allah",
-      "start": 58.3,
-      "end": 58.4
-    },
-    {
-      "word": "writes",
-      "start": 58.4,
-      "end": 58.72
-    },
-    {
-      "word": "it",
-      "start": 58.72,
-      "end": 59.0
-    },
-    {
-      "word": "down",
-      "start": 59.0,
-      "end": 59.28
-    },
-    {
-      "word": "as",
-      "start": 59.28,
-      "end": 59.88
-    },
-    {
-      "word": "one",
-      "start": 59.88,
-      "end": 60.18
+      "word": "the",
+      "start": 21.459999084472656,
+      "end": 21.739999771118164
     },
     {
       "word": "bad",
-      "start": 60.18,
-      "end": 60.72
+      "start": 21.739999771118164,
+      "end": 21.84000015258789
     },
     {
-      "word": "deed.",
-      "start": 60.72,
-      "end": 61.22
+      "word": "ones",
+      "start": 21.84000015258789,
+      "end": 22.239999771118164
     },
     {
-      "word": "It",
-      "start": 62.46,
-      "end": 62.62
+      "word": "Then",
+      "start": 23.079999923706055,
+      "end": 23.540000915527344
     },
     {
-      "word": "was",
-      "start": 62.62,
-      "end": 62.76
+      "word": "he",
+      "start": 23.540000915527344,
+      "end": 23.899999618530273
     },
     {
-      "word": "related",
-      "start": 62.76,
-      "end": 63.16
+      "word": "explained",
+      "start": 23.899999618530273,
+      "end": 24.299999237060547
+    },
+    {
+      "word": "it",
+      "start": 24.299999237060547,
+      "end": 24.780000686645508
     },
     {
       "word": "by",
-      "start": 63.16,
-      "end": 63.48
+      "start": 24.780000686645508,
+      "end": 25.5
     },
     {
-      "word": "Al",
-      "start": 63.48,
-      "end": 63.64
+      "word": "saying",
+      "start": 25.5,
+      "end": 25.719999313354492
     },
     {
-      "word": "-Bukhari",
-      "start": 63.64,
-      "end": 64.12
+      "word": "that",
+      "start": 25.719999313354492,
+      "end": 26.399999618530273
+    },
+    {
+      "word": "he",
+      "start": 26.399999618530273,
+      "end": 26.579999923706055
+    },
+    {
+      "word": "who",
+      "start": 26.579999923706055,
+      "end": 26.84000015258789
+    },
+    {
+      "word": "has",
+      "start": 26.84000015258789,
+      "end": 27.079999923706055
+    },
+    {
+      "word": "intended",
+      "start": 27.079999923706055,
+      "end": 27.31999969482422
+    },
+    {
+      "word": "a",
+      "start": 27.31999969482422,
+      "end": 27.540000915527344
+    },
+    {
+      "word": "good",
+      "start": 27.540000915527344,
+      "end": 27.799999237060547
+    },
+    {
+      "word": "deed",
+      "start": 27.799999237060547,
+      "end": 28.0
+    },
+    {
+      "word": "but",
+      "start": 28.0,
+      "end": 28.979999542236328
+    },
+    {
+      "word": "if",
+      "start": 28.979999542236328,
+      "end": 29.15999984741211
+    },
+    {
+      "word": "he",
+      "start": 29.15999984741211,
+      "end": 29.34000015258789
+    },
+    {
+      "word": "has",
+      "start": 29.34000015258789,
+      "end": 29.520000457763672
+    },
+    {
+      "word": "intended",
+      "start": 29.520000457763672,
+      "end": 29.84000015258789
+    },
+    {
+      "word": "it",
+      "start": 29.84000015258789,
+      "end": 30.31999969482422
     },
     {
       "word": "and",
-      "start": 64.12,
-      "end": 64.62
+      "start": 30.31999969482422,
+      "end": 30.860000610351562
     },
     {
-      "word": "Muslim",
-      "start": 64.62,
-      "end": 64.94
+      "word": "has",
+      "start": 30.860000610351562,
+      "end": 31.15999984741211
     },
     {
-      "word": "in",
-      "start": 64.94,
-      "end": 65.7
+      "word": "done",
+      "start": 31.15999984741211,
+      "end": 31.260000228881836
     },
     {
-      "word": "their",
-      "start": 65.7,
-      "end": 65.86
+      "word": "it",
+      "start": 31.260000228881836,
+      "end": 32.119998931884766
+    },
+    {
+      "word": "Allah",
+      "start": 32.65999984741211,
+      "end": 32.97999954223633
+    },
+    {
+      "word": "writes",
+      "start": 32.97999954223633,
+      "end": 33.47999954223633
+    },
+    {
+      "word": "it",
+      "start": 33.47999954223633,
+      "end": 33.70000076293945
+    },
+    {
+      "word": "down",
+      "start": 33.70000076293945,
+      "end": 34.040000915527344
+    },
+    {
+      "word": "with",
+      "start": 34.040000915527344,
+      "end": 34.400001525878906
+    },
+    {
+      "word": "himself",
+      "start": 34.400001525878906,
+      "end": 34.91999816894531
+    },
+    {
+      "word": "as",
+      "start": 35.70000076293945,
+      "end": 36.15999984741211
+    },
+    {
+      "word": "from",
+      "start": 36.15999984741211,
+      "end": 36.400001525878906
+    },
+    {
+      "word": "ten",
+      "start": 36.400001525878906,
+      "end": 36.79999923706055
+    },
+    {
+      "word": "good",
+      "start": 36.79999923706055,
+      "end": 37.380001068115234
+    },
+    {
+      "word": "deeds",
+      "start": 37.380001068115234,
+      "end": 37.619998931884766
     },
     {
       "word": "to",
-      "start": 65.86,
-      "end": 66.02
+      "start": 37.619998931884766,
+      "end": 38.91999816894531
     },
     {
-      "word": "Sahihin",
-      "start": 66.02,
-      "end": 66.98
+      "word": "seven",
+      "start": 38.91999816894531,
+      "end": 39.2400016784668
+    },
+    {
+      "word": "hundred",
+      "start": 39.2400016784668,
+      "end": 39.540000915527344
+    },
+    {
+      "word": "times",
+      "start": 39.540000915527344,
+      "end": 40.15999984741211
+    },
+    {
+      "word": "or",
+      "start": 40.599998474121094,
+      "end": 41.31999969482422
+    },
+    {
+      "word": "many",
+      "start": 41.31999969482422,
+      "end": 41.58000183105469
+    },
+    {
+      "word": "times",
+      "start": 41.58000183105469,
+      "end": 41.939998626708984
+    },
+    {
+      "word": "over",
+      "start": 41.939998626708984,
+      "end": 42.439998626708984
+    },
+    {
+      "word": "But",
+      "start": 43.060001373291016,
+      "end": 43.779998779296875
+    },
+    {
+      "word": "if",
+      "start": 43.779998779296875,
+      "end": 43.97999954223633
+    },
+    {
+      "word": "he",
+      "start": 43.97999954223633,
+      "end": 44.15999984741211
+    },
+    {
+      "word": "has",
+      "start": 44.15999984741211,
+      "end": 44.5
+    },
+    {
+      "word": "intended",
+      "start": 44.5,
+      "end": 44.7599983215332
+    },
+    {
+      "word": "a",
+      "start": 44.7599983215332,
+      "end": 45.15999984741211
+    },
+    {
+      "word": "bad",
+      "start": 45.15999984741211,
+      "end": 45.439998626708984
+    },
+    {
+      "word": "deed",
+      "start": 45.439998626708984,
+      "end": 45.70000076293945
+    },
+    {
+      "word": "and",
+      "start": 45.70000076293945,
+      "end": 46.560001373291016
+    },
+    {
+      "word": "has",
+      "start": 46.560001373291016,
+      "end": 46.779998779296875
+    },
+    {
+      "word": "not",
+      "start": 46.779998779296875,
+      "end": 47.0
+    },
+    {
+      "word": "done",
+      "start": 47.0,
+      "end": 47.18000030517578
+    },
+    {
+      "word": "it",
+      "start": 47.18000030517578,
+      "end": 47.619998931884766
+    },
+    {
+      "word": "Allah",
+      "start": 48.41999816894531,
+      "end": 48.68000030517578
+    },
+    {
+      "word": "writes",
+      "start": 48.68000030517578,
+      "end": 49.15999984741211
+    },
+    {
+      "word": "it",
+      "start": 49.15999984741211,
+      "end": 49.41999816894531
+    },
+    {
+      "word": "down",
+      "start": 49.41999816894531,
+      "end": 49.720001220703125
+    },
+    {
+      "word": "with",
+      "start": 49.720001220703125,
+      "end": 50.779998779296875
+    },
+    {
+      "word": "himself",
+      "start": 50.779998779296875,
+      "end": 51.220001220703125
+    },
+    {
+      "word": "as",
+      "start": 51.220001220703125,
+      "end": 51.7599983215332
+    },
+    {
+      "word": "a",
+      "start": 51.7599983215332,
+      "end": 51.91999816894531
+    },
+    {
+      "word": "full",
+      "start": 51.91999816894531,
+      "end": 52.220001220703125
+    },
+    {
+      "word": "good",
+      "start": 52.220001220703125,
+      "end": 52.779998779296875
+    },
+    {
+      "word": "deed",
+      "start": 52.779998779296875,
+      "end": 53.02000045776367
+    },
+    {
+      "word": "But",
+      "start": 53.70000076293945,
+      "end": 54.34000015258789
+    },
+    {
+      "word": "if",
+      "start": 54.34000015258789,
+      "end": 54.540000915527344
+    },
+    {
+      "word": "he",
+      "start": 54.540000915527344,
+      "end": 54.720001220703125
+    },
+    {
+      "word": "has",
+      "start": 54.720001220703125,
+      "end": 54.939998626708984
+    },
+    {
+      "word": "intended",
+      "start": 54.939998626708984,
+      "end": 55.2400016784668
+    },
+    {
+      "word": "it",
+      "start": 55.2400016784668,
+      "end": 55.959999084472656
+    },
+    {
+      "word": "and",
+      "start": 55.959999084472656,
+      "end": 56.599998474121094
+    },
+    {
+      "word": "has",
+      "start": 56.599998474121094,
+      "end": 56.880001068115234
+    },
+    {
+      "word": "done",
+      "start": 56.880001068115234,
+      "end": 56.97999954223633
+    },
+    {
+      "word": "it",
+      "start": 56.97999954223633,
+      "end": 57.91999816894531
+    },
+    {
+      "word": "Allah",
+      "start": 58.29999923706055,
+      "end": 58.36000061035156
+    },
+    {
+      "word": "writes",
+      "start": 58.36000061035156,
+      "end": 58.70000076293945
+    },
+    {
+      "word": "it",
+      "start": 58.70000076293945,
+      "end": 58.91999816894531
+    },
+    {
+      "word": "down",
+      "start": 58.91999816894531,
+      "end": 59.279998779296875
+    },
+    {
+      "word": "as",
+      "start": 59.279998779296875,
+      "end": 59.84000015258789
+    },
+    {
+      "word": "one",
+      "start": 59.84000015258789,
+      "end": 60.15999984741211
+    },
+    {
+      "word": "bad",
+      "start": 60.15999984741211,
+      "end": 60.7599983215332
+    },
+    {
+      "word": "deed",
+      "start": 60.7599983215332,
+      "end": 61.08000183105469
+    },
+    {
+      "word": "It",
+      "start": 62.52000045776367,
+      "end": 62.58000183105469
+    },
+    {
+      "word": "was",
+      "start": 62.58000183105469,
+      "end": 62.7400016784668
+    },
+    {
+      "word": "related",
+      "start": 62.7400016784668,
+      "end": 63.15999984741211
+    },
+    {
+      "word": "by",
+      "start": 63.15999984741211,
+      "end": 63.47999954223633
+    },
+    {
+      "word": "Al",
+      "start": 63.47999954223633,
+      "end": 63.7599983215332
+    },
+    {
+      "word": "Bukhari",
+      "start": 63.7599983215332,
+      "end": 64.0
+    },
+    {
+      "word": "and",
+      "start": 64.0,
+      "end": 64.55999755859375
+    },
+    {
+      "word": "Muslim",
+      "start": 64.55999755859375,
+      "end": 64.94000244140625
     },
     {
       "word": "in",
-      "start": 66.98,
+      "start": 64.94000244140625,
+      "end": 65.63999938964844
+    },
+    {
+      "word": "their",
+      "start": 65.63999938964844,
+      "end": 65.83999633789062
+    },
+    {
+      "word": "two",
+      "start": 65.83999633789062,
+      "end": 66.05999755859375
+    },
+    {
+      "word": "Sahihin",
+      "start": 66.05999755859375,
+      "end": 66.66000366210938
+    },
+    {
+      "word": "in",
+      "start": 66.66000366210938,
       "end": 67.5
     },
     {
       "word": "these",
       "start": 67.5,
-      "end": 67.74
+      "end": 67.72000122070312
     },
     {
-      "word": "words.",
-      "start": 67.74,
-      "end": 68.12
+      "word": "words",
+      "start": 67.72000122070312,
+      "end": 68.0999984741211
     }
-  ]
+  ],
+  "hadith_number": 37
 }

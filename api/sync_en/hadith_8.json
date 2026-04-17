@@ -1,566 +1,566 @@
 {
-  "hadith_number": 8,
-  "text": "On the authority of the Son of Umar, may Allah be pleased with them both, that the messenger of Allah made a blessings and peace of Allah be upon him, said, I have been ordered to fight against people, until they testify that there is no God but Allah, and that Muhammad is the messenger of Allah, and until they perform the prayers and pay the zakat, and if they do so, they will have gained protection from me for their lives and property, unless they do acts that are punishable in accordance with Islam, and their reckoning will be with Allah the Almighty. It was related by Al-Bukhari and Muslim.",
+  "text": "On the authority of the son of Umar, may Allah be pleased with them both, that the Messenger of Allah, may the blessings and peace of Allah be upon him, said, I have been ordered to fight against people until they testify that there is no god but Allah, and that Muhammad is the Messenger of Allah, and until they perform the prayers and pay the zakat, and if they do so, they will have gained protection from me for their lives and property, unless they do acts that are punishable in accordance with Islam, and their reckoning will be with Allah, the Almighty. It was related by al-Bukhari and Muslim.",
   "words": [
     {
       "word": "On",
       "start": 0.0,
-      "end": 0.5
+      "end": 0.4000000059604645
     },
     {
       "word": "the",
-      "start": 0.5,
-      "end": 0.6
+      "start": 0.4000000059604645,
+      "end": 0.6200000047683716
     },
     {
       "word": "authority",
-      "start": 0.6,
-      "end": 1.0
+      "start": 0.6200000047683716,
+      "end": 0.9800000190734863
     },
     {
       "word": "of",
-      "start": 1.0,
-      "end": 1.44
+      "start": 0.9800000190734863,
+      "end": 1.5
     },
     {
       "word": "the",
-      "start": 1.44,
-      "end": 1.64
+      "start": 1.5,
+      "end": 1.5800000429153442
     },
     {
-      "word": "Son",
-      "start": 1.64,
-      "end": 1.78
+      "word": "son",
+      "start": 1.5800000429153442,
+      "end": 1.7400000095367432
     },
     {
       "word": "of",
-      "start": 1.78,
-      "end": 2.06
+      "start": 1.7400000095367432,
+      "end": 2.119999885559082
     },
     {
-      "word": "Umar,",
-      "start": 2.06,
-      "end": 2.62
+      "word": "Umar",
+      "start": 2.119999885559082,
+      "end": 2.3399999141693115
     },
     {
       "word": "may",
-      "start": 3.26,
-      "end": 3.38
+      "start": 3.259999990463257,
+      "end": 3.3399999141693115
     },
     {
       "word": "Allah",
-      "start": 3.38,
-      "end": 3.68
+      "start": 3.3399999141693115,
+      "end": 3.5999999046325684
     },
     {
       "word": "be",
-      "start": 3.68,
-      "end": 3.9
+      "start": 3.5999999046325684,
+      "end": 4.0
     },
     {
       "word": "pleased",
-      "start": 3.9,
-      "end": 4.18
+      "start": 4.0,
+      "end": 4.099999904632568
     },
     {
       "word": "with",
-      "start": 4.18,
-      "end": 4.38
+      "start": 4.099999904632568,
+      "end": 4.300000190734863
     },
     {
       "word": "them",
-      "start": 4.38,
-      "end": 4.52
+      "start": 4.300000190734863,
+      "end": 4.539999961853027
     },
     {
-      "word": "both,",
-      "start": 4.52,
-      "end": 5.08
+      "word": "both",
+      "start": 4.539999961853027,
+      "end": 4.880000114440918
     },
     {
       "word": "that",
-      "start": 5.42,
+      "start": 5.300000190734863,
       "end": 5.5
     },
     {
       "word": "the",
       "start": 5.5,
-      "end": 5.68
+      "end": 5.639999866485596
     },
     {
-      "word": "messenger",
-      "start": 5.68,
-      "end": 6.02
+      "word": "Messenger",
+      "start": 5.639999866485596,
+      "end": 5.940000057220459
     },
     {
       "word": "of",
-      "start": 6.02,
-      "end": 6.3
+      "start": 5.940000057220459,
+      "end": 6.380000114440918
     },
     {
       "word": "Allah",
-      "start": 6.3,
-      "end": 6.76
+      "start": 6.380000114440918,
+      "end": 6.579999923706055
     },
     {
-      "word": "made",
-      "start": 6.76,
-      "end": 7.26
+      "word": "may",
+      "start": 7.139999866485596,
+      "end": 7.199999809265137
     },
     {
-      "word": "a",
-      "start": 7.26,
-      "end": 7.62
+      "word": "the",
+      "start": 7.199999809265137,
+      "end": 7.420000076293945
     },
     {
       "word": "blessings",
-      "start": 7.62,
-      "end": 7.7
+      "start": 7.420000076293945,
+      "end": 7.659999847412109
     },
     {
       "word": "and",
-      "start": 7.7,
-      "end": 7.98
+      "start": 7.659999847412109,
+      "end": 8.119999885559082
     },
     {
       "word": "peace",
-      "start": 7.98,
-      "end": 8.26
+      "start": 8.119999885559082,
+      "end": 8.199999809265137
     },
     {
       "word": "of",
-      "start": 8.26,
-      "end": 8.54
+      "start": 8.199999809265137,
+      "end": 8.619999885559082
     },
     {
       "word": "Allah",
-      "start": 8.54,
-      "end": 8.82
+      "start": 8.619999885559082,
+      "end": 8.779999732971191
     },
     {
       "word": "be",
-      "start": 8.82,
-      "end": 9.08
+      "start": 8.779999732971191,
+      "end": 9.0600004196167
     },
     {
       "word": "upon",
-      "start": 9.08,
-      "end": 9.3
+      "start": 9.0600004196167,
+      "end": 9.279999732971191
     },
     {
-      "word": "him,",
-      "start": 9.3,
-      "end": 9.86
+      "word": "him",
+      "start": 9.279999732971191,
+      "end": 9.539999961853027
     },
     {
-      "word": "said,",
-      "start": 10.02,
-      "end": 10.2
+      "word": "said",
+      "start": 10.079999923706055,
+      "end": 10.119999885559082
     },
     {
       "word": "I",
-      "start": 10.78,
-      "end": 10.78
+      "start": 10.5,
+      "end": 10.680000305175781
     },
     {
       "word": "have",
-      "start": 10.78,
-      "end": 10.96
+      "start": 10.680000305175781,
+      "end": 10.859999656677246
     },
     {
       "word": "been",
-      "start": 10.96,
-      "end": 11.18
+      "start": 10.859999656677246,
+      "end": 11.180000305175781
     },
     {
       "word": "ordered",
-      "start": 11.18,
-      "end": 11.44
+      "start": 11.180000305175781,
+      "end": 11.279999732971191
     },
     {
       "word": "to",
-      "start": 11.44,
-      "end": 11.72
+      "start": 11.279999732971191,
+      "end": 11.899999618530273
     },
     {
       "word": "fight",
-      "start": 11.72,
-      "end": 11.94
+      "start": 11.899999618530273,
+      "end": 11.899999618530273
     },
     {
       "word": "against",
-      "start": 11.94,
-      "end": 12.36
+      "start": 11.899999618530273,
+      "end": 12.300000190734863
     },
     {
-      "word": "people,",
-      "start": 12.36,
-      "end": 13.0
+      "word": "people",
+      "start": 12.300000190734863,
+      "end": 13.119999885559082
     },
     {
       "word": "until",
-      "start": 13.58,
-      "end": 13.78
+      "start": 13.119999885559082,
+      "end": 13.699999809265137
     },
     {
       "word": "they",
-      "start": 13.78,
-      "end": 14.02
+      "start": 13.699999809265137,
+      "end": 14.020000457763672
     },
     {
       "word": "testify",
-      "start": 14.02,
-      "end": 14.46
+      "start": 14.020000457763672,
+      "end": 14.399999618530273
     },
     {
       "word": "that",
-      "start": 14.46,
-      "end": 14.88
+      "start": 14.399999618530273,
+      "end": 14.859999656677246
     },
     {
       "word": "there",
-      "start": 14.88,
-      "end": 15.1
+      "start": 14.859999656677246,
+      "end": 15.020000457763672
     },
     {
       "word": "is",
-      "start": 15.1,
-      "end": 15.26
+      "start": 15.020000457763672,
+      "end": 15.15999984741211
     },
     {
       "word": "no",
-      "start": 15.26,
-      "end": 15.44
+      "start": 15.15999984741211,
+      "end": 15.420000076293945
     },
     {
-      "word": "God",
-      "start": 15.44,
-      "end": 15.66
+      "word": "god",
+      "start": 15.420000076293945,
+      "end": 15.579999923706055
     },
     {
       "word": "but",
-      "start": 15.66,
-      "end": 15.94
-    },
-    {
-      "word": "Allah,",
-      "start": 15.94,
-      "end": 16.3
-    },
-    {
-      "word": "and",
-      "start": 16.94,
-      "end": 17.1
-    },
-    {
-      "word": "that",
-      "start": 17.1,
-      "end": 17.24
-    },
-    {
-      "word": "Muhammad",
-      "start": 17.24,
-      "end": 17.54
-    },
-    {
-      "word": "is",
-      "start": 17.54,
-      "end": 17.98
-    },
-    {
-      "word": "the",
-      "start": 17.98,
-      "end": 18.14
-    },
-    {
-      "word": "messenger",
-      "start": 18.14,
-      "end": 18.4
-    },
-    {
-      "word": "of",
-      "start": 18.4,
-      "end": 18.68
-    },
-    {
-      "word": "Allah,",
-      "start": 18.68,
-      "end": 19.12
-    },
-    {
-      "word": "and",
-      "start": 19.8,
-      "end": 19.98
-    },
-    {
-      "word": "until",
-      "start": 19.98,
-      "end": 20.26
-    },
-    {
-      "word": "they",
-      "start": 20.26,
-      "end": 20.52
-    },
-    {
-      "word": "perform",
-      "start": 20.52,
-      "end": 20.92
-    },
-    {
-      "word": "the",
-      "start": 20.92,
-      "end": 21.22
-    },
-    {
-      "word": "prayers",
-      "start": 21.22,
-      "end": 21.56
-    },
-    {
-      "word": "and",
-      "start": 21.56,
-      "end": 21.98
-    },
-    {
-      "word": "pay",
-      "start": 21.98,
-      "end": 22.14
-    },
-    {
-      "word": "the",
-      "start": 22.14,
-      "end": 22.32
-    },
-    {
-      "word": "zakat,",
-      "start": 22.32,
-      "end": 22.84
-    },
-    {
-      "word": "and",
-      "start": 23.48,
-      "end": 23.6
-    },
-    {
-      "word": "if",
-      "start": 23.6,
-      "end": 23.78
-    },
-    {
-      "word": "they",
-      "start": 23.78,
-      "end": 23.92
-    },
-    {
-      "word": "do",
-      "start": 23.92,
-      "end": 24.14
-    },
-    {
-      "word": "so,",
-      "start": 24.14,
-      "end": 24.66
-    },
-    {
-      "word": "they",
-      "start": 24.66,
-      "end": 25.02
-    },
-    {
-      "word": "will",
-      "start": 25.02,
-      "end": 25.12
-    },
-    {
-      "word": "have",
-      "start": 25.12,
-      "end": 25.28
-    },
-    {
-      "word": "gained",
-      "start": 25.28,
-      "end": 25.5
-    },
-    {
-      "word": "protection",
-      "start": 25.5,
-      "end": 25.96
-    },
-    {
-      "word": "from",
-      "start": 25.96,
-      "end": 26.38
-    },
-    {
-      "word": "me",
-      "start": 26.38,
-      "end": 26.88
-    },
-    {
-      "word": "for",
-      "start": 26.88,
-      "end": 27.28
-    },
-    {
-      "word": "their",
-      "start": 27.28,
-      "end": 27.54
-    },
-    {
-      "word": "lives",
-      "start": 27.54,
-      "end": 27.92
-    },
-    {
-      "word": "and",
-      "start": 27.92,
-      "end": 28.34
-    },
-    {
-      "word": "property,",
-      "start": 28.34,
-      "end": 28.88
-    },
-    {
-      "word": "unless",
-      "start": 29.86,
-      "end": 29.88
-    },
-    {
-      "word": "they",
-      "start": 29.88,
-      "end": 30.36
-    },
-    {
-      "word": "do",
-      "start": 30.36,
-      "end": 30.66
-    },
-    {
-      "word": "acts",
-      "start": 30.66,
-      "end": 30.92
-    },
-    {
-      "word": "that",
-      "start": 30.92,
-      "end": 31.1
-    },
-    {
-      "word": "are",
-      "start": 31.1,
-      "end": 31.2
-    },
-    {
-      "word": "punishable",
-      "start": 31.2,
-      "end": 31.96
-    },
-    {
-      "word": "in",
-      "start": 31.96,
-      "end": 32.6
-    },
-    {
-      "word": "accordance",
-      "start": 32.6,
-      "end": 32.98
-    },
-    {
-      "word": "with",
-      "start": 32.98,
-      "end": 33.3
-    },
-    {
-      "word": "Islam,",
-      "start": 33.3,
-      "end": 33.8
-    },
-    {
-      "word": "and",
-      "start": 34.48,
-      "end": 34.68
-    },
-    {
-      "word": "their",
-      "start": 34.68,
-      "end": 34.84
-    },
-    {
-      "word": "reckoning",
-      "start": 34.84,
-      "end": 35.38
-    },
-    {
-      "word": "will",
-      "start": 35.38,
-      "end": 35.74
-    },
-    {
-      "word": "be",
-      "start": 35.74,
-      "end": 35.86
-    },
-    {
-      "word": "with",
-      "start": 35.86,
-      "end": 36.1
+      "start": 15.579999923706055,
+      "end": 15.859999656677246
     },
     {
       "word": "Allah",
-      "start": 36.1,
-      "end": 36.52
-    },
-    {
-      "word": "the",
-      "start": 36.52,
-      "end": 37.16
-    },
-    {
-      "word": "Almighty.",
-      "start": 37.16,
-      "end": 37.66
-    },
-    {
-      "word": "It",
-      "start": 38.36,
-      "end": 38.56
-    },
-    {
-      "word": "was",
-      "start": 38.56,
-      "end": 38.68
-    },
-    {
-      "word": "related",
-      "start": 38.68,
-      "end": 39.12
-    },
-    {
-      "word": "by",
-      "start": 39.12,
-      "end": 39.52
-    },
-    {
-      "word": "Al",
-      "start": 39.52,
-      "end": 39.72
-    },
-    {
-      "word": "-Bukhari",
-      "start": 39.72,
-      "end": 40.22
+      "start": 15.859999656677246,
+      "end": 16.15999984741211
     },
     {
       "word": "and",
-      "start": 40.22,
-      "end": 40.66
+      "start": 16.8799991607666,
+      "end": 17.020000457763672
     },
     {
-      "word": "Muslim.",
-      "start": 40.66,
-      "end": 40.84
+      "word": "that",
+      "start": 17.020000457763672,
+      "end": 17.299999237060547
+    },
+    {
+      "word": "Muhammad",
+      "start": 17.299999237060547,
+      "end": 17.5
+    },
+    {
+      "word": "is",
+      "start": 17.5,
+      "end": 17.899999618530273
+    },
+    {
+      "word": "the",
+      "start": 17.899999618530273,
+      "end": 18.360000610351562
+    },
+    {
+      "word": "Messenger",
+      "start": 18.360000610351562,
+      "end": 18.360000610351562
+    },
+    {
+      "word": "of",
+      "start": 18.360000610351562,
+      "end": 18.84000015258789
+    },
+    {
+      "word": "Allah",
+      "start": 18.84000015258789,
+      "end": 18.959999084472656
+    },
+    {
+      "word": "and",
+      "start": 19.700000762939453,
+      "end": 19.959999084472656
+    },
+    {
+      "word": "until",
+      "start": 19.959999084472656,
+      "end": 20.200000762939453
+    },
+    {
+      "word": "they",
+      "start": 20.200000762939453,
+      "end": 20.479999542236328
+    },
+    {
+      "word": "perform",
+      "start": 20.479999542236328,
+      "end": 20.8799991607666
+    },
+    {
+      "word": "the",
+      "start": 20.8799991607666,
+      "end": 21.5
+    },
+    {
+      "word": "prayers",
+      "start": 21.5,
+      "end": 21.5
+    },
+    {
+      "word": "and",
+      "start": 21.5,
+      "end": 21.940000534057617
+    },
+    {
+      "word": "pay",
+      "start": 21.940000534057617,
+      "end": 22.15999984741211
+    },
+    {
+      "word": "the",
+      "start": 22.15999984741211,
+      "end": 22.459999084472656
+    },
+    {
+      "word": "zakat",
+      "start": 22.459999084472656,
+      "end": 22.760000228881836
+    },
+    {
+      "word": "and",
+      "start": 23.360000610351562,
+      "end": 23.579999923706055
+    },
+    {
+      "word": "if",
+      "start": 23.579999923706055,
+      "end": 23.719999313354492
+    },
+    {
+      "word": "they",
+      "start": 23.719999313354492,
+      "end": 23.899999618530273
+    },
+    {
+      "word": "do",
+      "start": 23.899999618530273,
+      "end": 24.079999923706055
+    },
+    {
+      "word": "so",
+      "start": 24.079999923706055,
+      "end": 24.399999618530273
+    },
+    {
+      "word": "they",
+      "start": 24.860000610351562,
+      "end": 24.979999542236328
+    },
+    {
+      "word": "will",
+      "start": 24.979999542236328,
+      "end": 25.100000381469727
+    },
+    {
+      "word": "have",
+      "start": 25.100000381469727,
+      "end": 25.459999084472656
+    },
+    {
+      "word": "gained",
+      "start": 25.459999084472656,
+      "end": 25.459999084472656
+    },
+    {
+      "word": "protection",
+      "start": 25.459999084472656,
+      "end": 25.940000534057617
+    },
+    {
+      "word": "from",
+      "start": 25.940000534057617,
+      "end": 26.34000015258789
+    },
+    {
+      "word": "me",
+      "start": 26.34000015258789,
+      "end": 26.639999389648438
+    },
+    {
+      "word": "for",
+      "start": 26.639999389648438,
+      "end": 27.239999771118164
+    },
+    {
+      "word": "their",
+      "start": 27.239999771118164,
+      "end": 27.440000534057617
+    },
+    {
+      "word": "lives",
+      "start": 27.440000534057617,
+      "end": 27.920000076293945
+    },
+    {
+      "word": "and",
+      "start": 27.920000076293945,
+      "end": 28.360000610351562
+    },
+    {
+      "word": "property",
+      "start": 28.360000610351562,
+      "end": 28.739999771118164
+    },
+    {
+      "word": "unless",
+      "start": 28.739999771118164,
+      "end": 29.860000610351562
+    },
+    {
+      "word": "they",
+      "start": 29.860000610351562,
+      "end": 30.280000686645508
+    },
+    {
+      "word": "do",
+      "start": 30.280000686645508,
+      "end": 30.5
+    },
+    {
+      "word": "acts",
+      "start": 30.5,
+      "end": 30.84000015258789
+    },
+    {
+      "word": "that",
+      "start": 30.84000015258789,
+      "end": 31.059999465942383
+    },
+    {
+      "word": "are",
+      "start": 31.059999465942383,
+      "end": 31.15999984741211
+    },
+    {
+      "word": "punishable",
+      "start": 31.15999984741211,
+      "end": 31.639999389648438
+    },
+    {
+      "word": "in",
+      "start": 31.639999389648438,
+      "end": 32.58000183105469
+    },
+    {
+      "word": "accordance",
+      "start": 32.58000183105469,
+      "end": 32.91999816894531
+    },
+    {
+      "word": "with",
+      "start": 32.91999816894531,
+      "end": 33.65999984741211
+    },
+    {
+      "word": "Islam",
+      "start": 33.65999984741211,
+      "end": 33.65999984741211
+    },
+    {
+      "word": "and",
+      "start": 34.560001373291016,
+      "end": 34.619998931884766
+    },
+    {
+      "word": "their",
+      "start": 34.619998931884766,
+      "end": 34.81999969482422
+    },
+    {
+      "word": "reckoning",
+      "start": 34.81999969482422,
+      "end": 35.15999984741211
+    },
+    {
+      "word": "will",
+      "start": 35.15999984741211,
+      "end": 35.70000076293945
+    },
+    {
+      "word": "be",
+      "start": 35.70000076293945,
+      "end": 35.84000015258789
+    },
+    {
+      "word": "with",
+      "start": 35.84000015258789,
+      "end": 36.31999969482422
+    },
+    {
+      "word": "Allah",
+      "start": 36.31999969482422,
+      "end": 36.52000045776367
+    },
+    {
+      "word": "the",
+      "start": 37.060001373291016,
+      "end": 37.599998474121094
+    },
+    {
+      "word": "Almighty",
+      "start": 37.599998474121094,
+      "end": 37.599998474121094
+    },
+    {
+      "word": "It",
+      "start": 38.41999816894531,
+      "end": 38.52000045776367
+    },
+    {
+      "word": "was",
+      "start": 38.52000045776367,
+      "end": 38.720001220703125
+    },
+    {
+      "word": "related",
+      "start": 38.720001220703125,
+      "end": 39.099998474121094
+    },
+    {
+      "word": "by",
+      "start": 39.099998474121094,
+      "end": 39.560001373291016
+    },
+    {
+      "word": "al",
+      "start": 39.560001373291016,
+      "end": 39.7400016784668
+    },
+    {
+      "word": "Bukhari",
+      "start": 39.7400016784668,
+      "end": 40.060001373291016
+    },
+    {
+      "word": "and",
+      "start": 40.060001373291016,
+      "end": 40.619998931884766
+    },
+    {
+      "word": "Muslim",
+      "start": 40.619998931884766,
+      "end": 40.880001068115234
     }
-  ]
+  ],
+  "hadith_number": 8
 }

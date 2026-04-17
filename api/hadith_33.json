@@ -6,5 +6,7 @@
   "arabic_text": "عَنْ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا أَنَّ رَسُولَ اللَّهِ صلى الله عليه و سلم قَالَ: \\",
   "english_translation": "From Ibn ʿAbbās (raḍiyallāhu ʿanhumā), that the Messenger of Allāh (ṣallallāhu ʿalayhi wasallam) said, 'If the people were to be given in accordance with their claim, men would claim the fortunes and lives of [other] people, but the onus of proof is upon the claimant, and the taking of an oath is incumbent upon him who denies.'",
   "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_33.mp3",
-  "sync_url": "https://uthumany.github.io/nawawi-40-hadiths/api/sync/hadith_33.json"
+  "sync_url": "https://uthumany.github.io/nawawi-40-hadiths/api/sync/hadith_33.json",
+  "english_audio_url": "https://raw.githubusercontent.com/uthumany/nawawi-40-hadiths/main/audio/english/Hadith_33_English.mp3",
+  "english_sync_url": "https://uthumany.github.io/nawawi-40-hadiths/api/sync_en/hadith_33.json"
 }

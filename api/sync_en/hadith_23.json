@@ -1,601 +1,576 @@
 {
-  "hadith_number": 23,
-  "text": "On the authority of Abu Malik al-Harith, it been asked in Al-Ashari, May Allah be pleased with him. He said, the messenger of Allah, may the blessings and peace of Allah be upon him, said, purity is half of faith, Allah hummed Allah, praise be to Allah, fills the scales, and Subhan Allah, how far is Allah from every imperfection, and al-Hamdulillah, praise be to Allah, fill that which is between heaven and earth. Prayer is light, charity is proof, patience is illumination, and the Quran is an argument for, or against you. Everyone starts his day and is a vendor of his soul, either throwing it or bringing it's ruined. It was related by Muslim.",
+  "text": "On the authority of Abu Malik Al-Harith Ibn Asim Al-Ashari, may Allah be pleased with him, who said, The Messenger of Allah, may the blessings and peace of Allah be upon him, said, Purity is half of faith. Alhamdulillah. Praise be to Allah. Fills the scales. And Subhanallah. How far is Allah from every imperfection. And Alhamdulillah. Praise be to Allah. Fill that which is between heaven and earth. Prayer is light. Charity is proof. Patience is illumination. And the Quran is an argument for or against you. Everyone starts his day and is a vendor of his soul, either freeing it or bringing about its ruin. It was related by Muslim.",
   "words": [
     {
       "word": "On",
       "start": 0.0,
-      "end": 0.7
+      "end": 0.6000000238418579
     },
     {
       "word": "the",
-      "start": 0.7,
-      "end": 0.8
+      "start": 0.6000000238418579,
+      "end": 0.800000011920929
     },
     {
       "word": "authority",
-      "start": 0.8,
-      "end": 1.24
+      "start": 0.800000011920929,
+      "end": 1.2400000095367432
     },
     {
       "word": "of",
-      "start": 1.24,
-      "end": 1.7
+      "start": 1.2400000095367432,
+      "end": 1.6200000047683716
     },
     {
       "word": "Abu",
-      "start": 1.7,
-      "end": 1.92
+      "start": 1.6200000047683716,
+      "end": 1.9199999570846558
     },
     {
       "word": "Malik",
-      "start": 1.92,
-      "end": 2.4
-    },
-    {
-      "word": "al",
-      "start": 2.4,
-      "end": 2.72
-    },
-    {
-      "word": "-Harith,",
-      "start": 2.72,
-      "end": 3.2
-    },
-    {
-      "word": "it",
-      "start": 3.58,
-      "end": 3.6
-    },
-    {
-      "word": "been",
-      "start": 3.6,
-      "end": 3.86
-    },
-    {
-      "word": "asked",
-      "start": 3.86,
-      "end": 4.12
-    },
-    {
-      "word": "in",
-      "start": 4.12,
-      "end": 4.4
+      "start": 1.9199999570846558,
+      "end": 2.2799999713897705
     },
     {
       "word": "Al",
-      "start": 4.4,
-      "end": 4.56
+      "start": 2.2799999713897705,
+      "end": 2.9600000381469727
     },
     {
-      "word": "-Ashari,",
-      "start": 4.56,
-      "end": 5.08
+      "word": "Harith",
+      "start": 2.9600000381469727,
+      "end": 3.059999942779541
     },
     {
-      "word": "May",
-      "start": 5.88,
-      "end": 6.08
+      "word": "Ibn",
+      "start": 3.059999942779541,
+      "end": 3.799999952316284
     },
     {
-      "word": "Allah",
-      "start": 6.08,
-      "end": 6.34
+      "word": "Asim",
+      "start": 3.799999952316284,
+      "end": 4.21999979019165
     },
     {
-      "word": "be",
-      "start": 6.34,
-      "end": 6.58
+      "word": "Al",
+      "start": 4.21999979019165,
+      "end": 4.599999904632568
     },
     {
-      "word": "pleased",
-      "start": 6.58,
-      "end": 6.86
-    },
-    {
-      "word": "with",
-      "start": 6.86,
-      "end": 7.0
-    },
-    {
-      "word": "him.",
-      "start": 7.0,
-      "end": 7.58
-    },
-    {
-      "word": "He",
-      "start": 7.96,
-      "end": 8.12
-    },
-    {
-      "word": "said,",
-      "start": 8.12,
-      "end": 8.52
-    },
-    {
-      "word": "the",
-      "start": 9.08,
-      "end": 9.22
-    },
-    {
-      "word": "messenger",
-      "start": 9.22,
-      "end": 9.56
-    },
-    {
-      "word": "of",
-      "start": 9.56,
-      "end": 9.84
-    },
-    {
-      "word": "Allah,",
-      "start": 9.84,
-      "end": 10.26
+      "word": "Ashari",
+      "start": 4.599999904632568,
+      "end": 4.900000095367432
     },
     {
       "word": "may",
-      "start": 10.64,
-      "end": 10.72
+      "start": 5.940000057220459,
+      "end": 6.019999980926514
+    },
+    {
+      "word": "Allah",
+      "start": 6.019999980926514,
+      "end": 6.300000190734863
+    },
+    {
+      "word": "be",
+      "start": 6.300000190734863,
+      "end": 6.599999904632568
+    },
+    {
+      "word": "pleased",
+      "start": 6.599999904632568,
+      "end": 6.760000228881836
+    },
+    {
+      "word": "with",
+      "start": 6.760000228881836,
+      "end": 7.0
+    },
+    {
+      "word": "him",
+      "start": 7.0,
+      "end": 7.239999771118164
+    },
+    {
+      "word": "who",
+      "start": 8.100000381469727,
+      "end": 8.140000343322754
+    },
+    {
+      "word": "said",
+      "start": 8.140000343322754,
+      "end": 8.359999656677246
+    },
+    {
+      "word": "The",
+      "start": 9.180000305175781,
+      "end": 9.180000305175781
+    },
+    {
+      "word": "Messenger",
+      "start": 9.180000305175781,
+      "end": 9.5
+    },
+    {
+      "word": "of",
+      "start": 9.5,
+      "end": 9.9399995803833
+    },
+    {
+      "word": "Allah",
+      "start": 9.9399995803833,
+      "end": 10.15999984741211
+    },
+    {
+      "word": "may",
+      "start": 10.640000343322754,
+      "end": 10.680000305175781
     },
     {
       "word": "the",
-      "start": 10.72,
-      "end": 10.88
+      "start": 10.680000305175781,
+      "end": 10.920000076293945
     },
     {
       "word": "blessings",
-      "start": 10.88,
-      "end": 11.2
+      "start": 10.920000076293945,
+      "end": 11.15999984741211
     },
     {
       "word": "and",
-      "start": 11.2,
-      "end": 11.46
+      "start": 11.15999984741211,
+      "end": 11.4399995803833
     },
     {
       "word": "peace",
-      "start": 11.46,
-      "end": 11.64
+      "start": 11.4399995803833,
+      "end": 11.600000381469727
     },
     {
       "word": "of",
-      "start": 11.64,
-      "end": 11.82
+      "start": 11.600000381469727,
+      "end": 12.0
     },
     {
       "word": "Allah",
-      "start": 11.82,
-      "end": 12.06
+      "start": 12.0,
+      "end": 12.0
     },
     {
       "word": "be",
-      "start": 12.06,
-      "end": 12.24
+      "start": 12.0,
+      "end": 12.199999809265137
     },
     {
       "word": "upon",
-      "start": 12.24,
-      "end": 12.46
+      "start": 12.199999809265137,
+      "end": 12.399999618530273
     },
     {
-      "word": "him,",
-      "start": 12.46,
-      "end": 13.18
+      "word": "him",
+      "start": 12.399999618530273,
+      "end": 12.739999771118164
     },
     {
-      "word": "said,",
-      "start": 13.36,
-      "end": 13.66
+      "word": "said",
+      "start": 13.420000076293945,
+      "end": 13.520000457763672
     },
     {
-      "word": "purity",
-      "start": 14.72,
-      "end": 15.04
+      "word": "Purity",
+      "start": 14.979999542236328,
+      "end": 14.979999542236328
     },
     {
       "word": "is",
-      "start": 15.04,
-      "end": 15.44
+      "start": 14.979999542236328,
+      "end": 15.359999656677246
     },
     {
       "word": "half",
-      "start": 15.44,
-      "end": 15.62
+      "start": 15.359999656677246,
+      "end": 15.579999923706055
     },
     {
       "word": "of",
-      "start": 15.62,
-      "end": 15.86
+      "start": 15.579999923706055,
+      "end": 16.040000915527344
     },
     {
-      "word": "faith,",
-      "start": 15.86,
-      "end": 16.42
+      "word": "faith",
+      "start": 16.040000915527344,
+      "end": 16.18000030517578
     },
     {
-      "word": "Allah",
-      "start": 16.84,
-      "end": 16.92
+      "word": "Alhamdulillah",
+      "start": 16.920000076293945,
+      "end": 17.559999465942383
     },
     {
-      "word": "hummed",
-      "start": 16.92,
-      "end": 17.16
-    },
-    {
-      "word": "Allah,",
-      "start": 17.16,
-      "end": 17.84
-    },
-    {
-      "word": "praise",
-      "start": 18.54,
-      "end": 18.74
+      "word": "Praise",
+      "start": 18.700000762939453,
+      "end": 18.700000762939453
     },
     {
       "word": "be",
-      "start": 18.74,
-      "end": 19.0
+      "start": 18.700000762939453,
+      "end": 18.940000534057617
     },
     {
       "word": "to",
-      "start": 19.0,
-      "end": 19.16
+      "start": 18.940000534057617,
+      "end": 19.260000228881836
     },
     {
-      "word": "Allah,",
-      "start": 19.16,
-      "end": 19.56
+      "word": "Allah",
+      "start": 19.260000228881836,
+      "end": 19.420000076293945
     },
     {
-      "word": "fills",
-      "start": 20.2,
-      "end": 20.42
+      "word": "Fills",
+      "start": 20.200000762939453,
+      "end": 20.3799991607666
     },
     {
       "word": "the",
-      "start": 20.42,
-      "end": 20.68
+      "start": 20.3799991607666,
+      "end": 20.700000762939453
     },
     {
-      "word": "scales,",
-      "start": 20.68,
-      "end": 21.16
+      "word": "scales",
+      "start": 20.700000762939453,
+      "end": 21.040000915527344
     },
     {
-      "word": "and",
-      "start": 22.16,
-      "end": 22.38
+      "word": "And",
+      "start": 21.040000915527344,
+      "end": 22.18000030517578
     },
     {
-      "word": "Subhan",
-      "start": 22.38,
-      "end": 22.8
+      "word": "Subhanallah",
+      "start": 22.18000030517578,
+      "end": 23.260000228881836
     },
     {
-      "word": "Allah,",
-      "start": 22.8,
-      "end": 23.36
-    },
-    {
-      "word": "how",
-      "start": 24.3,
-      "end": 24.46
+      "word": "How",
+      "start": 24.34000015258789,
+      "end": 24.440000534057617
     },
     {
       "word": "far",
-      "start": 24.46,
-      "end": 24.82
+      "start": 24.440000534057617,
+      "end": 24.799999237060547
     },
     {
       "word": "is",
-      "start": 24.82,
-      "end": 25.34
+      "start": 24.799999237060547,
+      "end": 25.399999618530273
     },
     {
       "word": "Allah",
-      "start": 25.34,
-      "end": 25.62
+      "start": 25.399999618530273,
+      "end": 25.6200008392334
     },
     {
       "word": "from",
-      "start": 25.62,
-      "end": 25.98
+      "start": 25.6200008392334,
+      "end": 25.8799991607666
     },
     {
       "word": "every",
-      "start": 25.98,
-      "end": 26.38
+      "start": 25.8799991607666,
+      "end": 26.399999618530273
     },
     {
-      "word": "imperfection,",
-      "start": 26.38,
-      "end": 27.34
+      "word": "imperfection",
+      "start": 26.399999618530273,
+      "end": 27.040000915527344
     },
     {
-      "word": "and",
-      "start": 27.82,
-      "end": 28.2
+      "word": "And",
+      "start": 28.139999389648438,
+      "end": 28.360000610351562
     },
     {
-      "word": "al",
-      "start": 28.2,
-      "end": 28.48
+      "word": "Alhamdulillah",
+      "start": 28.360000610351562,
+      "end": 29.219999313354492
     },
     {
-      "word": "-Hamdulillah,",
-      "start": 28.48,
-      "end": 29.5
-    },
-    {
-      "word": "praise",
-      "start": 30.28,
-      "end": 30.44
+      "word": "Praise",
+      "start": 30.360000610351562,
+      "end": 30.360000610351562
     },
     {
       "word": "be",
-      "start": 30.44,
-      "end": 30.64
+      "start": 30.360000610351562,
+      "end": 30.6200008392334
     },
     {
       "word": "to",
-      "start": 30.64,
-      "end": 30.76
+      "start": 30.6200008392334,
+      "end": 30.860000610351562
     },
     {
-      "word": "Allah,",
-      "start": 30.76,
-      "end": 31.22
+      "word": "Allah",
+      "start": 30.860000610351562,
+      "end": 31.1200008392334
     },
     {
-      "word": "fill",
-      "start": 31.86,
-      "end": 32.02
+      "word": "Fill",
+      "start": 31.920000076293945,
+      "end": 31.979999542236328
     },
     {
       "word": "that",
-      "start": 32.02,
-      "end": 32.34
+      "start": 31.979999542236328,
+      "end": 32.29999923706055
     },
     {
       "word": "which",
-      "start": 32.34,
-      "end": 32.62
+      "start": 32.29999923706055,
+      "end": 32.58000183105469
     },
     {
       "word": "is",
-      "start": 32.62,
-      "end": 32.84
+      "start": 32.58000183105469,
+      "end": 33.29999923706055
     },
     {
       "word": "between",
-      "start": 32.84,
-      "end": 33.34
+      "start": 33.29999923706055,
+      "end": 33.380001068115234
     },
     {
       "word": "heaven",
-      "start": 33.34,
-      "end": 33.92
+      "start": 33.380001068115234,
+      "end": 33.86000061035156
     },
     {
       "word": "and",
-      "start": 33.92,
-      "end": 34.26
+      "start": 33.86000061035156,
+      "end": 34.720001220703125
     },
     {
-      "word": "earth.",
-      "start": 34.26,
-      "end": 34.8
+      "word": "earth",
+      "start": 34.720001220703125,
+      "end": 34.720001220703125
     },
     {
       "word": "Prayer",
-      "start": 35.62,
-      "end": 35.74
+      "start": 35.68000030517578,
+      "end": 35.68000030517578
     },
     {
       "word": "is",
-      "start": 35.74,
-      "end": 36.06
+      "start": 35.68000030517578,
+      "end": 36.0
     },
     {
-      "word": "light,",
-      "start": 36.06,
-      "end": 36.48
+      "word": "light",
+      "start": 36.0,
+      "end": 36.400001525878906
     },
     {
-      "word": "charity",
-      "start": 37.42,
-      "end": 37.78
-    },
-    {
-      "word": "is",
-      "start": 37.78,
-      "end": 38.24
-    },
-    {
-      "word": "proof,",
-      "start": 38.24,
-      "end": 38.64
-    },
-    {
-      "word": "patience",
-      "start": 39.56,
-      "end": 39.96
+      "word": "Charity",
+      "start": 37.63999938964844,
+      "end": 37.7400016784668
     },
     {
       "word": "is",
-      "start": 39.96,
-      "end": 40.46
+      "start": 37.7400016784668,
+      "end": 38.15999984741211
     },
     {
-      "word": "illumination,",
-      "start": 40.46,
-      "end": 41.24
+      "word": "proof",
+      "start": 38.15999984741211,
+      "end": 38.52000045776367
     },
     {
-      "word": "and",
-      "start": 42.38,
-      "end": 42.54
+      "word": "Patience",
+      "start": 39.68000030517578,
+      "end": 39.97999954223633
+    },
+    {
+      "word": "is",
+      "start": 39.97999954223633,
+      "end": 40.47999954223633
+    },
+    {
+      "word": "illumination",
+      "start": 40.47999954223633,
+      "end": 41.099998474121094
+    },
+    {
+      "word": "And",
+      "start": 42.18000030517578,
+      "end": 42.47999954223633
     },
     {
       "word": "the",
-      "start": 42.54,
-      "end": 42.7
+      "start": 42.47999954223633,
+      "end": 43.0
     },
     {
       "word": "Quran",
-      "start": 42.7,
-      "end": 43.1
+      "start": 43.0,
+      "end": 43.0
     },
     {
       "word": "is",
-      "start": 43.1,
-      "end": 43.76
+      "start": 43.0,
+      "end": 43.68000030517578
     },
     {
       "word": "an",
-      "start": 43.76,
-      "end": 43.98
+      "start": 43.68000030517578,
+      "end": 44.2599983215332
     },
     {
       "word": "argument",
-      "start": 43.98,
-      "end": 44.28
+      "start": 44.2599983215332,
+      "end": 44.2599983215332
     },
     {
-      "word": "for,",
-      "start": 44.28,
-      "end": 45.18
+      "word": "for",
+      "start": 44.2599983215332,
+      "end": 44.79999923706055
     },
     {
       "word": "or",
-      "start": 45.36,
-      "end": 45.66
+      "start": 44.79999923706055,
+      "end": 45.63999938964844
     },
     {
       "word": "against",
-      "start": 45.66,
-      "end": 45.96
+      "start": 45.63999938964844,
+      "end": 45.91999816894531
     },
     {
-      "word": "you.",
-      "start": 45.96,
-      "end": 46.64
+      "word": "you",
+      "start": 45.91999816894531,
+      "end": 46.380001068115234
     },
     {
       "word": "Everyone",
-      "start": 46.96,
-      "end": 47.34
+      "start": 46.380001068115234,
+      "end": 47.2599983215332
     },
     {
       "word": "starts",
-      "start": 47.34,
-      "end": 47.68
+      "start": 47.2599983215332,
+      "end": 47.63999938964844
     },
     {
       "word": "his",
-      "start": 47.68,
-      "end": 47.98
+      "start": 47.63999938964844,
+      "end": 47.900001525878906
     },
     {
       "word": "day",
-      "start": 47.98,
-      "end": 48.5
+      "start": 47.900001525878906,
+      "end": 48.2400016784668
     },
     {
       "word": "and",
-      "start": 48.5,
-      "end": 49.02
+      "start": 48.2400016784668,
+      "end": 49.060001373291016
     },
     {
       "word": "is",
-      "start": 49.02,
-      "end": 49.26
+      "start": 49.060001373291016,
+      "end": 49.20000076293945
     },
     {
       "word": "a",
-      "start": 49.26,
-      "end": 49.48
+      "start": 49.20000076293945,
+      "end": 49.52000045776367
     },
     {
       "word": "vendor",
-      "start": 49.48,
-      "end": 49.68
+      "start": 49.52000045776367,
+      "end": 49.540000915527344
     },
     {
       "word": "of",
-      "start": 49.68,
-      "end": 50.1
+      "start": 49.540000915527344,
+      "end": 49.959999084472656
     },
     {
       "word": "his",
-      "start": 50.1,
-      "end": 50.26
+      "start": 49.959999084472656,
+      "end": 50.20000076293945
     },
     {
-      "word": "soul,",
-      "start": 50.26,
-      "end": 50.86
+      "word": "soul",
+      "start": 50.20000076293945,
+      "end": 50.52000045776367
     },
     {
       "word": "either",
-      "start": 51.74,
-      "end": 51.96
+      "start": 51.7599983215332,
+      "end": 51.91999816894531
     },
     {
-      "word": "throwing",
-      "start": 51.96,
-      "end": 52.34
+      "word": "freeing",
+      "start": 51.91999816894531,
+      "end": 52.36000061035156
     },
     {
       "word": "it",
-      "start": 52.34,
-      "end": 52.9
+      "start": 52.36000061035156,
+      "end": 52.900001525878906
     },
     {
       "word": "or",
-      "start": 52.9,
-      "end": 53.34
+      "start": 52.900001525878906,
+      "end": 53.31999969482422
     },
     {
       "word": "bringing",
-      "start": 53.34,
-      "end": 53.64
+      "start": 53.31999969482422,
+      "end": 53.560001373291016
     },
     {
-      "word": "it's",
-      "start": 53.64,
-      "end": 54.46
+      "word": "about",
+      "start": 53.560001373291016,
+      "end": 54.060001373291016
     },
     {
-      "word": "ruined.",
-      "start": 54.46,
-      "end": 54.82
+      "word": "its",
+      "start": 54.060001373291016,
+      "end": 54.459999084472656
+    },
+    {
+      "word": "ruin",
+      "start": 54.459999084472656,
+      "end": 54.70000076293945
     },
     {
       "word": "It",
-      "start": 56.2,
-      "end": 56.34
+      "start": 55.84000015258789,
+      "end": 56.31999969482422
     },
     {
       "word": "was",
-      "start": 56.34,
-      "end": 56.54
+      "start": 56.31999969482422,
+      "end": 56.52000045776367
     },
     {
       "word": "related",
-      "start": 56.54,
-      "end": 56.88
+      "start": 56.52000045776367,
+      "end": 56.79999923706055
     },
     {
       "word": "by",
-      "start": 56.88,
-      "end": 57.14
+      "start": 56.79999923706055,
+      "end": 57.08000183105469
     },
     {
-      "word": "Muslim.",
-      "start": 57.14,
-      "end": 57.4
+      "word": "Muslim",
+      "start": 57.08000183105469,
+      "end": 57.459999084472656
     }
-  ]
+  ],
+  "hadith_number": 23
 }

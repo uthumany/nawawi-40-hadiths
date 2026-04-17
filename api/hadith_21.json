@@ -6,5 +6,7 @@
   "arabic_text": "عَنْ أَبِي عَمْرٍو وَقِيلَ: أَبِي عَمْرَةَ سُفْيَانَ بْنِ عَبْدِ اللَّهِ رَضِيَ اللهُ عَنْهُ قَالَ: قُلْت: يَا رَسُولَ اللَّهِ! قُلْ لِي فِي الْإِسْلَامِ قَوْلًا لَا أَسْأَلُ عَنْهُ أَحَدًا غَيْرَك؛ قَالَ: قُلْ: آمَنْت بِاَللَّهِ ثُمَّ اسْتَقِمْ . [رَوَاهُ مُسْلِمٌ]",
   "english_translation": "From Abū ʾAmr and it is said, Abī ʿAmrah Sufyān bin ʿAbd Allāh (raḍiyallāhu ʿanhu) that he said: I said, 'O Messenger of Allāh, say to me a word regarding Islām which I cannot ask from anyone besides you.' He said, 'Say: I believe in Allāh and thereafter remain steadfast.'",
   "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_21.mp3",
-  "sync_url": "https://uthumany.github.io/nawawi-40-hadiths/api/sync/hadith_21.json"
+  "sync_url": "https://uthumany.github.io/nawawi-40-hadiths/api/sync/hadith_21.json",
+  "english_audio_url": "https://raw.githubusercontent.com/uthumany/nawawi-40-hadiths/main/audio/english/Hadith_21_English.mp3",
+  "english_sync_url": "https://uthumany.github.io/nawawi-40-hadiths/api/sync_en/hadith_21.json"
 }

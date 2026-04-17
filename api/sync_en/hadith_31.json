@@ -1,491 +1,496 @@
 {
-  "hadith_number": 31,
-  "text": "On the authority of Abu Al-Ala-Bas Sahil Ibn Sadi, May Allah be pleased with him, who said, A man came to the prophet, May the blessings and peace of Allah be upon him, and said, O Messenger of Allah, direct me to an act, which if I do it, will cause Allah to love me, and people to love me. He said, Renance the world, and Allah will love you, and renounce what people possess, and people will love you. A good head-eat, related by Ibn Majah, and others with good chains of authorities.",
+  "text": "On the authority of Abu al-Abbas Sahl ibn Sa'ad al-Sayyidi, may Allah be pleased with him, who said, A man came to the Prophet, may the blessings and peace of Allah be upon him, and said, O Messenger of Allah, direct me to an act, which if I do it, will cause Allah to love me, and people to love me. He said, Renounce the world, and Allah will love you. And renounce what people possess, and people will love you. A good hadith, related by Ibn Majah, and others with good chains of authorities.",
   "words": [
     {
       "word": "On",
       "start": 0.0,
-      "end": 0.62
+      "end": 0.5199999809265137
     },
     {
       "word": "the",
-      "start": 0.62,
-      "end": 0.7
+      "start": 0.5199999809265137,
+      "end": 0.7599999904632568
     },
     {
       "word": "authority",
-      "start": 0.7,
-      "end": 1.26
+      "start": 0.7599999904632568,
+      "end": 1.1799999475479126
     },
     {
       "word": "of",
-      "start": 1.26,
-      "end": 2.14
+      "start": 1.1799999475479126,
+      "end": 2.119999885559082
     },
     {
       "word": "Abu",
-      "start": 2.14,
-      "end": 2.32
+      "start": 2.119999885559082,
+      "end": 2.359999895095825
     },
     {
-      "word": "Al",
-      "start": 2.32,
-      "end": 2.6
+      "word": "al",
+      "start": 2.359999895095825,
+      "end": 2.5
     },
     {
-      "word": "-Ala",
-      "start": 2.6,
-      "end": 2.6
+      "word": "Abbas",
+      "start": 2.5,
+      "end": 2.9600000381469727
     },
     {
-      "word": "-Bas",
-      "start": 2.6,
-      "end": 3.04
+      "word": "Sahl",
+      "start": 2.9600000381469727,
+      "end": 3.759999990463257
     },
     {
-      "word": "Sahil",
-      "start": 3.04,
-      "end": 3.86
+      "word": "ibn",
+      "start": 3.759999990463257,
+      "end": 4.260000228881836
     },
     {
-      "word": "Ibn",
-      "start": 3.86,
-      "end": 4.28
+      "word": "Sa",
+      "start": 4.260000228881836,
+      "end": 4.599999904632568
     },
     {
-      "word": "Sadi,",
-      "start": 4.28,
-      "end": 4.92
+      "word": "ad",
+      "start": 4.599999904632568,
+      "end": 4.699999809265137
     },
     {
-      "word": "May",
-      "start": 6.46,
-      "end": 6.64
+      "word": "al",
+      "start": 4.699999809265137,
+      "end": 5.139999866485596
+    },
+    {
+      "word": "Sayyidi",
+      "start": 5.139999866485596,
+      "end": 5.739999771118164
+    },
+    {
+      "word": "may",
+      "start": 6.460000038146973,
+      "end": 6.619999885559082
     },
     {
       "word": "Allah",
-      "start": 6.64,
-      "end": 6.94
+      "start": 6.619999885559082,
+      "end": 6.840000152587891
     },
     {
       "word": "be",
-      "start": 6.94,
-      "end": 7.18
+      "start": 6.840000152587891,
+      "end": 7.179999828338623
     },
     {
       "word": "pleased",
-      "start": 7.18,
-      "end": 7.48
+      "start": 7.179999828338623,
+      "end": 7.380000114440918
     },
     {
       "word": "with",
-      "start": 7.48,
-      "end": 7.62
+      "start": 7.380000114440918,
+      "end": 7.599999904632568
     },
     {
-      "word": "him,",
-      "start": 7.62,
-      "end": 8.28
+      "word": "him",
+      "start": 7.599999904632568,
+      "end": 8.039999961853027
     },
     {
       "word": "who",
-      "start": 8.5,
-      "end": 8.68
+      "start": 8.479999542236328,
+      "end": 8.680000305175781
     },
     {
-      "word": "said,",
-      "start": 8.68,
-      "end": 9.28
+      "word": "said",
+      "start": 8.680000305175781,
+      "end": 8.960000038146973
     },
     {
       "word": "A",
-      "start": 9.72,
-      "end": 9.92
+      "start": 9.680000305175781,
+      "end": 9.720000267028809
     },
     {
       "word": "man",
-      "start": 9.92,
-      "end": 10.06
+      "start": 9.720000267028809,
+      "end": 10.0
     },
     {
       "word": "came",
-      "start": 10.06,
-      "end": 10.3
+      "start": 10.0,
+      "end": 10.279999732971191
     },
     {
       "word": "to",
-      "start": 10.3,
-      "end": 10.48
+      "start": 10.279999732971191,
+      "end": 10.420000076293945
     },
     {
       "word": "the",
-      "start": 10.48,
-      "end": 10.7
+      "start": 10.420000076293945,
+      "end": 10.9399995803833
     },
     {
-      "word": "prophet,",
-      "start": 10.7,
-      "end": 11.04
+      "word": "Prophet",
+      "start": 10.9399995803833,
+      "end": 10.9399995803833
     },
     {
-      "word": "May",
-      "start": 12.18,
-      "end": 12.28
+      "word": "may",
+      "start": 12.180000305175781,
+      "end": 12.239999771118164
     },
     {
       "word": "the",
-      "start": 12.28,
-      "end": 12.46
+      "start": 12.239999771118164,
+      "end": 12.460000038146973
     },
     {
       "word": "blessings",
-      "start": 12.46,
-      "end": 12.78
+      "start": 12.460000038146973,
+      "end": 12.800000190734863
     },
     {
       "word": "and",
-      "start": 12.78,
-      "end": 13.12
+      "start": 12.800000190734863,
+      "end": 13.119999885559082
     },
     {
       "word": "peace",
-      "start": 13.12,
-      "end": 13.34
+      "start": 13.119999885559082,
+      "end": 13.34000015258789
     },
     {
       "word": "of",
-      "start": 13.34,
-      "end": 13.6
+      "start": 13.34000015258789,
+      "end": 13.600000381469727
     },
     {
       "word": "Allah",
-      "start": 13.6,
-      "end": 13.86
+      "start": 13.600000381469727,
+      "end": 13.800000190734863
     },
     {
       "word": "be",
-      "start": 13.86,
-      "end": 14.1
+      "start": 13.800000190734863,
+      "end": 14.020000457763672
     },
     {
       "word": "upon",
-      "start": 14.1,
-      "end": 14.34
+      "start": 14.020000457763672,
+      "end": 14.300000190734863
     },
     {
-      "word": "him,",
-      "start": 14.34,
-      "end": 15.16
+      "word": "him",
+      "start": 14.300000190734863,
+      "end": 14.579999923706055
     },
     {
       "word": "and",
-      "start": 15.32,
-      "end": 15.56
+      "start": 15.34000015258789,
+      "end": 15.520000457763672
     },
     {
-      "word": "said,",
-      "start": 15.56,
-      "end": 15.98
+      "word": "said",
+      "start": 15.520000457763672,
+      "end": 15.800000190734863
     },
     {
       "word": "O",
-      "start": 16.52,
-      "end": 16.7
+      "start": 16.6200008392334,
+      "end": 16.65999984741211
     },
     {
       "word": "Messenger",
-      "start": 16.7,
-      "end": 17.08
+      "start": 16.65999984741211,
+      "end": 17.0
     },
     {
       "word": "of",
-      "start": 17.08,
-      "end": 17.32
+      "start": 17.0,
+      "end": 17.420000076293945
     },
     {
-      "word": "Allah,",
-      "start": 17.32,
-      "end": 17.94
+      "word": "Allah",
+      "start": 17.420000076293945,
+      "end": 17.639999389648438
     },
     {
       "word": "direct",
-      "start": 18.74,
-      "end": 18.96
+      "start": 18.719999313354492,
+      "end": 18.940000534057617
     },
     {
       "word": "me",
-      "start": 18.96,
-      "end": 19.22
+      "start": 18.940000534057617,
+      "end": 19.18000030517578
     },
     {
       "word": "to",
-      "start": 19.22,
-      "end": 19.38
+      "start": 19.18000030517578,
+      "end": 19.31999969482422
     },
     {
       "word": "an",
-      "start": 19.38,
-      "end": 19.68
+      "start": 19.31999969482422,
+      "end": 19.719999313354492
     },
     {
-      "word": "act,",
-      "start": 19.68,
-      "end": 20.04
+      "word": "act",
+      "start": 19.719999313354492,
+      "end": 19.799999237060547
     },
     {
       "word": "which",
-      "start": 20.58,
-      "end": 20.7
+      "start": 20.5,
+      "end": 20.68000030517578
     },
     {
       "word": "if",
-      "start": 20.7,
-      "end": 20.96
+      "start": 20.68000030517578,
+      "end": 20.8799991607666
     },
     {
       "word": "I",
-      "start": 20.96,
-      "end": 21.12
+      "start": 20.8799991607666,
+      "end": 21.139999389648438
     },
     {
       "word": "do",
-      "start": 21.12,
-      "end": 21.3
+      "start": 21.139999389648438,
+      "end": 21.219999313354492
     },
     {
-      "word": "it,",
-      "start": 21.3,
-      "end": 21.98
+      "word": "it",
+      "start": 21.219999313354492,
+      "end": 22.079999923706055
     },
     {
       "word": "will",
-      "start": 22.44,
-      "end": 22.56
+      "start": 22.399999618530273,
+      "end": 22.520000457763672
     },
     {
       "word": "cause",
-      "start": 22.56,
-      "end": 22.84
+      "start": 22.520000457763672,
+      "end": 22.760000228881836
     },
     {
       "word": "Allah",
-      "start": 22.84,
-      "end": 23.26
+      "start": 22.760000228881836,
+      "end": 23.299999237060547
     },
     {
       "word": "to",
-      "start": 23.26,
-      "end": 23.7
+      "start": 23.299999237060547,
+      "end": 23.68000030517578
     },
     {
       "word": "love",
-      "start": 23.7,
-      "end": 23.9
+      "start": 23.68000030517578,
+      "end": 23.860000610351562
     },
     {
-      "word": "me,",
-      "start": 23.9,
-      "end": 24.38
+      "word": "me",
+      "start": 23.860000610351562,
+      "end": 24.459999084472656
     },
     {
       "word": "and",
-      "start": 24.84,
-      "end": 25.04
+      "start": 24.760000228881836,
+      "end": 25.020000457763672
     },
     {
       "word": "people",
-      "start": 25.04,
-      "end": 25.38
+      "start": 25.020000457763672,
+      "end": 25.31999969482422
     },
     {
       "word": "to",
-      "start": 25.38,
-      "end": 25.74
+      "start": 25.31999969482422,
+      "end": 25.860000610351562
     },
     {
       "word": "love",
-      "start": 25.74,
-      "end": 25.98
+      "start": 25.860000610351562,
+      "end": 25.899999618530273
     },
     {
-      "word": "me.",
-      "start": 25.98,
-      "end": 26.42
+      "word": "me",
+      "start": 25.899999618530273,
+      "end": 26.280000686645508
     },
     {
       "word": "He",
-      "start": 26.72,
-      "end": 27.04
+      "start": 26.860000610351562,
+      "end": 27.0
     },
     {
-      "word": "said,",
-      "start": 27.04,
-      "end": 27.52
+      "word": "said",
+      "start": 27.0,
+      "end": 27.260000228881836
     },
     {
-      "word": "Renance",
-      "start": 27.52,
-      "end": 28.52
+      "word": "Renounce",
+      "start": 27.260000228881836,
+      "end": 28.440000534057617
     },
     {
       "word": "the",
-      "start": 28.52,
-      "end": 28.76
+      "start": 28.440000534057617,
+      "end": 28.639999389648438
     },
     {
-      "word": "world,",
-      "start": 28.76,
-      "end": 29.16
+      "word": "world",
+      "start": 28.639999389648438,
+      "end": 29.040000915527344
     },
     {
       "word": "and",
-      "start": 30.1,
-      "end": 30.24
+      "start": 30.059999465942383,
+      "end": 30.280000686645508
     },
     {
       "word": "Allah",
-      "start": 30.24,
-      "end": 30.48
+      "start": 30.280000686645508,
+      "end": 30.420000076293945
     },
     {
       "word": "will",
-      "start": 30.48,
-      "end": 30.7
+      "start": 30.420000076293945,
+      "end": 30.65999984741211
     },
     {
       "word": "love",
-      "start": 30.7,
-      "end": 30.9
+      "start": 30.65999984741211,
+      "end": 30.860000610351562
     },
     {
-      "word": "you,",
-      "start": 30.9,
-      "end": 31.5
+      "word": "you",
+      "start": 30.860000610351562,
+      "end": 31.18000030517578
     },
     {
-      "word": "and",
-      "start": 31.84,
-      "end": 31.94
+      "word": "And",
+      "start": 31.81999969482422,
+      "end": 32.29999923706055
     },
     {
       "word": "renounce",
-      "start": 31.94,
-      "end": 32.36
+      "start": 32.29999923706055,
+      "end": 32.29999923706055
     },
     {
       "word": "what",
-      "start": 32.36,
-      "end": 32.6
+      "start": 32.29999923706055,
+      "end": 32.540000915527344
     },
     {
       "word": "people",
-      "start": 32.6,
-      "end": 32.88
+      "start": 32.540000915527344,
+      "end": 32.86000061035156
     },
     {
-      "word": "possess,",
-      "start": 32.88,
-      "end": 33.46
+      "word": "possess",
+      "start": 32.86000061035156,
+      "end": 33.400001525878906
     },
     {
       "word": "and",
-      "start": 34.0,
-      "end": 34.38
+      "start": 34.20000076293945,
+      "end": 34.29999923706055
     },
     {
       "word": "people",
-      "start": 34.38,
-      "end": 34.68
+      "start": 34.29999923706055,
+      "end": 34.599998474121094
     },
     {
       "word": "will",
-      "start": 34.68,
-      "end": 35.08
+      "start": 34.599998474121094,
+      "end": 35.099998474121094
     },
     {
       "word": "love",
-      "start": 35.08,
-      "end": 35.24
+      "start": 35.099998474121094,
+      "end": 35.15999984741211
     },
     {
-      "word": "you.",
-      "start": 35.24,
-      "end": 35.82
+      "word": "you",
+      "start": 35.15999984741211,
+      "end": 35.63999938964844
     },
     {
       "word": "A",
-      "start": 36.14,
-      "end": 36.18
+      "start": 36.040000915527344,
+      "end": 36.13999938964844
     },
     {
       "word": "good",
-      "start": 36.18,
-      "end": 36.4
+      "start": 36.13999938964844,
+      "end": 36.41999816894531
     },
     {
-      "word": "head",
-      "start": 36.4,
-      "end": 36.66
-    },
-    {
-      "word": "-eat,",
-      "start": 36.66,
-      "end": 36.88
+      "word": "hadith",
+      "start": 36.41999816894531,
+      "end": 36.81999969482422
     },
     {
       "word": "related",
-      "start": 37.42,
-      "end": 37.9
+      "start": 37.52000045776367,
+      "end": 37.81999969482422
     },
     {
       "word": "by",
-      "start": 37.9,
-      "end": 38.26
+      "start": 37.81999969482422,
+      "end": 38.29999923706055
     },
     {
       "word": "Ibn",
-      "start": 38.26,
-      "end": 38.48
+      "start": 38.29999923706055,
+      "end": 38.47999954223633
     },
     {
-      "word": "Majah,",
-      "start": 38.48,
-      "end": 38.98
+      "word": "Majah",
+      "start": 38.47999954223633,
+      "end": 38.959999084472656
     },
     {
       "word": "and",
-      "start": 39.62,
-      "end": 39.82
+      "start": 39.63999938964844,
+      "end": 39.720001220703125
     },
     {
       "word": "others",
-      "start": 39.82,
-      "end": 40.14
+      "start": 39.720001220703125,
+      "end": 40.119998931884766
     },
     {
       "word": "with",
-      "start": 40.14,
-      "end": 40.56
+      "start": 40.119998931884766,
+      "end": 40.540000915527344
     },
     {
       "word": "good",
-      "start": 40.56,
-      "end": 40.78
+      "start": 40.540000915527344,
+      "end": 40.779998779296875
     },
     {
       "word": "chains",
-      "start": 40.78,
-      "end": 41.12
+      "start": 40.779998779296875,
+      "end": 41.08000183105469
     },
     {
       "word": "of",
-      "start": 41.12,
-      "end": 41.32
+      "start": 41.08000183105469,
+      "end": 41.880001068115234
     },
     {
-      "word": "authorities.",
-      "start": 41.32,
-      "end": 41.72
+      "word": "authorities",
+      "start": 41.880001068115234,
+      "end": 41.880001068115234
     }
-  ]
+  ],
+  "hadith_number": 31
 }

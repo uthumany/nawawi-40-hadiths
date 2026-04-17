@@ -6,5 +6,7 @@
   "arabic_text": "عَنْ أَبِي سَعِيدٍ سَعْدِ بْنِ مَالِكِ بْنِ سِنَانٍ الْخُدْرِيّ رَضِيَ اللهُ عَنْهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه و سلم قَالَ: \\",
   "english_translation": "From Abū Saʿīd Saʿd bin Sinān al-Khudrī (raḍiyallāhu ʿanhu), that the Messenger of Allāh (ṣallallāhu ʿalayhi wasallam) said, 'There should be neither harming nor reciprocating harm.'",
   "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_32.mp3",
-  "sync_url": "https://uthumany.github.io/nawawi-40-hadiths/api/sync/hadith_32.json"
+  "sync_url": "https://uthumany.github.io/nawawi-40-hadiths/api/sync/hadith_32.json",
+  "english_audio_url": "https://raw.githubusercontent.com/uthumany/nawawi-40-hadiths/main/audio/english/Hadith_32_English.mp3",
+  "english_sync_url": "https://uthumany.github.io/nawawi-40-hadiths/api/sync_en/hadith_32.json"
 }

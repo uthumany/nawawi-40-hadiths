@@ -1,1111 +1,1111 @@
 {
-  "hadith_number": 4,
-  "text": "On the authority of Abu Abd-Ahmad Abdullah Ibn Masood, may Allah be pleased with him. He said, the messenger of Allah, may the blessings and peace of Allah be upon him, and he is the truthful, the believed, narrated to us. Vali, the creation of each one of you, is brought together in his mother's belly for forty days in the former seed. Then he is a clot of blood for a like period. Then a more slough flesh for a like period. Then there is sent to him the angel who blows the breath of life into him, and who is commanded about four matters. To write down his means of livelihood, his life span, his actions, and whether happy or unhappy. By Allah, other than whom there is no God. Vali, one of you, behaves like the people of paradise. Until there is, but an arm's length between him and it, and that which has been written, over takes him, and so he behaves like the people of Hellfire, and thus he enters it. And one of you behaves like the people of Hellfire, until there is, but an arm's length between him and it, and that which has been written, over takes him, and so he behaves like the people of paradise, and thus he enters it.",
+  "text": "On the authority of Abu Abdur Rahman Abdullah Ibn Mas'ud, may Allah be pleased with him, who said, The Messenger of Allah, may the blessings and peace of Allah be upon him. And he is the truthful, the believed, narrated to us. Verily, the creation of each one of you is brought together in his mother's belly for forty days in the form of seed. Then he is a clot of blood for a like period. Then a morsel of flesh for a like period. Then there is sent to him the angel who blows the breath of life into him and who has commanded about four matters, to write down his means of livelihood, his life span, his actions, and whether happy or unhappy. By Allah, other than whom there is no God, verily one of you behaves like the people of Paradise, until there is but an arm's length between him and it. And that which has been written overtakes him, and so he behaves like the people of Hellfire, and thus he enters it. And one of you behaves like the people of Hellfire, until there is but an arm's length between him and it. And that which has been written overtakes him, and so he behaves like the people of Paradise, and thus he enters it.",
   "words": [
     {
       "word": "On",
       "start": 0.0,
-      "end": 0.94
+      "end": 0.8199999928474426
     },
     {
       "word": "the",
-      "start": 0.94,
-      "end": 1.02
+      "start": 0.8199999928474426,
+      "end": 1.0399999618530273
     },
     {
       "word": "authority",
-      "start": 1.02,
-      "end": 1.4
+      "start": 1.0399999618530273,
+      "end": 1.399999976158142
     },
     {
       "word": "of",
-      "start": 1.4,
-      "end": 1.76
+      "start": 1.399999976158142,
+      "end": 1.7200000286102295
     },
     {
       "word": "Abu",
-      "start": 1.76,
-      "end": 2.02
+      "start": 1.7200000286102295,
+      "end": 2.0199999809265137
     },
     {
-      "word": "Abd",
-      "start": 2.02,
-      "end": 2.5
+      "word": "Abdur",
+      "start": 2.0199999809265137,
+      "end": 2.5999999046325684
     },
     {
-      "word": "-Ahmad",
-      "start": 2.5,
-      "end": 3.02
+      "word": "Rahman",
+      "start": 2.5999999046325684,
+      "end": 2.9200000762939453
     },
     {
       "word": "Abdullah",
-      "start": 3.02,
-      "end": 3.54
+      "start": 2.9200000762939453,
+      "end": 3.640000104904175
     },
     {
       "word": "Ibn",
-      "start": 3.54,
-      "end": 4.44
+      "start": 3.640000104904175,
+      "end": 4.440000057220459
     },
     {
-      "word": "Masood,",
-      "start": 4.44,
-      "end": 5.06
+      "word": "Mas",
+      "start": 4.440000057220459,
+      "end": 4.800000190734863
+    },
+    {
+      "word": "ud",
+      "start": 4.800000190734863,
+      "end": 4.940000057220459
     },
     {
       "word": "may",
-      "start": 5.78,
-      "end": 5.92
+      "start": 5.760000228881836,
+      "end": 5.860000133514404
     },
     {
       "word": "Allah",
-      "start": 5.92,
-      "end": 6.18
+      "start": 5.860000133514404,
+      "end": 6.099999904632568
     },
     {
       "word": "be",
-      "start": 6.18,
-      "end": 6.42
+      "start": 6.099999904632568,
+      "end": 6.460000038146973
     },
     {
       "word": "pleased",
-      "start": 6.42,
-      "end": 6.7
+      "start": 6.460000038146973,
+      "end": 6.619999885559082
     },
     {
       "word": "with",
-      "start": 6.7,
-      "end": 6.9
+      "start": 6.619999885559082,
+      "end": 6.880000114440918
     },
     {
-      "word": "him.",
-      "start": 6.9,
-      "end": 7.58
+      "word": "him",
+      "start": 6.880000114440918,
+      "end": 7.119999885559082
     },
     {
-      "word": "He",
-      "start": 7.82,
-      "end": 8.0
+      "word": "who",
+      "start": 7.860000133514404,
+      "end": 8.020000457763672
     },
     {
-      "word": "said,",
-      "start": 8.0,
-      "end": 8.36
+      "word": "said",
+      "start": 8.020000457763672,
+      "end": 8.220000267028809
     },
     {
-      "word": "the",
-      "start": 9.0,
-      "end": 9.1
+      "word": "The",
+      "start": 9.020000457763672,
+      "end": 9.079999923706055
     },
     {
-      "word": "messenger",
-      "start": 9.1,
-      "end": 9.44
+      "word": "Messenger",
+      "start": 9.079999923706055,
+      "end": 9.380000114440918
     },
     {
       "word": "of",
-      "start": 9.44,
-      "end": 9.72
+      "start": 9.380000114440918,
+      "end": 9.739999771118164
     },
     {
-      "word": "Allah,",
-      "start": 9.72,
-      "end": 10.14
+      "word": "Allah",
+      "start": 9.739999771118164,
+      "end": 10.020000457763672
     },
     {
       "word": "may",
       "start": 10.5,
-      "end": 10.6
+      "end": 10.5600004196167
     },
     {
       "word": "the",
-      "start": 10.6,
-      "end": 10.74
+      "start": 10.5600004196167,
+      "end": 10.819999694824219
     },
     {
       "word": "blessings",
-      "start": 10.74,
-      "end": 11.02
+      "start": 10.819999694824219,
+      "end": 10.979999542236328
     },
     {
       "word": "and",
-      "start": 11.02,
-      "end": 11.3
+      "start": 10.979999542236328,
+      "end": 11.300000190734863
     },
     {
       "word": "peace",
-      "start": 11.3,
-      "end": 11.5
+      "start": 11.300000190734863,
+      "end": 11.479999542236328
     },
     {
       "word": "of",
-      "start": 11.5,
-      "end": 11.72
+      "start": 11.479999542236328,
+      "end": 11.760000228881836
     },
     {
       "word": "Allah",
-      "start": 11.72,
-      "end": 11.98
+      "start": 11.760000228881836,
+      "end": 11.9399995803833
     },
     {
       "word": "be",
-      "start": 11.98,
-      "end": 12.18
+      "start": 11.9399995803833,
+      "end": 12.140000343322754
     },
     {
       "word": "upon",
-      "start": 12.18,
-      "end": 12.4
-    },
-    {
-      "word": "him,",
-      "start": 12.4,
-      "end": 13.0
-    },
-    {
-      "word": "and",
-      "start": 13.2,
-      "end": 13.46
-    },
-    {
-      "word": "he",
-      "start": 13.46,
-      "end": 13.66
-    },
-    {
-      "word": "is",
-      "start": 13.66,
-      "end": 13.9
-    },
-    {
-      "word": "the",
-      "start": 13.9,
-      "end": 14.04
-    },
-    {
-      "word": "truthful,",
-      "start": 14.04,
-      "end": 14.52
-    },
-    {
-      "word": "the",
-      "start": 14.92,
-      "end": 15.06
-    },
-    {
-      "word": "believed,",
-      "start": 15.06,
-      "end": 15.58
-    },
-    {
-      "word": "narrated",
-      "start": 16.24,
-      "end": 16.52
-    },
-    {
-      "word": "to",
-      "start": 16.52,
-      "end": 16.74
-    },
-    {
-      "word": "us.",
-      "start": 16.74,
-      "end": 17.26
-    },
-    {
-      "word": "Vali,",
-      "start": 18.2,
-      "end": 18.46
-    },
-    {
-      "word": "the",
-      "start": 18.72,
-      "end": 18.96
-    },
-    {
-      "word": "creation",
-      "start": 18.96,
-      "end": 19.28
-    },
-    {
-      "word": "of",
-      "start": 19.28,
-      "end": 19.56
-    },
-    {
-      "word": "each",
-      "start": 19.56,
-      "end": 19.72
-    },
-    {
-      "word": "one",
-      "start": 19.72,
-      "end": 19.96
-    },
-    {
-      "word": "of",
-      "start": 19.96,
-      "end": 20.16
-    },
-    {
-      "word": "you,",
-      "start": 20.16,
-      "end": 20.66
-    },
-    {
-      "word": "is",
-      "start": 20.86,
-      "end": 21.08
-    },
-    {
-      "word": "brought",
-      "start": 21.08,
-      "end": 21.26
-    },
-    {
-      "word": "together",
-      "start": 21.26,
-      "end": 21.66
-    },
-    {
-      "word": "in",
-      "start": 21.66,
-      "end": 21.88
-    },
-    {
-      "word": "his",
-      "start": 21.88,
-      "end": 22.06
-    },
-    {
-      "word": "mother's",
-      "start": 22.06,
-      "end": 22.5
-    },
-    {
-      "word": "belly",
-      "start": 22.5,
-      "end": 22.84
-    },
-    {
-      "word": "for",
-      "start": 22.84,
-      "end": 23.4
-    },
-    {
-      "word": "forty",
-      "start": 23.4,
-      "end": 23.66
-    },
-    {
-      "word": "days",
-      "start": 23.66,
-      "end": 24.18
-    },
-    {
-      "word": "in",
-      "start": 24.18,
-      "end": 24.46
-    },
-    {
-      "word": "the",
-      "start": 24.46,
-      "end": 24.62
-    },
-    {
-      "word": "former",
-      "start": 24.62,
-      "end": 24.86
-    },
-    {
-      "word": "seed.",
-      "start": 24.86,
-      "end": 25.44
-    },
-    {
-      "word": "Then",
-      "start": 26.36,
-      "end": 26.62
-    },
-    {
-      "word": "he",
-      "start": 26.62,
-      "end": 26.82
-    },
-    {
-      "word": "is",
-      "start": 26.82,
-      "end": 26.96
-    },
-    {
-      "word": "a",
-      "start": 26.96,
-      "end": 27.08
-    },
-    {
-      "word": "clot",
-      "start": 27.08,
-      "end": 27.26
-    },
-    {
-      "word": "of",
-      "start": 27.26,
-      "end": 27.5
-    },
-    {
-      "word": "blood",
-      "start": 27.5,
-      "end": 27.8
-    },
-    {
-      "word": "for",
-      "start": 27.8,
-      "end": 28.18
-    },
-    {
-      "word": "a",
-      "start": 28.18,
-      "end": 28.36
-    },
-    {
-      "word": "like",
-      "start": 28.36,
-      "end": 28.52
-    },
-    {
-      "word": "period.",
-      "start": 28.52,
-      "end": 28.98
-    },
-    {
-      "word": "Then",
-      "start": 29.58,
-      "end": 30.14
-    },
-    {
-      "word": "a",
-      "start": 30.14,
-      "end": 30.46
-    },
-    {
-      "word": "more",
-      "start": 30.46,
-      "end": 30.62
-    },
-    {
-      "word": "slough",
-      "start": 30.62,
-      "end": 30.9
-    },
-    {
-      "word": "flesh",
-      "start": 30.9,
-      "end": 31.46
-    },
-    {
-      "word": "for",
-      "start": 31.46,
-      "end": 31.86
-    },
-    {
-      "word": "a",
-      "start": 31.86,
-      "end": 31.96
-    },
-    {
-      "word": "like",
-      "start": 31.96,
-      "end": 32.16
-    },
-    {
-      "word": "period.",
-      "start": 32.16,
-      "end": 32.6
-    },
-    {
-      "word": "Then",
-      "start": 33.54,
-      "end": 34.1
-    },
-    {
-      "word": "there",
-      "start": 34.1,
-      "end": 34.66
-    },
-    {
-      "word": "is",
-      "start": 34.66,
-      "end": 34.88
-    },
-    {
-      "word": "sent",
-      "start": 34.88,
-      "end": 35.04
-    },
-    {
-      "word": "to",
-      "start": 35.04,
-      "end": 35.26
+      "start": 12.140000343322754,
+      "end": 12.359999656677246
     },
     {
       "word": "him",
-      "start": 35.26,
-      "end": 35.54
-    },
-    {
-      "word": "the",
-      "start": 35.54,
-      "end": 35.88
-    },
-    {
-      "word": "angel",
-      "start": 35.88,
-      "end": 36.16
-    },
-    {
-      "word": "who",
-      "start": 36.16,
-      "end": 36.46
-    },
-    {
-      "word": "blows",
-      "start": 36.46,
-      "end": 36.68
-    },
-    {
-      "word": "the",
-      "start": 36.68,
-      "end": 36.96
-    },
-    {
-      "word": "breath",
-      "start": 36.96,
-      "end": 37.12
-    },
-    {
-      "word": "of",
-      "start": 37.12,
-      "end": 37.38
-    },
-    {
-      "word": "life",
-      "start": 37.38,
-      "end": 37.58
-    },
-    {
-      "word": "into",
-      "start": 37.58,
-      "end": 37.88
-    },
-    {
-      "word": "him,",
-      "start": 37.88,
-      "end": 38.52
-    },
-    {
-      "word": "and",
-      "start": 38.68,
-      "end": 38.74
-    },
-    {
-      "word": "who",
-      "start": 38.74,
-      "end": 38.86
-    },
-    {
-      "word": "is",
-      "start": 38.86,
-      "end": 39.06
-    },
-    {
-      "word": "commanded",
-      "start": 39.06,
-      "end": 39.4
-    },
-    {
-      "word": "about",
-      "start": 39.4,
-      "end": 39.78
-    },
-    {
-      "word": "four",
-      "start": 39.78,
-      "end": 40.06
-    },
-    {
-      "word": "matters.",
-      "start": 40.06,
-      "end": 40.58
-    },
-    {
-      "word": "To",
-      "start": 41.5,
-      "end": 41.62
-    },
-    {
-      "word": "write",
-      "start": 41.62,
-      "end": 41.84
-    },
-    {
-      "word": "down",
-      "start": 41.84,
-      "end": 42.1
-    },
-    {
-      "word": "his",
-      "start": 42.1,
-      "end": 42.34
-    },
-    {
-      "word": "means",
-      "start": 42.34,
-      "end": 42.54
-    },
-    {
-      "word": "of",
-      "start": 42.54,
-      "end": 42.76
-    },
-    {
-      "word": "livelihood,",
-      "start": 42.76,
-      "end": 43.12
-    },
-    {
-      "word": "his",
-      "start": 43.92,
-      "end": 44.06
-    },
-    {
-      "word": "life",
-      "start": 44.06,
-      "end": 44.36
-    },
-    {
-      "word": "span,",
-      "start": 44.36,
-      "end": 44.84
-    },
-    {
-      "word": "his",
-      "start": 45.4,
-      "end": 45.58
-    },
-    {
-      "word": "actions,",
-      "start": 45.58,
-      "end": 46.0
-    },
-    {
-      "word": "and",
-      "start": 46.82,
-      "end": 46.98
-    },
-    {
-      "word": "whether",
-      "start": 46.98,
-      "end": 47.2
-    },
-    {
-      "word": "happy",
-      "start": 47.2,
-      "end": 47.56
-    },
-    {
-      "word": "or",
-      "start": 47.56,
-      "end": 47.9
-    },
-    {
-      "word": "unhappy.",
-      "start": 47.9,
-      "end": 48.38
-    },
-    {
-      "word": "By",
-      "start": 49.28,
-      "end": 49.4
-    },
-    {
-      "word": "Allah,",
-      "start": 49.4,
-      "end": 49.9
-    },
-    {
-      "word": "other",
-      "start": 50.52,
-      "end": 50.7
-    },
-    {
-      "word": "than",
-      "start": 50.7,
-      "end": 50.98
-    },
-    {
-      "word": "whom",
-      "start": 50.98,
-      "end": 51.16
-    },
-    {
-      "word": "there",
-      "start": 51.16,
-      "end": 51.42
-    },
-    {
-      "word": "is",
-      "start": 51.42,
-      "end": 51.56
-    },
-    {
-      "word": "no",
-      "start": 51.56,
-      "end": 51.76
-    },
-    {
-      "word": "God.",
-      "start": 51.76,
-      "end": 52.22
-    },
-    {
-      "word": "Vali,",
-      "start": 53.06,
-      "end": 53.18
-    },
-    {
-      "word": "one",
-      "start": 53.3,
-      "end": 53.58
-    },
-    {
-      "word": "of",
-      "start": 53.58,
-      "end": 53.7
-    },
-    {
-      "word": "you,",
-      "start": 53.7,
-      "end": 53.88
-    },
-    {
-      "word": "behaves",
-      "start": 54.04,
-      "end": 54.24
-    },
-    {
-      "word": "like",
-      "start": 54.24,
-      "end": 54.5
-    },
-    {
-      "word": "the",
-      "start": 54.5,
-      "end": 54.64
-    },
-    {
-      "word": "people",
-      "start": 54.64,
-      "end": 54.86
-    },
-    {
-      "word": "of",
-      "start": 54.86,
-      "end": 55.18
-    },
-    {
-      "word": "paradise.",
-      "start": 55.18,
-      "end": 55.6
-    },
-    {
-      "word": "Until",
-      "start": 55.6,
-      "end": 56.6
-    },
-    {
-      "word": "there",
-      "start": 56.6,
-      "end": 56.82
-    },
-    {
-      "word": "is,",
-      "start": 56.82,
-      "end": 57.1
-    },
-    {
-      "word": "but",
-      "start": 57.2,
-      "end": 57.26
-    },
-    {
-      "word": "an",
-      "start": 57.26,
-      "end": 57.54
-    },
-    {
-      "word": "arm's",
-      "start": 57.54,
-      "end": 57.82
-    },
-    {
-      "word": "length",
-      "start": 57.82,
-      "end": 58.04
-    },
-    {
-      "word": "between",
-      "start": 58.04,
-      "end": 58.34
-    },
-    {
-      "word": "him",
-      "start": 58.34,
-      "end": 58.7
-    },
-    {
-      "word": "and",
-      "start": 58.7,
-      "end": 58.94
-    },
-    {
-      "word": "it,",
-      "start": 58.94,
-      "end": 59.52
-    },
-    {
-      "word": "and",
-      "start": 59.92,
-      "end": 60.04
-    },
-    {
-      "word": "that",
-      "start": 60.04,
-      "end": 60.24
-    },
-    {
-      "word": "which",
-      "start": 60.24,
-      "end": 60.48
-    },
-    {
-      "word": "has",
-      "start": 60.48,
-      "end": 60.72
-    },
-    {
-      "word": "been",
-      "start": 60.72,
-      "end": 60.8
-    },
-    {
-      "word": "written,",
-      "start": 60.8,
-      "end": 61.18
-    },
-    {
-      "word": "over",
-      "start": 61.64,
-      "end": 61.74
-    },
-    {
-      "word": "takes",
-      "start": 61.74,
-      "end": 62.04
-    },
-    {
-      "word": "him,",
-      "start": 62.04,
-      "end": 62.66
-    },
-    {
-      "word": "and",
-      "start": 62.94,
-      "end": 63.04
-    },
-    {
-      "word": "so",
-      "start": 63.04,
-      "end": 63.16
-    },
-    {
-      "word": "he",
-      "start": 63.16,
-      "end": 63.34
-    },
-    {
-      "word": "behaves",
-      "start": 63.34,
-      "end": 63.68
-    },
-    {
-      "word": "like",
-      "start": 63.68,
-      "end": 64.0
-    },
-    {
-      "word": "the",
-      "start": 64.0,
-      "end": 64.1
-    },
-    {
-      "word": "people",
-      "start": 64.1,
-      "end": 64.34
-    },
-    {
-      "word": "of",
-      "start": 64.34,
-      "end": 64.6
-    },
-    {
-      "word": "Hellfire,",
-      "start": 64.6,
-      "end": 65.26
-    },
-    {
-      "word": "and",
-      "start": 65.92,
-      "end": 65.98
-    },
-    {
-      "word": "thus",
-      "start": 65.98,
-      "end": 66.2
-    },
-    {
-      "word": "he",
-      "start": 66.2,
-      "end": 66.46
-    },
-    {
-      "word": "enters",
-      "start": 66.46,
-      "end": 66.68
-    },
-    {
-      "word": "it.",
-      "start": 66.68,
-      "end": 67.3
+      "start": 12.359999656677246,
+      "end": 12.640000343322754
     },
     {
       "word": "And",
-      "start": 67.86,
-      "end": 68.02
+      "start": 13.180000305175781,
+      "end": 13.399999618530273
+    },
+    {
+      "word": "he",
+      "start": 13.399999618530273,
+      "end": 13.640000343322754
+    },
+    {
+      "word": "is",
+      "start": 13.640000343322754,
+      "end": 13.84000015258789
+    },
+    {
+      "word": "the",
+      "start": 13.84000015258789,
+      "end": 14.039999961853027
+    },
+    {
+      "word": "truthful",
+      "start": 14.039999961853027,
+      "end": 14.380000114440918
+    },
+    {
+      "word": "the",
+      "start": 14.880000114440918,
+      "end": 15.15999984741211
+    },
+    {
+      "word": "believed",
+      "start": 15.15999984741211,
+      "end": 15.539999961853027
+    },
+    {
+      "word": "narrated",
+      "start": 16.1200008392334,
+      "end": 16.399999618530273
+    },
+    {
+      "word": "to",
+      "start": 16.399999618530273,
+      "end": 16.639999389648438
+    },
+    {
+      "word": "us",
+      "start": 16.639999389648438,
+      "end": 17.079999923706055
+    },
+    {
+      "word": "Verily",
+      "start": 18.239999771118164,
+      "end": 18.440000534057617
+    },
+    {
+      "word": "the",
+      "start": 18.700000762939453,
+      "end": 18.81999969482422
+    },
+    {
+      "word": "creation",
+      "start": 18.81999969482422,
+      "end": 19.18000030517578
+    },
+    {
+      "word": "of",
+      "start": 19.18000030517578,
+      "end": 19.520000457763672
+    },
+    {
+      "word": "each",
+      "start": 19.520000457763672,
+      "end": 19.760000228881836
     },
     {
       "word": "one",
-      "start": 68.02,
-      "end": 68.2
+      "start": 19.760000228881836,
+      "end": 19.920000076293945
     },
     {
       "word": "of",
-      "start": 68.2,
-      "end": 68.32
+      "start": 19.920000076293945,
+      "end": 20.100000381469727
     },
     {
       "word": "you",
-      "start": 68.32,
-      "end": 68.44
+      "start": 20.100000381469727,
+      "end": 20.280000686645508
     },
     {
-      "word": "behaves",
-      "start": 68.44,
-      "end": 68.8
+      "word": "is",
+      "start": 20.280000686645508,
+      "end": 21.0
     },
     {
-      "word": "like",
-      "start": 68.8,
-      "end": 69.06
+      "word": "brought",
+      "start": 21.0,
+      "end": 21.239999771118164
+    },
+    {
+      "word": "together",
+      "start": 21.239999771118164,
+      "end": 21.579999923706055
+    },
+    {
+      "word": "in",
+      "start": 21.579999923706055,
+      "end": 21.81999969482422
+    },
+    {
+      "word": "his",
+      "start": 21.81999969482422,
+      "end": 22.059999465942383
+    },
+    {
+      "word": "mother's",
+      "start": 22.059999465942383,
+      "end": 22.68000030517578
+    },
+    {
+      "word": "belly",
+      "start": 22.68000030517578,
+      "end": 22.68000030517578
+    },
+    {
+      "word": "for",
+      "start": 22.799999237060547,
+      "end": 23.360000610351562
+    },
+    {
+      "word": "forty",
+      "start": 23.360000610351562,
+      "end": 23.68000030517578
+    },
+    {
+      "word": "days",
+      "start": 23.68000030517578,
+      "end": 24.100000381469727
+    },
+    {
+      "word": "in",
+      "start": 24.100000381469727,
+      "end": 24.3799991607666
     },
     {
       "word": "the",
-      "start": 69.06,
-      "end": 69.24
+      "start": 24.3799991607666,
+      "end": 24.540000915527344
     },
     {
-      "word": "people",
-      "start": 69.24,
-      "end": 69.4
+      "word": "form",
+      "start": 24.540000915527344,
+      "end": 24.719999313354492
     },
     {
       "word": "of",
-      "start": 69.4,
-      "end": 69.64
+      "start": 24.719999313354492,
+      "end": 25.100000381469727
     },
     {
-      "word": "Hellfire,",
-      "start": 69.64,
-      "end": 70.22
+      "word": "seed",
+      "start": 25.100000381469727,
+      "end": 25.219999313354492
     },
     {
-      "word": "until",
-      "start": 70.68,
-      "end": 70.84
+      "word": "Then",
+      "start": 26.31999969482422,
+      "end": 26.579999923706055
+    },
+    {
+      "word": "he",
+      "start": 26.579999923706055,
+      "end": 26.799999237060547
+    },
+    {
+      "word": "is",
+      "start": 26.799999237060547,
+      "end": 26.940000534057617
+    },
+    {
+      "word": "a",
+      "start": 26.940000534057617,
+      "end": 27.200000762939453
+    },
+    {
+      "word": "clot",
+      "start": 27.200000762939453,
+      "end": 27.200000762939453
+    },
+    {
+      "word": "of",
+      "start": 27.200000762939453,
+      "end": 27.700000762939453
+    },
+    {
+      "word": "blood",
+      "start": 27.700000762939453,
+      "end": 27.700000762939453
+    },
+    {
+      "word": "for",
+      "start": 27.700000762939453,
+      "end": 28.100000381469727
+    },
+    {
+      "word": "a",
+      "start": 28.100000381469727,
+      "end": 28.260000228881836
+    },
+    {
+      "word": "like",
+      "start": 28.260000228881836,
+      "end": 28.5
+    },
+    {
+      "word": "period",
+      "start": 28.5,
+      "end": 28.899999618530273
+    },
+    {
+      "word": "Then",
+      "start": 29.540000915527344,
+      "end": 30.100000381469727
+    },
+    {
+      "word": "a",
+      "start": 30.100000381469727,
+      "end": 30.420000076293945
+    },
+    {
+      "word": "morsel",
+      "start": 30.420000076293945,
+      "end": 30.65999984741211
+    },
+    {
+      "word": "of",
+      "start": 30.65999984741211,
+      "end": 31.18000030517578
+    },
+    {
+      "word": "flesh",
+      "start": 31.18000030517578,
+      "end": 31.219999313354492
+    },
+    {
+      "word": "for",
+      "start": 31.219999313354492,
+      "end": 31.760000228881836
+    },
+    {
+      "word": "a",
+      "start": 31.760000228881836,
+      "end": 31.899999618530273
+    },
+    {
+      "word": "like",
+      "start": 31.899999618530273,
+      "end": 32.13999938964844
+    },
+    {
+      "word": "period",
+      "start": 32.13999938964844,
+      "end": 32.52000045776367
+    },
+    {
+      "word": "Then",
+      "start": 33.68000030517578,
+      "end": 33.68000030517578
     },
     {
       "word": "there",
-      "start": 70.84,
-      "end": 71.08
+      "start": 33.68000030517578,
+      "end": 34.619998931884766
     },
     {
-      "word": "is,",
-      "start": 71.08,
-      "end": 71.38
+      "word": "is",
+      "start": 34.619998931884766,
+      "end": 34.86000061035156
     },
     {
-      "word": "but",
-      "start": 71.62,
-      "end": 71.62
+      "word": "sent",
+      "start": 34.86000061035156,
+      "end": 35.02000045776367
     },
     {
-      "word": "an",
-      "start": 71.62,
-      "end": 71.82
-    },
-    {
-      "word": "arm's",
-      "start": 71.82,
-      "end": 72.1
-    },
-    {
-      "word": "length",
-      "start": 72.1,
-      "end": 72.46
-    },
-    {
-      "word": "between",
-      "start": 72.46,
-      "end": 72.92
+      "word": "to",
+      "start": 35.02000045776367,
+      "end": 35.2400016784668
     },
     {
       "word": "him",
-      "start": 72.92,
-      "end": 73.32
-    },
-    {
-      "word": "and",
-      "start": 73.32,
-      "end": 73.5
-    },
-    {
-      "word": "it,",
-      "start": 73.5,
-      "end": 74.02
-    },
-    {
-      "word": "and",
-      "start": 74.58,
-      "end": 74.72
-    },
-    {
-      "word": "that",
-      "start": 74.72,
-      "end": 74.98
-    },
-    {
-      "word": "which",
-      "start": 74.98,
-      "end": 75.28
-    },
-    {
-      "word": "has",
-      "start": 75.28,
-      "end": 75.48
-    },
-    {
-      "word": "been",
-      "start": 75.48,
-      "end": 75.62
-    },
-    {
-      "word": "written,",
-      "start": 75.62,
-      "end": 76.24
-    },
-    {
-      "word": "over",
-      "start": 76.68,
-      "end": 76.82
-    },
-    {
-      "word": "takes",
-      "start": 76.82,
-      "end": 77.14
-    },
-    {
-      "word": "him,",
-      "start": 77.14,
-      "end": 77.82
-    },
-    {
-      "word": "and",
-      "start": 78.04,
-      "end": 78.04
-    },
-    {
-      "word": "so",
-      "start": 78.04,
-      "end": 78.16
-    },
-    {
-      "word": "he",
-      "start": 78.16,
-      "end": 78.36
-    },
-    {
-      "word": "behaves",
-      "start": 78.36,
-      "end": 78.8
-    },
-    {
-      "word": "like",
-      "start": 78.8,
-      "end": 79.04
+      "start": 35.2400016784668,
+      "end": 35.400001525878906
     },
     {
       "word": "the",
-      "start": 79.04,
-      "end": 79.2
+      "start": 35.400001525878906,
+      "end": 35.79999923706055
     },
     {
-      "word": "people",
-      "start": 79.2,
-      "end": 79.44
+      "word": "angel",
+      "start": 35.79999923706055,
+      "end": 36.08000183105469
+    },
+    {
+      "word": "who",
+      "start": 36.08000183105469,
+      "end": 36.41999816894531
+    },
+    {
+      "word": "blows",
+      "start": 36.41999816894531,
+      "end": 36.65999984741211
+    },
+    {
+      "word": "the",
+      "start": 36.65999984741211,
+      "end": 37.119998931884766
+    },
+    {
+      "word": "breath",
+      "start": 37.119998931884766,
+      "end": 37.119998931884766
     },
     {
       "word": "of",
-      "start": 79.44,
-      "end": 79.74
+      "start": 37.119998931884766,
+      "end": 37.380001068115234
     },
     {
-      "word": "paradise,",
-      "start": 79.74,
-      "end": 80.1
+      "word": "life",
+      "start": 37.380001068115234,
+      "end": 37.560001373291016
+    },
+    {
+      "word": "into",
+      "start": 37.560001373291016,
+      "end": 37.79999923706055
+    },
+    {
+      "word": "him",
+      "start": 37.79999923706055,
+      "end": 38.099998474121094
     },
     {
       "word": "and",
-      "start": 80.96,
-      "end": 81.02
+      "start": 38.099998474121094,
+      "end": 38.65999984741211
     },
     {
-      "word": "thus",
-      "start": 81.02,
-      "end": 81.28
+      "word": "who",
+      "start": 38.65999984741211,
+      "end": 38.86000061035156
+    },
+    {
+      "word": "has",
+      "start": 38.86000061035156,
+      "end": 39.060001373291016
+    },
+    {
+      "word": "commanded",
+      "start": 39.060001373291016,
+      "end": 39.34000015258789
+    },
+    {
+      "word": "about",
+      "start": 39.34000015258789,
+      "end": 39.7400016784668
+    },
+    {
+      "word": "four",
+      "start": 39.7400016784668,
+      "end": 40.040000915527344
+    },
+    {
+      "word": "matters",
+      "start": 40.040000915527344,
+      "end": 40.439998626708984
+    },
+    {
+      "word": "to",
+      "start": 41.060001373291016,
+      "end": 41.619998931884766
+    },
+    {
+      "word": "write",
+      "start": 41.619998931884766,
+      "end": 41.79999923706055
+    },
+    {
+      "word": "down",
+      "start": 41.79999923706055,
+      "end": 42.060001373291016
+    },
+    {
+      "word": "his",
+      "start": 42.060001373291016,
+      "end": 42.279998779296875
+    },
+    {
+      "word": "means",
+      "start": 42.279998779296875,
+      "end": 42.540000915527344
+    },
+    {
+      "word": "of",
+      "start": 42.540000915527344,
+      "end": 43.18000030517578
+    },
+    {
+      "word": "livelihood",
+      "start": 43.18000030517578,
+      "end": 43.18000030517578
+    },
+    {
+      "word": "his",
+      "start": 43.41999816894531,
+      "end": 44.08000183105469
+    },
+    {
+      "word": "life",
+      "start": 44.08000183105469,
+      "end": 44.34000015258789
+    },
+    {
+      "word": "span",
+      "start": 44.34000015258789,
+      "end": 44.65999984741211
+    },
+    {
+      "word": "his",
+      "start": 45.18000030517578,
+      "end": 46.060001373291016
+    },
+    {
+      "word": "actions",
+      "start": 46.060001373291016,
+      "end": 46.060001373291016
+    },
+    {
+      "word": "and",
+      "start": 46.619998931884766,
+      "end": 46.900001525878906
+    },
+    {
+      "word": "whether",
+      "start": 46.900001525878906,
+      "end": 47.15999984741211
+    },
+    {
+      "word": "happy",
+      "start": 47.15999984741211,
+      "end": 47.47999954223633
+    },
+    {
+      "word": "or",
+      "start": 47.47999954223633,
+      "end": 48.2599983215332
+    },
+    {
+      "word": "unhappy",
+      "start": 48.2599983215332,
+      "end": 48.2599983215332
+    },
+    {
+      "word": "By",
+      "start": 49.18000030517578,
+      "end": 49.400001525878906
+    },
+    {
+      "word": "Allah",
+      "start": 49.400001525878906,
+      "end": 49.81999969482422
+    },
+    {
+      "word": "other",
+      "start": 50.400001525878906,
+      "end": 50.65999984741211
+    },
+    {
+      "word": "than",
+      "start": 50.65999984741211,
+      "end": 50.900001525878906
+    },
+    {
+      "word": "whom",
+      "start": 50.900001525878906,
+      "end": 51.099998474121094
+    },
+    {
+      "word": "there",
+      "start": 51.099998474121094,
+      "end": 51.34000015258789
+    },
+    {
+      "word": "is",
+      "start": 51.34000015258789,
+      "end": 51.47999954223633
+    },
+    {
+      "word": "no",
+      "start": 51.47999954223633,
+      "end": 51.720001220703125
+    },
+    {
+      "word": "God",
+      "start": 51.720001220703125,
+      "end": 52.0
+    },
+    {
+      "word": "verily",
+      "start": 53.040000915527344,
+      "end": 53.15999984741211
+    },
+    {
+      "word": "one",
+      "start": 53.15999984741211,
+      "end": 53.47999954223633
+    },
+    {
+      "word": "of",
+      "start": 53.47999954223633,
+      "end": 53.65999984741211
+    },
+    {
+      "word": "you",
+      "start": 53.65999984741211,
+      "end": 53.86000061035156
+    },
+    {
+      "word": "behaves",
+      "start": 53.86000061035156,
+      "end": 54.220001220703125
+    },
+    {
+      "word": "like",
+      "start": 54.220001220703125,
+      "end": 54.439998626708984
+    },
+    {
+      "word": "the",
+      "start": 54.439998626708984,
+      "end": 54.619998931884766
+    },
+    {
+      "word": "people",
+      "start": 54.619998931884766,
+      "end": 54.86000061035156
+    },
+    {
+      "word": "of",
+      "start": 54.86000061035156,
+      "end": 55.560001373291016
+    },
+    {
+      "word": "Paradise",
+      "start": 55.560001373291016,
+      "end": 55.560001373291016
+    },
+    {
+      "word": "until",
+      "start": 55.560001373291016,
+      "end": 56.560001373291016
+    },
+    {
+      "word": "there",
+      "start": 56.560001373291016,
+      "end": 56.79999923706055
+    },
+    {
+      "word": "is",
+      "start": 56.79999923706055,
+      "end": 57.060001373291016
+    },
+    {
+      "word": "but",
+      "start": 57.060001373291016,
+      "end": 57.2599983215332
+    },
+    {
+      "word": "an",
+      "start": 57.2599983215332,
+      "end": 57.540000915527344
+    },
+    {
+      "word": "arm's",
+      "start": 57.540000915527344,
+      "end": 57.86000061035156
+    },
+    {
+      "word": "length",
+      "start": 57.86000061035156,
+      "end": 57.97999954223633
+    },
+    {
+      "word": "between",
+      "start": 57.97999954223633,
+      "end": 58.34000015258789
+    },
+    {
+      "word": "him",
+      "start": 58.34000015258789,
+      "end": 58.619998931884766
+    },
+    {
+      "word": "and",
+      "start": 58.619998931884766,
+      "end": 58.91999816894531
+    },
+    {
+      "word": "it",
+      "start": 58.91999816894531,
+      "end": 59.18000030517578
+    },
+    {
+      "word": "And",
+      "start": 59.7599983215332,
+      "end": 60.0
+    },
+    {
+      "word": "that",
+      "start": 60.0,
+      "end": 60.20000076293945
+    },
+    {
+      "word": "which",
+      "start": 60.20000076293945,
+      "end": 60.41999816894531
+    },
+    {
+      "word": "has",
+      "start": 60.41999816894531,
+      "end": 60.58000183105469
+    },
+    {
+      "word": "been",
+      "start": 60.58000183105469,
+      "end": 60.7599983215332
+    },
+    {
+      "word": "written",
+      "start": 60.7599983215332,
+      "end": 61.119998931884766
+    },
+    {
+      "word": "overtakes",
+      "start": 61.119998931884766,
+      "end": 62.0
+    },
+    {
+      "word": "him",
+      "start": 62.0,
+      "end": 62.31999969482422
+    },
+    {
+      "word": "and",
+      "start": 62.81999969482422,
+      "end": 62.97999954223633
+    },
+    {
+      "word": "so",
+      "start": 62.97999954223633,
+      "end": 63.099998474121094
     },
     {
       "word": "he",
-      "start": 81.28,
-      "end": 81.56
+      "start": 63.099998474121094,
+      "end": 63.400001525878906
+    },
+    {
+      "word": "behaves",
+      "start": 63.400001525878906,
+      "end": 63.68000030517578
+    },
+    {
+      "word": "like",
+      "start": 63.68000030517578,
+      "end": 63.91999816894531
+    },
+    {
+      "word": "the",
+      "start": 63.91999816894531,
+      "end": 64.13999938964844
+    },
+    {
+      "word": "people",
+      "start": 64.13999938964844,
+      "end": 64.31999969482422
+    },
+    {
+      "word": "of",
+      "start": 64.31999969482422,
+      "end": 64.63999938964844
+    },
+    {
+      "word": "Hellfire",
+      "start": 64.63999938964844,
+      "end": 65.0199966430664
+    },
+    {
+      "word": "and",
+      "start": 65.87999725341797,
+      "end": 65.95999908447266
+    },
+    {
+      "word": "thus",
+      "start": 65.95999908447266,
+      "end": 66.16000366210938
+    },
+    {
+      "word": "he",
+      "start": 66.16000366210938,
+      "end": 66.63999938964844
     },
     {
       "word": "enters",
-      "start": 81.56,
-      "end": 81.76
+      "start": 66.63999938964844,
+      "end": 66.63999938964844
     },
     {
-      "word": "it.",
-      "start": 81.76,
-      "end": 82.16
+      "word": "it",
+      "start": 66.63999938964844,
+      "end": 66.94000244140625
+    },
+    {
+      "word": "And",
+      "start": 67.37999725341797,
+      "end": 67.94000244140625
+    },
+    {
+      "word": "one",
+      "start": 67.94000244140625,
+      "end": 68.12000274658203
+    },
+    {
+      "word": "of",
+      "start": 68.12000274658203,
+      "end": 68.31999969482422
+    },
+    {
+      "word": "you",
+      "start": 68.31999969482422,
+      "end": 68.44000244140625
+    },
+    {
+      "word": "behaves",
+      "start": 68.44000244140625,
+      "end": 68.77999877929688
+    },
+    {
+      "word": "like",
+      "start": 68.77999877929688,
+      "end": 68.9800033569336
+    },
+    {
+      "word": "the",
+      "start": 68.9800033569336,
+      "end": 69.23999786376953
+    },
+    {
+      "word": "people",
+      "start": 69.23999786376953,
+      "end": 69.36000061035156
+    },
+    {
+      "word": "of",
+      "start": 69.36000061035156,
+      "end": 69.69999694824219
+    },
+    {
+      "word": "Hellfire",
+      "start": 69.69999694824219,
+      "end": 70.04000091552734
+    },
+    {
+      "word": "until",
+      "start": 70.69999694824219,
+      "end": 70.81999969482422
+    },
+    {
+      "word": "there",
+      "start": 70.81999969482422,
+      "end": 71.04000091552734
+    },
+    {
+      "word": "is",
+      "start": 71.04000091552734,
+      "end": 71.31999969482422
+    },
+    {
+      "word": "but",
+      "start": 71.31999969482422,
+      "end": 71.55999755859375
+    },
+    {
+      "word": "an",
+      "start": 71.55999755859375,
+      "end": 71.91999816894531
+    },
+    {
+      "word": "arm's",
+      "start": 71.91999816894531,
+      "end": 72.4000015258789
+    },
+    {
+      "word": "length",
+      "start": 72.4000015258789,
+      "end": 72.4000015258789
+    },
+    {
+      "word": "between",
+      "start": 72.4000015258789,
+      "end": 72.9000015258789
+    },
+    {
+      "word": "him",
+      "start": 72.9000015258789,
+      "end": 73.18000030517578
+    },
+    {
+      "word": "and",
+      "start": 73.18000030517578,
+      "end": 73.54000091552734
+    },
+    {
+      "word": "it",
+      "start": 73.54000091552734,
+      "end": 73.73999786376953
+    },
+    {
+      "word": "And",
+      "start": 74.41999816894531,
+      "end": 74.68000030517578
+    },
+    {
+      "word": "that",
+      "start": 74.68000030517578,
+      "end": 74.94000244140625
+    },
+    {
+      "word": "which",
+      "start": 74.94000244140625,
+      "end": 75.22000122070312
+    },
+    {
+      "word": "has",
+      "start": 75.22000122070312,
+      "end": 75.44000244140625
+    },
+    {
+      "word": "been",
+      "start": 75.44000244140625,
+      "end": 75.5999984741211
+    },
+    {
+      "word": "written",
+      "start": 75.5999984741211,
+      "end": 75.91999816894531
+    },
+    {
+      "word": "overtakes",
+      "start": 75.91999816894531,
+      "end": 77.04000091552734
+    },
+    {
+      "word": "him",
+      "start": 77.04000091552734,
+      "end": 77.33999633789062
+    },
+    {
+      "word": "and",
+      "start": 77.87999725341797,
+      "end": 78.0
+    },
+    {
+      "word": "so",
+      "start": 78.0,
+      "end": 78.13999938964844
+    },
+    {
+      "word": "he",
+      "start": 78.13999938964844,
+      "end": 78.77999877929688
+    },
+    {
+      "word": "behaves",
+      "start": 78.77999877929688,
+      "end": 78.77999877929688
+    },
+    {
+      "word": "like",
+      "start": 78.77999877929688,
+      "end": 79.0
+    },
+    {
+      "word": "the",
+      "start": 79.0,
+      "end": 79.26000213623047
+    },
+    {
+      "word": "people",
+      "start": 79.26000213623047,
+      "end": 79.41999816894531
+    },
+    {
+      "word": "of",
+      "start": 79.41999816894531,
+      "end": 79.81999969482422
+    },
+    {
+      "word": "Paradise",
+      "start": 79.81999969482422,
+      "end": 80.13999938964844
+    },
+    {
+      "word": "and",
+      "start": 80.9000015258789,
+      "end": 81.12000274658203
+    },
+    {
+      "word": "thus",
+      "start": 81.12000274658203,
+      "end": 81.18000030517578
+    },
+    {
+      "word": "he",
+      "start": 81.18000030517578,
+      "end": 81.72000122070312
+    },
+    {
+      "word": "enters",
+      "start": 81.72000122070312,
+      "end": 81.72000122070312
+    },
+    {
+      "word": "it",
+      "start": 81.72000122070312,
+      "end": 82.0199966430664
     }
-  ]
+  ],
+  "hadith_number": 4
 }

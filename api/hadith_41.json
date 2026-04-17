@@ -6,5 +6,7 @@
   "arabic_text": "عَنْ [أَبي مُحَمّدٍ عَبْدِ اللهِ بنِ عَمْرِو بنِ العاصِ] رَضِي اللهُ عَنْهُما قالَ: (قالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: \"لاَ يُؤْمِنُ أَحَدُكُمْ حَتَّى يَكُونَ هَواهُ تَبَعًا لِمَا جِئْتُ بِهِ\").",
   "english_translation": "From Abū Muḥammad ʿAbd ِAllāh bin ʿAmr bin al-ʿĀṣ (raḍiyallāhu ʿanhumā) who said: The Messenger of Allāh (ṣallallāhu ʿalayhi wasallam) said, 'None of you truly believes until his inclination is in accordance with what I have brought.'",
   "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_41.mp3",
-  "sync_url": "https://uthumany.github.io/nawawi-40-hadiths/api/sync/hadith_41.json"
+  "sync_url": "https://uthumany.github.io/nawawi-40-hadiths/api/sync/hadith_41.json",
+  "english_audio_url": "https://raw.githubusercontent.com/uthumany/nawawi-40-hadiths/main/audio/english/Hadith_41_English.mp3",
+  "english_sync_url": "https://uthumany.github.io/nawawi-40-hadiths/api/sync_en/hadith_41.json"
 }

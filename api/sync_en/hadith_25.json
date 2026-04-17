@@ -1,1016 +1,1011 @@
 {
-  "hadith_number": 25,
-  "text": "Also on the authority of Abu Dha'a, may Allah be pleased with him. Some of the companions of the messenger of Allah, may the blessings and peace of Allah be upon him. Said to the Prophet, may the blessings and peace of Allah be upon him. O messenger of Allah, the affluent have made off with the rewards. They pray as we pray, they fast as we fast, and they give away in charity the suprifurity of their wealth. He said, Has not Allah made things for you to give away in charity? Truly, every taspihah is a charity. Every tukbhirah is a charity. Every tahmida is a charity. And every tahnila is a charity. To enjoy a good action is a charity. To forbid an evil action is a charity. And in the sexual act of each of you there is a charity. They said, O messenger of Allah, When one of us fulfills his sexual desire, will he have some reward for that? He said, Do you not think that why he to act upon it unlawfully? He would be sinning? Likewise, if he has acted upon it lawfully, he will have a reward. It was related by Muslim.",
+  "text": "Also, on the authority of Abu Dhah, may Allah be pleased with him. Some of the companions of the Messenger of Allah, may the blessings and peace of Allah be upon him, said to the Prophet, may the blessings and peace of Allah be upon him, O Messenger of Allah, the affluent have made off with the rewards. They pray as we pray, they fast as we fast, and they give away in charity the superfluity of their wealth. He said, has not Allah made things for you to give away in charity? Truly, every tasbihah is a charity. Every takbirah is a charity. Every tahmidah is a charity. And every tahlilah is a charity. To enjoin a good action is a charity. To forbid an evil action is a charity. And in the sexual act of each of you, there is a charity. They said, O Messenger of Allah, when one of us fulfills his sexual desire, will he have some reward for that? He said, do you not think that were he to act upon it unlawfully, he would be sinning? Likewise, if he has acted upon it lawfully, he will have a reward. It was related by Muslim.",
   "words": [
     {
       "word": "Also",
       "start": 0.0,
-      "end": 0.82
+      "end": 0.7400000095367432
     },
     {
       "word": "on",
-      "start": 0.82,
-      "end": 1.14
+      "start": 0.9800000190734863,
+      "end": 1.059999942779541
     },
     {
       "word": "the",
-      "start": 1.14,
-      "end": 1.22
+      "start": 1.059999942779541,
+      "end": 1.2599999904632568
     },
     {
       "word": "authority",
-      "start": 1.22,
-      "end": 1.62
+      "start": 1.2599999904632568,
+      "end": 1.600000023841858
     },
     {
       "word": "of",
-      "start": 1.62,
-      "end": 1.92
+      "start": 1.600000023841858,
+      "end": 1.899999976158142
     },
     {
       "word": "Abu",
-      "start": 1.92,
-      "end": 2.08
+      "start": 1.899999976158142,
+      "end": 2.0799999237060547
     },
     {
-      "word": "Dha",
-      "start": 2.08,
-      "end": 2.58
-    },
-    {
-      "word": "'a,",
-      "start": 2.58,
-      "end": 3.4
+      "word": "Dhah",
+      "start": 2.0799999237060547,
+      "end": 2.380000114440918
     },
     {
       "word": "may",
-      "start": 3.44,
-      "end": 3.6
+      "start": 3.440000057220459,
+      "end": 3.5399999618530273
     },
     {
       "word": "Allah",
-      "start": 3.6,
-      "end": 3.92
+      "start": 3.5399999618530273,
+      "end": 3.759999990463257
     },
     {
       "word": "be",
-      "start": 3.92,
-      "end": 4.1
+      "start": 3.759999990463257,
+      "end": 4.119999885559082
     },
     {
       "word": "pleased",
-      "start": 4.1,
-      "end": 4.38
+      "start": 4.119999885559082,
+      "end": 4.300000190734863
     },
     {
       "word": "with",
-      "start": 4.38,
-      "end": 4.54
+      "start": 4.300000190734863,
+      "end": 4.519999980926514
     },
     {
-      "word": "him.",
-      "start": 4.54,
-      "end": 5.18
+      "word": "him",
+      "start": 4.519999980926514,
+      "end": 4.78000020980835
     },
     {
       "word": "Some",
-      "start": 5.72,
-      "end": 5.84
+      "start": 5.539999961853027,
+      "end": 5.800000190734863
     },
     {
       "word": "of",
-      "start": 5.84,
-      "end": 6.04
+      "start": 5.800000190734863,
+      "end": 6.019999980926514
     },
     {
       "word": "the",
-      "start": 6.04,
-      "end": 6.18
+      "start": 6.019999980926514,
+      "end": 6.179999828338623
     },
     {
       "word": "companions",
-      "start": 6.18,
-      "end": 6.6
+      "start": 6.179999828338623,
+      "end": 6.519999980926514
     },
     {
       "word": "of",
-      "start": 6.6,
-      "end": 6.92
+      "start": 6.519999980926514,
+      "end": 6.940000057220459
     },
     {
       "word": "the",
-      "start": 6.92,
-      "end": 7.1
+      "start": 6.940000057220459,
+      "end": 7.380000114440918
     },
     {
-      "word": "messenger",
-      "start": 7.1,
-      "end": 7.38
-    },
-    {
-      "word": "of",
-      "start": 7.38,
-      "end": 7.68
-    },
-    {
-      "word": "Allah,",
-      "start": 7.68,
-      "end": 8.14
-    },
-    {
-      "word": "may",
-      "start": 9.08,
-      "end": 9.16
-    },
-    {
-      "word": "the",
-      "start": 9.16,
-      "end": 9.32
-    },
-    {
-      "word": "blessings",
-      "start": 9.32,
-      "end": 9.62
-    },
-    {
-      "word": "and",
-      "start": 9.62,
-      "end": 9.94
-    },
-    {
-      "word": "peace",
-      "start": 9.94,
-      "end": 10.2
+      "word": "Messenger",
+      "start": 7.380000114440918,
+      "end": 7.380000114440918
     },
     {
       "word": "of",
-      "start": 10.2,
-      "end": 10.46
+      "start": 7.380000114440918,
+      "end": 7.760000228881836
     },
     {
       "word": "Allah",
-      "start": 10.46,
-      "end": 10.72
+      "start": 7.760000228881836,
+      "end": 8.0
+    },
+    {
+      "word": "may",
+      "start": 9.079999923706055,
+      "end": 9.119999885559082
+    },
+    {
+      "word": "the",
+      "start": 9.119999885559082,
+      "end": 9.619999885559082
+    },
+    {
+      "word": "blessings",
+      "start": 9.619999885559082,
+      "end": 9.619999885559082
+    },
+    {
+      "word": "and",
+      "start": 9.619999885559082,
+      "end": 10.119999885559082
+    },
+    {
+      "word": "peace",
+      "start": 10.119999885559082,
+      "end": 10.15999984741211
+    },
+    {
+      "word": "of",
+      "start": 10.15999984741211,
+      "end": 10.619999885559082
+    },
+    {
+      "word": "Allah",
+      "start": 10.619999885559082,
+      "end": 10.619999885559082
     },
     {
       "word": "be",
-      "start": 10.72,
-      "end": 10.9
+      "start": 10.619999885559082,
+      "end": 10.84000015258789
     },
     {
       "word": "upon",
-      "start": 10.9,
-      "end": 11.12
+      "start": 10.84000015258789,
+      "end": 11.0600004196167
     },
     {
-      "word": "him.",
-      "start": 11.12,
-      "end": 12.1
+      "word": "him",
+      "start": 11.0600004196167,
+      "end": 11.34000015258789
     },
     {
-      "word": "Said",
-      "start": 12.42,
-      "end": 12.54
+      "word": "said",
+      "start": 12.34000015258789,
+      "end": 12.5
     },
     {
       "word": "to",
-      "start": 12.54,
-      "end": 12.74
+      "start": 12.5,
+      "end": 12.640000343322754
     },
     {
       "word": "the",
-      "start": 12.74,
-      "end": 12.84
+      "start": 12.640000343322754,
+      "end": 13.15999984741211
     },
     {
-      "word": "Prophet,",
-      "start": 12.84,
-      "end": 13.3
+      "word": "Prophet",
+      "start": 13.15999984741211,
+      "end": 13.15999984741211
     },
     {
       "word": "may",
-      "start": 14.3,
-      "end": 14.34
+      "start": 14.239999771118164,
+      "end": 14.300000190734863
     },
     {
       "word": "the",
-      "start": 14.34,
-      "end": 14.52
+      "start": 14.300000190734863,
+      "end": 14.779999732971191
     },
     {
       "word": "blessings",
-      "start": 14.52,
-      "end": 14.8
+      "start": 14.779999732971191,
+      "end": 14.779999732971191
     },
     {
       "word": "and",
-      "start": 14.8,
-      "end": 15.06
+      "start": 14.779999732971191,
+      "end": 15.239999771118164
     },
     {
       "word": "peace",
-      "start": 15.06,
-      "end": 15.28
+      "start": 15.239999771118164,
+      "end": 15.239999771118164
     },
     {
       "word": "of",
-      "start": 15.28,
-      "end": 15.46
+      "start": 15.239999771118164,
+      "end": 15.5
     },
     {
       "word": "Allah",
-      "start": 15.46,
-      "end": 15.7
+      "start": 15.5,
+      "end": 15.579999923706055
     },
     {
       "word": "be",
-      "start": 15.7,
-      "end": 15.9
+      "start": 15.579999923706055,
+      "end": 16.059999465942383
     },
     {
       "word": "upon",
-      "start": 15.9,
-      "end": 16.1
+      "start": 16.059999465942383,
+      "end": 16.059999465942383
     },
     {
-      "word": "him.",
-      "start": 16.1,
-      "end": 16.86
+      "word": "him",
+      "start": 16.059999465942383,
+      "end": 16.520000457763672
     },
     {
       "word": "O",
-      "start": 17.74,
-      "end": 17.88
+      "start": 17.600000381469727,
+      "end": 17.940000534057617
     },
     {
-      "word": "messenger",
-      "start": 17.88,
-      "end": 18.3
+      "word": "Messenger",
+      "start": 17.940000534057617,
+      "end": 18.219999313354492
     },
     {
       "word": "of",
-      "start": 18.3,
-      "end": 18.54
+      "start": 18.219999313354492,
+      "end": 18.65999984741211
     },
     {
-      "word": "Allah,",
-      "start": 18.54,
-      "end": 19.02
+      "word": "Allah",
+      "start": 18.65999984741211,
+      "end": 18.899999618530273
     },
     {
       "word": "the",
-      "start": 19.98,
-      "end": 20.18
+      "start": 19.360000610351562,
+      "end": 20.059999465942383
     },
     {
       "word": "affluent",
-      "start": 20.18,
-      "end": 20.56
+      "start": 20.059999465942383,
+      "end": 20.540000915527344
     },
     {
       "word": "have",
-      "start": 20.56,
-      "end": 21.1
+      "start": 20.540000915527344,
+      "end": 21.079999923706055
     },
     {
       "word": "made",
-      "start": 21.1,
-      "end": 21.34
+      "start": 21.079999923706055,
+      "end": 21.280000686645508
     },
     {
       "word": "off",
-      "start": 21.34,
-      "end": 21.7
+      "start": 21.280000686645508,
+      "end": 21.579999923706055
     },
     {
       "word": "with",
-      "start": 21.7,
-      "end": 21.94
+      "start": 21.579999923706055,
+      "end": 21.84000015258789
     },
     {
       "word": "the",
-      "start": 21.94,
-      "end": 22.1
+      "start": 21.84000015258789,
+      "end": 22.15999984741211
     },
     {
-      "word": "rewards.",
-      "start": 22.1,
-      "end": 22.54
+      "word": "rewards",
+      "start": 22.15999984741211,
+      "end": 22.540000915527344
     },
     {
       "word": "They",
-      "start": 23.62,
-      "end": 23.9
+      "start": 23.639999389648438,
+      "end": 23.84000015258789
     },
     {
       "word": "pray",
-      "start": 23.9,
-      "end": 24.26
+      "start": 23.84000015258789,
+      "end": 24.200000762939453
     },
     {
       "word": "as",
-      "start": 24.26,
-      "end": 24.5
+      "start": 24.200000762939453,
+      "end": 24.459999084472656
     },
     {
       "word": "we",
-      "start": 24.5,
-      "end": 24.72
+      "start": 24.459999084472656,
+      "end": 24.920000076293945
     },
     {
-      "word": "pray,",
-      "start": 24.72,
-      "end": 25.16
+      "word": "pray",
+      "start": 24.920000076293945,
+      "end": 24.979999542236328
     },
     {
       "word": "they",
-      "start": 25.9,
-      "end": 26.16
+      "start": 25.440000534057617,
+      "end": 26.440000534057617
     },
     {
       "word": "fast",
-      "start": 26.16,
-      "end": 26.52
+      "start": 26.440000534057617,
+      "end": 26.459999084472656
     },
     {
       "word": "as",
-      "start": 26.52,
-      "end": 26.82
+      "start": 26.459999084472656,
+      "end": 26.760000228881836
     },
     {
       "word": "we",
-      "start": 26.82,
-      "end": 27.0
+      "start": 26.760000228881836,
+      "end": 27.31999969482422
     },
     {
-      "word": "fast,",
-      "start": 27.0,
-      "end": 27.46
+      "word": "fast",
+      "start": 27.31999969482422,
+      "end": 27.3799991607666
     },
     {
       "word": "and",
-      "start": 27.46,
-      "end": 28.4
+      "start": 27.3799991607666,
+      "end": 28.34000015258789
     },
     {
       "word": "they",
-      "start": 28.4,
-      "end": 28.58
+      "start": 28.34000015258789,
+      "end": 28.559999465942383
     },
     {
       "word": "give",
-      "start": 28.58,
-      "end": 28.76
+      "start": 28.559999465942383,
+      "end": 28.719999313354492
     },
     {
       "word": "away",
-      "start": 28.76,
-      "end": 29.06
+      "start": 28.719999313354492,
+      "end": 29.020000457763672
     },
     {
       "word": "in",
-      "start": 29.06,
-      "end": 29.28
+      "start": 29.020000457763672,
+      "end": 29.65999984741211
     },
     {
       "word": "charity",
-      "start": 29.28,
-      "end": 29.68
+      "start": 29.65999984741211,
+      "end": 29.65999984741211
     },
     {
       "word": "the",
-      "start": 29.68,
-      "end": 30.48
+      "start": 29.65999984741211,
+      "end": 30.459999084472656
     },
     {
-      "word": "suprifurity",
-      "start": 30.48,
-      "end": 31.18
+      "word": "superfluity",
+      "start": 30.459999084472656,
+      "end": 31.1200008392334
     },
     {
       "word": "of",
-      "start": 31.18,
-      "end": 31.64
+      "start": 31.1200008392334,
+      "end": 31.579999923706055
     },
     {
       "word": "their",
-      "start": 31.64,
-      "end": 31.84
+      "start": 31.579999923706055,
+      "end": 32.41999816894531
     },
     {
-      "word": "wealth.",
-      "start": 31.84,
-      "end": 32.34
+      "word": "wealth",
+      "start": 32.41999816894531,
+      "end": 32.7599983215332
     },
     {
       "word": "He",
-      "start": 33.28,
-      "end": 33.28
+      "start": 33.15999984741211,
+      "end": 33.2400016784668
     },
     {
-      "word": "said,",
-      "start": 33.28,
-      "end": 33.9
-    },
-    {
-      "word": "Has",
-      "start": 34.7,
-      "end": 34.74
-    },
-    {
-      "word": "not",
-      "start": 34.74,
-      "end": 34.94
-    },
-    {
-      "word": "Allah",
-      "start": 34.94,
-      "end": 35.48
-    },
-    {
-      "word": "made",
-      "start": 35.48,
-      "end": 35.92
-    },
-    {
-      "word": "things",
-      "start": 35.92,
-      "end": 36.26
-    },
-    {
-      "word": "for",
-      "start": 36.26,
-      "end": 36.56
-    },
-    {
-      "word": "you",
-      "start": 36.56,
-      "end": 36.76
-    },
-    {
-      "word": "to",
-      "start": 36.76,
-      "end": 36.92
-    },
-    {
-      "word": "give",
-      "start": 36.92,
-      "end": 37.12
-    },
-    {
-      "word": "away",
-      "start": 37.12,
-      "end": 37.38
-    },
-    {
-      "word": "in",
-      "start": 37.38,
-      "end": 37.5
-    },
-    {
-      "word": "charity?",
-      "start": 37.5,
-      "end": 38.22
-    },
-    {
-      "word": "Truly,",
-      "start": 39.76,
-      "end": 39.94
-    },
-    {
-      "word": "every",
-      "start": 40.4,
-      "end": 40.6
-    },
-    {
-      "word": "taspihah",
-      "start": 40.6,
-      "end": 41.42
-    },
-    {
-      "word": "is",
-      "start": 41.42,
-      "end": 41.82
-    },
-    {
-      "word": "a",
-      "start": 41.82,
-      "end": 41.94
-    },
-    {
-      "word": "charity.",
-      "start": 41.94,
-      "end": 42.36
-    },
-    {
-      "word": "Every",
-      "start": 43.14,
-      "end": 43.4
-    },
-    {
-      "word": "tukbhirah",
-      "start": 43.4,
-      "end": 44.08
-    },
-    {
-      "word": "is",
-      "start": 44.08,
-      "end": 44.44
-    },
-    {
-      "word": "a",
-      "start": 44.44,
-      "end": 44.56
-    },
-    {
-      "word": "charity.",
-      "start": 44.56,
-      "end": 45.02
-    },
-    {
-      "word": "Every",
-      "start": 45.92,
-      "end": 46.24
-    },
-    {
-      "word": "tahmida",
-      "start": 46.24,
-      "end": 46.84
-    },
-    {
-      "word": "is",
-      "start": 46.84,
-      "end": 47.34
-    },
-    {
-      "word": "a",
-      "start": 47.34,
-      "end": 47.48
-    },
-    {
-      "word": "charity.",
-      "start": 47.48,
-      "end": 47.94
-    },
-    {
-      "word": "And",
-      "start": 48.74,
-      "end": 48.96
-    },
-    {
-      "word": "every",
-      "start": 48.96,
-      "end": 49.2
-    },
-    {
-      "word": "tahnila",
-      "start": 49.2,
-      "end": 49.78
-    },
-    {
-      "word": "is",
-      "start": 49.78,
-      "end": 50.48
-    },
-    {
-      "word": "a",
-      "start": 50.48,
-      "end": 50.62
-    },
-    {
-      "word": "charity.",
-      "start": 50.62,
-      "end": 51.24
-    },
-    {
-      "word": "To",
-      "start": 52.18,
-      "end": 52.42
-    },
-    {
-      "word": "enjoy",
-      "start": 52.42,
-      "end": 52.68
-    },
-    {
-      "word": "a",
-      "start": 52.68,
-      "end": 52.92
-    },
-    {
-      "word": "good",
-      "start": 52.92,
-      "end": 53.18
-    },
-    {
-      "word": "action",
-      "start": 53.18,
-      "end": 53.68
-    },
-    {
-      "word": "is",
-      "start": 53.68,
-      "end": 54.08
-    },
-    {
-      "word": "a",
-      "start": 54.08,
-      "end": 54.2
-    },
-    {
-      "word": "charity.",
-      "start": 54.2,
-      "end": 54.84
-    },
-    {
-      "word": "To",
-      "start": 55.46,
-      "end": 56.02
-    },
-    {
-      "word": "forbid",
-      "start": 56.02,
-      "end": 56.38
-    },
-    {
-      "word": "an",
-      "start": 56.38,
-      "end": 56.76
-    },
-    {
-      "word": "evil",
-      "start": 56.76,
-      "end": 56.94
-    },
-    {
-      "word": "action",
-      "start": 56.94,
-      "end": 57.44
-    },
-    {
-      "word": "is",
-      "start": 57.44,
-      "end": 57.84
-    },
-    {
-      "word": "a",
-      "start": 57.84,
-      "end": 57.98
-    },
-    {
-      "word": "charity.",
-      "start": 57.98,
-      "end": 58.5
-    },
-    {
-      "word": "And",
-      "start": 59.68,
-      "end": 59.8
-    },
-    {
-      "word": "in",
-      "start": 59.8,
-      "end": 60.02
-    },
-    {
-      "word": "the",
-      "start": 60.02,
-      "end": 60.16
-    },
-    {
-      "word": "sexual",
-      "start": 60.16,
-      "end": 60.54
-    },
-    {
-      "word": "act",
-      "start": 60.54,
-      "end": 60.92
-    },
-    {
-      "word": "of",
-      "start": 60.92,
-      "end": 61.14
-    },
-    {
-      "word": "each",
-      "start": 61.14,
-      "end": 61.3
-    },
-    {
-      "word": "of",
-      "start": 61.3,
-      "end": 61.58
-    },
-    {
-      "word": "you",
-      "start": 61.58,
-      "end": 62.0
-    },
-    {
-      "word": "there",
-      "start": 62.0,
-      "end": 62.32
-    },
-    {
-      "word": "is",
-      "start": 62.32,
-      "end": 62.48
-    },
-    {
-      "word": "a",
-      "start": 62.48,
-      "end": 62.66
-    },
-    {
-      "word": "charity.",
-      "start": 62.66,
-      "end": 63.1
-    },
-    {
-      "word": "They",
-      "start": 64.58,
-      "end": 64.78
-    },
-    {
-      "word": "said,",
-      "start": 64.78,
-      "end": 65.3
-    },
-    {
-      "word": "O",
-      "start": 65.84,
-      "end": 65.9
-    },
-    {
-      "word": "messenger",
-      "start": 65.9,
-      "end": 66.34
-    },
-    {
-      "word": "of",
-      "start": 66.34,
-      "end": 66.58
-    },
-    {
-      "word": "Allah,",
-      "start": 66.58,
-      "end": 67.16
-    },
-    {
-      "word": "When",
-      "start": 68.1,
-      "end": 68.24
-    },
-    {
-      "word": "one",
-      "start": 68.24,
-      "end": 68.5
-    },
-    {
-      "word": "of",
-      "start": 68.5,
-      "end": 68.58
-    },
-    {
-      "word": "us",
-      "start": 68.58,
-      "end": 68.76
-    },
-    {
-      "word": "fulfills",
-      "start": 68.76,
-      "end": 69.28
-    },
-    {
-      "word": "his",
-      "start": 69.28,
-      "end": 69.56
-    },
-    {
-      "word": "sexual",
-      "start": 69.56,
-      "end": 69.88
-    },
-    {
-      "word": "desire,",
-      "start": 69.88,
-      "end": 70.58
-    },
-    {
-      "word": "will",
-      "start": 71.28,
-      "end": 71.44
-    },
-    {
-      "word": "he",
-      "start": 71.44,
-      "end": 71.64
-    },
-    {
-      "word": "have",
-      "start": 71.64,
-      "end": 71.86
-    },
-    {
-      "word": "some",
-      "start": 71.86,
-      "end": 72.12
-    },
-    {
-      "word": "reward",
-      "start": 72.12,
-      "end": 72.4
-    },
-    {
-      "word": "for",
-      "start": 72.4,
-      "end": 72.64
-    },
-    {
-      "word": "that?",
-      "start": 72.64,
-      "end": 73.14
-    },
-    {
-      "word": "He",
-      "start": 74.16,
-      "end": 74.42
-    },
-    {
-      "word": "said,",
-      "start": 74.42,
-      "end": 74.9
-    },
-    {
-      "word": "Do",
-      "start": 75.74,
-      "end": 75.98
-    },
-    {
-      "word": "you",
-      "start": 75.98,
-      "end": 76.18
-    },
-    {
-      "word": "not",
-      "start": 76.18,
-      "end": 76.34
-    },
-    {
-      "word": "think",
-      "start": 76.34,
-      "end": 76.78
-    },
-    {
-      "word": "that",
-      "start": 76.78,
-      "end": 77.26
-    },
-    {
-      "word": "why",
-      "start": 77.26,
-      "end": 77.38
-    },
-    {
-      "word": "he",
-      "start": 77.38,
-      "end": 77.58
-    },
-    {
-      "word": "to",
-      "start": 77.58,
-      "end": 77.82
-    },
-    {
-      "word": "act",
-      "start": 77.82,
-      "end": 78.0
-    },
-    {
-      "word": "upon",
-      "start": 78.0,
-      "end": 78.24
-    },
-    {
-      "word": "it",
-      "start": 78.24,
-      "end": 78.52
-    },
-    {
-      "word": "unlawfully?",
-      "start": 78.52,
-      "end": 79.1
-    },
-    {
-      "word": "He",
-      "start": 79.94,
-      "end": 79.98
-    },
-    {
-      "word": "would",
-      "start": 79.98,
-      "end": 80.16
-    },
-    {
-      "word": "be",
-      "start": 80.16,
-      "end": 80.36
-    },
-    {
-      "word": "sinning?",
-      "start": 80.36,
-      "end": 81.18
-    },
-    {
-      "word": "Likewise,",
-      "start": 82.22,
-      "end": 82.54
-    },
-    {
-      "word": "if",
-      "start": 83.42,
-      "end": 83.94
-    },
-    {
-      "word": "he",
-      "start": 83.94,
-      "end": 84.16
+      "word": "said",
+      "start": 33.2400016784668,
+      "end": 33.540000915527344
     },
     {
       "word": "has",
-      "start": 84.16,
-      "end": 84.3
+      "start": 34.720001220703125,
+      "end": 34.720001220703125
     },
     {
-      "word": "acted",
-      "start": 84.3,
-      "end": 84.58
+      "word": "not",
+      "start": 34.720001220703125,
+      "end": 35.099998474121094
     },
     {
-      "word": "upon",
-      "start": 84.58,
-      "end": 84.82
+      "word": "Allah",
+      "start": 35.099998474121094,
+      "end": 35.34000015258789
     },
     {
-      "word": "it",
-      "start": 84.82,
-      "end": 85.0
+      "word": "made",
+      "start": 35.34000015258789,
+      "end": 35.880001068115234
     },
     {
-      "word": "lawfully,",
-      "start": 85.0,
-      "end": 85.62
+      "word": "things",
+      "start": 35.880001068115234,
+      "end": 36.220001220703125
     },
     {
-      "word": "he",
-      "start": 86.22,
-      "end": 86.26
+      "word": "for",
+      "start": 36.220001220703125,
+      "end": 36.439998626708984
     },
     {
-      "word": "will",
-      "start": 86.26,
-      "end": 86.42
+      "word": "you",
+      "start": 36.439998626708984,
+      "end": 36.68000030517578
     },
     {
-      "word": "have",
-      "start": 86.42,
-      "end": 86.58
+      "word": "to",
+      "start": 36.68000030517578,
+      "end": 36.91999816894531
+    },
+    {
+      "word": "give",
+      "start": 36.91999816894531,
+      "end": 37.040000915527344
+    },
+    {
+      "word": "away",
+      "start": 37.040000915527344,
+      "end": 37.279998779296875
+    },
+    {
+      "word": "in",
+      "start": 37.279998779296875,
+      "end": 37.91999816894531
+    },
+    {
+      "word": "charity",
+      "start": 37.91999816894531,
+      "end": 37.91999816894531
+    },
+    {
+      "word": "Truly",
+      "start": 39.58000183105469,
+      "end": 39.900001525878906
+    },
+    {
+      "word": "every",
+      "start": 40.29999923706055,
+      "end": 40.599998474121094
+    },
+    {
+      "word": "tasbihah",
+      "start": 40.599998474121094,
+      "end": 41.2599983215332
+    },
+    {
+      "word": "is",
+      "start": 41.2599983215332,
+      "end": 41.7400016784668
     },
     {
       "word": "a",
-      "start": 86.58,
-      "end": 86.8
+      "start": 41.7400016784668,
+      "end": 42.31999969482422
     },
     {
-      "word": "reward.",
-      "start": 86.8,
-      "end": 87.24
+      "word": "charity",
+      "start": 42.31999969482422,
+      "end": 42.31999969482422
+    },
+    {
+      "word": "Every",
+      "start": 43.20000076293945,
+      "end": 43.380001068115234
+    },
+    {
+      "word": "takbirah",
+      "start": 43.380001068115234,
+      "end": 44.040000915527344
+    },
+    {
+      "word": "is",
+      "start": 44.040000915527344,
+      "end": 44.400001525878906
+    },
+    {
+      "word": "a",
+      "start": 44.400001525878906,
+      "end": 44.97999954223633
+    },
+    {
+      "word": "charity",
+      "start": 44.97999954223633,
+      "end": 44.97999954223633
+    },
+    {
+      "word": "Every",
+      "start": 46.0,
+      "end": 46.20000076293945
+    },
+    {
+      "word": "tahmidah",
+      "start": 46.20000076293945,
+      "end": 46.81999969482422
+    },
+    {
+      "word": "is",
+      "start": 46.81999969482422,
+      "end": 47.29999923706055
+    },
+    {
+      "word": "a",
+      "start": 47.29999923706055,
+      "end": 47.91999816894531
+    },
+    {
+      "word": "charity",
+      "start": 47.91999816894531,
+      "end": 47.91999816894531
+    },
+    {
+      "word": "And",
+      "start": 48.15999984741211,
+      "end": 48.91999816894531
+    },
+    {
+      "word": "every",
+      "start": 48.91999816894531,
+      "end": 49.18000030517578
+    },
+    {
+      "word": "tahlilah",
+      "start": 49.18000030517578,
+      "end": 49.65999984741211
+    },
+    {
+      "word": "is",
+      "start": 49.65999984741211,
+      "end": 50.439998626708984
+    },
+    {
+      "word": "a",
+      "start": 50.439998626708984,
+      "end": 51.060001373291016
+    },
+    {
+      "word": "charity",
+      "start": 51.060001373291016,
+      "end": 51.060001373291016
+    },
+    {
+      "word": "To",
+      "start": 51.70000076293945,
+      "end": 52.41999816894531
+    },
+    {
+      "word": "enjoin",
+      "start": 52.41999816894531,
+      "end": 52.720001220703125
+    },
+    {
+      "word": "a",
+      "start": 52.720001220703125,
+      "end": 52.959999084472656
+    },
+    {
+      "word": "good",
+      "start": 52.959999084472656,
+      "end": 53.13999938964844
+    },
+    {
+      "word": "action",
+      "start": 53.13999938964844,
+      "end": 53.52000045776367
+    },
+    {
+      "word": "is",
+      "start": 53.52000045776367,
+      "end": 54.02000045776367
+    },
+    {
+      "word": "a",
+      "start": 54.02000045776367,
+      "end": 54.619998931884766
+    },
+    {
+      "word": "charity",
+      "start": 54.619998931884766,
+      "end": 54.619998931884766
+    },
+    {
+      "word": "To",
+      "start": 55.36000061035156,
+      "end": 55.959999084472656
+    },
+    {
+      "word": "forbid",
+      "start": 55.959999084472656,
+      "end": 56.36000061035156
+    },
+    {
+      "word": "an",
+      "start": 56.36000061035156,
+      "end": 56.86000061035156
+    },
+    {
+      "word": "evil",
+      "start": 56.86000061035156,
+      "end": 56.959999084472656
+    },
+    {
+      "word": "action",
+      "start": 56.959999084472656,
+      "end": 57.36000061035156
+    },
+    {
+      "word": "is",
+      "start": 57.36000061035156,
+      "end": 57.779998779296875
+    },
+    {
+      "word": "a",
+      "start": 57.779998779296875,
+      "end": 58.380001068115234
+    },
+    {
+      "word": "charity",
+      "start": 58.380001068115234,
+      "end": 58.380001068115234
+    },
+    {
+      "word": "And",
+      "start": 59.18000030517578,
+      "end": 59.779998779296875
+    },
+    {
+      "word": "in",
+      "start": 59.779998779296875,
+      "end": 59.939998626708984
+    },
+    {
+      "word": "the",
+      "start": 59.939998626708984,
+      "end": 60.2400016784668
+    },
+    {
+      "word": "sexual",
+      "start": 60.2400016784668,
+      "end": 60.540000915527344
+    },
+    {
+      "word": "act",
+      "start": 60.540000915527344,
+      "end": 60.84000015258789
+    },
+    {
+      "word": "of",
+      "start": 60.84000015258789,
+      "end": 61.040000915527344
+    },
+    {
+      "word": "each",
+      "start": 61.040000915527344,
+      "end": 61.279998779296875
+    },
+    {
+      "word": "of",
+      "start": 61.279998779296875,
+      "end": 61.560001373291016
+    },
+    {
+      "word": "you",
+      "start": 61.560001373291016,
+      "end": 61.7599983215332
+    },
+    {
+      "word": "there",
+      "start": 62.220001220703125,
+      "end": 62.2599983215332
+    },
+    {
+      "word": "is",
+      "start": 62.2599983215332,
+      "end": 62.380001068115234
+    },
+    {
+      "word": "a",
+      "start": 62.380001068115234,
+      "end": 62.959999084472656
+    },
+    {
+      "word": "charity",
+      "start": 62.959999084472656,
+      "end": 62.959999084472656
+    },
+    {
+      "word": "They",
+      "start": 64.13999938964844,
+      "end": 64.73999786376953
+    },
+    {
+      "word": "said",
+      "start": 64.73999786376953,
+      "end": 65.0199966430664
+    },
+    {
+      "word": "O",
+      "start": 65.86000061035156,
+      "end": 65.86000061035156
+    },
+    {
+      "word": "Messenger",
+      "start": 65.86000061035156,
+      "end": 66.27999877929688
+    },
+    {
+      "word": "of",
+      "start": 66.27999877929688,
+      "end": 66.68000030517578
+    },
+    {
+      "word": "Allah",
+      "start": 66.68000030517578,
+      "end": 66.91999816894531
+    },
+    {
+      "word": "when",
+      "start": 68.05999755859375,
+      "end": 68.19999694824219
+    },
+    {
+      "word": "one",
+      "start": 68.19999694824219,
+      "end": 68.4800033569336
+    },
+    {
+      "word": "of",
+      "start": 68.4800033569336,
+      "end": 68.5999984741211
+    },
+    {
+      "word": "us",
+      "start": 68.5999984741211,
+      "end": 68.83999633789062
+    },
+    {
+      "word": "fulfills",
+      "start": 68.83999633789062,
+      "end": 69.18000030517578
+    },
+    {
+      "word": "his",
+      "start": 69.18000030517578,
+      "end": 69.5
+    },
+    {
+      "word": "sexual",
+      "start": 69.5,
+      "end": 69.86000061035156
+    },
+    {
+      "word": "desire",
+      "start": 69.86000061035156,
+      "end": 70.27999877929688
+    },
+    {
+      "word": "will",
+      "start": 71.08000183105469,
+      "end": 71.36000061035156
+    },
+    {
+      "word": "he",
+      "start": 71.36000061035156,
+      "end": 71.62000274658203
+    },
+    {
+      "word": "have",
+      "start": 71.62000274658203,
+      "end": 71.77999877929688
+    },
+    {
+      "word": "some",
+      "start": 71.77999877929688,
+      "end": 72.16000366210938
+    },
+    {
+      "word": "reward",
+      "start": 72.16000366210938,
+      "end": 72.37999725341797
+    },
+    {
+      "word": "for",
+      "start": 72.37999725341797,
+      "end": 72.58000183105469
+    },
+    {
+      "word": "that",
+      "start": 72.58000183105469,
+      "end": 72.94000244140625
+    },
+    {
+      "word": "He",
+      "start": 73.86000061035156,
+      "end": 74.4000015258789
+    },
+    {
+      "word": "said",
+      "start": 74.4000015258789,
+      "end": 74.62000274658203
+    },
+    {
+      "word": "do",
+      "start": 75.30000305175781,
+      "end": 75.87999725341797
+    },
+    {
+      "word": "you",
+      "start": 75.87999725341797,
+      "end": 76.04000091552734
+    },
+    {
+      "word": "not",
+      "start": 76.04000091552734,
+      "end": 76.31999969482422
+    },
+    {
+      "word": "think",
+      "start": 76.31999969482422,
+      "end": 76.62000274658203
+    },
+    {
+      "word": "that",
+      "start": 76.62000274658203,
+      "end": 77.22000122070312
+    },
+    {
+      "word": "were",
+      "start": 77.22000122070312,
+      "end": 77.36000061035156
+    },
+    {
+      "word": "he",
+      "start": 77.36000061035156,
+      "end": 77.5999984741211
+    },
+    {
+      "word": "to",
+      "start": 77.5999984741211,
+      "end": 77.81999969482422
+    },
+    {
+      "word": "act",
+      "start": 77.81999969482422,
+      "end": 77.95999908447266
+    },
+    {
+      "word": "upon",
+      "start": 77.95999908447266,
+      "end": 78.22000122070312
+    },
+    {
+      "word": "it",
+      "start": 78.22000122070312,
+      "end": 78.54000091552734
+    },
+    {
+      "word": "unlawfully",
+      "start": 78.54000091552734,
+      "end": 78.9800033569336
+    },
+    {
+      "word": "he",
+      "start": 79.26000213623047,
+      "end": 79.95999908447266
+    },
+    {
+      "word": "would",
+      "start": 79.95999908447266,
+      "end": 80.0999984741211
+    },
+    {
+      "word": "be",
+      "start": 80.0999984741211,
+      "end": 80.4800033569336
+    },
+    {
+      "word": "sinning",
+      "start": 80.4800033569336,
+      "end": 80.58000183105469
+    },
+    {
+      "word": "Likewise",
+      "start": 82.86000061035156,
+      "end": 83.4000015258789
+    },
+    {
+      "word": "if",
+      "start": 83.4000015258789,
+      "end": 83.94000244140625
+    },
+    {
+      "word": "he",
+      "start": 83.94000244140625,
+      "end": 84.12000274658203
+    },
+    {
+      "word": "has",
+      "start": 84.12000274658203,
+      "end": 84.31999969482422
+    },
+    {
+      "word": "acted",
+      "start": 84.31999969482422,
+      "end": 84.54000091552734
+    },
+    {
+      "word": "upon",
+      "start": 84.54000091552734,
+      "end": 84.77999877929688
+    },
+    {
+      "word": "it",
+      "start": 84.77999877929688,
+      "end": 85.0
+    },
+    {
+      "word": "lawfully",
+      "start": 85.0,
+      "end": 85.36000061035156
+    },
+    {
+      "word": "he",
+      "start": 86.12000274658203,
+      "end": 86.22000122070312
+    },
+    {
+      "word": "will",
+      "start": 86.22000122070312,
+      "end": 86.37999725341797
+    },
+    {
+      "word": "have",
+      "start": 86.37999725341797,
+      "end": 86.55999755859375
+    },
+    {
+      "word": "a",
+      "start": 86.55999755859375,
+      "end": 86.77999877929688
+    },
+    {
+      "word": "reward",
+      "start": 86.77999877929688,
+      "end": 87.08000183105469
     },
     {
       "word": "It",
-      "start": 88.42,
-      "end": 88.56
+      "start": 88.45999908447266,
+      "end": 88.5199966430664
     },
     {
       "word": "was",
-      "start": 88.56,
-      "end": 88.7
+      "start": 88.5199966430664,
+      "end": 88.72000122070312
     },
     {
       "word": "related",
-      "start": 88.7,
-      "end": 89.1
+      "start": 88.72000122070312,
+      "end": 89.08000183105469
     },
     {
       "word": "by",
-      "start": 89.1,
-      "end": 89.42
+      "start": 89.08000183105469,
+      "end": 89.37999725341797
     },
     {
-      "word": "Muslim.",
-      "start": 89.42,
-      "end": 89.7
+      "word": "Muslim",
+      "start": 89.37999725341797,
+      "end": 89.73999786376953
     }
-  ]
+  ],
+  "hadith_number": 25
 }

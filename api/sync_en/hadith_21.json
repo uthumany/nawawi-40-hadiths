@@ -1,316 +1,311 @@
 {
-  "hadith_number": 21,
-  "text": "On your authority of Abu Amm and he is also given as Abu Ammr, Safyan Ibn Abdelah, may Allah be pleased with him. He said, I said, a messenger of Allah, tell me something about Islam, which I can ask of no one but you. He said, say, I believe in Allah, and now after be upright. It was related by Muslim.",
+  "text": "On the authority of Abu Amr, and he is also given as Abu Amrah, Sufyan ibn Abdullah, may Allah be pleased with him, who said, I said, O Messenger of Allah, tell me something about Islam, which I can ask of no one but you. He said, Say, I believe in Allah, and thereafter be upright. It was related by Muslim.",
   "words": [
     {
       "word": "On",
       "start": 0.0,
-      "end": 0.46
+      "end": 0.4000000059604645
     },
     {
-      "word": "your",
-      "start": 0.46,
-      "end": 0.64
+      "word": "the",
+      "start": 0.4000000059604645,
+      "end": 0.6200000047683716
     },
     {
       "word": "authority",
-      "start": 0.64,
-      "end": 1.1
+      "start": 0.6200000047683716,
+      "end": 1.0
     },
     {
       "word": "of",
-      "start": 1.1,
+      "start": 1.0,
       "end": 1.5
     },
     {
       "word": "Abu",
       "start": 1.5,
-      "end": 1.68
+      "end": 1.7000000476837158
     },
     {
-      "word": "Amm",
-      "start": 1.68,
-      "end": 2.22
+      "word": "Amr",
+      "start": 1.7000000476837158,
+      "end": 2.2799999713897705
     },
     {
       "word": "and",
-      "start": 2.22,
-      "end": 2.54
+      "start": 2.380000114440918,
+      "end": 2.4600000381469727
     },
     {
       "word": "he",
-      "start": 2.54,
-      "end": 2.66
+      "start": 2.4600000381469727,
+      "end": 2.5999999046325684
     },
     {
       "word": "is",
-      "start": 2.66,
-      "end": 2.86
+      "start": 2.5999999046325684,
+      "end": 2.680000066757202
     },
     {
       "word": "also",
-      "start": 2.86,
-      "end": 3.08
+      "start": 2.680000066757202,
+      "end": 3.0799999237060547
     },
     {
       "word": "given",
-      "start": 3.08,
-      "end": 3.32
+      "start": 3.0799999237060547,
+      "end": 3.2799999713897705
     },
     {
       "word": "as",
-      "start": 3.32,
-      "end": 3.64
+      "start": 3.2799999713897705,
+      "end": 3.640000104904175
     },
     {
       "word": "Abu",
-      "start": 3.64,
-      "end": 3.78
+      "start": 3.640000104904175,
+      "end": 3.819999933242798
     },
     {
-      "word": "Ammr,",
-      "start": 3.78,
-      "end": 4.72
+      "word": "Amrah",
+      "start": 3.819999933242798,
+      "end": 4.199999809265137
     },
     {
-      "word": "Safyan",
-      "start": 4.94,
-      "end": 5.26
+      "word": "Sufyan",
+      "start": 5.0,
+      "end": 5.199999809265137
     },
     {
-      "word": "Ibn",
-      "start": 5.26,
-      "end": 5.92
+      "word": "ibn",
+      "start": 5.199999809265137,
+      "end": 5.760000228881836
     },
     {
-      "word": "Abdelah,",
-      "start": 5.92,
-      "end": 6.9
+      "word": "Abdullah",
+      "start": 5.760000228881836,
+      "end": 6.679999828338623
     },
     {
       "word": "may",
-      "start": 7.3,
-      "end": 7.42
+      "start": 7.320000171661377,
+      "end": 7.400000095367432
     },
     {
       "word": "Allah",
-      "start": 7.42,
-      "end": 7.7
+      "start": 7.400000095367432,
+      "end": 7.599999904632568
     },
     {
       "word": "be",
-      "start": 7.7,
-      "end": 7.92
+      "start": 7.599999904632568,
+      "end": 7.960000038146973
     },
     {
       "word": "pleased",
-      "start": 7.92,
-      "end": 8.2
+      "start": 7.960000038146973,
+      "end": 8.119999885559082
     },
     {
       "word": "with",
-      "start": 8.2,
-      "end": 8.36
+      "start": 8.119999885559082,
+      "end": 8.319999694824219
     },
     {
-      "word": "him.",
-      "start": 8.36,
-      "end": 8.9
+      "word": "him",
+      "start": 8.319999694824219,
+      "end": 8.579999923706055
     },
     {
-      "word": "He",
-      "start": 9.12,
-      "end": 9.3
+      "word": "who",
+      "start": 9.079999923706055,
+      "end": 9.300000190734863
     },
     {
-      "word": "said,",
-      "start": 9.3,
-      "end": 9.66
+      "word": "said",
+      "start": 9.300000190734863,
+      "end": 9.5600004196167
     },
     {
       "word": "I",
-      "start": 10.2,
-      "end": 10.48
+      "start": 10.300000190734863,
+      "end": 10.359999656677246
     },
     {
-      "word": "said,",
-      "start": 10.48,
-      "end": 10.94
+      "word": "said",
+      "start": 10.359999656677246,
+      "end": 10.800000190734863
     },
     {
-      "word": "a",
-      "start": 11.46,
-      "end": 11.58
+      "word": "O",
+      "start": 11.4399995803833,
+      "end": 11.600000381469727
     },
     {
-      "word": "messenger",
-      "start": 11.58,
-      "end": 11.92
+      "word": "Messenger",
+      "start": 11.600000381469727,
+      "end": 11.859999656677246
     },
     {
       "word": "of",
-      "start": 11.92,
-      "end": 12.2
+      "start": 11.859999656677246,
+      "end": 12.300000190734863
     },
     {
-      "word": "Allah,",
-      "start": 12.2,
-      "end": 12.8
+      "word": "Allah",
+      "start": 12.300000190734863,
+      "end": 12.5600004196167
     },
     {
       "word": "tell",
-      "start": 13.44,
-      "end": 13.5
+      "start": 13.359999656677246,
+      "end": 13.460000038146973
     },
     {
       "word": "me",
-      "start": 13.5,
-      "end": 13.66
+      "start": 13.460000038146973,
+      "end": 13.640000343322754
     },
     {
       "word": "something",
-      "start": 13.66,
-      "end": 13.98
+      "start": 13.640000343322754,
+      "end": 13.960000038146973
     },
     {
       "word": "about",
-      "start": 13.98,
-      "end": 14.38
+      "start": 13.960000038146973,
+      "end": 14.359999656677246
     },
     {
-      "word": "Islam,",
-      "start": 14.38,
-      "end": 14.8
+      "word": "Islam",
+      "start": 14.359999656677246,
+      "end": 14.699999809265137
     },
     {
       "word": "which",
-      "start": 15.3,
-      "end": 15.42
+      "start": 15.140000343322754,
+      "end": 15.319999694824219
     },
     {
       "word": "I",
-      "start": 15.42,
-      "end": 15.5
+      "start": 15.319999694824219,
+      "end": 15.479999542236328
     },
     {
       "word": "can",
-      "start": 15.5,
-      "end": 15.74
+      "start": 15.479999542236328,
+      "end": 15.699999809265137
     },
     {
       "word": "ask",
-      "start": 15.74,
-      "end": 16.06
+      "start": 15.699999809265137,
+      "end": 16.059999465942383
     },
     {
       "word": "of",
-      "start": 16.06,
-      "end": 16.34
+      "start": 16.059999465942383,
+      "end": 16.31999969482422
     },
     {
       "word": "no",
-      "start": 16.34,
-      "end": 16.52
+      "start": 16.31999969482422,
+      "end": 16.479999542236328
     },
     {
       "word": "one",
-      "start": 16.52,
-      "end": 16.74
+      "start": 16.479999542236328,
+      "end": 16.6200008392334
     },
     {
       "word": "but",
-      "start": 16.74,
-      "end": 16.96
+      "start": 16.6200008392334,
+      "end": 16.920000076293945
     },
     {
-      "word": "you.",
-      "start": 16.96,
-      "end": 17.42
+      "word": "you",
+      "start": 16.920000076293945,
+      "end": 17.280000686645508
     },
     {
       "word": "He",
-      "start": 17.82,
-      "end": 17.96
+      "start": 17.799999237060547,
+      "end": 17.940000534057617
     },
     {
-      "word": "said,",
-      "start": 17.96,
-      "end": 18.48
+      "word": "said",
+      "start": 17.940000534057617,
+      "end": 18.219999313354492
     },
     {
-      "word": "say,",
-      "start": 18.98,
-      "end": 19.32
+      "word": "Say",
+      "start": 18.920000076293945,
+      "end": 19.260000228881836
     },
     {
       "word": "I",
-      "start": 19.94,
-      "end": 20.12
+      "start": 19.6200008392334,
+      "end": 20.100000381469727
     },
     {
       "word": "believe",
-      "start": 20.12,
-      "end": 20.4
+      "start": 20.100000381469727,
+      "end": 20.3799991607666
     },
     {
       "word": "in",
-      "start": 20.4,
-      "end": 20.66
+      "start": 20.3799991607666,
+      "end": 20.719999313354492
     },
     {
-      "word": "Allah,",
-      "start": 20.66,
-      "end": 21.1
+      "word": "Allah",
+      "start": 20.719999313354492,
+      "end": 20.959999084472656
     },
     {
       "word": "and",
-      "start": 21.84,
-      "end": 21.98
+      "start": 21.739999771118164,
+      "end": 21.920000076293945
     },
     {
-      "word": "now",
-      "start": 21.98,
-      "end": 22.18
-    },
-    {
-      "word": "after",
-      "start": 22.18,
-      "end": 22.52
+      "word": "thereafter",
+      "start": 21.920000076293945,
+      "end": 22.420000076293945
     },
     {
       "word": "be",
-      "start": 22.52,
-      "end": 23.1
+      "start": 22.420000076293945,
+      "end": 23.059999465942383
     },
     {
-      "word": "upright.",
-      "start": 23.1,
-      "end": 23.42
+      "word": "upright",
+      "start": 23.059999465942383,
+      "end": 23.459999084472656
     },
     {
       "word": "It",
-      "start": 24.22,
-      "end": 24.38
+      "start": 23.940000534057617,
+      "end": 24.34000015258789
     },
     {
       "word": "was",
-      "start": 24.38,
-      "end": 24.56
+      "start": 24.34000015258789,
+      "end": 24.520000457763672
     },
     {
       "word": "related",
-      "start": 24.56,
-      "end": 24.96
+      "start": 24.520000457763672,
+      "end": 24.8799991607666
     },
     {
       "word": "by",
-      "start": 24.96,
-      "end": 25.28
+      "start": 24.8799991607666,
+      "end": 25.219999313354492
     },
     {
-      "word": "Muslim.",
-      "start": 25.28,
-      "end": 25.52
+      "word": "Muslim",
+      "start": 25.219999313354492,
+      "end": 25.600000381469727
     }
-  ]
+  ],
+  "hadith_number": 21
 }

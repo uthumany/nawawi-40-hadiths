@@ -1,296 +1,296 @@
 {
-  "hadith_number": 16,
-  "text": "On the authority of Abu Harayra, may Allah be pleased with him. He said, a man said to the prophet, made a blessings and peace of Allah be upon him. Cancel me, he said, Do not become angry. The man repeated his request several times. And he said, Do not become angry. It was related by al-Bukhari.",
+  "text": "On the authority of Abu Huraira, may Allah be pleased of him, who said, A man said to the Prophet, May the blessings and peace of Allah be upon him. Cancel me, he said. Do not become angry. The man repeated his request several times, and he said, Do not become angry. It was related by Al-Bukhari.",
   "words": [
     {
       "word": "On",
       "start": 0.0,
-      "end": 0.44
+      "end": 0.36000001430511475
     },
     {
       "word": "the",
-      "start": 0.44,
-      "end": 0.5
+      "start": 0.36000001430511475,
+      "end": 0.5600000023841858
     },
     {
       "word": "authority",
-      "start": 0.5,
-      "end": 0.88
+      "start": 0.5600000023841858,
+      "end": 0.8799999952316284
     },
     {
       "word": "of",
-      "start": 0.88,
-      "end": 1.24
+      "start": 0.8799999952316284,
+      "end": 1.2400000095367432
     },
     {
       "word": "Abu",
-      "start": 1.24,
-      "end": 1.4
+      "start": 1.2400000095367432,
+      "end": 1.4199999570846558
     },
     {
-      "word": "Harayra,",
-      "start": 1.4,
-      "end": 2.12
+      "word": "Huraira",
+      "start": 1.4199999570846558,
+      "end": 2.259999990463257
     },
     {
       "word": "may",
-      "start": 2.56,
-      "end": 2.68
+      "start": 2.5399999618530273,
+      "end": 2.6600000858306885
     },
     {
       "word": "Allah",
-      "start": 2.68,
-      "end": 2.92
+      "start": 2.6600000858306885,
+      "end": 2.8399999141693115
     },
     {
       "word": "be",
-      "start": 2.92,
-      "end": 3.16
+      "start": 2.8399999141693115,
+      "end": 3.259999990463257
     },
     {
       "word": "pleased",
-      "start": 3.16,
-      "end": 3.42
-    },
-    {
-      "word": "with",
-      "start": 3.42,
-      "end": 3.62
-    },
-    {
-      "word": "him.",
-      "start": 3.62,
-      "end": 4.08
-    },
-    {
-      "word": "He",
-      "start": 4.36,
-      "end": 4.54
-    },
-    {
-      "word": "said,",
-      "start": 4.54,
-      "end": 4.92
-    },
-    {
-      "word": "a",
-      "start": 5.34,
-      "end": 5.5
-    },
-    {
-      "word": "man",
-      "start": 5.5,
-      "end": 5.76
-    },
-    {
-      "word": "said",
-      "start": 5.76,
-      "end": 5.94
-    },
-    {
-      "word": "to",
-      "start": 5.94,
-      "end": 6.06
-    },
-    {
-      "word": "the",
-      "start": 6.06,
-      "end": 6.2
-    },
-    {
-      "word": "prophet,",
-      "start": 6.2,
-      "end": 6.62
-    },
-    {
-      "word": "made",
-      "start": 7.44,
-      "end": 7.52
-    },
-    {
-      "word": "a",
-      "start": 7.52,
-      "end": 7.68
-    },
-    {
-      "word": "blessings",
-      "start": 7.68,
-      "end": 8.02
-    },
-    {
-      "word": "and",
-      "start": 8.02,
-      "end": 8.44
-    },
-    {
-      "word": "peace",
-      "start": 8.44,
-      "end": 8.74
+      "start": 3.259999990463257,
+      "end": 3.359999895095825
     },
     {
       "word": "of",
-      "start": 8.74,
-      "end": 9.02
+      "start": 3.359999895095825,
+      "end": 3.5999999046325684
     },
     {
-      "word": "Allah",
-      "start": 9.02,
-      "end": 9.28
+      "word": "him",
+      "start": 3.5999999046325684,
+      "end": 3.9000000953674316
     },
     {
-      "word": "be",
-      "start": 9.28,
-      "end": 9.54
+      "word": "who",
+      "start": 4.380000114440918,
+      "end": 4.559999942779541
     },
     {
-      "word": "upon",
-      "start": 9.54,
-      "end": 9.74
+      "word": "said",
+      "start": 4.559999942779541,
+      "end": 4.78000020980835
     },
     {
-      "word": "him.",
-      "start": 9.74,
-      "end": 10.28
-    },
-    {
-      "word": "Cancel",
-      "start": 10.78,
-      "end": 11.14
-    },
-    {
-      "word": "me,",
-      "start": 11.14,
-      "end": 11.46
-    },
-    {
-      "word": "he",
-      "start": 11.78,
-      "end": 11.8
-    },
-    {
-      "word": "said,",
-      "start": 11.8,
-      "end": 12.18
-    },
-    {
-      "word": "Do",
-      "start": 12.8,
-      "end": 12.92
-    },
-    {
-      "word": "not",
-      "start": 12.92,
-      "end": 13.08
-    },
-    {
-      "word": "become",
-      "start": 13.08,
-      "end": 13.4
-    },
-    {
-      "word": "angry.",
-      "start": 13.4,
-      "end": 13.86
-    },
-    {
-      "word": "The",
-      "start": 14.5,
-      "end": 14.64
+      "word": "A",
+      "start": 5.380000114440918,
+      "end": 5.440000057220459
     },
     {
       "word": "man",
-      "start": 14.64,
-      "end": 14.88
+      "start": 5.440000057220459,
+      "end": 5.679999828338623
     },
     {
-      "word": "repeated",
-      "start": 14.88,
-      "end": 15.28
+      "word": "said",
+      "start": 5.679999828338623,
+      "end": 5.900000095367432
     },
     {
-      "word": "his",
-      "start": 15.28,
-      "end": 15.76
+      "word": "to",
+      "start": 5.900000095367432,
+      "end": 6.039999961853027
     },
     {
-      "word": "request",
-      "start": 15.76,
-      "end": 16.36
+      "word": "the",
+      "start": 6.039999961853027,
+      "end": 6.519999980926514
     },
     {
-      "word": "several",
-      "start": 16.36,
-      "end": 16.82
+      "word": "Prophet",
+      "start": 6.519999980926514,
+      "end": 6.519999980926514
     },
     {
-      "word": "times.",
-      "start": 16.82,
-      "end": 17.5
+      "word": "May",
+      "start": 7.400000095367432,
+      "end": 7.440000057220459
     },
     {
-      "word": "And",
-      "start": 18.04,
-      "end": 18.26
+      "word": "the",
+      "start": 7.440000057220459,
+      "end": 7.659999847412109
+    },
+    {
+      "word": "blessings",
+      "start": 7.659999847412109,
+      "end": 8.0
+    },
+    {
+      "word": "and",
+      "start": 8.0,
+      "end": 8.4399995803833
+    },
+    {
+      "word": "peace",
+      "start": 8.4399995803833,
+      "end": 8.680000305175781
+    },
+    {
+      "word": "of",
+      "start": 8.680000305175781,
+      "end": 9.079999923706055
+    },
+    {
+      "word": "Allah",
+      "start": 9.079999923706055,
+      "end": 9.260000228881836
+    },
+    {
+      "word": "be",
+      "start": 9.260000228881836,
+      "end": 9.5
+    },
+    {
+      "word": "upon",
+      "start": 9.5,
+      "end": 9.699999809265137
+    },
+    {
+      "word": "him",
+      "start": 9.699999809265137,
+      "end": 10.15999984741211
+    },
+    {
+      "word": "Cancel",
+      "start": 10.960000038146973,
+      "end": 11.0600004196167
+    },
+    {
+      "word": "me",
+      "start": 11.0600004196167,
+      "end": 11.380000114440918
     },
     {
       "word": "he",
-      "start": 18.26,
-      "end": 18.34
+      "start": 11.619999885559082,
+      "end": 11.800000190734863
     },
     {
-      "word": "said,",
-      "start": 18.34,
-      "end": 18.76
+      "word": "said",
+      "start": 11.800000190734863,
+      "end": 12.020000457763672
     },
     {
       "word": "Do",
-      "start": 19.24,
-      "end": 19.36
+      "start": 12.84000015258789,
+      "end": 12.920000076293945
     },
     {
       "word": "not",
-      "start": 19.36,
-      "end": 19.54
+      "start": 12.920000076293945,
+      "end": 13.079999923706055
     },
     {
       "word": "become",
-      "start": 19.54,
-      "end": 19.86
+      "start": 13.079999923706055,
+      "end": 13.359999656677246
     },
     {
-      "word": "angry.",
-      "start": 19.86,
-      "end": 20.34
+      "word": "angry",
+      "start": 13.359999656677246,
+      "end": 13.739999771118164
+    },
+    {
+      "word": "The",
+      "start": 14.220000267028809,
+      "end": 14.600000381469727
+    },
+    {
+      "word": "man",
+      "start": 14.600000381469727,
+      "end": 14.84000015258789
+    },
+    {
+      "word": "repeated",
+      "start": 14.84000015258789,
+      "end": 15.34000015258789
+    },
+    {
+      "word": "his",
+      "start": 15.34000015258789,
+      "end": 15.779999732971191
+    },
+    {
+      "word": "request",
+      "start": 15.779999732971191,
+      "end": 16.219999313354492
+    },
+    {
+      "word": "several",
+      "start": 16.219999313354492,
+      "end": 16.860000610351562
+    },
+    {
+      "word": "times",
+      "start": 16.860000610351562,
+      "end": 17.1200008392334
+    },
+    {
+      "word": "and",
+      "start": 18.020000457763672,
+      "end": 18.15999984741211
+    },
+    {
+      "word": "he",
+      "start": 18.15999984741211,
+      "end": 18.34000015258789
+    },
+    {
+      "word": "said",
+      "start": 18.34000015258789,
+      "end": 18.559999465942383
+    },
+    {
+      "word": "Do",
+      "start": 19.299999237060547,
+      "end": 19.34000015258789
+    },
+    {
+      "word": "not",
+      "start": 19.34000015258789,
+      "end": 19.520000457763672
+    },
+    {
+      "word": "become",
+      "start": 19.520000457763672,
+      "end": 19.860000610351562
+    },
+    {
+      "word": "angry",
+      "start": 19.860000610351562,
+      "end": 20.200000762939453
     },
     {
       "word": "It",
-      "start": 20.88,
-      "end": 21.02
+      "start": 20.5,
+      "end": 21.020000457763672
     },
     {
       "word": "was",
-      "start": 21.02,
-      "end": 21.26
+      "start": 21.020000457763672,
+      "end": 21.200000762939453
     },
     {
       "word": "related",
-      "start": 21.26,
-      "end": 21.64
+      "start": 21.200000762939453,
+      "end": 21.579999923706055
     },
     {
       "word": "by",
-      "start": 21.64,
+      "start": 21.579999923706055,
       "end": 22.0
     },
     {
-      "word": "al",
+      "word": "Al",
       "start": 22.0,
-      "end": 22.16
+      "end": 22.219999313354492
     },
     {
-      "word": "-Bukhari.",
-      "start": 22.16,
-      "end": 22.56
+      "word": "Bukhari",
+      "start": 22.219999313354492,
+      "end": 22.520000457763672
     }
-  ]
+  ],
+  "hadith_number": 16
 }

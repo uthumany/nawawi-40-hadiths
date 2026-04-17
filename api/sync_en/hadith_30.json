@@ -1,476 +1,466 @@
 {
-  "hadith_number": 30,
-  "text": "On the authority of Abu Falaib al-Qushani, Jufram Ibn Nasha, May Allah be pleased with him. That the messenger of Allah, May the blessings and peace of Allah be upon him, said, Allah the Almighty has laid down religious duties, so do not neglect them. He has set boundaries, so do not overstep them. He has prohibited some things, so do not violate them. About some things he was silent, out of compassion for you, not forgetfulness, so seek not after them, a good head-eaf, related by Ad-Dara Kutni and others.",
+  "text": "On the authority of Abu Falaba al-Khushayni, Jotham ibn Nashr, may Allah be pleased with him. That the Messenger of Allah, may the blessings and peace of Allah be upon him, said, Allah the Almighty has laid down religious duties, so do not neglect them. He has set boundaries, so do not overstep them. He has prohibited some things, so do not violate them. About some things he was silent, out of compassion for you, not forgetfulness. So seek not after them. A good hadith, related by Ad-Darakutni and others.",
   "words": [
     {
       "word": "On",
       "start": 0.0,
-      "end": 0.58
+      "end": 0.47999998927116394
     },
     {
       "word": "the",
-      "start": 0.58,
-      "end": 0.72
+      "start": 0.47999998927116394,
+      "end": 0.6800000071525574
     },
     {
       "word": "authority",
-      "start": 0.72,
-      "end": 1.22
+      "start": 0.6800000071525574,
+      "end": 1.2000000476837158
     },
     {
       "word": "of",
-      "start": 1.22,
-      "end": 2.2
+      "start": 1.2000000476837158,
+      "end": 2.180000066757202
     },
     {
       "word": "Abu",
-      "start": 2.2,
-      "end": 2.42
+      "start": 2.180000066757202,
+      "end": 2.4600000381469727
     },
     {
-      "word": "Falaib",
-      "start": 2.42,
-      "end": 2.96
+      "word": "Falaba",
+      "start": 2.4600000381469727,
+      "end": 2.940000057220459
     },
     {
       "word": "al",
-      "start": 2.96,
-      "end": 3.52
+      "start": 2.940000057220459,
+      "end": 3.759999990463257
     },
     {
-      "word": "-Qushani,",
-      "start": 3.52,
-      "end": 4.2
+      "word": "Khushayni",
+      "start": 3.759999990463257,
+      "end": 4.400000095367432
     },
     {
-      "word": "Jufram",
-      "start": 4.96,
-      "end": 5.46
+      "word": "Jotham",
+      "start": 4.900000095367432,
+      "end": 5.340000152587891
     },
     {
-      "word": "Ibn",
-      "start": 5.46,
-      "end": 5.78
+      "word": "ibn",
+      "start": 5.340000152587891,
+      "end": 5.78000020980835
     },
     {
-      "word": "Nasha,",
-      "start": 5.78,
-      "end": 6.5
+      "word": "Nashr",
+      "start": 5.78000020980835,
+      "end": 6.340000152587891
     },
     {
-      "word": "May",
-      "start": 6.82,
-      "end": 7.0
+      "word": "may",
+      "start": 6.840000152587891,
+      "end": 6.980000019073486
     },
     {
       "word": "Allah",
-      "start": 7.0,
-      "end": 7.28
+      "start": 6.980000019073486,
+      "end": 7.139999866485596
     },
     {
       "word": "be",
-      "start": 7.28,
+      "start": 7.139999866485596,
       "end": 7.5
     },
     {
       "word": "pleased",
       "start": 7.5,
-      "end": 7.78
+      "end": 7.699999809265137
     },
     {
       "word": "with",
-      "start": 7.78,
-      "end": 7.96
+      "start": 7.699999809265137,
+      "end": 7.940000057220459
     },
     {
-      "word": "him.",
-      "start": 7.96,
-      "end": 8.58
+      "word": "him",
+      "start": 7.940000057220459,
+      "end": 8.539999961853027
     },
     {
       "word": "That",
-      "start": 9.02,
-      "end": 9.1
+      "start": 8.5600004196167,
+      "end": 9.100000381469727
     },
     {
       "word": "the",
-      "start": 9.1,
-      "end": 9.3
+      "start": 9.100000381469727,
+      "end": 9.279999732971191
     },
     {
-      "word": "messenger",
-      "start": 9.3,
-      "end": 9.6
+      "word": "Messenger",
+      "start": 9.279999732971191,
+      "end": 9.579999923706055
     },
     {
       "word": "of",
-      "start": 9.6,
-      "end": 9.88
+      "start": 9.579999923706055,
+      "end": 9.960000038146973
     },
     {
-      "word": "Allah,",
-      "start": 9.88,
-      "end": 10.44
+      "word": "Allah",
+      "start": 9.960000038146973,
+      "end": 10.220000267028809
     },
     {
-      "word": "May",
-      "start": 11.02,
-      "end": 11.1
+      "word": "may",
+      "start": 11.039999961853027,
+      "end": 11.079999923706055
     },
     {
       "word": "the",
-      "start": 11.1,
-      "end": 11.28
+      "start": 11.079999923706055,
+      "end": 11.279999732971191
     },
     {
       "word": "blessings",
-      "start": 11.28,
-      "end": 11.62
+      "start": 11.279999732971191,
+      "end": 11.600000381469727
     },
     {
       "word": "and",
-      "start": 11.62,
-      "end": 11.98
+      "start": 11.600000381469727,
+      "end": 12.119999885559082
     },
     {
       "word": "peace",
-      "start": 11.98,
-      "end": 12.24
+      "start": 12.119999885559082,
+      "end": 12.239999771118164
     },
     {
       "word": "of",
-      "start": 12.24,
-      "end": 12.54
+      "start": 12.239999771118164,
+      "end": 12.600000381469727
     },
     {
       "word": "Allah",
-      "start": 12.54,
-      "end": 12.82
+      "start": 12.600000381469727,
+      "end": 12.739999771118164
     },
     {
       "word": "be",
-      "start": 12.82,
-      "end": 13.0
+      "start": 12.739999771118164,
+      "end": 12.979999542236328
     },
     {
       "word": "upon",
-      "start": 13.0,
-      "end": 13.24
+      "start": 12.979999542236328,
+      "end": 13.199999809265137
     },
     {
-      "word": "him,",
-      "start": 13.24,
-      "end": 13.84
+      "word": "him",
+      "start": 13.199999809265137,
+      "end": 13.65999984741211
     },
     {
-      "word": "said,",
-      "start": 14.12,
-      "end": 14.46
+      "word": "said",
+      "start": 14.15999984741211,
+      "end": 14.239999771118164
     },
     {
       "word": "Allah",
-      "start": 15.34,
-      "end": 15.5
+      "start": 15.399999618530273,
+      "end": 15.4399995803833
     },
     {
       "word": "the",
-      "start": 15.5,
-      "end": 15.74
+      "start": 15.4399995803833,
+      "end": 15.699999809265137
     },
     {
       "word": "Almighty",
-      "start": 15.74,
-      "end": 16.16
+      "start": 15.699999809265137,
+      "end": 16.100000381469727
     },
     {
       "word": "has",
-      "start": 16.16,
-      "end": 17.22
+      "start": 16.100000381469727,
+      "end": 17.15999984741211
     },
     {
       "word": "laid",
-      "start": 17.22,
-      "end": 17.5
+      "start": 17.15999984741211,
+      "end": 17.3799991607666
     },
     {
       "word": "down",
-      "start": 17.5,
-      "end": 17.88
+      "start": 17.3799991607666,
+      "end": 17.979999542236328
     },
     {
       "word": "religious",
-      "start": 17.88,
-      "end": 18.38
+      "start": 17.979999542236328,
+      "end": 18.420000076293945
     },
     {
-      "word": "duties,",
-      "start": 18.38,
-      "end": 18.94
+      "word": "duties",
+      "start": 18.420000076293945,
+      "end": 18.899999618530273
     },
     {
       "word": "so",
-      "start": 19.72,
-      "end": 19.86
+      "start": 19.6200008392334,
+      "end": 19.81999969482422
     },
     {
       "word": "do",
-      "start": 19.86,
-      "end": 20.02
+      "start": 19.81999969482422,
+      "end": 20.0
     },
     {
       "word": "not",
-      "start": 20.02,
-      "end": 20.3
+      "start": 20.0,
+      "end": 20.360000610351562
     },
     {
       "word": "neglect",
-      "start": 20.3,
-      "end": 20.7
+      "start": 20.360000610351562,
+      "end": 20.68000030517578
     },
     {
-      "word": "them.",
-      "start": 20.7,
-      "end": 21.48
+      "word": "them",
+      "start": 20.68000030517578,
+      "end": 21.100000381469727
     },
     {
       "word": "He",
-      "start": 21.84,
-      "end": 22.0
+      "start": 21.780000686645508,
+      "end": 21.959999084472656
     },
     {
       "word": "has",
-      "start": 22.0,
-      "end": 22.22
+      "start": 21.959999084472656,
+      "end": 22.15999984741211
     },
     {
       "word": "set",
-      "start": 22.22,
-      "end": 22.42
+      "start": 22.15999984741211,
+      "end": 22.440000534057617
     },
     {
-      "word": "boundaries,",
-      "start": 22.42,
-      "end": 22.9
+      "word": "boundaries",
+      "start": 22.440000534057617,
+      "end": 22.940000534057617
     },
     {
       "word": "so",
-      "start": 24.12,
-      "end": 24.3
+      "start": 23.959999084472656,
+      "end": 24.280000686645508
     },
     {
       "word": "do",
-      "start": 24.3,
-      "end": 24.48
+      "start": 24.280000686645508,
+      "end": 24.459999084472656
     },
     {
       "word": "not",
-      "start": 24.48,
-      "end": 24.88
+      "start": 24.459999084472656,
+      "end": 24.84000015258789
     },
     {
       "word": "overstep",
-      "start": 24.88,
-      "end": 25.36
+      "start": 24.84000015258789,
+      "end": 25.31999969482422
     },
     {
-      "word": "them.",
-      "start": 25.36,
-      "end": 25.84
+      "word": "them",
+      "start": 25.31999969482422,
+      "end": 25.719999313354492
     },
     {
       "word": "He",
-      "start": 26.26,
-      "end": 26.44
+      "start": 25.719999313354492,
+      "end": 26.399999618530273
     },
     {
       "word": "has",
-      "start": 26.44,
-      "end": 26.72
+      "start": 26.399999618530273,
+      "end": 26.639999389648438
     },
     {
       "word": "prohibited",
-      "start": 26.72,
-      "end": 27.04
+      "start": 26.639999389648438,
+      "end": 27.040000915527344
     },
     {
       "word": "some",
-      "start": 27.04,
-      "end": 27.58
-    },
-    {
-      "word": "things,",
-      "start": 27.58,
-      "end": 28.22
-    },
-    {
-      "word": "so",
-      "start": 28.86,
-      "end": 29.24
-    },
-    {
-      "word": "do",
-      "start": 29.24,
-      "end": 29.42
-    },
-    {
-      "word": "not",
-      "start": 29.42,
-      "end": 29.7
-    },
-    {
-      "word": "violate",
-      "start": 29.7,
-      "end": 30.12
-    },
-    {
-      "word": "them.",
-      "start": 30.12,
-      "end": 31.04
-    },
-    {
-      "word": "About",
-      "start": 31.66,
-      "end": 31.84
-    },
-    {
-      "word": "some",
-      "start": 31.84,
-      "end": 32.22
+      "start": 27.040000915527344,
+      "end": 27.559999465942383
     },
     {
       "word": "things",
-      "start": 32.22,
-      "end": 32.66
-    },
-    {
-      "word": "he",
-      "start": 32.66,
-      "end": 33.06
-    },
-    {
-      "word": "was",
-      "start": 33.06,
-      "end": 33.28
-    },
-    {
-      "word": "silent,",
-      "start": 33.28,
-      "end": 33.74
-    },
-    {
-      "word": "out",
-      "start": 34.82,
-      "end": 34.98
-    },
-    {
-      "word": "of",
-      "start": 34.98,
-      "end": 35.16
-    },
-    {
-      "word": "compassion",
-      "start": 35.16,
-      "end": 35.48
-    },
-    {
-      "word": "for",
-      "start": 35.48,
-      "end": 35.9
-    },
-    {
-      "word": "you,",
-      "start": 35.9,
-      "end": 36.44
-    },
-    {
-      "word": "not",
-      "start": 36.72,
-      "end": 36.88
-    },
-    {
-      "word": "forgetfulness,",
-      "start": 36.88,
-      "end": 37.8
+      "start": 27.559999465942383,
+      "end": 27.979999542236328
     },
     {
       "word": "so",
-      "start": 38.62,
-      "end": 38.8
+      "start": 29.059999465942383,
+      "end": 29.18000030517578
     },
     {
-      "word": "seek",
-      "start": 38.8,
-      "end": 39.04
+      "word": "do",
+      "start": 29.18000030517578,
+      "end": 29.399999618530273
     },
     {
       "word": "not",
-      "start": 39.04,
-      "end": 39.3
+      "start": 29.399999618530273,
+      "end": 29.700000762939453
+    },
+    {
+      "word": "violate",
+      "start": 29.700000762939453,
+      "end": 30.079999923706055
+    },
+    {
+      "word": "them",
+      "start": 30.079999923706055,
+      "end": 30.579999923706055
+    },
+    {
+      "word": "About",
+      "start": 31.600000381469727,
+      "end": 31.799999237060547
+    },
+    {
+      "word": "some",
+      "start": 31.799999237060547,
+      "end": 32.20000076293945
+    },
+    {
+      "word": "things",
+      "start": 32.20000076293945,
+      "end": 32.560001373291016
+    },
+    {
+      "word": "he",
+      "start": 32.560001373291016,
+      "end": 32.97999954223633
+    },
+    {
+      "word": "was",
+      "start": 32.97999954223633,
+      "end": 33.2599983215332
+    },
+    {
+      "word": "silent",
+      "start": 33.2599983215332,
+      "end": 33.70000076293945
+    },
+    {
+      "word": "out",
+      "start": 34.79999923706055,
+      "end": 34.900001525878906
+    },
+    {
+      "word": "of",
+      "start": 34.900001525878906,
+      "end": 35.220001220703125
+    },
+    {
+      "word": "compassion",
+      "start": 35.220001220703125,
+      "end": 35.5
+    },
+    {
+      "word": "for",
+      "start": 35.5,
+      "end": 35.880001068115234
+    },
+    {
+      "word": "you",
+      "start": 35.880001068115234,
+      "end": 36.2400016784668
+    },
+    {
+      "word": "not",
+      "start": 36.70000076293945,
+      "end": 36.86000061035156
+    },
+    {
+      "word": "forgetfulness",
+      "start": 36.86000061035156,
+      "end": 37.52000045776367
+    },
+    {
+      "word": "So",
+      "start": 38.439998626708984,
+      "end": 38.7599983215332
+    },
+    {
+      "word": "seek",
+      "start": 38.7599983215332,
+      "end": 38.97999954223633
+    },
+    {
+      "word": "not",
+      "start": 38.97999954223633,
+      "end": 39.279998779296875
     },
     {
       "word": "after",
-      "start": 39.3,
-      "end": 39.66
+      "start": 39.279998779296875,
+      "end": 39.63999938964844
     },
     {
-      "word": "them,",
-      "start": 39.66,
-      "end": 40.3
+      "word": "them",
+      "start": 39.63999938964844,
+      "end": 39.97999954223633
     },
     {
-      "word": "a",
-      "start": 40.98,
-      "end": 41.02
+      "word": "A",
+      "start": 40.81999969482422,
+      "end": 40.97999954223633
     },
     {
       "word": "good",
-      "start": 41.02,
-      "end": 41.26
+      "start": 40.97999954223633,
+      "end": 41.2400016784668
     },
     {
-      "word": "head",
-      "start": 41.26,
-      "end": 41.52
-    },
-    {
-      "word": "-eaf,",
-      "start": 41.52,
-      "end": 42.3
+      "word": "hadith",
+      "start": 41.2400016784668,
+      "end": 41.70000076293945
     },
     {
       "word": "related",
-      "start": 42.48,
-      "end": 42.84
+      "start": 42.7599983215332,
+      "end": 42.7599983215332
     },
     {
       "word": "by",
-      "start": 42.84,
-      "end": 43.18
+      "start": 42.7599983215332,
+      "end": 43.2400016784668
     },
     {
       "word": "Ad",
-      "start": 43.18,
-      "end": 43.38
+      "start": 43.2400016784668,
+      "end": 43.439998626708984
     },
     {
-      "word": "-Dara",
-      "start": 43.38,
-      "end": 43.58
-    },
-    {
-      "word": "Kutni",
-      "start": 43.58,
-      "end": 44.04
+      "word": "Darakutni",
+      "start": 43.439998626708984,
+      "end": 43.939998626708984
     },
     {
       "word": "and",
-      "start": 44.04,
-      "end": 44.76
+      "start": 43.939998626708984,
+      "end": 44.779998779296875
     },
     {
-      "word": "others.",
-      "start": 44.76,
-      "end": 45.16
+      "word": "others",
+      "start": 44.779998779296875,
+      "end": 45.08000183105469
     }
-  ]
+  ],
+  "hadith_number": 30
 }

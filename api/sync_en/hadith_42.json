@@ -1,226 +1,226 @@
 {
-  "hadith_number": 42,
-  "text": "We learned from this edith one, supplication is commanded by Allah who has promised to accept it. Two, Allah's forgiveness and mercy are vast enough to cater for those who repent and seek forgiveness. Three, Allah forgives any and everything except polytheism and disbelief.",
+  "text": "We learn from this hadith. 1. Supplication is commanded by Allah, who has promised to accept it. 2. Allah's forgiveness and mercy are vast enough to cater for those who repent and seek forgiveness. 3. Allah forgives any and everything except polytheism and disbelief.",
   "words": [
     {
       "word": "We",
       "start": 0.0,
-      "end": 0.4
+      "end": 0.36000001430511475
     },
     {
-      "word": "learned",
-      "start": 0.4,
-      "end": 0.66
+      "word": "learn",
+      "start": 0.36000001430511475,
+      "end": 0.6000000238418579
     },
     {
       "word": "from",
-      "start": 0.66,
-      "end": 0.88
+      "start": 0.6000000238418579,
+      "end": 0.7799999713897705
     },
     {
       "word": "this",
-      "start": 0.88,
-      "end": 1.06
+      "start": 0.7799999713897705,
+      "end": 1.340000033378601
     },
     {
-      "word": "edith",
-      "start": 1.06,
-      "end": 1.54
+      "word": "hadith",
+      "start": 1.340000033378601,
+      "end": 1.4199999570846558
     },
     {
-      "word": "one,",
-      "start": 1.54,
-      "end": 2.2
+      "word": "1",
+      "start": 1.899999976158142,
+      "end": 1.9800000190734863
     },
     {
-      "word": "supplication",
-      "start": 2.62,
-      "end": 3.32
+      "word": "Supplication",
+      "start": 2.7799999713897705,
+      "end": 3.2200000286102295
     },
     {
       "word": "is",
-      "start": 3.32,
-      "end": 3.66
+      "start": 3.2200000286102295,
+      "end": 3.6600000858306885
     },
     {
       "word": "commanded",
-      "start": 3.66,
-      "end": 3.96
+      "start": 3.6600000858306885,
+      "end": 3.9200000762939453
     },
     {
       "word": "by",
-      "start": 3.96,
-      "end": 4.28
+      "start": 3.9200000762939453,
+      "end": 4.380000114440918
     },
     {
       "word": "Allah",
-      "start": 4.28,
-      "end": 4.66
+      "start": 4.380000114440918,
+      "end": 4.559999942779541
     },
     {
       "word": "who",
-      "start": 4.66,
-      "end": 5.1
+      "start": 4.940000057220459,
+      "end": 5.039999961853027
     },
     {
       "word": "has",
-      "start": 5.1,
-      "end": 5.26
+      "start": 5.039999961853027,
+      "end": 5.340000152587891
     },
     {
       "word": "promised",
-      "start": 5.26,
-      "end": 5.62
+      "start": 5.340000152587891,
+      "end": 5.559999942779541
     },
     {
       "word": "to",
-      "start": 5.62,
-      "end": 5.92
+      "start": 5.559999942779541,
+      "end": 5.880000114440918
     },
     {
       "word": "accept",
-      "start": 5.92,
-      "end": 6.18
+      "start": 5.880000114440918,
+      "end": 6.199999809265137
     },
     {
-      "word": "it.",
-      "start": 6.18,
-      "end": 6.78
+      "word": "it",
+      "start": 6.199999809265137,
+      "end": 6.519999980926514
     },
     {
-      "word": "Two,",
-      "start": 7.0,
-      "end": 7.42
+      "word": "2",
+      "start": 7.059999942779541,
+      "end": 7.260000228881836
     },
     {
       "word": "Allah's",
-      "start": 7.72,
-      "end": 8.08
+      "start": 7.340000152587891,
+      "end": 8.0600004196167
     },
     {
       "word": "forgiveness",
-      "start": 8.08,
-      "end": 8.48
+      "start": 8.0600004196167,
+      "end": 8.399999618530273
     },
     {
       "word": "and",
-      "start": 8.48,
-      "end": 8.88
+      "start": 8.399999618530273,
+      "end": 9.260000228881836
     },
     {
       "word": "mercy",
-      "start": 8.88,
-      "end": 9.36
+      "start": 9.260000228881836,
+      "end": 9.260000228881836
     },
     {
       "word": "are",
-      "start": 9.36,
-      "end": 9.78
+      "start": 9.260000228881836,
+      "end": 9.739999771118164
     },
     {
       "word": "vast",
-      "start": 9.78,
-      "end": 10.02
+      "start": 9.739999771118164,
+      "end": 9.979999542236328
     },
     {
       "word": "enough",
-      "start": 10.02,
-      "end": 10.34
+      "start": 9.979999542236328,
+      "end": 10.34000015258789
     },
     {
       "word": "to",
-      "start": 10.34,
-      "end": 10.58
+      "start": 10.34000015258789,
+      "end": 10.720000267028809
     },
     {
       "word": "cater",
-      "start": 10.58,
-      "end": 10.92
+      "start": 10.720000267028809,
+      "end": 10.819999694824219
     },
     {
       "word": "for",
-      "start": 10.92,
-      "end": 11.3
+      "start": 10.819999694824219,
+      "end": 11.260000228881836
     },
     {
       "word": "those",
-      "start": 11.3,
-      "end": 11.82
+      "start": 11.260000228881836,
+      "end": 11.899999618530273
     },
     {
       "word": "who",
-      "start": 11.82,
-      "end": 12.28
+      "start": 11.899999618530273,
+      "end": 12.260000228881836
     },
     {
       "word": "repent",
-      "start": 12.28,
-      "end": 12.66
+      "start": 12.260000228881836,
+      "end": 12.619999885559082
     },
     {
       "word": "and",
-      "start": 12.66,
-      "end": 13.16
+      "start": 12.619999885559082,
+      "end": 13.15999984741211
     },
     {
       "word": "seek",
-      "start": 13.16,
-      "end": 13.38
+      "start": 13.15999984741211,
+      "end": 13.359999656677246
     },
     {
-      "word": "forgiveness.",
-      "start": 13.38,
-      "end": 13.92
+      "word": "forgiveness",
+      "start": 13.359999656677246,
+      "end": 13.84000015258789
     },
     {
-      "word": "Three,",
-      "start": 14.48,
-      "end": 14.88
+      "word": "3",
+      "start": 14.5,
+      "end": 14.699999809265137
     },
     {
       "word": "Allah",
-      "start": 15.24,
-      "end": 15.46
+      "start": 15.079999923706055,
+      "end": 15.479999542236328
     },
     {
       "word": "forgives",
-      "start": 15.46,
-      "end": 16.06
+      "start": 15.479999542236328,
+      "end": 15.920000076293945
     },
     {
       "word": "any",
-      "start": 16.06,
-      "end": 16.46
+      "start": 15.920000076293945,
+      "end": 16.440000534057617
     },
     {
       "word": "and",
-      "start": 16.46,
-      "end": 16.9
+      "start": 16.440000534057617,
+      "end": 16.860000610351562
     },
     {
       "word": "everything",
-      "start": 16.9,
-      "end": 17.42
+      "start": 16.860000610351562,
+      "end": 17.399999618530273
     },
     {
       "word": "except",
-      "start": 17.42,
-      "end": 18.44
+      "start": 18.0,
+      "end": 18.760000228881836
     },
     {
       "word": "polytheism",
-      "start": 18.44,
-      "end": 19.56
+      "start": 18.760000228881836,
+      "end": 19.520000457763672
     },
     {
       "word": "and",
-      "start": 19.56,
-      "end": 20.32
+      "start": 19.520000457763672,
+      "end": 20.31999969482422
     },
     {
-      "word": "disbelief.",
-      "start": 20.32,
-      "end": 20.86
+      "word": "disbelief",
+      "start": 20.31999969482422,
+      "end": 20.81999969482422
     }
-  ]
+  ],
+  "hadith_number": 42
 }

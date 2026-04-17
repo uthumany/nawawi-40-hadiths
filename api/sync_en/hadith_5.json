@@ -1,426 +1,431 @@
 {
-  "hadith_number": 5,
-  "text": "On your 30th of the mother of the faithful, Om Abdullah Ayesha, may Allah be pleased with her, who said, the messenger of Allah, may the blessings and peace of Allah be upon him, said, He who innovates something in this matter of ours that does not of it will have it rejected. It was related by al-Bukhari and Muslim. In one version by Muslim it reads, He who doesn't act which our matter is not in agreement with will have it rejected.",
+  "text": "On the authority of the mother of the faithful, Umm Abdullah Aisha, may Allah be pleased with her, who said, The Messenger of Allah, may the blessings and peace of Allah be upon him, said, He who innovates something in this matter of ours, that is not of it, will have it rejected. It was related by al-Bukhari and Muslim. In one version by Muslim it reads, He who does an act which our matter is not in agreement with will have it rejected.",
   "words": [
     {
       "word": "On",
       "start": 0.0,
-      "end": 0.42
-    },
-    {
-      "word": "your",
-      "start": 0.42,
-      "end": 0.62
-    },
-    {
-      "word": "30th",
-      "start": 0.62,
-      "end": 1.16
-    },
-    {
-      "word": "of",
-      "start": 1.16,
-      "end": 1.22
+      "end": 0.3400000035762787
     },
     {
       "word": "the",
-      "start": 1.22,
-      "end": 1.28
+      "start": 0.3400000035762787,
+      "end": 0.5400000214576721
+    },
+    {
+      "word": "authority",
+      "start": 0.5400000214576721,
+      "end": 0.8600000143051147
+    },
+    {
+      "word": "of",
+      "start": 0.8600000143051147,
+      "end": 1.2000000476837158
+    },
+    {
+      "word": "the",
+      "start": 1.2000000476837158,
+      "end": 1.3799999952316284
     },
     {
       "word": "mother",
-      "start": 1.28,
-      "end": 1.48
+      "start": 1.3799999952316284,
+      "end": 1.4600000381469727
     },
     {
       "word": "of",
-      "start": 1.48,
-      "end": 1.78
+      "start": 1.4600000381469727,
+      "end": 2.119999885559082
     },
     {
       "word": "the",
-      "start": 1.78,
-      "end": 1.88
+      "start": 2.119999885559082,
+      "end": 2.240000009536743
     },
     {
-      "word": "faithful,",
-      "start": 1.88,
-      "end": 2.4
+      "word": "faithful",
+      "start": 2.240000009536743,
+      "end": 2.240000009536743
     },
     {
-      "word": "Om",
-      "start": 2.98,
-      "end": 3.18
+      "word": "Umm",
+      "start": 2.9800000190734863,
+      "end": 3.1600000858306885
     },
     {
       "word": "Abdullah",
-      "start": 3.18,
-      "end": 3.66
+      "start": 3.1600000858306885,
+      "end": 3.799999952316284
     },
     {
-      "word": "Ayesha,",
-      "start": 3.66,
-      "end": 4.54
+      "word": "Aisha",
+      "start": 3.799999952316284,
+      "end": 4.420000076293945
     },
     {
       "word": "may",
-      "start": 5.0,
-      "end": 5.18
+      "start": 4.960000038146973,
+      "end": 5.119999885559082
     },
     {
       "word": "Allah",
-      "start": 5.18,
-      "end": 5.48
+      "start": 5.119999885559082,
+      "end": 5.380000114440918
     },
     {
       "word": "be",
-      "start": 5.48,
-      "end": 5.72
+      "start": 5.380000114440918,
+      "end": 5.71999979019165
     },
     {
       "word": "pleased",
-      "start": 5.72,
-      "end": 5.96
+      "start": 5.71999979019165,
+      "end": 5.920000076293945
     },
     {
       "word": "with",
-      "start": 5.96,
-      "end": 6.14
+      "start": 5.920000076293945,
+      "end": 6.119999885559082
     },
     {
-      "word": "her,",
-      "start": 6.14,
-      "end": 6.62
+      "word": "her",
+      "start": 6.119999885559082,
+      "end": 6.659999847412109
     },
     {
       "word": "who",
-      "start": 6.92,
-      "end": 7.14
+      "start": 6.920000076293945,
+      "end": 7.119999885559082
     },
     {
-      "word": "said,",
-      "start": 7.14,
-      "end": 7.52
+      "word": "said",
+      "start": 7.119999885559082,
+      "end": 7.320000171661377
     },
     {
-      "word": "the",
-      "start": 7.96,
-      "end": 8.06
+      "word": "The",
+      "start": 8.020000457763672,
+      "end": 8.020000457763672
     },
     {
-      "word": "messenger",
-      "start": 8.06,
-      "end": 8.42
+      "word": "Messenger",
+      "start": 8.020000457763672,
+      "end": 8.359999656677246
     },
     {
       "word": "of",
-      "start": 8.42,
-      "end": 8.66
+      "start": 8.359999656677246,
+      "end": 8.800000190734863
     },
     {
-      "word": "Allah,",
-      "start": 8.66,
-      "end": 9.16
+      "word": "Allah",
+      "start": 8.800000190734863,
+      "end": 9.0
     },
     {
       "word": "may",
-      "start": 9.44,
-      "end": 9.58
+      "start": 9.460000038146973,
+      "end": 9.539999961853027
     },
     {
       "word": "the",
-      "start": 9.58,
-      "end": 9.74
+      "start": 9.539999961853027,
+      "end": 9.760000228881836
     },
     {
       "word": "blessings",
-      "start": 9.74,
+      "start": 9.760000228881836,
       "end": 10.0
     },
     {
       "word": "and",
       "start": 10.0,
-      "end": 10.28
+      "end": 10.420000076293945
     },
     {
       "word": "peace",
-      "start": 10.28,
-      "end": 10.46
+      "start": 10.420000076293945,
+      "end": 10.460000038146973
     },
     {
       "word": "of",
-      "start": 10.46,
-      "end": 10.7
+      "start": 10.460000038146973,
+      "end": 10.760000228881836
     },
     {
       "word": "Allah",
-      "start": 10.7,
-      "end": 10.96
+      "start": 10.760000228881836,
+      "end": 10.899999618530273
     },
     {
       "word": "be",
-      "start": 10.96,
-      "end": 11.16
+      "start": 10.899999618530273,
+      "end": 11.119999885559082
     },
     {
       "word": "upon",
-      "start": 11.16,
-      "end": 11.36
+      "start": 11.119999885559082,
+      "end": 11.319999694824219
     },
     {
-      "word": "him,",
-      "start": 11.36,
-      "end": 11.92
+      "word": "him",
+      "start": 11.319999694824219,
+      "end": 11.579999923706055
     },
     {
-      "word": "said,",
-      "start": 12.16,
-      "end": 12.34
+      "word": "said",
+      "start": 12.140000343322754,
+      "end": 12.300000190734863
     },
     {
       "word": "He",
-      "start": 12.94,
-      "end": 13.12
+      "start": 12.9399995803833,
+      "end": 13.0600004196167
     },
     {
       "word": "who",
-      "start": 13.12,
-      "end": 13.38
+      "start": 13.0600004196167,
+      "end": 13.279999732971191
     },
     {
       "word": "innovates",
-      "start": 13.38,
-      "end": 13.8
+      "start": 13.279999732971191,
+      "end": 13.739999771118164
     },
     {
       "word": "something",
-      "start": 13.8,
-      "end": 14.14
+      "start": 13.739999771118164,
+      "end": 14.119999885559082
     },
     {
       "word": "in",
-      "start": 14.14,
-      "end": 14.38
+      "start": 14.119999885559082,
+      "end": 14.279999732971191
     },
     {
       "word": "this",
-      "start": 14.38,
-      "end": 14.54
+      "start": 14.279999732971191,
+      "end": 14.619999885559082
     },
     {
       "word": "matter",
-      "start": 14.54,
-      "end": 14.82
+      "start": 14.619999885559082,
+      "end": 14.760000228881836
     },
     {
       "word": "of",
-      "start": 14.82,
-      "end": 15.14
+      "start": 14.760000228881836,
+      "end": 15.220000267028809
     },
     {
       "word": "ours",
-      "start": 15.14,
-      "end": 15.6
+      "start": 15.220000267028809,
+      "end": 15.399999618530273
     },
     {
       "word": "that",
-      "start": 15.6,
-      "end": 16.0
-    },
-    {
-      "word": "does",
-      "start": 16.0,
-      "end": 16.18
-    },
-    {
-      "word": "not",
-      "start": 16.18,
-      "end": 16.36
-    },
-    {
-      "word": "of",
-      "start": 16.36,
-      "end": 16.62
-    },
-    {
-      "word": "it",
-      "start": 16.62,
-      "end": 17.02
-    },
-    {
-      "word": "will",
-      "start": 17.02,
-      "end": 17.4
-    },
-    {
-      "word": "have",
-      "start": 17.4,
-      "end": 17.56
-    },
-    {
-      "word": "it",
-      "start": 17.56,
-      "end": 17.74
-    },
-    {
-      "word": "rejected.",
-      "start": 17.74,
-      "end": 18.2
-    },
-    {
-      "word": "It",
-      "start": 19.08,
-      "end": 19.22
-    },
-    {
-      "word": "was",
-      "start": 19.22,
-      "end": 19.36
-    },
-    {
-      "word": "related",
-      "start": 19.36,
-      "end": 19.74
-    },
-    {
-      "word": "by",
-      "start": 19.74,
-      "end": 20.0
-    },
-    {
-      "word": "al",
-      "start": 20.0,
-      "end": 20.18
-    },
-    {
-      "word": "-Bukhari",
-      "start": 20.18,
-      "end": 20.58
-    },
-    {
-      "word": "and",
-      "start": 20.58,
-      "end": 21.0
-    },
-    {
-      "word": "Muslim.",
-      "start": 21.0,
-      "end": 21.42
-    },
-    {
-      "word": "In",
-      "start": 22.26,
-      "end": 22.42
-    },
-    {
-      "word": "one",
-      "start": 22.42,
-      "end": 22.62
-    },
-    {
-      "word": "version",
-      "start": 22.62,
-      "end": 23.02
-    },
-    {
-      "word": "by",
-      "start": 23.02,
-      "end": 23.38
-    },
-    {
-      "word": "Muslim",
-      "start": 23.38,
-      "end": 23.7
-    },
-    {
-      "word": "it",
-      "start": 23.7,
-      "end": 23.96
-    },
-    {
-      "word": "reads,",
-      "start": 23.96,
-      "end": 24.26
-    },
-    {
-      "word": "He",
-      "start": 24.26,
-      "end": 25.18
-    },
-    {
-      "word": "who",
-      "start": 25.18,
-      "end": 25.44
-    },
-    {
-      "word": "doesn't",
-      "start": 25.44,
-      "end": 25.78
-    },
-    {
-      "word": "act",
-      "start": 25.78,
-      "end": 26.14
-    },
-    {
-      "word": "which",
-      "start": 26.14,
-      "end": 26.56
-    },
-    {
-      "word": "our",
-      "start": 26.56,
-      "end": 26.72
-    },
-    {
-      "word": "matter",
-      "start": 26.72,
-      "end": 26.96
+      "start": 15.65999984741211,
+      "end": 16.020000457763672
     },
     {
       "word": "is",
-      "start": 26.96,
-      "end": 27.26
+      "start": 16.020000457763672,
+      "end": 16.15999984741211
     },
     {
       "word": "not",
-      "start": 27.26,
-      "end": 27.72
+      "start": 16.15999984741211,
+      "end": 16.34000015258789
     },
     {
-      "word": "in",
-      "start": 27.72,
-      "end": 28.2
-    },
-    {
-      "word": "agreement",
-      "start": 28.2,
-      "end": 28.56
-    },
-    {
-      "word": "with",
-      "start": 28.56,
-      "end": 29.94
-    },
-    {
-      "word": "will",
-      "start": 29.94,
-      "end": 30.18
-    },
-    {
-      "word": "have",
-      "start": 30.18,
-      "end": 30.54
+      "word": "of",
+      "start": 16.34000015258789,
+      "end": 16.600000381469727
     },
     {
       "word": "it",
-      "start": 30.54,
-      "end": 30.84
+      "start": 16.600000381469727,
+      "end": 16.860000610351562
     },
     {
-      "word": "rejected.",
-      "start": 30.84,
-      "end": 31.2
+      "word": "will",
+      "start": 17.18000030517578,
+      "end": 17.34000015258789
+    },
+    {
+      "word": "have",
+      "start": 17.34000015258789,
+      "end": 17.5
+    },
+    {
+      "word": "it",
+      "start": 17.5,
+      "end": 17.780000686645508
+    },
+    {
+      "word": "rejected",
+      "start": 17.780000686645508,
+      "end": 18.15999984741211
+    },
+    {
+      "word": "It",
+      "start": 18.920000076293945,
+      "end": 19.200000762939453
+    },
+    {
+      "word": "was",
+      "start": 19.200000762939453,
+      "end": 19.360000610351562
+    },
+    {
+      "word": "related",
+      "start": 19.360000610351562,
+      "end": 19.719999313354492
+    },
+    {
+      "word": "by",
+      "start": 19.719999313354492,
+      "end": 20.020000457763672
+    },
+    {
+      "word": "al",
+      "start": 20.020000457763672,
+      "end": 20.280000686645508
+    },
+    {
+      "word": "Bukhari",
+      "start": 20.280000686645508,
+      "end": 20.5
+    },
+    {
+      "word": "and",
+      "start": 20.5,
+      "end": 21.0
+    },
+    {
+      "word": "Muslim",
+      "start": 21.0,
+      "end": 21.280000686645508
+    },
+    {
+      "word": "In",
+      "start": 22.18000030517578,
+      "end": 22.360000610351562
+    },
+    {
+      "word": "one",
+      "start": 22.360000610351562,
+      "end": 22.639999389648438
+    },
+    {
+      "word": "version",
+      "start": 22.639999389648438,
+      "end": 23.0
+    },
+    {
+      "word": "by",
+      "start": 23.0,
+      "end": 23.3799991607666
+    },
+    {
+      "word": "Muslim",
+      "start": 23.3799991607666,
+      "end": 23.65999984741211
+    },
+    {
+      "word": "it",
+      "start": 23.65999984741211,
+      "end": 23.959999084472656
+    },
+    {
+      "word": "reads",
+      "start": 23.959999084472656,
+      "end": 24.239999771118164
+    },
+    {
+      "word": "He",
+      "start": 24.239999771118164,
+      "end": 25.15999984741211
+    },
+    {
+      "word": "who",
+      "start": 25.15999984741211,
+      "end": 25.3799991607666
+    },
+    {
+      "word": "does",
+      "start": 25.3799991607666,
+      "end": 25.579999923706055
+    },
+    {
+      "word": "an",
+      "start": 25.579999923706055,
+      "end": 26.059999465942383
+    },
+    {
+      "word": "act",
+      "start": 26.059999465942383,
+      "end": 26.059999465942383
+    },
+    {
+      "word": "which",
+      "start": 26.059999465942383,
+      "end": 26.5
+    },
+    {
+      "word": "our",
+      "start": 26.5,
+      "end": 26.68000030517578
+    },
+    {
+      "word": "matter",
+      "start": 26.68000030517578,
+      "end": 26.979999542236328
+    },
+    {
+      "word": "is",
+      "start": 26.979999542236328,
+      "end": 27.200000762939453
+    },
+    {
+      "word": "not",
+      "start": 27.200000762939453,
+      "end": 27.540000915527344
+    },
+    {
+      "word": "in",
+      "start": 27.540000915527344,
+      "end": 28.200000762939453
+    },
+    {
+      "word": "agreement",
+      "start": 28.200000762939453,
+      "end": 28.559999465942383
+    },
+    {
+      "word": "with",
+      "start": 28.559999465942383,
+      "end": 29.920000076293945
+    },
+    {
+      "word": "will",
+      "start": 29.920000076293945,
+      "end": 30.1200008392334
+    },
+    {
+      "word": "have",
+      "start": 30.1200008392334,
+      "end": 30.440000534057617
+    },
+    {
+      "word": "it",
+      "start": 30.440000534057617,
+      "end": 30.81999969482422
+    },
+    {
+      "word": "rejected",
+      "start": 30.81999969482422,
+      "end": 31.239999771118164
     }
-  ]
+  ],
+  "hadith_number": 5
 }

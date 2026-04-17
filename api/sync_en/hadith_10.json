@@ -1,756 +1,736 @@
 {
-  "hadith_number": 10,
-  "text": "On the authority of Abu Huraira, may Allah be pleased to have him, who said, the messenger of Allah, may the blessings and peace of Allah be upon him, said, Allah the Almighty is good and accepts only that which is good. Allah has commanded the faithful to do that which he commanded the messengers. And the Almighty has said, O ye messengers, eat of the good things and do right. And Allah the Almighty has said, O ye who believe, eat the good things wherewith we have provided you. Then he mentioned the case of a man who having journeyed far, is disheveled and dusty, and he spread sat His hands to the sky, saying, O Lord, O Lord, while His food is unlawful, His drink and lawful, His clothing and lawful, and He has nourished and loathily. So how can He be answered? It was related by Muslim.",
+  "text": "On the authority of Abu Huraira, may Allah be pleased with him, who said, The Messenger of Allah, may the blessings and peace of Allah be upon him, said, Allah the Almighty is good and accepts only that which is good. Allah has commanded the faithful to do that which he commanded the messengers. And the Almighty has said, O ye messengers, eat of the good things and do right. And Allah the Almighty has said, O ye who believe, eat the good things wherewith we have provided you. Then he mentioned the case of a man who, having journeyed far, is dishevelled and dusty, and who spreads out his hands to the sky, saying, O Lord, O Lord, while his food is unlawful, his drink unlawful, his clothing unlawful, and he is nourished unlawfully. So how can he be answered? It was related by Muslim.",
   "words": [
     {
       "word": "On",
       "start": 0.0,
-      "end": 0.7
+      "end": 0.6000000238418579
     },
     {
       "word": "the",
-      "start": 0.7,
-      "end": 0.8
+      "start": 0.6000000238418579,
+      "end": 0.8199999928474426
     },
     {
       "word": "authority",
-      "start": 0.8,
-      "end": 1.2
+      "start": 0.8199999928474426,
+      "end": 1.2000000476837158
     },
     {
       "word": "of",
-      "start": 1.2,
-      "end": 1.58
+      "start": 1.2000000476837158,
+      "end": 1.5399999618530273
     },
     {
       "word": "Abu",
-      "start": 1.58,
-      "end": 1.76
+      "start": 1.5399999618530273,
+      "end": 1.7799999713897705
     },
     {
-      "word": "Huraira,",
-      "start": 1.76,
-      "end": 2.64
+      "word": "Huraira",
+      "start": 1.7799999713897705,
+      "end": 2.8399999141693115
     },
     {
       "word": "may",
-      "start": 3.22,
-      "end": 3.34
+      "start": 3.2200000286102295,
+      "end": 3.299999952316284
     },
     {
       "word": "Allah",
-      "start": 3.34,
-      "end": 3.66
+      "start": 3.299999952316284,
+      "end": 3.559999942779541
     },
     {
       "word": "be",
-      "start": 3.66,
-      "end": 3.88
+      "start": 3.559999942779541,
+      "end": 3.9200000762939453
     },
     {
       "word": "pleased",
-      "start": 3.88,
-      "end": 4.16
+      "start": 3.9200000762939453,
+      "end": 4.079999923706055
     },
     {
-      "word": "to",
-      "start": 4.16,
-      "end": 4.34
+      "word": "with",
+      "start": 4.079999923706055,
+      "end": 4.320000171661377
     },
     {
-      "word": "have",
-      "start": 4.34,
-      "end": 4.54
-    },
-    {
-      "word": "him,",
-      "start": 4.54,
-      "end": 4.82
+      "word": "him",
+      "start": 4.320000171661377,
+      "end": 4.659999847412109
     },
     {
       "word": "who",
-      "start": 5.24,
-      "end": 5.46
+      "start": 5.28000020980835,
+      "end": 5.460000038146973
     },
     {
-      "word": "said,",
-      "start": 5.46,
-      "end": 6.02
+      "word": "said",
+      "start": 5.460000038146973,
+      "end": 5.679999828338623
     },
     {
-      "word": "the",
-      "start": 6.6,
-      "end": 6.74
+      "word": "The",
+      "start": 6.699999809265137,
+      "end": 6.71999979019165
     },
     {
-      "word": "messenger",
-      "start": 6.74,
-      "end": 7.1
+      "word": "Messenger",
+      "start": 6.71999979019165,
+      "end": 7.019999980926514
     },
     {
       "word": "of",
-      "start": 7.1,
-      "end": 7.36
+      "start": 7.019999980926514,
+      "end": 7.739999771118164
     },
     {
-      "word": "Allah,",
-      "start": 7.36,
-      "end": 7.78
+      "word": "Allah",
+      "start": 7.739999771118164,
+      "end": 8.0
     },
     {
       "word": "may",
-      "start": 8.3,
-      "end": 8.54
+      "start": 8.4399995803833,
+      "end": 8.5
     },
     {
       "word": "the",
-      "start": 8.54,
-      "end": 8.68
+      "start": 8.5,
+      "end": 8.800000190734863
     },
     {
       "word": "blessings",
-      "start": 8.68,
-      "end": 8.98
+      "start": 8.800000190734863,
+      "end": 8.960000038146973
     },
     {
       "word": "and",
-      "start": 8.98,
-      "end": 9.28
+      "start": 8.960000038146973,
+      "end": 9.279999732971191
     },
     {
       "word": "peace",
-      "start": 9.28,
-      "end": 9.48
+      "start": 9.279999732971191,
+      "end": 9.479999542236328
     },
     {
       "word": "of",
-      "start": 9.48,
-      "end": 9.74
+      "start": 9.479999542236328,
+      "end": 9.800000190734863
     },
     {
       "word": "Allah",
-      "start": 9.74,
-      "end": 10.0
+      "start": 9.800000190734863,
+      "end": 9.979999542236328
     },
     {
       "word": "be",
-      "start": 10.0,
-      "end": 10.22
+      "start": 9.979999542236328,
+      "end": 10.180000305175781
     },
     {
       "word": "upon",
-      "start": 10.22,
-      "end": 10.44
+      "start": 10.180000305175781,
+      "end": 10.399999618530273
     },
     {
-      "word": "him,",
-      "start": 10.44,
-      "end": 11.0
+      "word": "him",
+      "start": 10.399999618530273,
+      "end": 10.680000305175781
     },
     {
-      "word": "said,",
-      "start": 11.3,
-      "end": 11.76
+      "word": "said",
+      "start": 11.239999771118164,
+      "end": 11.4399995803833
     },
     {
       "word": "Allah",
-      "start": 12.48,
-      "end": 12.66
+      "start": 12.600000381469727,
+      "end": 12.619999885559082
     },
     {
       "word": "the",
-      "start": 12.66,
-      "end": 12.9
+      "start": 12.619999885559082,
+      "end": 12.859999656677246
     },
     {
       "word": "Almighty",
-      "start": 12.9,
-      "end": 13.24
+      "start": 12.859999656677246,
+      "end": 13.180000305175781
     },
     {
       "word": "is",
-      "start": 13.24,
-      "end": 13.84
+      "start": 13.180000305175781,
+      "end": 13.800000190734863
     },
     {
       "word": "good",
-      "start": 13.84,
-      "end": 14.2
+      "start": 13.800000190734863,
+      "end": 14.079999923706055
     },
     {
       "word": "and",
-      "start": 14.2,
-      "end": 14.78
+      "start": 14.079999923706055,
+      "end": 14.720000267028809
     },
     {
       "word": "accepts",
-      "start": 14.78,
-      "end": 15.08
+      "start": 14.720000267028809,
+      "end": 15.0600004196167
     },
     {
       "word": "only",
-      "start": 15.08,
-      "end": 15.44
+      "start": 15.0600004196167,
+      "end": 15.399999618530273
     },
     {
       "word": "that",
-      "start": 15.44,
-      "end": 15.86
+      "start": 15.399999618530273,
+      "end": 15.760000228881836
     },
     {
       "word": "which",
-      "start": 15.86,
-      "end": 16.12
+      "start": 15.760000228881836,
+      "end": 16.079999923706055
     },
     {
       "word": "is",
-      "start": 16.12,
-      "end": 16.3
+      "start": 16.079999923706055,
+      "end": 16.280000686645508
     },
     {
-      "word": "good.",
-      "start": 16.3,
-      "end": 16.84
+      "word": "good",
+      "start": 16.280000686645508,
+      "end": 16.540000915527344
     },
     {
       "word": "Allah",
-      "start": 17.8,
-      "end": 18.08
+      "start": 17.739999771118164,
+      "end": 18.059999465942383
     },
     {
       "word": "has",
-      "start": 18.08,
-      "end": 18.4
+      "start": 18.059999465942383,
+      "end": 18.399999618530273
     },
     {
       "word": "commanded",
-      "start": 18.4,
-      "end": 18.74
+      "start": 18.399999618530273,
+      "end": 18.65999984741211
     },
     {
       "word": "the",
-      "start": 18.74,
-      "end": 19.04
+      "start": 18.65999984741211,
+      "end": 19.34000015258789
     },
     {
       "word": "faithful",
-      "start": 19.04,
-      "end": 19.4
+      "start": 19.34000015258789,
+      "end": 19.34000015258789
     },
     {
       "word": "to",
-      "start": 19.4,
-      "end": 20.12
+      "start": 19.34000015258789,
+      "end": 20.100000381469727
     },
     {
       "word": "do",
-      "start": 20.12,
-      "end": 20.32
+      "start": 20.100000381469727,
+      "end": 20.239999771118164
     },
     {
       "word": "that",
-      "start": 20.32,
-      "end": 20.56
+      "start": 20.239999771118164,
+      "end": 20.520000457763672
     },
     {
       "word": "which",
-      "start": 20.56,
-      "end": 20.74
+      "start": 20.520000457763672,
+      "end": 20.719999313354492
     },
     {
       "word": "he",
-      "start": 20.74,
-      "end": 21.0
+      "start": 20.719999313354492,
+      "end": 20.940000534057617
     },
     {
       "word": "commanded",
-      "start": 21.0,
-      "end": 21.3
+      "start": 20.940000534057617,
+      "end": 21.239999771118164
     },
     {
       "word": "the",
-      "start": 21.3,
-      "end": 21.6
+      "start": 21.239999771118164,
+      "end": 21.959999084472656
     },
     {
-      "word": "messengers.",
-      "start": 21.6,
-      "end": 22.1
+      "word": "messengers",
+      "start": 21.959999084472656,
+      "end": 21.959999084472656
     },
     {
       "word": "And",
-      "start": 23.02,
-      "end": 23.38
+      "start": 22.65999984741211,
+      "end": 23.299999237060547
     },
     {
       "word": "the",
-      "start": 23.38,
-      "end": 23.48
+      "start": 23.299999237060547,
+      "end": 23.440000534057617
     },
     {
       "word": "Almighty",
-      "start": 23.48,
-      "end": 23.8
+      "start": 23.440000534057617,
+      "end": 23.760000228881836
     },
     {
       "word": "has",
-      "start": 23.8,
-      "end": 24.06
+      "start": 23.760000228881836,
+      "end": 24.040000915527344
     },
     {
-      "word": "said,",
-      "start": 24.06,
-      "end": 24.66
+      "word": "said",
+      "start": 24.040000915527344,
+      "end": 24.260000228881836
     },
     {
       "word": "O",
-      "start": 25.24,
-      "end": 25.4
+      "start": 25.399999618530273,
+      "end": 25.399999618530273
     },
     {
       "word": "ye",
-      "start": 25.4,
-      "end": 25.58
+      "start": 25.399999618530273,
+      "end": 25.540000915527344
     },
     {
-      "word": "messengers,",
-      "start": 25.58,
-      "end": 26.26
+      "word": "messengers",
+      "start": 25.540000915527344,
+      "end": 26.059999465942383
     },
     {
       "word": "eat",
-      "start": 27.0,
-      "end": 27.14
+      "start": 26.959999084472656,
+      "end": 27.139999389648438
     },
     {
       "word": "of",
-      "start": 27.14,
-      "end": 27.38
+      "start": 27.139999389648438,
+      "end": 27.31999969482422
     },
     {
       "word": "the",
-      "start": 27.38,
-      "end": 27.46
+      "start": 27.31999969482422,
+      "end": 27.479999542236328
     },
     {
       "word": "good",
-      "start": 27.46,
-      "end": 27.66
+      "start": 27.479999542236328,
+      "end": 27.639999389648438
     },
     {
       "word": "things",
-      "start": 27.66,
-      "end": 28.14
+      "start": 27.639999389648438,
+      "end": 28.020000457763672
     },
     {
       "word": "and",
-      "start": 28.14,
-      "end": 28.76
+      "start": 28.020000457763672,
+      "end": 28.719999313354492
     },
     {
       "word": "do",
-      "start": 28.76,
-      "end": 29.0
+      "start": 28.719999313354492,
+      "end": 28.920000076293945
     },
     {
-      "word": "right.",
-      "start": 29.0,
-      "end": 29.44
+      "word": "right",
+      "start": 28.920000076293945,
+      "end": 29.34000015258789
     },
     {
       "word": "And",
-      "start": 30.28,
-      "end": 30.46
+      "start": 30.31999969482422,
+      "end": 30.520000457763672
     },
     {
       "word": "Allah",
-      "start": 30.46,
-      "end": 30.76
+      "start": 30.520000457763672,
+      "end": 30.719999313354492
     },
     {
       "word": "the",
-      "start": 30.76,
-      "end": 30.94
+      "start": 30.719999313354492,
+      "end": 30.979999542236328
     },
     {
       "word": "Almighty",
-      "start": 30.94,
-      "end": 31.42
+      "start": 30.979999542236328,
+      "end": 31.299999237060547
     },
     {
       "word": "has",
-      "start": 31.42,
-      "end": 31.72
+      "start": 31.299999237060547,
+      "end": 31.780000686645508
     },
     {
-      "word": "said,",
-      "start": 31.72,
-      "end": 32.42
+      "word": "said",
+      "start": 31.780000686645508,
+      "end": 31.8799991607666
     },
     {
       "word": "O",
-      "start": 33.0,
-      "end": 33.1
+      "start": 33.040000915527344,
+      "end": 33.060001373291016
     },
     {
       "word": "ye",
-      "start": 33.1,
-      "end": 33.34
+      "start": 33.060001373291016,
+      "end": 33.29999923706055
     },
     {
       "word": "who",
-      "start": 33.34,
-      "end": 33.56
+      "start": 33.29999923706055,
+      "end": 33.5
     },
     {
-      "word": "believe,",
-      "start": 33.56,
-      "end": 34.04
+      "word": "believe",
+      "start": 33.5,
+      "end": 33.97999954223633
     },
     {
       "word": "eat",
-      "start": 34.96,
-      "end": 35.12
+      "start": 35.0,
+      "end": 35.060001373291016
     },
     {
       "word": "the",
-      "start": 35.12,
-      "end": 35.24
+      "start": 35.060001373291016,
+      "end": 35.2400016784668
     },
     {
       "word": "good",
-      "start": 35.24,
-      "end": 35.46
+      "start": 35.2400016784668,
+      "end": 35.47999954223633
     },
     {
       "word": "things",
-      "start": 35.46,
-      "end": 35.82
+      "start": 35.47999954223633,
+      "end": 35.81999969482422
     },
     {
       "word": "wherewith",
-      "start": 35.82,
-      "end": 36.5
+      "start": 35.81999969482422,
+      "end": 36.31999969482422
     },
     {
       "word": "we",
-      "start": 36.5,
-      "end": 37.14
+      "start": 36.31999969482422,
+      "end": 37.15999984741211
     },
     {
       "word": "have",
-      "start": 37.14,
-      "end": 37.4
+      "start": 37.15999984741211,
+      "end": 37.41999816894531
     },
     {
       "word": "provided",
-      "start": 37.4,
-      "end": 37.72
+      "start": 37.41999816894531,
+      "end": 37.720001220703125
     },
     {
-      "word": "you.",
-      "start": 37.72,
-      "end": 38.38
+      "word": "you",
+      "start": 37.720001220703125,
+      "end": 38.31999969482422
     },
     {
       "word": "Then",
-      "start": 39.02,
-      "end": 39.3
+      "start": 38.959999084472656,
+      "end": 39.220001220703125
     },
     {
       "word": "he",
-      "start": 39.3,
-      "end": 39.42
+      "start": 39.220001220703125,
+      "end": 39.439998626708984
     },
     {
       "word": "mentioned",
-      "start": 39.42,
-      "end": 39.84
+      "start": 39.439998626708984,
+      "end": 39.79999923706055
     },
     {
       "word": "the",
-      "start": 39.84,
-      "end": 40.3
+      "start": 39.79999923706055,
+      "end": 40.2400016784668
     },
     {
       "word": "case",
-      "start": 40.3,
-      "end": 40.56
+      "start": 40.2400016784668,
+      "end": 40.52000045776367
     },
     {
       "word": "of",
-      "start": 40.56,
-      "end": 41.24
+      "start": 40.52000045776367,
+      "end": 40.97999954223633
     },
     {
       "word": "a",
-      "start": 41.24,
-      "end": 41.46
+      "start": 40.97999954223633,
+      "end": 41.41999816894531
     },
     {
       "word": "man",
-      "start": 41.46,
-      "end": 41.96
+      "start": 41.41999816894531,
+      "end": 41.70000076293945
     },
     {
       "word": "who",
-      "start": 41.96,
-      "end": 42.6
+      "start": 41.70000076293945,
+      "end": 42.619998931884766
     },
     {
       "word": "having",
-      "start": 42.6,
-      "end": 42.88
+      "start": 42.84000015258789,
+      "end": 42.84000015258789
     },
     {
       "word": "journeyed",
-      "start": 42.88,
-      "end": 43.36
+      "start": 42.84000015258789,
+      "end": 43.2599983215332
     },
     {
-      "word": "far,",
-      "start": 43.36,
-      "end": 43.82
+      "word": "far",
+      "start": 43.2599983215332,
+      "end": 43.599998474121094
     },
     {
       "word": "is",
-      "start": 44.38,
-      "end": 44.5
+      "start": 44.220001220703125,
+      "end": 44.47999954223633
     },
     {
-      "word": "disheveled",
-      "start": 44.5,
-      "end": 45.22
-    },
-    {
-      "word": "and",
-      "start": 45.22,
-      "end": 45.34
-    },
-    {
-      "word": "dusty,",
-      "start": 45.34,
-      "end": 45.84
+      "word": "dishevelled",
+      "start": 44.47999954223633,
+      "end": 44.84000015258789
     },
     {
       "word": "and",
-      "start": 45.84,
-      "end": 46.58
+      "start": 44.84000015258789,
+      "end": 45.65999984741211
     },
     {
-      "word": "he",
-      "start": 46.58,
-      "end": 46.74
+      "word": "dusty",
+      "start": 45.65999984741211,
+      "end": 45.65999984741211
     },
     {
-      "word": "spread",
-      "start": 46.74,
+      "word": "and",
+      "start": 45.65999984741211,
+      "end": 46.52000045776367
+    },
+    {
+      "word": "who",
+      "start": 46.52000045776367,
+      "end": 46.79999923706055
+    },
+    {
+      "word": "spreads",
+      "start": 46.79999923706055,
       "end": 47.0
     },
     {
-      "word": "sat",
+      "word": "out",
       "start": 47.0,
-      "end": 47.3
+      "end": 47.2400016784668
     },
     {
-      "word": "His",
-      "start": 47.3,
-      "end": 47.42
+      "word": "his",
+      "start": 47.2400016784668,
+      "end": 47.439998626708984
     },
     {
       "word": "hands",
-      "start": 47.42,
-      "end": 47.72
+      "start": 47.439998626708984,
+      "end": 47.68000030517578
     },
     {
       "word": "to",
-      "start": 47.72,
-      "end": 47.96
+      "start": 47.68000030517578,
+      "end": 47.86000061035156
     },
     {
       "word": "the",
-      "start": 47.96,
-      "end": 48.08
+      "start": 47.86000061035156,
+      "end": 48.099998474121094
     },
     {
-      "word": "sky,",
-      "start": 48.08,
-      "end": 48.48
+      "word": "sky",
+      "start": 48.099998474121094,
+      "end": 48.36000061035156
     },
     {
-      "word": "saying,",
-      "start": 49.1,
-      "end": 49.28
-    },
-    {
-      "word": "O",
-      "start": 50.12,
-      "end": 50.22
-    },
-    {
-      "word": "Lord,",
-      "start": 50.22,
-      "end": 50.6
+      "word": "saying",
+      "start": 49.2599983215332,
+      "end": 49.2599983215332
     },
     {
       "word": "O",
-      "start": 51.02,
-      "end": 51.1
+      "start": 50.18000030517578,
+      "end": 50.18000030517578
     },
     {
-      "word": "Lord,",
-      "start": 51.1,
-      "end": 51.46
+      "word": "Lord",
+      "start": 50.18000030517578,
+      "end": 50.540000915527344
+    },
+    {
+      "word": "O",
+      "start": 50.91999816894531,
+      "end": 51.63999938964844
+    },
+    {
+      "word": "Lord",
+      "start": 51.63999938964844,
+      "end": 51.63999938964844
     },
     {
       "word": "while",
-      "start": 52.44,
-      "end": 52.58
+      "start": 52.29999923706055,
+      "end": 52.58000183105469
     },
     {
-      "word": "His",
-      "start": 52.58,
-      "end": 52.84
+      "word": "his",
+      "start": 52.58000183105469,
+      "end": 52.779998779296875
     },
     {
       "word": "food",
-      "start": 52.84,
-      "end": 53.06
+      "start": 52.779998779296875,
+      "end": 53.08000183105469
     },
     {
       "word": "is",
-      "start": 53.06,
-      "end": 53.38
+      "start": 53.08000183105469,
+      "end": 53.400001525878906
     },
     {
-      "word": "unlawful,",
-      "start": 53.38,
-      "end": 53.98
+      "word": "unlawful",
+      "start": 53.400001525878906,
+      "end": 53.86000061035156
     },
     {
-      "word": "His",
-      "start": 54.46,
-      "end": 54.64
+      "word": "his",
+      "start": 54.400001525878906,
+      "end": 54.540000915527344
     },
     {
       "word": "drink",
-      "start": 54.64,
-      "end": 54.92
+      "start": 54.540000915527344,
+      "end": 54.91999816894531
     },
     {
-      "word": "and",
-      "start": 54.92,
-      "end": 55.32
+      "word": "unlawful",
+      "start": 54.91999816894531,
+      "end": 55.70000076293945
     },
     {
-      "word": "lawful,",
-      "start": 55.32,
-      "end": 55.9
-    },
-    {
-      "word": "His",
-      "start": 56.26,
-      "end": 56.48
+      "word": "his",
+      "start": 56.2599983215332,
+      "end": 56.47999954223633
     },
     {
       "word": "clothing",
-      "start": 56.48,
-      "end": 56.82
+      "start": 56.47999954223633,
+      "end": 56.84000015258789
+    },
+    {
+      "word": "unlawful",
+      "start": 56.84000015258789,
+      "end": 57.720001220703125
     },
     {
       "word": "and",
-      "start": 56.82,
-      "end": 57.28
+      "start": 58.08000183105469,
+      "end": 58.58000183105469
     },
     {
-      "word": "lawful,",
-      "start": 57.28,
-      "end": 58.04
+      "word": "he",
+      "start": 58.58000183105469,
+      "end": 58.720001220703125
     },
     {
-      "word": "and",
-      "start": 58.46,
-      "end": 58.64
-    },
-    {
-      "word": "He",
-      "start": 58.64,
-      "end": 58.76
-    },
-    {
-      "word": "has",
-      "start": 58.76,
-      "end": 58.94
+      "word": "is",
+      "start": 58.720001220703125,
+      "end": 59.18000030517578
     },
     {
       "word": "nourished",
-      "start": 58.94,
-      "end": 59.24
+      "start": 59.18000030517578,
+      "end": 59.18000030517578
     },
     {
-      "word": "and",
-      "start": 59.24,
-      "end": 59.46
-    },
-    {
-      "word": "loathily.",
-      "start": 59.46,
-      "end": 60.0
+      "word": "unlawfully",
+      "start": 59.18000030517578,
+      "end": 59.79999923706055
     },
     {
       "word": "So",
-      "start": 60.88,
-      "end": 61.06
+      "start": 60.439998626708984,
+      "end": 61.02000045776367
     },
     {
       "word": "how",
-      "start": 61.06,
-      "end": 61.28
+      "start": 61.02000045776367,
+      "end": 61.220001220703125
     },
     {
       "word": "can",
-      "start": 61.28,
-      "end": 61.48
+      "start": 61.220001220703125,
+      "end": 61.439998626708984
     },
     {
-      "word": "He",
-      "start": 61.48,
-      "end": 61.66
+      "word": "he",
+      "start": 61.439998626708984,
+      "end": 61.599998474121094
     },
     {
       "word": "be",
-      "start": 61.66,
-      "end": 61.92
+      "start": 61.599998474121094,
+      "end": 61.79999923706055
     },
     {
-      "word": "answered?",
-      "start": 61.92,
-      "end": 62.16
+      "word": "answered",
+      "start": 61.79999923706055,
+      "end": 62.15999984741211
     },
     {
       "word": "It",
-      "start": 63.3,
-      "end": 63.44
+      "start": 62.97999954223633,
+      "end": 63.41999816894531
     },
     {
       "word": "was",
-      "start": 63.44,
-      "end": 63.62
+      "start": 63.41999816894531,
+      "end": 63.599998474121094
     },
     {
       "word": "related",
-      "start": 63.62,
-      "end": 63.92
+      "start": 63.599998474121094,
+      "end": 63.880001068115234
     },
     {
       "word": "by",
-      "start": 63.92,
-      "end": 64.22
+      "start": 63.880001068115234,
+      "end": 64.16000366210938
     },
     {
-      "word": "Muslim.",
-      "start": 64.22,
-      "end": 64.48
+      "word": "Muslim",
+      "start": 64.16000366210938,
+      "end": 64.54000091552734
     }
-  ]
+  ],
+  "hadith_number": 10
 }

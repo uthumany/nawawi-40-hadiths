@@ -6,5 +6,7 @@
   "arabic_text": "عَنْ أَمِيرِ الْمُؤْمِنِينَ أَبِي حَفْصٍ عُمَرَ بْنِ الْخَطَّابِ رَضِيَ اللهُ عَنْهُ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ: \\",
   "english_translation": "From the Chief of the Believers, Abī Hafṣ ʿUmar bin al-Khaṭṭāb (raḍiyallāhu anhu) who said: I heard the Messenger of Allaah (ṣallallāhu ʿalayhi wasallam) saying: 'Verily actions are based upon the intentions (behind them) and every man shall have (in accordance) with what he intended. Thus, he whose migration was (for the sake of) Allāh and His Messenger, then his migration was indeed for Allāh and His Messenger. And he whose migration was to attain a portion of the world or to take some woman in marriage, then his migration was for that for which he migrated.'",
   "audio_url": "https://raw.githubusercontent.com/uthumany/audio-hosting/main/hadith_01.mp3",
-  "sync_url": "https://uthumany.github.io/nawawi-40-hadiths/api/sync/hadith_1.json"
+  "sync_url": "https://uthumany.github.io/nawawi-40-hadiths/api/sync/hadith_1.json",
+  "english_audio_url": "https://raw.githubusercontent.com/uthumany/nawawi-40-hadiths/main/audio/english/Hadith_01_English.mp3",
+  "english_sync_url": "https://uthumany.github.io/nawawi-40-hadiths/api/sync_en/hadith_1.json"
 }

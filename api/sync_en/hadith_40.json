@@ -1,531 +1,491 @@
 {
-  "hadith_number": 40,
-  "text": "On your authority of the Son of Umar, make a laby pleased of them both, who said, the messenger of Allah made a blessings and peace of Allah be upon him. Took me by the shoulder and said, be in the world as they you are a stranger or a waith error. The Son of Umar made a laby pleased of them both, used to say, at evening do not expect to live till morning and at morning do not expect to live till evening. Take from your health, for your illness and for your life, for your death. It was related by Al-Bukhari.",
+  "text": "On the authority of the son of Umar, may Allah be pleased with them both, who said, The Messenger of Allah, may the blessings and peace of Allah be upon him, took me by the shoulder and said, Be in the world as though you were a stranger or a wayfarer. The son Umar, may Allah be pleased with them both, used to say, At evening do not expect to live till morning, and at morning do not expect to live till evening. Take from your health for your illness and from your life for your death.",
   "words": [
     {
       "word": "On",
       "start": 0.0,
-      "end": 0.46
+      "end": 0.36000001430511475
     },
     {
-      "word": "your",
-      "start": 0.46,
-      "end": 0.64
+      "word": "the",
+      "start": 0.36000001430511475,
+      "end": 0.6000000238418579
     },
     {
       "word": "authority",
-      "start": 0.64,
-      "end": 1.06
+      "start": 0.6000000238418579,
+      "end": 0.9599999785423279
     },
     {
       "word": "of",
-      "start": 1.06,
-      "end": 1.38
+      "start": 0.9599999785423279,
+      "end": 1.440000057220459
     },
     {
       "word": "the",
-      "start": 1.38,
-      "end": 1.56
+      "start": 1.440000057220459,
+      "end": 1.659999966621399
     },
     {
-      "word": "Son",
-      "start": 1.56,
-      "end": 1.76
-    },
-    {
-      "word": "of",
-      "start": 1.76,
-      "end": 2.04
-    },
-    {
-      "word": "Umar,",
-      "start": 2.04,
-      "end": 2.6
-    },
-    {
-      "word": "make",
-      "start": 3.06,
-      "end": 3.18
-    },
-    {
-      "word": "a",
-      "start": 3.18,
-      "end": 3.36
-    },
-    {
-      "word": "laby",
-      "start": 3.36,
-      "end": 3.58
-    },
-    {
-      "word": "pleased",
-      "start": 3.58,
-      "end": 3.92
+      "word": "son",
+      "start": 1.659999966621399,
+      "end": 1.7400000095367432
     },
     {
       "word": "of",
-      "start": 3.92,
-      "end": 4.08
-    },
-    {
-      "word": "them",
-      "start": 4.08,
-      "end": 4.26
-    },
-    {
-      "word": "both,",
-      "start": 4.26,
-      "end": 4.68
-    },
-    {
-      "word": "who",
-      "start": 4.98,
-      "end": 5.14
-    },
-    {
-      "word": "said,",
-      "start": 5.14,
-      "end": 5.62
-    },
-    {
-      "word": "the",
-      "start": 6.08,
-      "end": 6.28
-    },
-    {
-      "word": "messenger",
-      "start": 6.28,
-      "end": 6.68
-    },
-    {
-      "word": "of",
-      "start": 6.68,
-      "end": 6.96
-    },
-    {
-      "word": "Allah",
-      "start": 6.96,
-      "end": 7.48
-    },
-    {
-      "word": "made",
-      "start": 7.48,
-      "end": 7.86
-    },
-    {
-      "word": "a",
-      "start": 7.86,
-      "end": 8.14
-    },
-    {
-      "word": "blessings",
-      "start": 8.14,
-      "end": 8.22
-    },
-    {
-      "word": "and",
-      "start": 8.22,
-      "end": 8.5
-    },
-    {
-      "word": "peace",
-      "start": 8.5,
-      "end": 8.72
-    },
-    {
-      "word": "of",
-      "start": 8.72,
-      "end": 8.9
-    },
-    {
-      "word": "Allah",
-      "start": 8.9,
-      "end": 9.14
-    },
-    {
-      "word": "be",
-      "start": 9.14,
-      "end": 9.32
-    },
-    {
-      "word": "upon",
-      "start": 9.32,
-      "end": 9.56
-    },
-    {
-      "word": "him.",
-      "start": 9.56,
-      "end": 10.24
-    },
-    {
-      "word": "Took",
-      "start": 10.86,
-      "end": 11.0
-    },
-    {
-      "word": "me",
-      "start": 11.0,
-      "end": 11.18
-    },
-    {
-      "word": "by",
-      "start": 11.18,
-      "end": 11.38
-    },
-    {
-      "word": "the",
-      "start": 11.38,
-      "end": 11.54
-    },
-    {
-      "word": "shoulder",
-      "start": 11.54,
-      "end": 11.76
-    },
-    {
-      "word": "and",
-      "start": 11.76,
-      "end": 12.1
-    },
-    {
-      "word": "said,",
-      "start": 12.1,
-      "end": 12.54
-    },
-    {
-      "word": "be",
-      "start": 12.94,
-      "end": 13.1
-    },
-    {
-      "word": "in",
-      "start": 13.1,
-      "end": 13.36
-    },
-    {
-      "word": "the",
-      "start": 13.36,
-      "end": 13.44
-    },
-    {
-      "word": "world",
-      "start": 13.44,
-      "end": 13.84
-    },
-    {
-      "word": "as",
-      "start": 13.84,
-      "end": 14.28
-    },
-    {
-      "word": "they",
-      "start": 14.28,
-      "end": 14.38
-    },
-    {
-      "word": "you",
-      "start": 14.38,
-      "end": 14.54
-    },
-    {
-      "word": "are",
-      "start": 14.54,
-      "end": 14.72
-    },
-    {
-      "word": "a",
-      "start": 14.72,
-      "end": 14.84
-    },
-    {
-      "word": "stranger",
-      "start": 14.84,
-      "end": 15.16
-    },
-    {
-      "word": "or",
-      "start": 15.16,
-      "end": 15.88
-    },
-    {
-      "word": "a",
-      "start": 15.88,
-      "end": 16.02
-    },
-    {
-      "word": "waith",
-      "start": 16.02,
-      "end": 16.26
-    },
-    {
-      "word": "error.",
-      "start": 16.26,
-      "end": 16.72
-    },
-    {
-      "word": "The",
-      "start": 17.48,
-      "end": 17.64
-    },
-    {
-      "word": "Son",
-      "start": 17.64,
-      "end": 17.96
-    },
-    {
-      "word": "of",
-      "start": 17.96,
-      "end": 18.12
+      "start": 1.7400000095367432,
+      "end": 2.180000066757202
     },
     {
       "word": "Umar",
-      "start": 18.12,
-      "end": 18.92
+      "start": 2.180000066757202,
+      "end": 2.3399999141693115
     },
     {
-      "word": "made",
-      "start": 18.92,
-      "end": 19.62
+      "word": "may",
+      "start": 3.0199999809265137,
+      "end": 3.119999885559082
     },
     {
-      "word": "a",
-      "start": 19.62,
-      "end": 19.76
+      "word": "Allah",
+      "start": 3.119999885559082,
+      "end": 3.3399999141693115
     },
     {
-      "word": "laby",
-      "start": 19.76,
-      "end": 19.98
+      "word": "be",
+      "start": 3.3399999141693115,
+      "end": 3.819999933242798
     },
     {
       "word": "pleased",
-      "start": 19.98,
-      "end": 20.38
+      "start": 3.819999933242798,
+      "end": 3.819999933242798
     },
     {
-      "word": "of",
-      "start": 20.38,
-      "end": 20.54
+      "word": "with",
+      "start": 3.819999933242798,
+      "end": 4.019999980926514
     },
     {
       "word": "them",
-      "start": 20.54,
-      "end": 20.72
+      "start": 4.019999980926514,
+      "end": 4.239999771118164
     },
     {
-      "word": "both,",
-      "start": 20.72,
-      "end": 21.5
+      "word": "both",
+      "start": 4.239999771118164,
+      "end": 4.579999923706055
     },
     {
-      "word": "used",
-      "start": 21.8,
-      "end": 21.96
+      "word": "who",
+      "start": 5.059999942779541,
+      "end": 5.139999866485596
     },
     {
-      "word": "to",
-      "start": 21.96,
-      "end": 22.16
+      "word": "said",
+      "start": 5.139999866485596,
+      "end": 5.360000133514404
     },
     {
-      "word": "say,",
-      "start": 22.16,
-      "end": 22.78
+      "word": "The",
+      "start": 6.199999809265137,
+      "end": 6.260000228881836
     },
     {
-      "word": "at",
-      "start": 22.78,
-      "end": 23.46
+      "word": "Messenger",
+      "start": 6.260000228881836,
+      "end": 6.599999904632568
     },
     {
-      "word": "evening",
-      "start": 23.46,
-      "end": 23.84
+      "word": "of",
+      "start": 6.599999904632568,
+      "end": 7.0
     },
     {
-      "word": "do",
-      "start": 23.84,
-      "end": 24.36
+      "word": "Allah",
+      "start": 7.0,
+      "end": 7.239999771118164
     },
     {
-      "word": "not",
-      "start": 24.36,
-      "end": 24.56
+      "word": "may",
+      "start": 7.71999979019165,
+      "end": 7.78000020980835
     },
     {
-      "word": "expect",
-      "start": 24.56,
-      "end": 25.16
+      "word": "the",
+      "start": 7.78000020980835,
+      "end": 8.020000457763672
     },
     {
-      "word": "to",
-      "start": 25.16,
-      "end": 25.98
-    },
-    {
-      "word": "live",
-      "start": 25.98,
-      "end": 26.22
-    },
-    {
-      "word": "till",
-      "start": 26.22,
-      "end": 26.48
-    },
-    {
-      "word": "morning",
-      "start": 26.48,
-      "end": 27.16
+      "word": "blessings",
+      "start": 8.020000457763672,
+      "end": 8.199999809265137
     },
     {
       "word": "and",
-      "start": 27.16,
-      "end": 27.9
+      "start": 8.199999809265137,
+      "end": 8.539999961853027
     },
     {
-      "word": "at",
-      "start": 27.9,
-      "end": 28.06
+      "word": "peace",
+      "start": 8.539999961853027,
+      "end": 8.65999984741211
     },
     {
-      "word": "morning",
-      "start": 28.06,
-      "end": 28.48
+      "word": "of",
+      "start": 8.65999984741211,
+      "end": 8.899999618530273
     },
     {
-      "word": "do",
-      "start": 28.48,
-      "end": 29.3
+      "word": "Allah",
+      "start": 8.899999618530273,
+      "end": 9.079999923706055
     },
     {
-      "word": "not",
-      "start": 29.3,
-      "end": 29.58
+      "word": "be",
+      "start": 9.079999923706055,
+      "end": 9.279999732971191
     },
     {
-      "word": "expect",
-      "start": 29.58,
-      "end": 30.04
+      "word": "upon",
+      "start": 9.279999732971191,
+      "end": 9.5
     },
     {
-      "word": "to",
-      "start": 30.04,
-      "end": 30.74
+      "word": "him",
+      "start": 9.5,
+      "end": 9.84000015258789
     },
     {
-      "word": "live",
-      "start": 30.74,
-      "end": 30.96
+      "word": "took",
+      "start": 10.84000015258789,
+      "end": 10.9399995803833
     },
     {
-      "word": "till",
-      "start": 30.96,
-      "end": 31.2
-    },
-    {
-      "word": "evening.",
-      "start": 31.2,
-      "end": 31.86
-    },
-    {
-      "word": "Take",
-      "start": 32.7,
-      "end": 32.76
-    },
-    {
-      "word": "from",
-      "start": 32.76,
-      "end": 33.04
-    },
-    {
-      "word": "your",
-      "start": 33.04,
-      "end": 33.24
-    },
-    {
-      "word": "health,",
-      "start": 33.24,
-      "end": 33.74
-    },
-    {
-      "word": "for",
-      "start": 34.18,
-      "end": 34.22
-    },
-    {
-      "word": "your",
-      "start": 34.22,
-      "end": 34.44
-    },
-    {
-      "word": "illness",
-      "start": 34.44,
-      "end": 34.88
-    },
-    {
-      "word": "and",
-      "start": 34.88,
-      "end": 35.32
-    },
-    {
-      "word": "for",
-      "start": 35.32,
-      "end": 35.5
-    },
-    {
-      "word": "your",
-      "start": 35.5,
-      "end": 35.7
-    },
-    {
-      "word": "life,",
-      "start": 35.7,
-      "end": 36.26
-    },
-    {
-      "word": "for",
-      "start": 36.86,
-      "end": 36.88
-    },
-    {
-      "word": "your",
-      "start": 36.88,
-      "end": 37.12
-    },
-    {
-      "word": "death.",
-      "start": 37.12,
-      "end": 37.66
-    },
-    {
-      "word": "It",
-      "start": 38.22,
-      "end": 38.28
-    },
-    {
-      "word": "was",
-      "start": 38.28,
-      "end": 38.46
-    },
-    {
-      "word": "related",
-      "start": 38.46,
-      "end": 38.84
+      "word": "me",
+      "start": 10.9399995803833,
+      "end": 11.140000343322754
     },
     {
       "word": "by",
-      "start": 38.84,
-      "end": 39.14
+      "start": 11.140000343322754,
+      "end": 11.300000190734863
     },
     {
-      "word": "Al",
-      "start": 39.14,
-      "end": 39.32
+      "word": "the",
+      "start": 11.300000190734863,
+      "end": 11.739999771118164
     },
     {
-      "word": "-Bukhari.",
-      "start": 39.32,
-      "end": 39.68
+      "word": "shoulder",
+      "start": 11.739999771118164,
+      "end": 11.739999771118164
+    },
+    {
+      "word": "and",
+      "start": 11.739999771118164,
+      "end": 12.119999885559082
+    },
+    {
+      "word": "said",
+      "start": 12.119999885559082,
+      "end": 12.300000190734863
+    },
+    {
+      "word": "Be",
+      "start": 13.0600004196167,
+      "end": 13.0600004196167
+    },
+    {
+      "word": "in",
+      "start": 13.0600004196167,
+      "end": 13.220000267028809
+    },
+    {
+      "word": "the",
+      "start": 13.220000267028809,
+      "end": 13.539999961853027
+    },
+    {
+      "word": "world",
+      "start": 13.539999961853027,
+      "end": 13.720000267028809
+    },
+    {
+      "word": "as",
+      "start": 13.720000267028809,
+      "end": 14.199999809265137
+    },
+    {
+      "word": "though",
+      "start": 14.199999809265137,
+      "end": 14.359999656677246
+    },
+    {
+      "word": "you",
+      "start": 14.359999656677246,
+      "end": 14.479999542236328
+    },
+    {
+      "word": "were",
+      "start": 14.479999542236328,
+      "end": 14.600000381469727
+    },
+    {
+      "word": "a",
+      "start": 14.600000381469727,
+      "end": 14.760000228881836
+    },
+    {
+      "word": "stranger",
+      "start": 14.760000228881836,
+      "end": 15.220000267028809
+    },
+    {
+      "word": "or",
+      "start": 15.220000267028809,
+      "end": 15.819999694824219
+    },
+    {
+      "word": "a",
+      "start": 15.819999694824219,
+      "end": 15.979999542236328
+    },
+    {
+      "word": "wayfarer",
+      "start": 15.979999542236328,
+      "end": 16.579999923706055
+    },
+    {
+      "word": "The",
+      "start": 17.34000015258789,
+      "end": 17.639999389648438
+    },
+    {
+      "word": "son",
+      "start": 17.639999389648438,
+      "end": 17.899999618530273
+    },
+    {
+      "word": "Umar",
+      "start": 17.899999618530273,
+      "end": 18.3799991607666
+    },
+    {
+      "word": "may",
+      "start": 19.200000762939453,
+      "end": 19.559999465942383
+    },
+    {
+      "word": "Allah",
+      "start": 19.559999465942383,
+      "end": 19.760000228881836
+    },
+    {
+      "word": "be",
+      "start": 19.760000228881836,
+      "end": 20.299999237060547
+    },
+    {
+      "word": "pleased",
+      "start": 20.299999237060547,
+      "end": 20.299999237060547
+    },
+    {
+      "word": "with",
+      "start": 20.299999237060547,
+      "end": 20.520000457763672
+    },
+    {
+      "word": "them",
+      "start": 20.520000457763672,
+      "end": 20.799999237060547
+    },
+    {
+      "word": "both",
+      "start": 20.799999237060547,
+      "end": 21.040000915527344
+    },
+    {
+      "word": "used",
+      "start": 21.799999237060547,
+      "end": 21.899999618530273
+    },
+    {
+      "word": "to",
+      "start": 21.899999618530273,
+      "end": 22.280000686645508
+    },
+    {
+      "word": "say",
+      "start": 22.280000686645508,
+      "end": 22.459999084472656
+    },
+    {
+      "word": "At",
+      "start": 23.260000228881836,
+      "end": 23.399999618530273
+    },
+    {
+      "word": "evening",
+      "start": 23.399999618530273,
+      "end": 23.780000686645508
+    },
+    {
+      "word": "do",
+      "start": 23.780000686645508,
+      "end": 24.31999969482422
+    },
+    {
+      "word": "not",
+      "start": 24.31999969482422,
+      "end": 24.600000381469727
+    },
+    {
+      "word": "expect",
+      "start": 24.600000381469727,
+      "end": 25.1200008392334
+    },
+    {
+      "word": "to",
+      "start": 25.1200008392334,
+      "end": 25.959999084472656
+    },
+    {
+      "word": "live",
+      "start": 25.959999084472656,
+      "end": 26.15999984741211
+    },
+    {
+      "word": "till",
+      "start": 26.15999984741211,
+      "end": 26.440000534057617
+    },
+    {
+      "word": "morning",
+      "start": 26.440000534057617,
+      "end": 26.780000686645508
+    },
+    {
+      "word": "and",
+      "start": 27.489999771118164,
+      "end": 27.81999969482422
+    },
+    {
+      "word": "at",
+      "start": 27.81999969482422,
+      "end": 28.200000762939453
+    },
+    {
+      "word": "morning",
+      "start": 28.200000762939453,
+      "end": 28.440000534057617
+    },
+    {
+      "word": "do",
+      "start": 28.440000534057617,
+      "end": 29.280000686645508
+    },
+    {
+      "word": "not",
+      "start": 29.280000686645508,
+      "end": 29.479999542236328
+    },
+    {
+      "word": "expect",
+      "start": 29.479999542236328,
+      "end": 30.0
+    },
+    {
+      "word": "to",
+      "start": 30.0,
+      "end": 30.81999969482422
+    },
+    {
+      "word": "live",
+      "start": 30.81999969482422,
+      "end": 30.8799991607666
+    },
+    {
+      "word": "till",
+      "start": 30.8799991607666,
+      "end": 31.15999984741211
+    },
+    {
+      "word": "evening",
+      "start": 31.15999984741211,
+      "end": 31.579999923706055
+    },
+    {
+      "word": "Take",
+      "start": 32.70000076293945,
+      "end": 32.7400016784668
+    },
+    {
+      "word": "from",
+      "start": 32.7400016784668,
+      "end": 32.97999954223633
+    },
+    {
+      "word": "your",
+      "start": 32.97999954223633,
+      "end": 33.20000076293945
+    },
+    {
+      "word": "health",
+      "start": 33.20000076293945,
+      "end": 33.560001373291016
+    },
+    {
+      "word": "for",
+      "start": 33.560001373291016,
+      "end": 34.18000030517578
+    },
+    {
+      "word": "your",
+      "start": 34.18000030517578,
+      "end": 34.5
+    },
+    {
+      "word": "illness",
+      "start": 34.5,
+      "end": 34.7400016784668
+    },
+    {
+      "word": "and",
+      "start": 34.7400016784668,
+      "end": 35.220001220703125
+    },
+    {
+      "word": "from",
+      "start": 35.220001220703125,
+      "end": 35.439998626708984
+    },
+    {
+      "word": "your",
+      "start": 35.439998626708984,
+      "end": 35.63999938964844
+    },
+    {
+      "word": "life",
+      "start": 35.63999938964844,
+      "end": 35.959999084472656
+    },
+    {
+      "word": "for",
+      "start": 35.959999084472656,
+      "end": 36.86000061035156
+    },
+    {
+      "word": "your",
+      "start": 36.86000061035156,
+      "end": 37.08000183105469
+    },
+    {
+      "word": "death",
+      "start": 37.08000183105469,
+      "end": 37.41999816894531
     }
-  ]
+  ],
+  "hadith_number": 40
 }
