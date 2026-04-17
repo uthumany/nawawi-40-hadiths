@@ -11,7 +11,8 @@ A complete JSON API for Imam al-Nawawi's Forty Hadiths, including Arabic text, E
 - **Sync Data (English)**: `https://uthumany.github.io/nawawi-40-hadiths/api/sync_en`
 
 ### Endpoints
-- **All Hadiths**: [hadiths.json](https://uthumany.github.io/nawawi-40-hadiths/api/hadiths.json)
+- **All Hadiths (Arabic Focus)**: [hadiths.json](https://uthumany.github.io/nawawi-40-hadiths/api/hadiths.json)
+- **All Hadiths (English Focus)**: [all_english.json](https://uthumany.github.io/nawawi-40-hadiths/api/all_english.json)
 - **Individual Hadith**: `https://uthumany.github.io/nawawi-40-hadiths/api/hadith_{number}.json` (e.g., [hadith_1.json](https://uthumany.github.io/nawawi-40-hadiths/api/hadith_1.json))
 - **Word-by-Word Sync (Arabic)**: `https://uthumany.github.io/nawawi-40-hadiths/api/sync/hadith_{number}.json` (e.g., [hadith_1.json](https://uthumany.github.io/nawawi-40-hadiths/api/sync/hadith_1.json))
 - **Word-by-Word Sync (English)**: `https://uthumany.github.io/nawawi-40-hadiths/api/sync_en/hadith_{number}.json` (e.g., [hadith_1.json](https://uthumany.github.io/nawawi-40-hadiths/api/sync_en/hadith_1.json))
