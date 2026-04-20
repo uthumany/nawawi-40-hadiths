@@ -1,0 +1,275 @@
+/**
+ * Nawawi's 40 Hadiths - Transliteration Player Styles
+ * Responsive CSS for real-time word-by-word highlighting with transliteration
+ */
+
+/* Transliteration Container */
+.hadith-transliteration-container {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.8;
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    max-height: 500px;
+    overflow-y: auto;
+    margin-top: 20px;
+}
+
+.hadith-transliteration-container.rtl {
+    direction: rtl;
+    text-align: right;
+    font-family: 'Amiri', 'Traditional Arabic', 'Arial Unicode MS', serif;
+}
+
+.hadith-transliteration-container.ltr {
+    direction: ltr;
+    text-align: left;
+}
+
+/* Transliteration Header */
+.transliteration-header {
+    margin-bottom: 20px;
+    border-bottom: 2px solid #4caf50;
+    padding-bottom: 10px;
+}
+
+.transliteration-header h3 {
+    margin: 0 0 5px 0;
+    color: #333;
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+
+.transliteration-meta {
+    margin: 0;
+    color: #666;
+    font-size: 0.9rem;
+    font-style: italic;
+}
+
+/* Transliteration Text Display */
+.transliteration-text {
+    background: white;
+    padding: 15px;
+    border-radius: 6px;
+    margin-bottom: 15px;
+    border-left: 4px solid #4caf50;
+    line-height: 1.9;
+    color: #333;
+    font-size: 1rem;
+    word-wrap: break-word;
+}
+
+/* Word-by-Word Transliteration */
+.transliteration-words {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    padding: 15px;
+    background: white;
+    border-radius: 6px;
+    align-content: flex-start;
+}
+
+.transliteration-word {
+    display: inline-block;
+    padding: 6px 10px;
+    background: #f0f0f0;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    font-size: 0.95rem;
+    user-select: none;
+    border: 1px solid transparent;
+}
+
+.transliteration-word:hover {
+    background: #e0e0e0;
+    border-color: #4caf50;
+    transform: translateY(-2px);
+    box-shadow: 0 2px 6px rgba(76, 175, 80, 0.2);
+}
+
+/* Highlighted Word */
+.transliteration-word.highlighted {
+    background: linear-gradient(135deg, #4caf50 0%, #45a049 100%);
+    color: white;
+    font-weight: 600;
+    box-shadow: 0 4px 12px rgba(76, 175, 80, 0.4);
+    transform: scale(1.1);
+    animation: pulse-highlight 0.4s ease-in-out;
+}
+
+/* Search Highlight */
+.transliteration-word.search-highlight {
+    background: #fff3cd;
+    border-color: #ffc107;
+    color: #333;
+}
+
+/* Animation for highlighted word */
+@keyframes pulse-highlight {
+    0% {
+        transform: scale(1);
+        box-shadow: 0 2px 6px rgba(76, 175, 80, 0.2);
+    }
+    50% {
+        transform: scale(1.15);
+        box-shadow: 0 6px 16px rgba(76, 175, 80, 0.5);
+    }
+    100% {
+        transform: scale(1.1);
+        box-shadow: 0 4px 12px rgba(76, 175, 80, 0.4);
+    }
+}
+
+/* Custom Scrollbar */
+.hadith-transliteration-container::-webkit-scrollbar {
+    width: 8px;
+}
+
+.hadith-transliteration-container::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 4px;
+}
+
+.hadith-transliteration-container::-webkit-scrollbar-thumb {
+    background: #4caf50;
+    border-radius: 4px;
+}
+
+.hadith-transliteration-container::-webkit-scrollbar-thumb:hover {
+    background: #45a049;
+}
+
+/* Dark Mode Support */
+@media (prefers-color-scheme: dark) {
+    .hadith-transliteration-container {
+        background: #2a2a2a;
+        color: #e0e0e0;
+    }
+    
+    .transliteration-header h3 {
+        color: #e0e0e0;
+    }
+    
+    .transliteration-meta {
+        color: #b0b0b0;
+    }
+    
+    .transliteration-text {
+        background: #333;
+        color: #e0e0e0;
+        border-left-color: #66bb6a;
+    }
+    
+    .transliteration-words {
+        background: #333;
+    }
+    
+    .transliteration-word {
+        background: #444;
+        color: #e0e0e0;
+    }
+    
+    .transliteration-word:hover {
+        background: #555;
+        border-color: #66bb6a;
+    }
+    
+    .transliteration-word.search-highlight {
+        background: #664d00;
+        color: #ffe082;
+    }
+}
+
+/* Reduced Motion Support */
+@media (prefers-reduced-motion: reduce) {
+    .transliteration-word,
+    .transliteration-word.highlighted {
+        animation: none;
+        transition: none;
+    }
+}
+
+/* Tablet Responsive (768px and below) */
+@media (max-width: 768px) {
+    .hadith-transliteration-container {
+        padding: 15px;
+        max-height: 400px;
+    }
+    
+    .transliteration-text {
+        font-size: 0.95rem;
+        padding: 12px;
+    }
+    
+    .transliteration-words {
+        gap: 6px;
+        padding: 12px;
+    }
+    
+    .transliteration-word {
+        padding: 5px 8px;
+        font-size: 0.9rem;
+    }
+    
+    .transliteration-header h3 {
+        font-size: 1.1rem;
+    }
+}
+
+/* Mobile Responsive (480px and below) */
+@media (max-width: 480px) {
+    .hadith-transliteration-container {
+        padding: 12px;
+        max-height: 350px;
+        margin-top: 15px;
+    }
+    
+    .transliteration-header {
+        margin-bottom: 15px;
+    }
+    
+    .transliteration-header h3 {
+        font-size: 1rem;
+        margin-bottom: 3px;
+    }
+    
+    .transliteration-meta {
+        font-size: 0.85rem;
+    }
+    
+    .transliteration-text {
+        font-size: 0.9rem;
+        padding: 10px;
+        margin-bottom: 12px;
+        line-height: 1.7;
+    }
+    
+    .transliteration-words {
+        gap: 4px;
+        padding: 10px;
+    }
+    
+    .transliteration-word {
+        padding: 4px 6px;
+        font-size: 0.85rem;
+    }
+    
+    .transliteration-word.highlighted {
+        transform: scale(1.05);
+    }
+}
+
+/* Accessibility - Focus States */
+.transliteration-word:focus {
+    outline: 2px solid #4caf50;
+    outline-offset: 2px;
+}
+
+.transliteration-word:focus-visible {
+    outline: 2px solid #4caf50;
+    outline-offset: 2px;
+}

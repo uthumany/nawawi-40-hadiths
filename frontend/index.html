@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nawawi's 40 Hadiths Player</title>
+    <link rel="stylesheet" href="assets/hadith-player-enhanced.css">
+    <link rel="stylesheet" href="assets/hadith-player-transliteration.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .player-container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #4caf50;
+        }
+        .controls {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        .controls button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            background-color: #4caf50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+        .controls button:hover {
+            background-color: #45a049;
+        }
+        #hadith-text-container {
+            margin-bottom: 20px;
+            border: 1px solid #ddd;
+            padding: 15px;
+            border-radius: 5px;
+            min-height: 150px;
+            overflow-y: auto;
+        }
+        #transliteration-container {
+            margin-top: 20px;
+            border: 1px solid #ddd;
+            padding: 15px;
+            border-radius: 5px;
+            min-height: 150px;
+            overflow-y: auto;
+        }
+        .hadith-word {
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="player-container">
+        <h1>Nawawi's 40 Hadiths Player</h1>
+
+        <div class="controls">
+            <button id="playPauseBtn">Play / Pause</button>
+            <select id="hadithSelector">
+                <!-- Options will be populated by JavaScript -->
+            </select>
+            <select id="languageSelector">
+                <option value="ar">Arabic</option>
+                <option value="en">English</option>
+            </select>
+        </div>
+
+        <h2>Hadith Text</h2>
+        <div id="hadith-text-container"></div>
+
+        <h2>Arabic Transliteration</h2>
+        <div id="transliteration-container"></div>
+    </div>
+
+    <script src="assets/hadith-player-enhanced.js"></script>
+    <script src="assets/hadith-player-transliteration.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            const hadithTextContainer = document.getElementById("hadith-text-container");
+            const transliterationContainer = document.getElementById("transliteration-container");
+            const playPauseBtn = document.getElementById("playPauseBtn");
+            const hadithSelector = document.getElementById("hadithSelector");
+            const languageSelector = document.getElementById("languageSelector");
+
+            const player = new HadithPlayerWithTransliteration(
+                "hadith-text-container", 
+                "transliteration-container", 
+                { 
+                    language: "ar", 
+                    apiBaseUrl: "/"
+                }
+            );
+
+            // Populate Hadith Selector
+            for (let i = 1; i <= 42; i++) {
+                const option = document.createElement("option");
+                option.value = i;
+                option.textContent = `Hadith ${i}`;
+                hadithSelector.appendChild(option);
+            }
+
+            let currentHadithNumber = 1;
+            let currentLanguage = "ar";
+
+            const loadSelectedHadith = async () => {
+                try {
+                    await player.loadHadith(currentHadithNumber, currentLanguage);
+                    console.log(`Loaded Hadith ${currentHadithNumber} in ${currentLanguage}`);
+                    playPauseBtn.textContent = "Play";
+                } catch (error) {
+                    console.error("Error loading hadith:", error);
+                    hadithTextContainer.innerHTML = `<p style="color: red;">Error loading Hadith ${currentHadithNumber}. Please check console for details.</p>`;
+                    transliterationContainer.innerHTML = "";
+                }
+            };
+
+            hadithSelector.addEventListener("change", (event) => {
+                currentHadithNumber = parseInt(event.target.value);
+                loadSelectedHadith();
+            });
+
+            languageSelector.addEventListener("change", (event) => {
+                currentLanguage = event.target.value;
+                loadSelectedHadith();
+            });
+
+            playPauseBtn.addEventListener("click", () => {
+                if (player.isPlaying) {
+                    player.pause();
+                    playPauseBtn.textContent = "Play";
+                } else {
+                    player.play();
+                    playPauseBtn.textContent = "Pause";
+                }
+            });
+
+            // Initial load
+            loadSelectedHadith();
+        });
+    </script>
+</body>
+</html>

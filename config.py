@@ -76,6 +76,11 @@ class Config:
         return f"{cls.API_BASE_URL}/{sync_dir}/hadith_{hadith_number}.json"
     
     @classmethod
+    def get_transliteration_url(cls) -> str:
+        """Get the URL for the complete transliteration dataset."""
+        return f"{cls.API_BASE_URL}/transliterations.json"
+    
+    @classmethod
     def get_config_dict(cls) -> Dict:
         """Get configuration as a dictionary."""
         return {
@@ -102,6 +107,8 @@ class Config:
             "english_audio": "/hadiths/{number}/audio/english",
             "english_sync": "/hadiths/{number}/sync/english",
             "arabic_sync": "/hadiths/{number}/sync/arabic",
+            "transliterations": "/transliterations",
+            "transliteration_single": "/transliterations/{number}",
             "audio_file": "/audio/english/{hadith_number}"
         }
 

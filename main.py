@@ -5,6 +5,7 @@ import json
 import os
 from config import get_config
 from audio_endpoints import router as audio_router
+from sync_transliteration_endpoints import router as sync_trans_router
 
 # Get configuration
 config = get_config()
@@ -35,6 +36,18 @@ def load_sync_data(hadith_number: int, language: str = "ar"):
         with open(sync_path, "r", encoding="utf-8") as f:
             return json.load(f)
     return None
+
+def load_transliterations():
+    """Load all transliterations."""
+    trans_path = os.path.join(
+        os.path.dirname(__file__), 
+        "api", 
+        "transliterations.json"
+    )
+    if os.path.exists(trans_path):
+        with open(trans_path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return []
 
 @app.get("/")
 async def root():
@@ -168,6 +181,39 @@ async def get_hadith_full(number: int):
 
 # Include audio endpoints
 app.include_router(audio_router)
+
+# Include sync-transliteration endpoints
+app.include_router(sync_trans_router)
+
+@app.get("/transliterations")
+async def get_transliterations():
+    """Get all hadiths with Arabic transliterations."""
+    transliterations = load_transliterations()
+    if not transliterations:
+        raise HTTPException(
+            status_code=404, 
+            detail="Transliterations not found"
+        )
+    return {
+        "total_hadiths": len(transliterations),
+        "hadiths": transliterations,
+        "transliteration_url": config.get_transliteration_url()
+    }
+
+@app.get("/transliterations/{number}")
+async def get_transliteration(number: int):
+    """Get transliteration for a specific hadith."""
+    if number < 1 or number > config.TOTAL_HADITHS:
+        raise HTTPException(
+            status_code=400, 
+            detail=f"Hadith number must be between 1 and {config.TOTAL_HADITHS}"
+        )
+    
+    transliterations = load_transliterations()
+    for trans in transliterations:
+        if trans["hadith_number"] == number:
+            return trans
+    raise HTTPException(status_code=404, detail="Transliteration not found")
 
 @app.get("/health")
 async def health_check():
