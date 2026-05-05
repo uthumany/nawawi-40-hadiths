@@ -49,6 +49,18 @@ def load_transliterations():
             return json.load(f)
     return []
 
+def load_hadith_covers():
+    """Load all hadith cover images."""
+    covers_path = os.path.join(
+        os.path.dirname(__file__), 
+        "api", 
+        "hadith_covers.json"
+    )
+    if os.path.exists(covers_path):
+        with open(covers_path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return None
+
 @app.get("/")
 async def root():
     """Root endpoint with API information and available endpoints."""
@@ -214,6 +226,20 @@ async def get_transliteration(number: int):
         if trans["hadith_number"] == number:
             return trans
     raise HTTPException(status_code=404, detail="Transliteration not found")
+
+@app.get("/hadiths/covers")
+async def get_hadith_covers():
+    """Get all hadith cover images with metadata."""
+    covers = load_hadith_covers()
+    if not covers:
+        raise HTTPException(
+            status_code=404, 
+            detail="Hadith covers not found"
+        )
+    return {
+        **covers,
+        "covers_json_url": config.COVERS_JSON_URL
+    }
 
 @app.get("/health")
 async def health_check():

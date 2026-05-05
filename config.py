@@ -34,6 +34,12 @@ class Config:
     TOTAL_HADITHS = 42
     SUPPORTED_LANGUAGES = ["ar", "en"]
     
+    # Cover images configuration
+    COVERS_JSON_URL = os.getenv(
+        "COVERS_JSON_URL",
+        "https://uthumany.github.io/nawawi-40-hadiths/api/hadith_covers.json"
+    )
+    
     # Audio configuration
     AUDIO_FORMAT = "mp3"
     AUDIO_LANGUAGES = {
@@ -109,7 +115,8 @@ class Config:
             "arabic_sync": "/hadiths/{number}/sync/arabic",
             "transliterations": "/transliterations",
             "transliteration_single": "/transliterations/{number}",
-            "audio_file": "/audio/english/{hadith_number}"
+            "audio_file": "/audio/english/{hadith_number}",
+            "hadith_covers": "/hadiths/covers"
         }
 
 
