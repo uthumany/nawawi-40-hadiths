@@ -10,6 +10,7 @@ A complete JSON API for Imam al-Nawawi's Forty Hadiths, including Arabic text, E
 - **Sync Data (Arabic)**: `https://uthumany.github.io/nawawi-40-hadiths/api/sync`
 - **Sync Data (English)**: `https://uthumany.github.io/nawawi-40-hadiths/api/sync_en`
 - **Transliteration Data**: `https://uthumany.github.io/nawawi-40-hadiths/api/transliterations.json`
+- **Hadith Covers Data**: `https://uthumany.github.io/nawawi-40-hadiths/api/hadith_covers.json`
 
 ### Endpoints
 - **All Hadiths (Arabic Focus)**: [hadiths.json](https://uthumany.github.io/nawawi-40-hadiths/api/hadiths.json)
@@ -24,6 +25,7 @@ A complete JSON API for Imam al-Nawawi's Forty Hadiths, including Arabic text, E
 - **Enhanced Sync with Transliteration (English)**: `/sync-transliteration/hadith/{hadith_number}/english`
 - **Enhanced Sync with Transliteration (Arabic)**: `/sync-transliteration/hadith/{hadith_number}/arabic`
 - **Enhanced Sync with Transliteration (Both)**: `/sync-transliteration/hadith/{hadith_number}/both`
+- **Hadith Cover Images**: `/hadiths/covers` or [hadith_covers.json](https://uthumany.github.io/nawawi-40-hadiths/api/hadith_covers.json)
 
 ## Features
 
@@ -133,6 +135,17 @@ player.loadHadith(1, \'ar\')
     { "word": "From", "start": 0.5, "end": 0.8 },
     ...
   ]
+}
+```
+
+### Hadith Cover Object
+```json
+{
+  "hadith_number": 1,
+  "title": "Actions Are By Intention",
+  "narrator": "ʿUmar bin al-Khaṭṭāb",
+  "source": "al-Bukhārī, Muslim",
+  "book_cover_url": "https://..."
 }
 ```
 
